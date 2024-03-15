@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 새로운 구독자 환영하기
 
 * 목표 - 사용자가 자동 이메일의 기능을 이해하고 효과를 느끼도록 하기 위해 쉽고 빠르게 해볼 수 있는 ‘웰컴 이메일’을 시작할 수 있도록 하는 것
