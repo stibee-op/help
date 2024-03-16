@@ -536,7 +536,7 @@ Content-Type: application/json
 
 ## _AP_I 요청 및 응답 예제
 
-#### 구독자 추가 API 요청 및 응답 예제제
+#### 구독자 추가 API 요청 및 응답 예제
 
 “[gildong.go@stibee.com](mailto:gildong.go@stibee.com)”, “[dooly@stibee.com](mailto:dooly@stibee.com)”을 구독 확인 과정 없이 추가할 경우, 다음과 같이 요청합니다.
 
