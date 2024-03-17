@@ -30,7 +30,7 @@ layout:
 
 웹훅을 사용하려면 우선 스티비에서 웹훅을 만들어야 합니다. 웹훅은 주소록 단위로 관리되기 때문에 웹훅의 생성과 관리는 모두 **웹훅을 사용할 주소록**에서 이루어집니다. **새로 만들기**를 클릭하면 웹훅을 만들 수 있습니다.
 
-![](https://help.stibee.com/hc/article\_attachments/4756539369615)
+<figure><img src="https://help.stibee.com/hc/article_attachments/4756539369615" alt=""><figcaption></figcaption></figure>
 
 웹훅을 만들기 위해 다음의 정보를 입력합니다.
 
@@ -38,11 +38,13 @@ layout:
 * URL: 이벤트 알림을 받을 URL을 입력합니다.
 * 알림을 받을 이벤트: 알림을 받을 이벤트를 선택합니다. 복수 선택이 가능합니다.
 
-![](https://help.stibee.com/hc/article\_attachments/4756539403663)&#x20;
+&#x20;
+
+<figure><img src="https://help.stibee.com/hc/article_attachments/4756539403663" alt=""><figcaption></figcaption></figure>
 
 **주소록** **웹훅**에서 생성된 웹훅을 확인하고, 웹훅을 활성화, 비활성화, 수정, 삭제할 수 있습니다.
 
-![](https://help.stibee.com/hc/article\_attachments/4756530846863)
+<figure><img src="https://help.stibee.com/hc/article_attachments/4756530846863" alt=""><figcaption></figcaption></figure>
 
 웹훅에는 별도의 인증 과정이 없기 때문에, 인증이 필요한 경우 스티비의 웹훅 서버의 IP 주소로 인증 처리를 해야 합니다. 스티비의 웹훅 서버의 IP 주소는 다음과 같습니다.
 

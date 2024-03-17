@@ -536,7 +536,7 @@ Content-Type: application/json
 
 ## _AP_I 요청 및 응답 예제
 
-#### 구독자 추가 API 요청 및 응답 예제
+### 구독자 추가 API 요청 및 응답 예제
 
 “[gildong.go@stibee.com](mailto:gildong.go@stibee.com)”, “[dooly@stibee.com](mailto:dooly@stibee.com)”을 구독 확인 과정 없이 추가할 경우, 다음과 같이 요청합니다.
 
@@ -633,7 +633,7 @@ POST https://api.stibee.com/v1/lists/{listId}/subscribers
 
 
 
-#### 주소록 목록 조회 응답 예제
+### 주소록 목록 조회 응답 예제
 
 주소록 목록 조회 요청의 응답 예시는 아래와 같습니다.
 
@@ -661,7 +661,7 @@ Content-Type: application/json
 
 
 
-#### 그룹 목록 조회 응답 예제
+### 그룹 목록 조회 응답 예제
 
 그룹 목록 조회 요청의 응답 예시는 아래와 같습니다.
 
@@ -689,7 +689,7 @@ Content-Type: application/json
 
 
 
-#### 구독자 숫자 조회 요청 및 응답 예제
+### 구독자 숫자 조회 요청 및 응답 예제
 
 주소록의 고유한 ID 값이 1234인 주소록에 2024년 3월 한달 동안 구독 중 상태로 추가된 구독자 숫자를 조회하기 위해 아래와 같이 조회했을 때 요청 값과 응답  성공 예제는 아래와 같습니다.
 
@@ -709,7 +709,7 @@ Content-Type: application/json
 
 
 
-#### 구독자 목록 조회 요청 및 응답 예제
+### 구독자 목록 조회 요청 및 응답 예제
 
 전체  구독자가  1,000명이 등록된 고유한 ID 값이 1234인 주소록에 2024년 3월 1일부터 2일까지 새로 추가된 구독자 목록을 조회하고 싶은 경우의 요청 값과 응답 성공 예제는 아래와 같습니다.
 
