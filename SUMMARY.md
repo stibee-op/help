@@ -125,8 +125,15 @@
 ## 사용자 및 워크스페이스 <a href="#user-workspace" id="user-workspace"></a>
 
 * [개요](user-workspace/undefined.md)
-* [내 정보 설정하기](user-workspace/undefined-1.md)
-* [워크스페이스 설정하기](user-workspace/undefined-2.md)
+* [내 정보 설정하기](user-workspace/undefined-1/README.md)
+  * [비밀번호 변경하기](user-workspace/undefined-1/undefined.md)
+  * [로그인용 이메일 주소 변경하기](user-workspace/undefined-1/undefined-1.md)
+  * [로그인 시 2단계 인증을 해제하고 싶어요](user-workspace/undefined-1/2.md)
+  * [탈퇴하기](user-workspace/undefined-1/undefined-2.md)
+* [워크스페이스 설정하기](user-workspace/undefined-2/README.md)
+  * [워크스페이스 이해하기](user-workspace/undefined-2/undefined.md)
+  * [워크스페이스 만들기](user-workspace/undefined-2/undefined-1.md)
+  * [워크스페이스에 사용자 권한 설정하기](user-workspace/undefined-2/undefined-2.md)
 * [자주 묻는 질문](user-workspace/undefined-3.md)
 
 ## 요금제와 결제 <a href="#payment" id="payment"></a>
@@ -138,8 +145,8 @@
 * [결제하기](payment/undefined-2.md)
   * [요금제 결제하기](payment/undefined-2/undefined.md)
   * [구독자 수 구간 변경하기](payment/undefined-2/undefined-1.md)
-* [요금제 연장하기](payment/undefined-3.md)
-* [결제 주기 변경하기](payment/undefined-4.md)
+* [요금제 연장하기](payment/undefined-3/README.md)
+* [결제 주기 변경하기](payment/undefined-4/README.md)
 * [결제 정보 확인, 수정하기](payment/undefined-5/README.md)
   * [결제 정보 수정하기](payment/undefined-5/undefined.md)
   * [영수증 확인하기](payment/undefined-5/undefined-1.md)

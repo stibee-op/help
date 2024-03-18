@@ -1,6 +1,18 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 결제하기
-
-
 
 * [요금제 결제하기](https://help.stibee.com/hc/ko/articles/4756465544847-%EC%9A%94%EA%B8%88%EC%A0%9C-%EA%B2%B0%EC%A0%9C%ED%95%98%EA%B8%B0)
 * 구독자 수 구간 변경하기(신규 추가) - 기존에 있던 도움말 2개를 하나의 카테고리로 정리
