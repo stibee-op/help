@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 유료 구독 시작하기
 
 * [유료 구독 주소록 만들기](https://help.stibee.com/hc/ko/articles/4756469156623-%EC%9C%A0%EB%A3%8C-%EA%B5%AC%EB%8F%85-%EC%A3%BC%EC%86%8C%EB%A1%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0)
