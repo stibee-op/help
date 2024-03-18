@@ -132,8 +132,11 @@
 ## 요금제와 결제 <a href="#payment" id="payment"></a>
 
 * [개요](payment/undefined.md)
-* [요금제 이해하기](payment/undefined-1.md)
-* [결제하기](payment/undefined-2.md)
+* [요금제 이해하기](payment/undefined-1/README.md)
+  * [요금제 이해하기](payment/undefined-1/undefined.md)
+  * [요금제 종류](payment/undefined-1/undefined-1.md)
+* [결제하기](payment/undefined-2/README.md)
+  * [요금제 결제하기](payment/undefined-2/undefined.md)
 * [요금제 연장하기](payment/undefined-3.md)
 * [결제 주기 변경하기](payment/undefined-4.md)
 * [결제 정보 확인, 수정하기](payment/undefined-5.md)
