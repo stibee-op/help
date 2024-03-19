@@ -37,7 +37,7 @@ layout:
 
 ### API 키 만들기
 
-&#x20;이메일 조회 API를 사용하려면 우선 스티비에서 API 키를 만들어야 합니다. API는 계정 단위로 관리되기 때문에 API 키의 생성과 관리는 모두 화면 오른쪽 위에 있는 \[워크스페이스 이름 → 워크스페이스 설 → API 키] 에서 이루어집니다.
+&#x20;이메일 조회 API를 사용하려면 우선 스티비에서 API 키를 만들어야 합니다. API는 계정 단위로 관리되기 때문에 API 키의 생성과 관리는 모두 화면 오른쪽 위에 있는 \[워크스페이스 이름 → 워크스페이스 설정 → API 키] 에서 이루어집니다.
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/7000529224079" alt=""><figcaption></figcaption></figure>
 
@@ -68,6 +68,8 @@ API 요청 및 응답은 JSON 형식을 따릅니다. 예를 들어, 워크스�
 * **HTTP Methods:** GET
 * **Endpoint URL:** https://api.stibee.com/v1/emails
 
+
+
 #### Request Body
 
 이메일 목록 조회 요청의 응답은 아래 포맷을 가집니다.
@@ -77,18 +79,29 @@ API 요청 및 응답은 JSON 형식을 따릅니다. 예를 들어, 워크스�
 Content-Type: application/json
 
 {
-  "Ok": true,
-  "Error": null,
-  "Value": [{
-      "id": string,
-      "status": string,
-      "listId": string,
-      "type": string,
-      "subType": string,
-      "subject": "string",
-      "permanentLink": "string",
-      "sentTime": "YYYY-MM-DDThh:mm:ss+09:00",
-      "createdTime": "YYYY-MM-DDThh:mm:ss+09:00"
+    "Ok": true,
+    "Error": null,
+    "Value": [
+        {
+            "id": 0,
+            "status": 0,
+            "listId": 0,
+            "type": 0,
+            "subType": 0,
+            "subject": "string",
+            "permanentLink": "string",
+            "permanentLinkSecondary": "string",
+            "archiveContentType": 0,
+            "sentTime": "YYYY-MM-DDThh:mm:ss+09:00",
+            "createdTime": "YYYY-MM-DDThh:mm:ss+09:00",
+            "tags": [
+                {
+                    "id": 0,
+                    "name": "string"
+                }
+            ]
+        }
+    ]
 }
 ```
 
@@ -108,16 +121,21 @@ Content-Type: application/json
 * **listId**: 이메일을 발송한 주소록에 주소록 별로 부여되는 고유한 아이디(id) 값 입니다.
 * **type**: 이메일의 종류를 의미합니다.
   * 1: 일반이메일
-  * 2: AB테스트 이메일
+  * 2: [A/B테스트](../email/a-b.md) 이메일
   * 3: 자동 이메일
 * **subtype**: type이 2일때 유효한 필드입니다.&#x20;
-  * 1: 제목 기준 AB테스트
-  * 2: 발신자 기준 AB테스트
-  * 3: 스케쥴 기준 AB테스트
-  * 4: 콘텐츠 기준 AB테스트
+  * 1: 제목 기준 A/B테스트
+  * 2: 발신자 기준 A/B테스트
+  * 3: 스케쥴 기준 A/B테스트
+  * 4: 콘텐츠 기준 A/B테스트
 * **permanentLink**: 이메일의 공유용 URL 입니다.
+* **permanentLinkSecondary**: type이 3이고 subType이 4인 경우에만 유효한 필드입니다. A/B 테스트 중인 B 이메일의 공유용 URL을 의미합니다.
+* **archiveContentType**: type이 3이고 subType이 4인 경우에만 유효한 필드입니다. A/B테스트 한 이메일 중 '콘텐츠 발행 설정'을 한 콘텐츠가 A안인지 B안 인지 표시합니다.
 * **sentTime**: 이메일을 발송한 일시입니다.&#x20;
 * **createdTime:** 이메일을 만든 일시입니다.
+* **tags**: 이메일에 설정한 [태그](../email/undefined-3/undefined-2.md) 정보를 의미합니다.
+  * &#x20;id: 태그에 부여되는 고유한 ID 값 입니다.
+  * name: 설정한 태그 이름입니다.
 
 이메일에 할당된 고유의 아이디(emailId)는 아래 방법으로 확인할 수 있습니다.
 
@@ -161,12 +179,12 @@ Content-Type: application/json
   "Ok": true,
   "Error": null,
   "Value": [{
-      "id": string,
+      "id": 0,
       "subscriber": "string",
       "action": "string",
       "value": "string",
       "createdTime": "YYYY-MM-DDThh:mm:dd+09:00"
-    },
+    }]
 }
 ```
 
@@ -185,10 +203,10 @@ Content-Type: application/json
   * B: 발송실패(하드바운스)
     * value: 실패 이유
   * O: 오픈
-    * value: 브라우저 정보
+    * value: 클릭이 발생한 클라이언트의 User-Agent 헤더 정보
   * C: 클릭
     * value: 클릭한 링크
-    * value2: 브라우저 정보
+    * value2: 클릭이 발생한 클라이언트의 User-Agent 헤더 정보
   * D: 수신거부
 * **createdTime**: 상세 통계가 기록된 날짜입니다.&#x20;
 
@@ -211,32 +229,60 @@ AccessToken: API key
 Content-Type: application/json
 
 {
-  "Ok": true,
-  "Error": null,
-  "Value": [{
-      "id": 3442,
-      "status": 3,
-      "listId": 1547,
-      "type": 1,
-      "subType": 0,
-      "subject": "이메일 A",
-      "permanentLink": "http://stib.ee/aaa",
-      "sentTime": "2022-01-25T12:22:36+09:00",
-      "createdTime": "2022-01-25T12:22:36+09:00"
-    },
-    {
-      "id": 3443,
-      "status": 3,
-      "listId": 1547,
-      "type": 1,
-      "subType": 0,
-      "subject": "이메일 B",
-      "permanentLink": "http://stib.ee/bbb",
-      "sentTime": "2022-01-25T12:22:36+09:00",
-      "createdTime": "2022-01-25T12:27:28+09:00"
-    }
-  ]
+    "Ok": true,
+    "Error": null,
+    "Value": [
+        {
+            "id": 1962151,
+            "status": 3,
+            "listId": 284039,
+            "type": 3,
+            "subType": 4,
+            "subject": "스티비 이메일 에디터를 체험해보세요",
+            "permanentLink": "https://stib.ee/A0dA",
+            "permanentLinkSecondary": "https://stib.ee/B0dA",
+            "archiveContentType": "",
+            "sentTime": "2024-01-12T10:47:59+09:00",
+            "createdTime": "2024-01-12T10:47:00+09:00",
+            "tags": null
+        },
+        {
+            "id": 1963356,
+            "status": 3,
+            "listId": 284039,
+            "type": 1,
+            "subType": 0,
+            "subject": "fnsthnsgnsnsrgnsrnsr",
+            "permanentLink": "https://stib.ee/BddA",
+            "permanentLinkSecondary": "https://stib.ee/CddA",
+            "archiveContentType": "",
+            "sentTime": "2024-01-12T18:11:38+09:00",
+            "createdTime": "2024-01-12T18:11:31+09:00",
+            "tags": null
+        },
+        {
+            "id": 1966392,
+            "status": 3,
+            "listId": 301309,
+            "type": 1,
+            "subType": 0,
+            "subject": "aha",
+            "permanentLink": "https://stib.ee/5EfA",
+            "permanentLinkSecondary": "https://stib.ee/6EfA",
+            "archiveContentType": "",
+            "sentTime": "2024-01-15T17:34:15+09:00",
+            "createdTime": "2024-01-15T17:33:23+09:00",
+            "tags": [
+                {
+                    "id": 17389,
+                    "name": "sadfsadf"
+                }
+            ]
+        }
+    ]
 }
+
+
 
 ```
 

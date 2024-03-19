@@ -20,6 +20,8 @@ layout:
 
 주소록 API를 사용해 스티비 주소록과 가지고 있는 DB를 연동하는 방법에 대한 기술적인 방법을 알아봅니다.&#x20;
 
+
+
 ## 들어가기 전에 <a href="#h_01h9t7rjkw4a3mg81jvvh8g56g" id="h_01h9t7rjkw4a3mg81jvvh8g56g"></a>
 
 주소록 API에 대한 요청 및 응답 방법은 [스티비 API 문서](https://api.stibee.com/docs)에서 확인하고 테스트해볼 수 있습니다.
@@ -93,7 +95,7 @@ listId(주소록에 할당된 고유의 아이디)는 아래 방법으로 확인
 
 #### **Request Body**
 
-* **eventOccuredBy**: 구독자를 추가한 방법을 구분합니다.\
+* **eventOccurredBy**: 구독자를 추가한 방법을 구분합니다.\
   \- "MANUAL": 관리자에 의해 추가한 것으로 기록합니다. (기본값)\
   \- "SUBSCRIBER": 구독자가 직접 구독한 것으로 기록합니다.
 * **confirmEmailYN**: 구독 확인 이메일 발송 여부를 구분합니다.\
@@ -108,10 +110,10 @@ listId(주소록에 할당된 고유의 아이디)는 아래 방법으로 확인
   * "N": 광고성 정보 수신 여부를 '동의하지 않음'(빈 값)으로 추가합니다.
   * "$ad\_agreed" 필드를 사용하지 않거나 잘못된 값이 입력된 경우 ‘동의하지 않음’(빈 값)으로 추가합니다. 이때 이미 등록된 구독자의 광고성 정보 수신 동의 여부는 업데이트하지 않습니다.
 
-추가 요청한 구독자가 주소록에 이미 존재하는 이메일 주소인 경우, eventOccuredBy 값과 구독자의 구독 상태에 따라 아래와 같이 처리됩니다.
+추가 요청한 구독자가 주소록에 이미 존재하는 이메일 주소인 경우, eventOccurredBy 값과 구독자의 구독 상태에 따라 아래와 같이 처리됩니다.
 
-* **eventOccuredBy가 MANUAL일 때**: 이메일 주소, 이름 등의 구독자 정보를 업데이트합니다. 이 때 구독자의 구독 상태(예. 구독 중, 수신거부)는 변경되지 않습니다.
-* **eventOccuredBy가 SUBSCRIBER일 때**: 구독자의 구독 상태에 따라 다르게 처리됩니다.\
+* **eventOccurredBy가 MANUAL일 때**: 이메일 주소, 이름 등의 구독자 정보를 업데이트합니다. 이 때 구독자의 구독 상태(예. 구독 중, 수신거부)는 변경되지 않습니다.
+* **eventOccurredBy가 SUBSCRIBER일 때**: 구독자의 구독 상태에 따라 다르게 처리됩니다.\
   \- **구독 중 상태일 때**: 구독자 정보를 업데이트하지 않습니다. 기존 정보가 그대로 유지됩니다.\
   \- **수신거부 또는 자동삭제 상태일 때**: 구독자의 구독 상태를 구독 중으로 변경하고 이메일 주소, 이름 등의 구독자 정보를 업데이트합니다.
 
@@ -293,16 +295,32 @@ _API 요청은 1초당 10회, 1회당 256KB로 제한되어 있습니다._
 
 주소록 조회 요청의 응답은 다음 포맷을 가집니다.
 
+#### 조회할 주소록이 없는 경우
+
 ```json
 200 OK
 
 {
   "Ok": true,
-  "Error": {
-    "Code": "string",
-    "Message": "string"
-  },
-  "Value": {} //API 요청에 따라 다른 응답
+  "Error": null,
+  "Value": null
+}
+```
+
+#### **주소록 목록을 불러온 경우**
+
+```json
+200 OK
+{
+  "Ok": true,
+  "Error": null,
+  "Value": [
+	{
+	  "id": 0,
+	  "name": "string",
+	  "createdTime": "YYYY-MM-DDThh:mm:ss+09:00"
+	}
+  ]
 }
 ```
 
@@ -349,16 +367,38 @@ _API 요청은 1초당 10회, 1회당 256KB로 제한되어 있습니다._
 
 그룹 조회 요청의 응답은 다음 포맷을 가집니다.
 
+#### 조회할  그룹이 없는 경우
+
 ```json
 200 OK
 
 {
   "Ok": true,
-  "Error": {
-    "Code": "string",
-    "Message": "string"
-  },
-  "Value": {} //API 요청에 따라 다른 응답
+  "Error": null,
+  "Value": null
+}
+
+```
+
+#### 그룹 목록을 불러온 경우
+
+```json
+200 OK
+{
+  "Ok": true,
+  "Error": null,
+  "Value": [
+             {
+		"id": 0,
+		"name": "string",
+		"createdTime": "YYYY-MM-DDThh:mm:ss+09:00"
+	      },
+	      {
+                 "id": 0,
+                 "name": "string",
+	        "createdTime": "YYYY-MM-DDThh:mm:ss+09:00"
+		}
+           ]
 }
 ```
 
@@ -420,7 +460,7 @@ Content-Type: application/json
 
 {
   "Ok": true,
-  "Value": "string"
+  "Value": 0
 }
 ```
 
@@ -437,11 +477,11 @@ Content-Type: application/json
 
 {
   "Ok": false,
-	  "Error": {
-      "Code": "ERR-XXXX",
-      "HttpStatusCode": 400,
-      "Message": "Error Message",
-     }
+  "Error": {
+    "Code": "ERR-XXXX",
+    "HttpStatusCode": 400,
+    "Message": "Error Message",
+  }
 }
 ```
 
@@ -489,15 +529,17 @@ offset과 limit를 설정해 한번에 조회할 구독자의 목록을 설정�
 ```json
 200 OK
 Content-Type: application/json
-
 {
   "Ok": true,
-  "Value": {
-    "created_time":"YYYY-MM-DD hh:mm:dd +0900 KST",
-    "email":string,
-    "modified_time":"YYYY-MM-DD hh:mm:dd +0900 KST",
-    "status":string
-  }
+  "Value": [
+  	    {
+              "created_time":"YYYY-MM-DD hh:mm:dd +0900 KST",
+              "email":"string",
+              "modified_time":"YYYY-MM-DD hh:mm:dd +0900 KST",
+              "status": "string",
+              "stb_ad_agreement": false
+	     }
+	    ]
 }
 ```
 
@@ -518,12 +560,13 @@ Content-Type: application/json
 
 {
   "Ok": false,
-	  "Error": {
-      "Code": "ERR-XXXX",
-      "HttpStatusCode": 400,
-      "Message": "Error Message",
-     }
+  "Error": {
+    "Code": "ERR-XXXX",
+    "HttpStatusCode": 400,
+    "Message": "Error Message",
+  }
 }
+
 ```
 
 * **Ok**: 요청에 대한 성공/실패 유무를 의미합니다. (false: 실패)
@@ -544,7 +587,7 @@ Content-Type: application/json
 POST https://api.stibee.com/v1/lists/{listId}/subscribers
 [
     {
-        "eventOccuredBy": "SUBSCRIBER",
+        "eventOccurredBy": "SUBSCRIBER",
         "confirmEmailYN": "N",
         "groupIds": [
          "{groupId}"
@@ -593,13 +636,13 @@ POST https://api.stibee.com/v1/lists/{listId}/subscribers
 
 &#x20;
 
-이미 추가된 "[dooly@stibee.com](mailto:dooly@stibee.com)"의 정보를 변경하려면, "eventOccuredBy"를 "MANUAL"로 설정하여, 다음과 같이 요청합니다.
+이미 추가된 "[dooly@stibee.com](mailto:dooly@stibee.com)"의 정보를 변경하려면, "eventOccurredBy"를 "MANUAL"로 설정하여, 다음과 같이 요청합니다.
 
 ```json
 POST https://api.stibee.com/v1/lists/{listId}/subscribers
 [
     {
-        "eventOccuredBy": "MANUAL",
+        "eventOccurredBy": "MANUAL",
         "confirmEmailYN": "N",
         "groupIds": [
          "{groupId}"
@@ -616,7 +659,7 @@ POST https://api.stibee.com/v1/lists/{listId}/subscribers
 
 &#x20;
 
-이미 추가된 '구독중' 상태인 구독자를 "eventOccuredBy"="SUBSCRIBER"로 설정하여 추가 요청하면 추가가 되지 않습니다. 이에 대한 응답은 다음과 같습니다.
+이미 추가된 '구독중' 상태인 구독자를 "eventOccurredBy"="SUBSCRIBER"로 설정하여 추가 요청하면 추가가 되지 않습니다. 이에 대한 응답은 다음과 같습니다.
 
 ```json
 {
