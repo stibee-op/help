@@ -1,0 +1,47 @@
+# 구독 상태 이해하기
+
+### 이 글에서는
+
+\[주소록]에 등록된 구독자의 구독 상태는 3가지로 구성됩니다. 각 상태에 따라 이메일이 발송되거나 발송되지 않을 수 있고 구독 상태에 따라 [요금제](https://help.stibee.com/hc/ko/articles/4756526887183) 계산을 위한 구독자 수도 달라집니다. 구독자의 구독 상태에 대해 알아봅니다.
+
+&#x20;
+
+### 목차
+
+[구독 상태](https://help.stibee.com/hc/ko/articles/5013280388623-%EA%B5%AC%EB%8F%85%EC%9E%90%EC%9D%98-%EA%B5%AC%EB%8F%85-%EC%83%81%ED%83%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0#h\_01GGEQWBJ3Z661MPG605K7JW7D)
+
+[구독 중](https://help.stibee.com/hc/ko/articles/5013280388623-%EA%B5%AC%EB%8F%85%EC%9E%90%EC%9D%98-%EA%B5%AC%EB%8F%85-%EC%83%81%ED%83%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0#h\_01GGEQWGFG8YGDWVVE14C9DJN1)
+
+[수신거부](https://help.stibee.com/hc/ko/articles/5013280388623-%EA%B5%AC%EB%8F%85%EC%9E%90%EC%9D%98-%EA%B5%AC%EB%8F%85-%EC%83%81%ED%83%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0#h\_01GGEQWQ6CXMV4H1M3D8ANVG8P)
+
+[자동삭제](https://help.stibee.com/hc/ko/articles/5013280388623-%EA%B5%AC%EB%8F%85%EC%9E%90%EC%9D%98-%EA%B5%AC%EB%8F%85-%EC%83%81%ED%83%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0#h\_01GGEQWWGE8XAJVGE9N58Y2K5C)
+
+&#x20;
+
+### 구독 상태 <a href="#h_01ggeqwbj3z661mpg605k7jw7d" id="h_01ggeqwbj3z661mpg605k7jw7d"></a>
+
+주소록에 등록된 구독자는 \[구독 중, 수신거부, 자동삭제] 3가지 상태로 분류될 수 있습니다. 이메일은 \[구독 중] 상태인 경우에만 발송되며 \[수신거부], \[자동삭제]인 구독자에게는 이메일이 발송되지 않습니다. 구독자의 구독 상태는 주소록 단위로 관리됩니다. \
+\
+예를 들어 A라는 사용자가 B,C라는 이름의 주소록을 두개 만들어서 운영하고 있고 [dooly@stibee.com](mailto:dooly@stibee.com%EC%9D%B4%EB%9D%BC%EB%8A%94)라는 구독자가 B,C 두개의 주소록에 모두 구독 중 상태로 등록되어 있는 상황을 가정해보겠습니다. 만약에 [dooly@stibee.com](mailto:dooly@stibee.com)구독자가 B 주소록에 발송된 이메일을 \[수신거부]한 경우에는 B 주소록에 등록된 dooly@stibee.com의 구독 상태만 '수신거부'로 변경됩니다. C 주소록의 구독 상태는 그대로 구독 중 상태로 남아있게 됩니다.\
+\
+구독 상태가 수신거부 또는 자동삭제인 경우에는 계정의 전체 [구독자 수 계산](https://help.stibee.com/hc/ko/articles/4756496849935)에서도 제외됩니다.
+
+#### &#x20;
+
+#### 구독 중 <a href="#h_01ggeqwgfg8ygdwvve14c9djn1" id="h_01ggeqwgfg8ygdwvve14c9djn1"></a>
+
+구독자가 이메일 수신이 가능한 상태를 말합니다. 일반적으로 처음 주소록에 구독자를 [추가](https://help.stibee.com/hc/ko/articles/5659537333775)하거나 \[[구독 폼](https://help.stibee.com/hc/ko/articles/4756470653199)]을 통해 구독 신청한 경우 기본적으로 '구독 중' 상태로 추가됩니다. 이메일을 발송하는 경우 '구독 중' 상태인 구독자에게만 이메일이 발송됩니다.
+
+&#x20;
+
+#### 수신거부 <a href="#h_01ggeqwq6cxmv4h1m3d8anvg8p" id="h_01ggeqwq6cxmv4h1m3d8anvg8p"></a>
+
+구독자가 이메일 수신을 거부한 상태를 말합니다. 이메일의 [수신거부 링크](https://help.stibee.com/hc/ko/articles/4756415150607)를 사용해 구독자가 수신을 거부했거나 관리자가 직접 구독자를 [수신거부 상태](https://help.stibee.com/hc/ko/articles/5673136659471-%EA%B5%AC%EB%8F%85%EC%9E%90-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0#h\_01GFAZ1NKY8DCANQFS164PZ3GK)로 만든 경우일 수 있습니다. 수신거부 상태의 구독자에게는 이메일이 발송되지 않습니다.&#x20;
+
+&#x20;
+
+#### **자동삭제** <a href="#h_01ggeqwwge8xajvge9n58y2k5c" id="h_01ggeqwwge8xajvge9n58y2k5c"></a>
+
+이메일을 발송했을 때 [하드바운스](https://help.stibee.com/hc/ko/articles/4756540870031)로 발송에 실패한 경우를 의미합니다. 이메일을 발송했지만 하드바운스로 발송에 실패해 영구적으로 이메일을 수신할 수 없는 상태로 판단된 경우에는 자동 삭제로 분류되며 앞으로 발송 대상에서도 제외됩니다.\
+\
+자동 삭제 기능을 사용하면 일반적으로 이메일을 발송할수록 발송 성과가 개선됩니다. 단, 원하는 경우에는 '주소록' 설정에서 '자동 삭제' 기능을 직접 비활성화 할 수 있습니다. '자동삭제' 기능을 비활성화 하는 방법에 대해서는 [여기](https://help.stibee.com/hc/ko/articles/5659543793551)를 참고해주세요.
