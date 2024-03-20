@@ -315,11 +315,11 @@ _API 요청은 1초당 10회, 1회당 256KB로 제한되어 있습니다._
   "Ok": true,
   "Error": null,
   "Value": [
-	{
-	  "id": 0,
-	  "name": "string",
-	  "createdTime": "YYYY-MM-DDThh:mm:ss+09:00"
-	}
+    {
+      "id": 0,
+      "name": "string",
+      "createdTime": "YYYY-MM-DDThh:mm:ss+09:00"
+    }
   ]
 }
 ```
@@ -388,17 +388,17 @@ _API 요청은 1초당 10회, 1회당 256KB로 제한되어 있습니다._
   "Ok": true,
   "Error": null,
   "Value": [
-             {
-		"id": 0,
-		"name": "string",
-		"createdTime": "YYYY-MM-DDThh:mm:ss+09:00"
-	      },
-	      {
-                 "id": 0,
-                 "name": "string",
-	        "createdTime": "YYYY-MM-DDThh:mm:ss+09:00"
-		}
-           ]
+    {
+      "id": 0,
+      "name": "string",
+      "createdTime": "YYYY-MM-DDThh:mm:ss+09:00"
+    },
+    {
+      "id": 0,
+      "name": "string",
+      "createdTime": "YYYY-MM-DDThh:mm:ss+09:00"
+    }
+  ]
 }
 ```
 
@@ -480,7 +480,7 @@ Content-Type: application/json
   "Error": {
     "Code": "ERR-XXXX",
     "HttpStatusCode": 400,
-    "Message": "Error Message",
+    "Message": "Error Message"
   }
 }
 ```
@@ -532,14 +532,14 @@ Content-Type: application/json
 {
   "Ok": true,
   "Value": [
-  	    {
-              "created_time":"YYYY-MM-DD hh:mm:dd +0900 KST",
-              "email":"string",
-              "modified_time":"YYYY-MM-DD hh:mm:dd +0900 KST",
-              "status": "string",
-              "stb_ad_agreement": false
-	     }
-	    ]
+    {
+      "created_time": "YYYY-MM-DD hh:mm:dd +0900 KST",
+      "email": "string",
+      "modified_time": "YYYY-MM-DD hh:mm:dd +0900 KST",
+      "status": "string",
+      "stb_ad_agreement": false
+    }
+  ]
 }
 ```
 
@@ -551,6 +551,7 @@ Content-Type: application/json
     * S: 구독 중
     * D: 수신거부
     * A: 자동삭제
+* **stb\_ad\_agreement**: 구독자의 광고성 정보 수신 동의 여부를 의미합니다. (true: 동의함, false: 동의 안 함)
 
 **응답 실패**
 
@@ -563,7 +564,7 @@ Content-Type: application/json
   "Error": {
     "Code": "ERR-XXXX",
     "HttpStatusCode": 400,
-    "Message": "Error Message",
+    "Message": "Error Message"
   }
 }
 
@@ -586,23 +587,23 @@ Content-Type: application/json
 ```json
 POST https://api.stibee.com/v1/lists/{listId}/subscribers
 [
-    {
-        "eventOccurredBy": "SUBSCRIBER",
-        "confirmEmailYN": "N",
-        "groupIds": [
-         "{groupId}"
-        ],
-        "subscribers": [
-            {
-                "email": "gildong.go@stibee.com",
-                "name": "고길동"
-            },
-            {
-                "email": "dooly@stibee.com",
-                "name": "둘리"
-            }
-        ]
-    }
+  {
+    "eventOccurredBy": "SUBSCRIBER",
+    "confirmEmailYN": "N",
+    "groupIds": [
+      "{groupId}"
+    ],
+    "subscribers": [
+      {
+        "email": "gildong.go@stibee.com",
+        "name": "고길동"
+      },
+      {
+        "email": "dooly@stibee.com",
+        "name": "둘리"
+      }
+    ]
+  }
 ]
 ```
 
@@ -612,25 +613,25 @@ POST https://api.stibee.com/v1/lists/{listId}/subscribers
 
 ```json
 {
-    "Ok": true,
-    "Error": null,
-    "Value": {
-        "failDeny": [
-                {
-                        "email": "gildong.go@stibee.com",
-                        "name": "고길동"
-                }
-        ],
-        "failUnknown": [],
-        "failWrongEmail": [],
-        "success": [
-                {
-                        "email": "dooly@stibee.com",
-                        "name": "둘리"
-                }
-        ],
-        "update": []
-    }
+  "Ok": true,
+  "Error": null,
+  "Value": {
+    "failDeny": [
+      {
+        "email": "gildong.go@stibee.com",
+        "name": "고길동"
+      }
+    ],
+    "failUnknown": [],
+    "failWrongEmail": [],
+    "success": [
+      {
+        "email": "dooly@stibee.com",
+        "name": "둘리"
+      }
+    ],
+    "update": []
+  }
 }
 ```
 
@@ -641,19 +642,19 @@ POST https://api.stibee.com/v1/lists/{listId}/subscribers
 ```json
 POST https://api.stibee.com/v1/lists/{listId}/subscribers
 [
-    {
-        "eventOccurredBy": "MANUAL",
-        "confirmEmailYN": "N",
-        "groupIds": [
-         "{groupId}"
-        ],
-        "subscribers": [
-            {
-                "email": "dooly@stibee.com",
-                "name": "둘리"
-            }
-        ]
-    }
+  {
+    "eventOccurredBy": "MANUAL",
+    "confirmEmailYN": "N",
+    "groupIds": [
+      "{groupId}"
+    ],
+    "subscribers": [
+      {
+        "email": "dooly@stibee.com",
+        "name": "둘리"
+      }
+    ]
+  }
 ]
 ```
 
@@ -663,14 +664,13 @@ POST https://api.stibee.com/v1/lists/{listId}/subscribers
 
 ```json
 {
-    "Ok": false,
-    "Error":
-        {
-            "Code": "LIST_ALREADY_SUBSCRIBED",
-            "HttpStatusCode": 0,
-            "Message": "이미 구독 중인 이메일 주소입니다."
-        },
-    "Value": null
+  "Ok": false,
+  "Error": {
+    "Code": "LIST_ALREADY_SUBSCRIBED",
+    "HttpStatusCode": 0,
+    "Message": "이미 구독 중인 이메일 주소입니다."
+  },
+  "Value": null
 }
 ```
 
@@ -686,19 +686,19 @@ Content-Type: application/json
 
 {
   "Ok": true,
-	"Error": null,
-	"Value": [
-		{
-		  "id": 1235,
-		  "name": "주소록 B",
-		  "createdTime": "2020-03-03T23:44:57+09:00"
-		},
-		{
-		  "id": 1234,
-		  "name": "주소록 A",
-		  "createdTime": "2020-03-02T23:44:57+09:00"
-		}
-	]
+  "Error": null,
+  "Value": [
+    {
+      "id": 1235,
+      "name": "주소록 B",
+      "createdTime": "2020-03-03T23:44:57+09:00"
+    },
+    {
+      "id": 1234,
+      "name": "주소록 A",
+      "createdTime": "2020-03-02T23:44:57+09:00"
+    }
+  ]
 }
 ```
 
@@ -714,19 +714,19 @@ Content-Type: application/json
 
 {
   "Ok": true,
-	"Error": null,
-	"Value": [
-		{
-		  "id": 1,
-		  "name": "그룹 A",
-		  "createdTime": "2020-03-02T23:44:57+09:00"
-		},
-		{
-		  "id": 2,
-		  "name": "그룹 B",
-		  "createdTime": "2020-03-03T23:44:57+09:00"
-		}
-	]
+  "Error": null,
+  "Value": [
+    {
+      "id": 1,
+      "name": "그룹 A",
+      "createdTime": "2020-03-02T23:44:57+09:00"
+    },
+    {
+      "id": 2,
+      "name": "그룹 B",
+      "createdTime": "2020-03-03T23:44:57+09:00"
+    }
+  ]
 }
 ```
 
@@ -779,5 +779,6 @@ Content-Type: application/json
       "modifiedTime": "2024-03-01 20:58:52 +0900 KST",
       "status": "S"
     }
+  ]
 }
 ```

@@ -79,29 +79,29 @@ API 요청 및 응답은 JSON 형식을 따릅니다. 예를 들어, 워크스�
 Content-Type: application/json
 
 {
-    "Ok": true,
-    "Error": null,
-    "Value": [
+  "Ok": true,
+  "Error": null,
+  "Value": [
+    {
+      "id": 0,
+      "status": 0,
+      "listId": 0,
+      "type": 0,
+      "subType": 0,
+      "subject": "string",
+      "permanentLink": "string",
+      "permanentLinkSecondary": "string",
+      "archiveContentType": 0,
+      "sentTime": "YYYY-MM-DDThh:mm:ss+09:00",
+      "createdTime": "YYYY-MM-DDThh:mm:ss+09:00",
+      "tags": [
         {
-            "id": 0,
-            "status": 0,
-            "listId": 0,
-            "type": 0,
-            "subType": 0,
-            "subject": "string",
-            "permanentLink": "string",
-            "permanentLinkSecondary": "string",
-            "archiveContentType": 0,
-            "sentTime": "YYYY-MM-DDThh:mm:ss+09:00",
-            "createdTime": "YYYY-MM-DDThh:mm:ss+09:00",
-            "tags": [
-                {
-                    "id": 0,
-                    "name": "string"
-                }
-            ]
+          "id": 0,
+          "name": "string"
         }
-    ]
+      ]
+    }
+  ]
 }
 ```
 
@@ -178,13 +178,15 @@ Content-Type: application/json
 {
   "Ok": true,
   "Error": null,
-  "Value": [{
+  "Value": [
+    {
       "id": 0,
       "subscriber": "string",
       "action": "string",
       "value": "string",
       "createdTime": "YYYY-MM-DDThh:mm:dd+09:00"
-    }]
+    }
+  ]
 }
 ```
 
@@ -229,61 +231,58 @@ AccessToken: API key
 Content-Type: application/json
 
 {
-    "Ok": true,
-    "Error": null,
-    "Value": [
+  "Ok": true,
+  "Error": null,
+  "Value": [
+    {
+      "id": 1962151,
+      "status": 3,
+      "listId": 284039,
+      "type": 3,
+      "subType": 4,
+      "subject": "스티비 이메일 에디터를 체험해보세요",
+      "permanentLink": "https://stib.ee/A0dA",
+      "permanentLinkSecondary": "https://stib.ee/B0dA",
+      "archiveContentType": "",
+      "sentTime": "2024-01-12T10:47:59+09:00",
+      "createdTime": "2024-01-12T10:47:00+09:00",
+      "tags": null
+    },
+    {
+      "id": 1963356,
+      "status": 3,
+      "listId": 284039,
+      "type": 1,
+      "subType": 0,
+      "subject": "fnsthnsgnsnsrgnsrnsr",
+      "permanentLink": "https://stib.ee/BddA",
+      "permanentLinkSecondary": "https://stib.ee/CddA",
+      "archiveContentType": "",
+      "sentTime": "2024-01-12T18:11:38+09:00",
+      "createdTime": "2024-01-12T18:11:31+09:00",
+      "tags": null
+    },
+    {
+      "id": 1966392,
+      "status": 3,
+      "listId": 301309,
+      "type": 1,
+      "subType": 0,
+      "subject": "aha",
+      "permanentLink": "https://stib.ee/5EfA",
+      "permanentLinkSecondary": "https://stib.ee/6EfA",
+      "archiveContentType": "",
+      "sentTime": "2024-01-15T17:34:15+09:00",
+      "createdTime": "2024-01-15T17:33:23+09:00",
+      "tags": [
         {
-            "id": 1962151,
-            "status": 3,
-            "listId": 284039,
-            "type": 3,
-            "subType": 4,
-            "subject": "스티비 이메일 에디터를 체험해보세요",
-            "permanentLink": "https://stib.ee/A0dA",
-            "permanentLinkSecondary": "https://stib.ee/B0dA",
-            "archiveContentType": "",
-            "sentTime": "2024-01-12T10:47:59+09:00",
-            "createdTime": "2024-01-12T10:47:00+09:00",
-            "tags": null
-        },
-        {
-            "id": 1963356,
-            "status": 3,
-            "listId": 284039,
-            "type": 1,
-            "subType": 0,
-            "subject": "fnsthnsgnsnsrgnsrnsr",
-            "permanentLink": "https://stib.ee/BddA",
-            "permanentLinkSecondary": "https://stib.ee/CddA",
-            "archiveContentType": "",
-            "sentTime": "2024-01-12T18:11:38+09:00",
-            "createdTime": "2024-01-12T18:11:31+09:00",
-            "tags": null
-        },
-        {
-            "id": 1966392,
-            "status": 3,
-            "listId": 301309,
-            "type": 1,
-            "subType": 0,
-            "subject": "aha",
-            "permanentLink": "https://stib.ee/5EfA",
-            "permanentLinkSecondary": "https://stib.ee/6EfA",
-            "archiveContentType": "",
-            "sentTime": "2024-01-15T17:34:15+09:00",
-            "createdTime": "2024-01-15T17:33:23+09:00",
-            "tags": [
-                {
-                    "id": 17389,
-                    "name": "sadfsadf"
-                }
-            ]
+          "id": 17389,
+          "name": "sadfsadf"
         }
-    ]
+      ]
+    }
+  ]
 }
-
-
-
 ```
 
 
@@ -302,7 +301,8 @@ AccessToken: API key
 {
   "Ok": true,
   "Error": null,
-  "Value": [{
+  "Value": [
+    {
       "id": 1,
       "subscriber": "dooly@stibee.com",
       "action": "P",
