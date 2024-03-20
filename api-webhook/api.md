@@ -591,7 +591,7 @@ POST https://api.stibee.com/v1/lists/{listId}/subscribers
     "eventOccurredBy": "SUBSCRIBER",
     "confirmEmailYN": "N",
     "groupIds": [
-      "{groupId}"
+      "1234", "5123"
     ],
     "subscribers": [
       {
