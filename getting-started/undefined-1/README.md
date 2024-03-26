@@ -20,3 +20,19 @@ layout:
 
 아래 링크를 클릭해 궁금한 내용을 바로 확인해보거나 아래에 있는 '다음' 버튼을 클릭해 단계별로 섹션의 내용을 확인해보세요.
 
+{% content-ref url="undefined.md" %}
+[undefined.md](undefined.md)
+{% endcontent-ref %}
+
+{% content-ref url="undefined-1.md" %}
+[undefined-1.md](undefined-1.md)
+{% endcontent-ref %}
+
+{% content-ref url="undefined-2.md" %}
+[undefined-2.md](undefined-2.md)
+{% endcontent-ref %}
+
+{% content-ref url="undefined-3.md" %}
+[undefined-3.md](undefined-3.md)
+{% endcontent-ref %}
+
