@@ -1,4 +1,22 @@
-# 개요
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
+# Tip
+
+## 이 글에서는
+
+스티비를 더 잘 활용하고 싶거나 도움말에서 확인하지 못한 궁금한 점이 있다면 아래 활용 Tip 들을 확인해보세요.
 
 {% content-ref url="https://app.gitbook.com/s/wBrOzEHYdkzYspUyGYcs/tip/undefined" %}
 [다른 아카이브에 발행한 이메일 옮기기](https://app.gitbook.com/s/wBrOzEHYdkzYspUyGYcs/tip/undefined)

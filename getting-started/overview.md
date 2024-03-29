@@ -33,7 +33,7 @@ layout:
 \[이메일]에서는 뉴스레터, 마케팅성 이메일, 트랜잭셔널 이메일 등의 이메일 내용을 편집하고 발송할 수 있습니다. 이메일은 크게 두가지 종류로 나뉩니다.&#x20;
 
 * [일반 이메일](broken-reference): 한번에 많은 사람에게 보내는 성격의 이메일은 \[일반 이메일]로 만들어 보내면 됩니다. 예를 들어 뉴스레터, 광고, 업데이트 소식 등 한번에 대량으로 발송하는 이메일들은 일반 이메일 입니다.
-* [자동 이메일](../email/undefined-7/): 특정 조건을 만족할 때마다 자동으로 설정된 이메일을 보내고 싶다면  \[자동 이메일]로 만들어 보내면 됩니다. 예를 들어 구독자가 새롭게 주소록에 추가될 때마다 나가는 웰컴 이메일, 구독자가이메일의 특정 링크를 클릭한 경우 자동으로 미리 설정된 이메일을 보내고 싶을 때는 자동 이메일을 사용해 만들면 됩니다.
+* [자동 이메일](../email/automated-email/): 특정 조건을 만족할 때마다 자동으로 설정된 이메일을 보내고 싶다면  \[자동 이메일]로 만들어 보내면 됩니다. 예를 들어 구독자가 새롭게 주소록에 추가될 때마다 나가는 웰컴 이메일, 구독자가이메일의 특정 링크를 클릭한 경우 자동으로 미리 설정된 이메일을 보내고 싶을 때는 자동 이메일을 사용해 만들면 됩니다.
 
 <figure><img src="../.gitbook/assets/이메일_1.png" alt=""><figcaption></figcaption></figure>
 
@@ -62,28 +62,28 @@ layout:
 
 ### 통계
 
-\[통계]는 여러 이메일의 통계를 한번에 조회하거나 기간별로 조회하고 싶을 때 사용하는 기능입니다. 각각 이메일 단위의 통계는 [이메일 대시보드](../email/undefined-5/undefined-1.md)에서 확인이 가능하지만 여러 이메일의 성과를 한번에 비교하거나 기간 별로 여러 이메일의 성과를 보고 싶을 때 통계 기능을 사용하면 됩니다. 통계 기능은 '프로' [요금제](broken-reference)부터 사용 할 수 있습니다.
+\[통계]는 여러 이메일의 통계를 한번에 조회하거나 기간별로 조회하고 싶을 때 사용하는 기능입니다. 각각 이메일 단위의 통계는 [이메일 대시보드](../email/email-statistics/undefined-1.md)에서 확인이 가능하지만 여러 이메일의 성과를 한번에 비교하거나 기간 별로 여러 이메일의 성과를 보고 싶을 때 통계 기능을 사용하면 됩니다. 통계 기능은 '프로' [요금제](broken-reference)부터 사용 할 수 있습니다.
 
 <figure><img src="../.gitbook/assets/통계_1.png" alt=""><figcaption></figcaption></figure>
 
 
 
-## 섹션 구성 살펴보기
+## 섹션 살펴보기
 
 '스티비 시작하기'에서는 스티비로 이메일을 보내기 위한 기본적인 내용부터 이메일을 문제 없이 보내기 위해 첫 발송 전에  미리 준비해야 하는 설정을 안내하고 있습니다. 준비된 단계별로 하나씩 살펴보는 것도 좋지만 원하는 내용이 있을 경우 아래 섹션 링크를 클릭해 바로 넘어가서 확인해보세요.
 
-{% content-ref url="undefined-1/" %}
-[undefined-1](undefined-1/)
+{% content-ref url="set-up/" %}
+[set-up](set-up/)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-2.md" %}
-[undefined-2.md](undefined-2.md)
+{% content-ref url="sending-first-email.md" %}
+[sending-first-email.md](sending-first-email.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-3.md" %}
-[undefined-3.md](undefined-3.md)
+{% content-ref url="welcoming-new-subscriber.md" %}
+[welcoming-new-subscriber.md](welcoming-new-subscriber.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-4.md" %}
-[undefined-4.md](undefined-4.md)
+{% content-ref url="help.md" %}
+[help.md](help.md)
 {% endcontent-ref %}

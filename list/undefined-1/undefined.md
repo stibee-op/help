@@ -1,102 +1,143 @@
-# 주소록 만들기
+# 구독자 통계 확인하기
+
+## 주소록 관점에서 통계 확인하기: 주소록 대시보드
 
 ### 이 글에서는
 
-구독자를 추가하고, 관리하는 '주소록'의 기본 사용 방법에 대해 알아봅니다.
+주소록 기준으로 통계를 확인하는 방법에 대해 알아봅니다. 발송한 이메일의 '[오픈](https://help.stibee.com/hc/ko/articles/4894585402383)', '[클릭](https://help.stibee.com/hc/ko/articles/4894564542863)' 통계를 주소록 관점에서도 확인할 수 있습니다. 하나의 주소록을 대상으로 이메일을 여러번 발송하는 경우, 주소록 단위에서 통계를 확인하면 전체 이메일 발송의 성과를 요약해서 확인할 수 있습니다.
 
-### 목차 <a href="#id-01gf8ase5bjhhce2g1k7dvbbck" id="id-01gf8ase5bjhhce2g1k7dvbbck"></a>
+### 목록
 
-[기본 주소록 사용하기](https://help.stibee.com/hc/ko/articles/5659543793551-%EC%A3%BC%EC%86%8C%EB%A1%9D-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0#h\_01GF88HR2750SQPB51K4XXDBJ7)
+[주소록 대시보드](https://help.stibee.com/hc/ko/articles/4756514418063-%EC%A3%BC%EC%86%8C%EB%A1%9D-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%ED%86%B5%EA%B3%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-%EC%A3%BC%EC%86%8C%EB%A1%9D-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C#h\_8aa5025bb7)
 
-[주소록 메뉴 이해하기](https://help.stibee.com/hc/ko/articles/5659543793551-%EC%A3%BC%EC%86%8C%EB%A1%9D-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0#h\_01GF88J5QA4B1WGV9YRFYJ411M)
+[주소록 정보](https://help.stibee.com/hc/ko/articles/4756514418063-%EC%A3%BC%EC%86%8C%EB%A1%9D-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%ED%86%B5%EA%B3%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-%EC%A3%BC%EC%86%8C%EB%A1%9D-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C#h\_9672f5d7b9)
 
-[주소록 설정 수정하기](https://help.stibee.com/hc/ko/articles/5659543793551-%EC%A3%BC%EC%86%8C%EB%A1%9D-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0#h\_01GF88JFX86W5EWKKK27BDP48J)
+[현황](https://help.stibee.com/hc/ko/articles/4756514418063-%EC%A3%BC%EC%86%8C%EB%A1%9D-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%ED%86%B5%EA%B3%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-%EC%A3%BC%EC%86%8C%EB%A1%9D-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C#h\_01GFN943DHRDERB58T43HRG4G4)
 
-[새로운 주소록 만들기](https://help.stibee.com/hc/ko/articles/5659543793551-%EC%A3%BC%EC%86%8C%EB%A1%9D-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0#h\_01GF88JQR4SE7MYT3X3KV3T671)
+[이메일 성과](https://help.stibee.com/hc/ko/articles/4756514418063-%EC%A3%BC%EC%86%8C%EB%A1%9D-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%ED%86%B5%EA%B3%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-%EC%A3%BC%EC%86%8C%EB%A1%9D-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C#h\_01GFN949FK5E021KKN9HE5149S)
 
-&#x20;
+[최근 발송한 이메일/실행 중인 자동 이메일](https://help.stibee.com/hc/ko/articles/4756514418063-%EC%A3%BC%EC%86%8C%EB%A1%9D-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%ED%86%B5%EA%B3%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-%EC%A3%BC%EC%86%8C%EB%A1%9D-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C#h\_01GFN94FT38AWK54Q40NANCFT1)
 
-스티비에서는 이메일의 발송 대상이 되는 이메일 수신자를 '구독자'라고 표현하고 있습니다. ‘주소록’은 구독자(예: 고객)의 이메일 주소와 그 외 정보가 저장되는 곳입니다. 이메일을 발송하기 위해서는 주소록에 구독자 정보가 등록되어있어야 합니다. 주소록을 만들면 구독자를 추가하고 관리할 수 있고, 추가된 구독자는 \[그룹]단위로 목적에 따라 나눠서 이메일을 보낼 수 있습니다.
-
-&#x20;
-
-### 기본 주소록 사용하기 <a href="#h_01gf88hr2750sqpb51k4xxdbj7" id="h_01gf88hr2750sqpb51k4xxdbj7"></a>
-
-스티비에 회원가입 하게 되면 별도 설정 없이 바로 사용할 수 있는 \[기본 주소록]이 생성됩니다. 메인화면의 \[구독자 목록 보기] 버튼을 클릭하면 이미 생성되어 있는 기본 주소록으로 바로 이동할 수 있습니다.&#x20;
-
-![stibee-list-onboarding.png](https://help.stibee.com/hc/article\_attachments/5666464906511)
-
-#### &#x20;주소록 메뉴 이해하기 <a href="#h_01gf88j5qa4b1wgv9yrfyj411m" id="h_01gf88j5qa4b1wgv9yrfyj411m"></a>
-
-주소록은 \[대시보드, 구독자 목록, 그룹, 사용자 정의 필드, 구독 관리 화면, 웹훅]으로 구성됩니다.&#x20;
-
-* 대시보드: 주소록 정보를 수정하거나 주소록에 대한 전체적인 요약 정보를 확인할 수 있습니다.&#x20;
-* 구독자 목록: 주소록에 등록된 구독자 목록을 확인하고 관리할 수 있습니다.
-* 그룹: 구독자를 세그멘테이션 할 수 있는 그룹을 생성할 수 있습니다.&#x20;
-* 사용자 정의 필드: 고객의 이메일 주소 외에 다른 정보(예: 연락처, 회사 정보 등)를 등록하기 위한 데이터 필드를 추가할 수 있습니다.
-* 구독 관리 화면: 구독 관련 활동을 모두 관리할 수 있는 곳 입니다. [구독 폼](https://help.stibee.com/hc/ko/articles/4756470653199), [아카이브](https://help.stibee.com/hc/ko/articles/4756482526223) 등의 기능을 설정하거나 수정할 수 있습니다.
-* 웹훅: 스티비 주소록에서 발생한 구독자 활동 데이터를 내 서비스로 보낼 수 있는 기능입니다.&#x20;
-
-#### 주소록 설정 수정하기 <a href="#h_01gf88jfx86w5ewkkk27bdp48j" id="h_01gf88jfx86w5ewkkk27bdp48j"></a>
-
-주소록에 구독자를 등록하기에 앞서 먼저 \[기본 주소록]의 설정을 수정하는 것이 좋습니다. 다음은 주소록의 정보를 수정하는 방법에 대한 설명입니다.
-
-1. \[기본 주소록]을 클릭합니다.
-2. \[기본 주소록]을 클릭하면 \[구독자 목록] 화면으로 이동합니다. \[기본 주소록] 상단 메뉴의 \[대시보드]를 클릭합니다.
-3. 화면 윗 부분의 \[주소록 정보]에 \[수정하기] 버튼을 클릭해 주소록 정보 수정 화면으로 이동합니다.
-
-![stibee-list-modify.png](https://help.stibee.com/hc/article\_attachments/5666480893583)
+[모바일 VS 데스크톱](https://help.stibee.com/hc/ko/articles/4756514418063-%EC%A3%BC%EC%86%8C%EB%A1%9D-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%ED%86%B5%EA%B3%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-%EC%A3%BC%EC%86%8C%EB%A1%9D-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C#h\_01GFN94MJNWFE69H733RFB4841)
 
 &#x20;
 
-주소록 수정 화면에서는 \[주소록 이름, 기본 발신자 이름, 발신자 이메일 주소, 이메일 푸터 정보, 자동 삭제 기능 사용 유무]를 설정할 수 있습니다.\
-\
-\[주소록 이름]은 주소록을 관리하기 위한 용도로 사용됩니다. [수신거부 페이지](https://help.stibee.com/hc/ko/articles/4756415150607)나 구독 폼을 사용하는 경우 주소록의 이름에 구독자에게 표시될 수 있으니 수정해두는 것이 좋습니다\
-\
-\[기본 발신자 이름]은 이메일을 만들 때 불러오는 발신자 이름의 기본값으로 사용됩니다. 이메일을 만들 때 수정할 수 있습니다.
+### 주소록 대시보드 <a href="#h_8aa5025bb7" id="h_8aa5025bb7"></a>
 
-![stibee-list-setting.png](https://help.stibee.com/hc/article\_attachments/5666242279695)
+\[주소록 대시보드]에서 주소록 별 요약 통계를 확인할 수 있습니다. 주소록 대시보드에서는 주소록에 대한 \[기본 정보, 주소록 현황, 최근 발송한 이메일, 실행 중인 자동 이메일, 모바일VS데스크톱] 등을 확인할 수 있습니다.&#x20;
 
-\
-\[발신자 이메일 주소]에서 '보내는 사람' 으로 설정하고 싶은 이메일 주소를 추가할 수 있습니다. 가입한 이메일 주소 외에도 다른 이메일 주소를 발신자 이메일 주소로 사용할 수 있습니다. 발신자 이메일 주소는 최대 5개까지 추가할 수 있습니다.\
-\
-\[+ 추가하기] 를 클릭하면 발신자 이메일 주소를 추가할 수 있습니다. 이메일 주소 인증 과정을 거치기 때문에 실제 이메일을 주고받을 수 있는 주소만 발신자 이메일 주소로 추가할 수 있습니다. 발신자 이메일 주소가 2개 이상이면, 주소록 대시보드에서 \[인증 요청하기]를 클릭하여 인증 과정을 거친 후 기본 발신자 이메일 주소를 변경할 수 있습니다.
+1. 메인화면 윗 부분에 있는 메뉴 중 \[주소록]을 클릭하여 주소록 목록으로 이동합니다.
+2. 주소록 기준 통계를 확인하고 싶은 주소록을 클릭합니다.
+3. 주소록 상단 메뉴 첫 번째에 위치한 \[대시보드]를 클릭합니다.&#x20;
 
-![stibee-list-sender-email.png](https://help.stibee.com/hc/article\_attachments/5666268457359)
+![stibee-list-statistics-dashboard.gif](https://help.stibee.com/hc/article\_attachments/5694315141903)
 
-\
-_스티비에서는 '발신 전용 이메일 주소' 사용은 권장하지 않고 있습니다. '발신 전용 이메일 주소'를 권장하지 않는 자세한 이유는 블로그의 “_[_이 메일주소는 발신전용 주소입니다._](https://blog.stibee.com/%EC%9D%B4-%EB%A9%94%EC%9D%BC%EC%A3%BC%EC%86%8C%EB%8A%94-%EB%B0%9C%EC%8B%A0%EC%A0%84%EC%9A%A9-%EC%A3%BC%EC%86%8C%EC%9E%85%EB%8B%88%EB%8B%A4-8f9806db7768)_” 를 참고해보세요._\
-\
+#### &#x20;주소록 정보 <a href="#h_9672f5d7b9" id="h_9672f5d7b9"></a>
 
+주소록의 기본 정보를 확인할 수 있습니다. 주소록 생성 시 입력한 정보들이 표시됩니다. 입력한 정보는 \[주소록 정보]옆 \[수정하기]버튼을 클릭하여 [수정](https://help.stibee.com/hc/ko/articles/5659543793551)할 수 있습니다.
 
-\[이메일 푸터 정보]는 이메일 본문의 푸터에 활용되고, 이메일을 만들 때 다시 수정할 수 있습니다. (**\*주의**: 정보통신망법 상 광고성 정보를 보내는 경우에는 반드시 전송자 정보를 메일 내용에 포함해야 하니 이 점은 참고해주세요.)
+![stibee-email-list-dashboard-info.png](https://help.stibee.com/hc/article\_attachments/5694362465551)
 
-![stibee-list-footer.png](https://help.stibee.com/hc/article\_attachments/5666268427279)
+#### &#x20; <a href="#h_9672f5d7b9" id="h_9672f5d7b9"></a>
+
+#### &#x20;현황 <a href="#h_01gfn943dhrderb58t43hrg4g4" id="h_01gfn943dhrderb58t43hrg4g4"></a>
+
+주소록의 [구독 상태](https://help.stibee.com/hc/ko/articles/5013280388623)별 구독자 현황과 월별, 주별 구독자 성장 추이를 확인할 수 있습니다.&#x20;
+
+![stibee-email-list-dashboard-list\_info.png](https://help.stibee.com/hc/article\_attachments/5694362429839)
+
+#### &#x20;이메일 성과 <a href="#h_01gfn949fk5e021kkn9he5149s" id="h_01gfn949fk5e021kkn9he5149s"></a>
+
+주소록에 발송된 전체 이메일의 평균 발송 성과를 확인할 수 있습니다. 일반 이메일과 [자동 이메일](https://help.stibee.com/hc/ko/articles/4756530166031)의 발송 성과가 모두 포함된 수치입니다.&#x20;
+
+![stibee-email-list-dashboard-list\_statstics.png](https://help.stibee.com/hc/article\_attachments/5694362426255)
 
 &#x20;
 
-\[자동삭제 기능 사용 유무]를 설정할 수 있습니다. 이메일 마케팅에서는 이메일 발송이 실패하는 경우를 '[바운스](https://help.stibee.com/hc/ko/articles/4756540870031)'라고 표현합니다. 스티비에서는 사유에 따라 발송 실패를 '소프트바운스'와 '하드바운스'로 분류하고 있습니다. 하드바운스로 발송에 실패한 경우는 구독 상태가 자동삭제로 변경되어 발송 대상에서 제외됩니다. \
+#### 최근 발송한 이메일/실행 중인 자동 이메일 <a href="#h_01gfn94ft38awk54q40nancft1" id="h_01gfn94ft38awk54q40nancft1"></a>
+
+최근 주소록에 발송한 이메일과 현재 주소록에 발송되도록 설정되어 있는 자동 이메일 현황을 확인할 수 있습니다.
+
+* 최근 발송한 이메일: 지금 확인하는 주소록에 가장 최근에 발송된 일반 이메일의 성과가 표시됩니다.
+* 실행 중인 자동 이메일: 현재 주소록에 발송 중인 자동 이메일이 있는 경우 최근에 발송된 5건의 이메일이 어떤 구독자에게 언제 발송됐는지 확인할 수 있습니다.
+
+![stibee-email-list-dashboard-list-recent\_auto\_email.png](https://help.stibee.com/hc/article\_attachments/5694395204879)
+
+&#x20;
+
+#### 모바일 VS 데스크톱 <a href="#h_01gfn94mjnwfe69h733rfb4841" id="h_01gfn94mjnwfe69h733rfb4841"></a>
+
+주소록에 등록된 구독자가 이메일을 모바일이나 데스크톱 중 어디서 오픈하거나 클릭하는지 여부를 비율로 확인할 수 있습니다.
+
+구독자가 G메일에서 이메일을 확인한 경우
+
+* G메일에서 이 활동이 모바일, 데스크톱에서 일어났는지에 대한 정보를 제공하지 않기 때문에 확인이 어렵습니다.
+* G메일에서 일어난 구독자 활동은 모바일과 데스크톱으로 구분하지 않고 \[Gmail]로 제공합니다.
+
+기타로 분류되는 경우
+
+* 수신서비스의 응답값이 정상적으로 수신되지 않거나
+* 일반적인 수신 서비스(예: 네이버, G메일 등)의 형식을 따르지 않기 때문에 판단이 불가능한 경우에 해당합니다.
+* 보통 썬더메일 등 그룹웨어(업무용 소프트웨어) 환경에서 확인한 경우일 가능성이 높습니다. 보다 정확한 통계 분류를 위해 기타로 분류되는 기준은 계속해서 모니터링하여 업데이트하고 있습니다.
+
+![stibee-email-list-dashboard-list-mobile\_vs\_PC.png](https://help.stibee.com/hc/article\_attachments/5694395203215)
+
+## 구독자별로 이메일 통계 확인하기: 구독자 대시보드
+
+### 이 글에서는
+
+구독자 대시보드의 기본적인 기능을 알아봅니다. 특정 구독자가 언제 이메일을 열어봤고, 어떤 링크를 클릭했는지 등 자세한 정보를 확인할 수 있습니다.
+
+### 목차
+
+[구독자 대시보드](https://help.stibee.com/hc/ko/articles/5698978383503-%EA%B5%AC%EB%8F%85%EC%9E%90%EB%B3%84%EB%A1%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%ED%86%B5%EA%B3%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-%EA%B5%AC%EB%8F%85%EC%9E%90-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C#h\_01GG4NGCNNXKZWSQEFAPKJ1BR0)
+
+[구독자 기본 정보](https://help.stibee.com/hc/ko/articles/5698978383503-%EA%B5%AC%EB%8F%85%EC%9E%90%EB%B3%84%EB%A1%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%ED%86%B5%EA%B3%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-%EA%B5%AC%EB%8F%85%EC%9E%90-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C#h\_01GG4NGJAT0ARWDQ2N3Z2KGZGY)
+
+[최근 성과](https://help.stibee.com/hc/ko/articles/5698978383503-%EA%B5%AC%EB%8F%85%EC%9E%90%EB%B3%84%EB%A1%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%ED%86%B5%EA%B3%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-%EA%B5%AC%EB%8F%85%EC%9E%90-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C#h\_01GG4NGR6547M9NXAW8MNM9SXJ)
+
+[활동](https://help.stibee.com/hc/ko/articles/5698978383503-%EA%B5%AC%EB%8F%85%EC%9E%90%EB%B3%84%EB%A1%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%ED%86%B5%EA%B3%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-%EA%B5%AC%EB%8F%85%EC%9E%90-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C#h\_01GG4NGXDSTBKW1FWP65GNF2XW)
+
+### &#x20;
+
+### 구독자 대시보드 <a href="#h_01gg4ngcnnxkzwsqefapkj1br0" id="h_01gg4ngcnnxkzwsqefapkj1br0"></a>
+
+'구독자 대시보드'에서는 구독자에 대한 기본 정보, 최근 발송된 이메일의 성과, 구독자가 발송된 이메일에 대해 어떻게 활동(예: 오픈, 클릭 등)했는지 여부를 자세하게 확인할 수 있습니다.
+
+1. 화면 윗 부분 메뉴에서 \[주소록]을 클릭하여 주소록 목록으로 이동한 뒤 확인하고 싶은 구독자가 속해 있는 주소록을 클릭합니다.
+2. \[구독자 목록]에서 확인하고 싶은 구독자를 [찾아](https://help.stibee.com/hc/ko/articles/4756567819791) 이메일 주소를 클릭합니다.
+
+![stibee-subscriber-dashboard.gif](https://help.stibee.com/hc/article\_attachments/5728622020751)\
 \
-\[자동삭제] 기능을 설정하면 이메일 주소가 비활성화 되는 등 이메일 수신이 불가능한 상태인 구독자가 자동으로 걸러지기 때문에 일반적으로 발송 성공률이 높아집니다. 특별한 경우가 아니라면 자동삭제 기능 사용을 권장하고 있습니다.
 
-![stibee-list-auto\_delete.png](https://help.stibee.com/hc/article\_attachments/5666242247823)
 
-정보를 수정한 뒤 \[저장하기] 버튼을 클릭하면 주소록 정보 수정이 마무리됩니다.
+#### 구독자 기본 정보 <a href="#h_01gg4ngjat0arwdq2n3z2kgzgy" id="h_01gg4ngjat0arwdq2n3z2kgzgy"></a>
 
-### &#x20; <a href="#id-01gf8ase5b439ha6scapwssstq" id="id-01gf8ase5b439ha6scapwssstq"></a>
+구독자의 기본 정보가 표시됩니다. \[[사용자 정의 필드](https://help.stibee.com/hc/ko/articles/5659525285007)]에 등록한 필드에 따라 등록된 구독자 정보, 추가된 날짜 등 구독자에 대한 기본적인 정보를 확인할 수 있습니다. 구독자 이메일 주소 옆에 있는 \[[수정하기](https://help.stibee.com/hc/ko/articles/5673136659471)], \[[수신거부 하기](https://help.stibee.com/hc/ko/articles/5673136659471-%EA%B5%AC%EB%8F%85%EC%9E%90-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0#h\_01GFAZ1NKY8DCANQFS164PZ3GK)], \[[완전삭제하기](https://help.stibee.com/hc/ko/articles/5673136659471-%EA%B5%AC%EB%8F%85%EC%9E%90-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0#h\_01GFAZ23XCPZGHH2CBPS07SM97)], \[[그룹설정하기](https://help.stibee.com/hc/ko/articles/4756567819791-%EB%AA%A9%EC%A0%81%EC%97%90-%EB%94%B0%EB%9D%BC-%EA%B5%AC%EB%8F%85%EC%9E%90-%EB%82%98%EB%88%A0%EC%84%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-%EA%B7%B8%EB%A3%B9-%ED%95%84%ED%84%B0-%EA%B2%80%EC%83%89)]를 활용해 정보를 수정하거나 구독 상태를 변경할 수 있습니다. 목적에 따라 특정 그룹으로 분류해서 관리하는 것도 가능합니다.
 
-### 새로운 주소록 만들기 <a href="#h_01gf88jqr4se7myt3x3kv3t671" id="h_01gf88jqr4se7myt3x3kv3t671"></a>
+![stibee-subscriber-dashboard-info.png](https://help.stibee.com/hc/article\_attachments/5728657170959)
 
-일반적으로 구독자를 나눠서 관리해야 하는 경우 새로운 주소록을 추가하기 보다는 하나의 주소록에 구독자를 '[그룹'](https://help.stibee.com/hc/ko/articles/4756567819791)으로 나눠 관리하는 것을 권장하고 있습니다. 다만 하나의 계정에서 여러 브랜드를 나눠서 관리하거나 그 외 운영상의 이유로 주소록을 나눠 관리해야 하는 경우라면 새로운 주소록을 만들어서 사용하면 됩니다.\
+&#x20;
+
+#### 최근 성과 <a href="#h_01gg4ngr6547m9nxaw8mnm9sxj" id="h_01gg4ngr6547m9nxaw8mnm9sxj"></a>
+
+최근 구독자에게 발송된 이메일을 이 구독자가 얼마나 열어봤는지 또는 링크를 클릭했는지 여부를 확인할 수 있습니다. \[최근 성과]의 판단 기준은 구독자에게 발송된 최근 20개의 일반 이메일이 기준이며 [자동 이메일](https://help.stibee.com/hc/ko/articles/4756530166031) 성과는 포함되지 않습니다.
+
+![stibee-subscriber-dashboard-statistics.png](https://help.stibee.com/hc/article\_attachments/5728657140367)
+
+&#x20;
+
+#### 활동 <a href="#h_01gg4ngxdstbkw1fwp65gnf2xw" id="h_01gg4ngxdstbkw1fwp65gnf2xw"></a>
+
+최근 구독자에게 발송된 일반 이메일 20개에 대하여 구독자가 어떤 활동(예: 오픈, 클릭 등)을 했는지 구독자의 활동 기록과 활동이 일어난 일시를 확인할 수 있습니다. 자동 이메일에서 일어난 활동은 기록되지 않습니다.
+
+* 구독: 주소록에 구독자가 추가됐습니다. [관리자가 추가한 경우](https://help.stibee.com/hc/ko/articles/5659537333775)와 [구독 폼](https://help.stibee.com/hc/ko/articles/4756470653199)을 통해 추가된 경우 두가지로 나눠 기록됩니다.
+* 발송 성공: 이메일이 발송 성공 했습니다.
+* 오픈: 이메일을 구독자가 열어봤습니다.
+* 클릭: 이메일의 링크를 구독자가 클릭했습니다.
+* 수신거부: 구독자가 [수신거부](https://help.stibee.com/hc/ko/articles/4756415150607) 링크를 통해 이메일 수신을 거부했습니다. \[[수신거부 사유 받기](https://help.stibee.com/hc/ko/articles/4756415150607)]를 사용하는 경우 수신거부 사유가 표시됩니다.
+* 수신거부 취소: 구독자가 수신거부를 취소했습니다.&#x20;
+
+![stibee-subscriber-dashboard-activity.png](https://help.stibee.com/hc/article\_attachments/5728682924175)
+
 \
-주소록은 제한 없이 생성할 수 있지만 구독자의 \[구독 상태(구독중, 수신거부, 자동삭제)]는 주소록끼리 공유하지 않기 때문에 정보를 관리할 때 이 점은 주의하는게 좋습니다.\
-\
-스티비 화면 상단 메뉴에서 주소록을 클릭하면 주소록 목록으로 이동할 수 있습니다. 목록 우측 상단에 있는 \[새로 만들기] 버튼을 클릭하면 생성할 수 있는 주소록의 종류를 선택할 수 있습니다. 유료 뉴스레터를 운영하는 것이 아니라면 대부분의 경우 \[일반 주소록]을 선택해서 주소록을 만들어주면 됩니다.
-
-* 일반 주소록: 일반적으로 구독자 정보를 등록하고 관리할 수 있는 주소록입니다.
-* 유료 주소록: [유료 구독](https://help.stibee.com/hc/ko/articles/4756469164303) 기능을 사용하는 경우에만 사용하는 주소록입니다. 스탠다드 요금제부터 사용할 수 있습니다.
-
-![stibee-list-new.gif](https://help.stibee.com/hc/article\_attachments/5666443844367)
-
-\
-\[새로 만들기] 버튼을 클릭하면 주소록 정보를 설정할 수 있는 창으로 이동합니다. 새로운 주소록의 정보를 설정하는 방법은 정보를 수정하는 방법과 동일합니다. 기본 주소록의 [주소록 설정 수정하기](https://help.stibee.com/hc/ko/articles/5659543793551-%EC%A3%BC%EC%86%8C%EB%A1%9D-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0#h\_01GF88JFX86W5EWKKK27BDP48J)를 참고해주세요.

@@ -34,7 +34,7 @@ layout:
 
 ### 주소록
 
-이메일을 보낼 주소록을 선택하는 단계입니다. [그룹](../list/undefined-3/undefined-1.md)이나 [세그먼트](../list/undefined-3/undefined-2.md)를 사용해 전체 구독자 중 일부에게만 이메일을 보낼 수도 있습니다.
+이메일을 보낼 주소록을 선택하는 단계입니다. [그룹](../list/classifying-subscribers/undefined.md)이나 [세그먼트](../list/classifying-subscribers/how-to-use-segment.md)를 사용해 전체 구독자 중 일부에게만 이메일을 보낼 수도 있습니다.
 
 <figure><img src="../.gitbook/assets/주소록 선택.png" alt=""><figcaption></figcaption></figure>
 
@@ -50,19 +50,9 @@ layout:
 
 ### 발송정보
 
-\[발송정보]에서는 보낼 이메일의 제목과 보내는 사람 정보(발신자 이메일 주소, 발신자 이름)를 설정합니다. 처음에 가입한 워크스페이스 소유자로 사용하는 이메일 주소 외에도 다른 이메일 주소를 발신자로 추가해서 사용하는 것이 가능합니다. 발신자를 추가하는 방법이 궁금하다면 [여기](../email/undefined-4/undefined.md)를 클릭해 자세한 내용을 확인해보세요.
+\[발송정보]에서는 보낼 이메일의 제목과 보내는 사람 정보(발신자 이메일 주소, 발신자 이름) 그리고 미리보기 텍스트를 설정합니다. 원하는 이메일의 제목과 발신자 이름을 입력하고 다음 단계로 넘어갑니다. '발송정보' 단계에 대해 더 자세한 내용이 궁금하다면 아래 링크를 참고해주세요. 정보를 모두 설정했다면, \[다음 → 템플릿]단계로 이동하세요.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-'미리보기 텍스트'는 이메일의 목록에서 표시되는 이메일 일부 내용을 편집할 수 있는 기능입니다. 구독자의 받은편지함에는 이메일의 제목과 함께 본문의 일부 내용이 표시되는 경우가 있습니다. 이메일을 새로 만들거나 수정할 때 발송정보의 미리보기 텍스트에 내용을 입력하면 본문 내용과 상관없이 원하는 내용을 미리보기 텍스트로 표시할 수 있습니다. 아무 것도 입력하지 않으면 콘텐츠의 가장 첫 단락 내용이 자동으로 표시됩니다.&#x20;
-
-미리보기 텍스트를 활용하는 방법이 궁금하다면 [제목만큼 중요한 미리보기 텍스트 활용하기](https://blog.stibee.com/150624-68fa20cb9978)를 참고하세요.
-
-<figure><img src="../.gitbook/assets/미리보기 텍스트.png" alt=""><figcaption></figcaption></figure>
-
-정보를 모두 설정했다면, \[다음 → 템플릿]단계로 이동하세요.
-
-
 
 ### 템플릿
 
@@ -85,7 +75,7 @@ layout:
 
 콘텐츠 편집 방법에 대한 더 자세한 내용은 아래 도움말을 참고해주세요.
 
-[undefined-1](../email/undefined-1/ "mention")
+[edit](../email/edit/ "mention")
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -123,5 +113,5 @@ _\*테스트 이메일은 발송 횟수 제한이 없습니다. 실제 발송 �
 
 <figure><img src="../.gitbook/assets/발송하기.gif" alt=""><figcaption></figcaption></figure>
 
-이메일을 발송했다면 [이메일 대시보드](../email/undefined-5/undefined-1.md)에서 발송 통계를 확인할 수 있습니다. 만약에 발송한 이메일을 받아보지 못했다면 여기를 참고해보세요.&#x20;
+이메일을 발송했다면 [이메일 대시보드](../email/email-statistics/undefined-1.md)에서 발송 통계를 확인할 수 있습니다. 만약에 발송한 이메일을 받아보지 못했다면 여기를 참고해보세요.&#x20;
 
