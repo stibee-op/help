@@ -184,22 +184,22 @@
   * [워크스페이스에 사용자 권한 설정하기](user-workspace/undefined-2/undefined-2.md)
 * [자주 묻는 질문](user-workspace/undefined-3.md)
 
-## 요금제와 결제 <a href="#payment" id="payment"></a>
+## 요금제와 결제 <a href="#pricing" id="pricing"></a>
 
-* [개요](payment/undefined.md)
-* [요금제 이해하기](payment/undefined-1.md)
-  * [요금제 이해하기](payment/undefined-1/undefined.md)
-  * [요금제 종류](payment/undefined-1/undefined-1.md)
-* [결제하기](payment/undefined-2.md)
-  * [요금제 결제하기](payment/undefined-2/undefined.md)
-  * [구독자 수 구간 변경하기](payment/undefined-2/undefined-1.md)
-* [요금제 연장하기](payment/undefined-3/README.md)
-* [결제 주기 변경하기](payment/undefined-4/README.md)
-* [결제 정보 확인, 수정하기](payment/undefined-5/README.md)
-  * [결제 정보 수정하기](payment/undefined-5/undefined.md)
-  * [영수증 확인하기](payment/undefined-5/undefined-1.md)
-* [정기 결제 해지하기(신규 추가)](payment/undefined-6.md)
-* [자주 묻는 질문](payment/undefined-7.md)
+* [개요](pricing/overview.md)
+* [요금제 이해하기](pricing/understanding/README.md)
+  * [요금제 이해하기](pricing/understanding/features.md)
+  * [요금제 종류](pricing/understanding/undefined.md)
+* [결제하기](pricing/payment/README.md)
+  * [요금제 결제하기](pricing/payment/change-plan.md)
+  * [구독자 수 구간 변경하기](pricing/payment/subscriber.md)
+* [요금제 연장하기](pricing/renewal.md)
+* [결제 주기 변경하기](pricing/change.md)
+* [결제 정보 확인, 수정하기](pricing/information/README.md)
+  * [결제 정보 수정하기](pricing/information/modify.md)
+  * [영수증 확인하기](pricing/information/receipt.md)
+* [정기 결제 해지하기(신규 추가)](pricing/terminate.md)
+* [자주 묻는 질문](pricing/undefined.md)
 
 ## 활용 Tip
 

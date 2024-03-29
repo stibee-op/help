@@ -1,6 +1,6 @@
 # 요금제 종류
 
-### 이 글에서는 <a href="#h_01h9mkm4p47362w0tjqadsntj8" id="h_01h9mkm4p47362w0tjqadsntj8"></a>
+## 이 글에서는 <a href="#h_01h9mkm4p47362w0tjqadsntj8" id="h_01h9mkm4p47362w0tjqadsntj8"></a>
 
 스티비 요금제 종류와 사용료에 관해 알아봅니다.
 
@@ -21,17 +21,15 @@
 
 &#x20;
 
-### 요금제 종류 <a href="#h_01gjhq66453crfx7dm0sdhvvfr" id="h_01gjhq66453crfx7dm0sdhvvfr"></a>
+## 요금제 종류 <a href="#h_01gjhq66453crfx7dm0sdhvvfr" id="h_01gjhq66453crfx7dm0sdhvvfr"></a>
 
 스티비 요금제는 [스타터](https://help.stibee.com/hc/ko/articles/4756526887183-%EC%9A%94%EA%B8%88%EC%A0%9C-%EC%A2%85%EB%A5%98#h\_01GJHQ6K6XJHHJ1F60CJZZJ336), [스탠다드](https://help.stibee.com/hc/ko/articles/4756526887183-%EC%9A%94%EA%B8%88%EC%A0%9C-%EC%A2%85%EB%A5%98#h\_01GJHQ72PNZ5TYV0SQQEGEK5EA), [프로](https://help.stibee.com/hc/ko/articles/4756526887183-%EC%9A%94%EA%B8%88%EC%A0%9C-%EC%A2%85%EB%A5%98#h\_01GJHQ7VEQYDNMK8NJQE87P5B8), [엔터프라이즈](https://help.stibee.com/hc/ko/articles/4756526887183-%EC%9A%94%EA%B8%88%EC%A0%9C-%EC%A2%85%EB%A5%98#01H9MKMCZFJZPSVKD48Y0EEQCW)로 구성됩니다. 요금제에 따라 사용할 수 있는 기능에 차이가 있습니다. 내게 맞는 요금제가 무엇인지 헷갈린다면, 각 요금제가 제공하는 기능을 살펴보세요.
 
 **\*주의!** '엔터프라이즈 요금제'는 현재 시범 적용 중입니다. 정식 출시되는 시점에는 사용 금액이 달라질 수 있습니다.
 
-![요금제 종류 (1).png](https://help.stibee.com/hc/article\_attachments/7887358060047)
+![](https://help.stibee.com/hc/article\_attachments/7887358060047)
 
-&#x20;
-
-### 목차 <a href="#h_01h9mkm4p4w0sg23mtd8tb600g" id="h_01h9mkm4p4w0sg23mtd8tb600g"></a>
+## 목차 <a href="#h_01h9mkm4p4w0sg23mtd8tb600g" id="h_01h9mkm4p4w0sg23mtd8tb600g"></a>
 
 [스타터 요금제](https://help.stibee.com/hc/ko/articles/4756526887183-%EC%9A%94%EA%B8%88%EC%A0%9C-%EC%A2%85%EB%A5%98#h\_01GJHQ6K6XJHHJ1F60CJZZJ336)
 
@@ -65,19 +63,19 @@
 
 &#x20;
 
-### 스타터 요금제 <a href="#h_01gjhq6k6xjhhj1f60cjzzj336" id="h_01gjhq6k6xjhhj1f60cjzzj336"></a>
+## 스타터 요금제 <a href="#h_01gjhq6k6xjhhj1f60cjzzj336" id="h_01gjhq6k6xjhhj1f60cjzzj336"></a>
 
 스타터 요금제는 가입과 동시에 사용할 수 있는 무료 요금제입니다. 구독 페이지부터 웰컴 이메일까지, 뉴스레터를 시작하고 싶을 때, 스티비를 선택하세요.
 
 _\* 스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일 본문 하단에 '이 메일은 스티비로 만들었습니다.'라는 스폰서 배너 문구가 표시됩니다._
 
-#### &#x20;**사용량 제한** <a href="#h_2762cfe5b6" id="h_2762cfe5b6"></a>
+### **사용량 제한**
 
 * 구독자 수 최대 500명 등록 가능
 * 발송횟수 월 2회(가입한 일자를 기준으로 발송횟수 갱신)
 * 이메일 1개당 이미지 용량 5MB
 
-#### **기능** <a href="#h_fb338e2c86" id="h_fb338e2c86"></a>
+### **기능**
 
 * [사용자](https://help.stibee.com/hc/ko/articles/6462616035727) 수 1명
 * 드래그앤드롭 에디터
@@ -86,22 +84,20 @@ _\* 스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일
 * [구독 페이지](https://help.stibee.com/hc/ko/articles/4756454687631)
 * [세그먼트](https://help.stibee.com/hc/ko/articles/5874547500943)
 
-&#x20;
 
-### 스탠다드 요금제 <a href="#h_01gjhq72pnz5tyv0sqqegek5ea" id="h_01gjhq72pnz5tyv0sqqegek5ea"></a>
+
+## 스탠다드 요금제 <a href="#h_01gjhq72pnz5tyv0sqqegek5ea" id="h_01gjhq72pnz5tyv0sqqegek5ea"></a>
 
 개인화, 자동화된 이메일 마케팅을 시작하거나 콘텐츠를 판매하고 싶을 때, 스탠다드 요금제를 선택하세요.
 
 스탠다드 요금제는 월 8,900원부터 시작합니다.
 
-&#x20;
-
-#### **사용량 제한** <a href="#h_c8dfe7c6a8" id="h_c8dfe7c6a8"></a>
+### **사용량 제한**
 
 * 발송횟수 무제한
 * 이미지 용량 무제한(상자당 5MB)
 
-#### **기능** <a href="#h_54b391955e" id="h_54b391955e"></a>
+### **기능** <a href="#h_54b391955e" id="h_54b391955e"></a>
 
 * 스타터의 모든 기능
 * [사용자](https://help.stibee.com/hc/ko/articles/6462616035727) 수 3명
@@ -114,7 +110,7 @@ _\* 스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일
 * [주소록 API](https://help.stibee.com/hc/ko/articles/4756551371535),  [웹훅](https://help.stibee.com/hc/ko/articles/4756496712079)
 * [구독자별 통계 내보내기](https://help.stibee.com/hc/ko/articles/4756459860111)
 
-#### **구간별 사용 금액** <a href="#h_01h9t5wb74rp2cn1kvqz2v8mhy" id="h_01h9t5wb74rp2cn1kvqz2v8mhy"></a>
+### **구간별 사용 금액** <a href="#h_01h9t5wb74rp2cn1kvqz2v8mhy" id="h_01h9t5wb74rp2cn1kvqz2v8mhy"></a>
 
 * 0-500명: 월 8,900원 (연 96,000원)
 * 501-1,000명: 월 16,000원 (연 170,000원)
@@ -138,20 +134,18 @@ _\* 스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일
 
 &#x20;
 
-### 프로 요금제 <a href="#h_01gjhq7veqydnmk8njqe87p5b8" id="h_01gjhq7veqydnmk8njqe87p5b8"></a>
+## 프로 요금제 <a href="#h_01gjhq7veqydnmk8njqe87p5b8" id="h_01gjhq7veqydnmk8njqe87p5b8"></a>
 
 콘텐츠 A/B 테스트, 통계 분석으로 전문적인 이메일 마케팅을 하고 싶을 때, 프로 요금제를 선택하세요.
 
 프로 요금제는 월 29,000원부터 시작합니다.
 
-&#x20;
-
-#### **사용량 제한** <a href="#h_01h9mm22w3yngecmbwhcvcfbbg" id="h_01h9mm22w3yngecmbwhcvcfbbg"></a>
+### **사용량 제한** <a href="#h_01h9mm22w3yngecmbwhcvcfbbg" id="h_01h9mm22w3yngecmbwhcvcfbbg"></a>
 
 * 발송횟수 무제한
 * 이미지 용량 무제한(상자당 5MB)
 
-#### **기능** <a href="#h_01h9mm24t1nf8tp4vh7bdhv62y" id="h_01h9mm24t1nf8tp4vh7bdhv62y"></a>
+### **기능** <a href="#h_01h9mm24t1nf8tp4vh7bdhv62y" id="h_01h9mm24t1nf8tp4vh7bdhv62y"></a>
 
 * 스탠다드의 모든 기능
 * [사용자](https://help.stibee.com/hc/ko/articles/6462616035727) 수 10명
@@ -161,7 +155,7 @@ _\* 스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일
 * [기간별 통계](https://help.stibee.com/hc/ko/articles/7456018757135)
 * [사용자 권한 관리](https://help.stibee.com/hc/ko/articles/6462616035727)
 
-#### **구간별 사용 금액** <a href="#h_01h9t5vvdf0v6ngga3sgcewskv" id="h_01h9t5vvdf0v6ngga3sgcewskv"></a>
+### **구간별 사용 금액** <a href="#h_01h9t5vvdf0v6ngga3sgcewskv" id="h_01h9t5vvdf0v6ngga3sgcewskv"></a>
 
 * 0-500명: 월 29,000원 (연 310,000원)
 * 501-1,000명: 월 36,000원 (연 380,000원)
@@ -185,18 +179,16 @@ _\* 스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일
 
 &#x20;
 
-### 엔터프라이즈 요금제 <a href="#id-01h9mkmczfjzpsvkd48y0eeqcw" id="id-01h9mkmczfjzpsvkd48y0eeqcw"></a>
+## 엔터프라이즈 요금제 <a href="#id-01h9mkmczfjzpsvkd48y0eeqcw" id="id-01h9mkmczfjzpsvkd48y0eeqcw"></a>
 
 대규모 팀과 기업을 위한 강화된 보안, 맞춤 기능과 고객 지원이 필요할 때, 엔터프라이즈 요금제를 선택하세요. 엔터프라이즈 요금제는 월 710,000원부터 시작합니다.
 
-&#x20;
-
-#### 사용량 제한 <a href="#h_01gjhq9h2c9bs4ghfe0s59qn34" id="h_01gjhq9h2c9bs4ghfe0s59qn34"></a>
+### 사용량 제한 <a href="#h_01gjhq9h2c9bs4ghfe0s59qn34" id="h_01gjhq9h2c9bs4ghfe0s59qn34"></a>
 
 * 발송횟수 무제한
 * 이미지 용량 무제한(상자당 5MB)
 
-#### 기능 <a href="#h_01gjhq9teyhe3tqdkf4n4h5fv5" id="h_01gjhq9teyhe3tqdkf4n4h5fv5"></a>
+### 기능 <a href="#h_01gjhq9teyhe3tqdkf4n4h5fv5" id="h_01gjhq9teyhe3tqdkf4n4h5fv5"></a>
 
 * 프로의 모든 기능
 * [사용자](https://help.stibee.com/hc/ko/articles/6462616035727) 수 무제한
@@ -207,7 +199,7 @@ _\* 스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일
 * 추가 API
 * 담당 매니저 배정
 
-#### 구간별 사용 금액 <a href="#h_01gjhq8155h75e4rs8a07an1ws" id="h_01gjhq8155h75e4rs8a07an1ws"></a>
+### 구간별 사용 금액 <a href="#h_01gjhq8155h75e4rs8a07an1ws" id="h_01gjhq8155h75e4rs8a07an1ws"></a>
 
 엔터프라이즈 요금제는 구독자 수 50,000명부터 사용할 수 있습니다.
 
@@ -224,12 +216,4 @@ _\* 스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일
 
 (부가세 포함)
 
-&#x20;
-
 엔터프라이즈 요금제 사용은 채널톡 채팅 상담(스티비 홈페이지 로그인 후, 오른쪽 아래 '물음표(?)'를 클릭하세요.) 또는 이메일([support@stibee.com](mailto:sales@stibee.com))로 문의해 주세요.
-
-&#x20;
-
-***
-
-요금제 결제 방법은 [여기](https://help.stibee.com/hc/ko/articles/4756465544847)를 참고해 주세요.
