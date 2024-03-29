@@ -26,8 +26,8 @@ layout:
 
 #### 구독 폼 사용법
 
-{% content-ref url="../../list/undefined-1/undefined.md" %}
-[undefined.md](../../list/undefined-1/undefined.md)
+{% content-ref url="../../list/subscribe/manage.md" %}
+[manage.md](../../list/subscribe/manage.md)
 {% endcontent-ref %}
 
 #### 페이지 사용법
@@ -48,8 +48,8 @@ layout:
 
 #### 구독자 수동으로 추가하기
 
-{% content-ref url="../../list/adding-managing-subscriber/undefined.md" %}
-[undefined.md](../../list/adding-managing-subscriber/undefined.md)
+{% content-ref url="../../list/adding-managing-subscriber/add.md" %}
+[add.md](../../list/adding-managing-subscriber/add.md)
 {% endcontent-ref %}
 
 
