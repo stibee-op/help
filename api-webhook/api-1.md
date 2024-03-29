@@ -24,7 +24,7 @@ layout:
 
 ## 이메일 조회 API 이해하기
 
-이메일 조회 API를 사용하면 '이메일 목록'과 각 이메일의 '[상세통계](../email/email-statistics/undefined-2.md)'를 불러올  수 있습니다. 이메일  조회 API를 사용하면 내가 만들고 발송한 이메일의 목록과 각 이메일의 통계를 외부에서 조회하고 활용할 수 있습니다.&#x20;
+이메일 조회 API를 사용하면 '이메일 목록'과 각 이메일의 '[상세통계](../email/analytics/undefined-1.md)'를 불러올  수 있습니다. 이메일  조회 API를 사용하면 내가 만들고 발송한 이메일의 목록과 각 이메일의 통계를 외부에서 조회하고 활용할 수 있습니다.&#x20;
 
 이메일 조회 API에서 사용할 수 있는 기능은 아래와 같습니다.
 
@@ -121,7 +121,7 @@ Content-Type: application/json
 * **listId**: 이메일을 발송한 주소록에 주소록 별로 부여되는 고유한 아이디(id) 값 입니다.
 * **type**: 이메일의 종류를 의미합니다.
   * 1: 일반이메일
-  * 2: [A/B테스트](../email/a-b.md) 이메일
+  * 2: [A/B테스트](../email/a-b-test.md) 이메일
   * 3: 자동 이메일
 * **subtype**: type이 2일때 유효한 필드입니다.&#x20;
   * 1: 제목 기준 A/B테스트
@@ -133,7 +133,7 @@ Content-Type: application/json
 * **archiveContentType**: type이 3이고 subType이 4인 경우에만 유효한 필드입니다. A/B테스트 한 이메일 중 '콘텐츠 발행 설정'을 한 콘텐츠가 A안인지 B안 인지 표시합니다.
 * **sentTime**: 이메일을 발송한 일시입니다.&#x20;
 * **createdTime:** 이메일을 만든 일시입니다.
-* **tags**: 이메일에 설정한 [태그](../email/manage/undefined-2.md) 정보를 의미합니다.
+* **tags**: 이메일에 설정한 [태그](../email/manage/tag.md) 정보를 의미합니다.
   * &#x20;id: 태그에 부여되는 고유한 ID 값 입니다.
   * name: 설정한 태그 이름입니다.
 

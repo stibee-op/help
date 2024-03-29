@@ -52,7 +52,7 @@ layout:
 
 트리거 아래에는 필터, 발송 시간대 등 여러 추가 기능이 있습니다. 웰컴 이메일은 아직 추가 기능까지 설정하지 않고 트리거를 '구독자 추가'로만 선택해도 만들 수 있습니다. 다른 추가 기능에 대한 더 자세한 설명이 필요하다면 아래 도움말을 참고해보세요.
 
-[undefined-1.md](../email/automated-email/undefined-1.md "mention")
+[use.md](../email/automation/use.md "mention")
 
 
 

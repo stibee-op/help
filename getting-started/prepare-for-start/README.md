@@ -20,16 +20,16 @@ layout:
 
 아래 링크를 클릭해 궁금한 내용을 바로 확인해보거나 아래에 있는 '다음' 버튼을 클릭해 단계별로 섹션의 내용을 확인해보세요.
 
-{% content-ref url="creating-custom-sender-email.md" %}
-[creating-custom-sender-email.md](creating-custom-sender-email.md)
+{% content-ref url="custom-sender-address.md" %}
+[custom-sender-address.md](custom-sender-address.md)
 {% endcontent-ref %}
 
-{% content-ref url="setting-up-url.md" %}
-[setting-up-url.md](setting-up-url.md)
+{% content-ref url="domain.md" %}
+[domain.md](domain.md)
 {% endcontent-ref %}
 
-{% content-ref url="add-subscriber.md" %}
-[add-subscriber.md](add-subscriber.md)
+{% content-ref url="subscribers.md" %}
+[subscribers.md](subscribers.md)
 {% endcontent-ref %}
 
 {% content-ref url="getting-ready-for-web-publication.md" %}

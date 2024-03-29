@@ -34,7 +34,7 @@ layout:
 
 ### 주소록
 
-이메일을 보낼 주소록을 선택하는 단계입니다. [그룹](../list/classifying-subscribers/undefined.md)이나 [세그먼트](../list/classifying-subscribers/how-to-use-segment.md)를 사용해 전체 구독자 중 일부에게만 이메일을 보낼 수도 있습니다.
+이메일을 보낼 주소록을 선택하는 단계입니다. [그룹](../list/undefined/undefined.md)이나 [세그먼트](../list/undefined/how-to-use-segment.md)를 사용해 전체 구독자 중 일부에게만 이메일을 보낼 수도 있습니다.
 
 <figure><img src="../.gitbook/assets/주소록 선택.png" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@ layout:
 
 발송 성과 개선을 위해 기준에 따라 A/B 테스트를 진행하고 싶은 경우 이 단계에서 설정합니다. 테스트를 진행하지 않고 싶은 경우에는 \[아니오]를 선택하고 다음으로 넘어갑니다. A/B 테스트에 대해 더 자세한 내용이 궁금한 경우에는 아래 링크를 참고하세요.
 
-[a-b.md](../email/a-b.md "mention")
+[a-b-test.md](../email/a-b-test.md "mention")
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -75,7 +75,7 @@ layout:
 
 콘텐츠 편집 방법에 대한 더 자세한 내용은 아래 도움말을 참고해주세요.
 
-[edit](../email/edit/ "mention")
+[undefined-1](../email/undefined-1/ "mention")
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -113,5 +113,5 @@ _\*테스트 이메일은 발송 횟수 제한이 없습니다. 실제 발송 �
 
 <figure><img src="../.gitbook/assets/발송하기.gif" alt=""><figcaption></figcaption></figure>
 
-이메일을 발송했다면 [이메일 대시보드](../email/email-statistics/undefined-1.md)에서 발송 통계를 확인할 수 있습니다. 만약에 발송한 이메일을 받아보지 못했다면 여기를 참고해보세요.&#x20;
+이메일을 발송했다면 [이메일 대시보드](../email/analytics/undefined.md)에서 발송 통계를 확인할 수 있습니다. 만약에 발송한 이메일을 받아보지 못했다면 여기를 참고해보세요.&#x20;
 

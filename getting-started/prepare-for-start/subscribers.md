@@ -26,8 +26,8 @@ layout:
 
 #### 구독 폼 사용법
 
-{% content-ref url="../../list/undefined/undefined.md" %}
-[undefined.md](../../list/undefined/undefined.md)
+{% content-ref url="../../list/undefined-1/undefined.md" %}
+[undefined.md](../../list/undefined-1/undefined.md)
 {% endcontent-ref %}
 
 #### 페이지 사용법

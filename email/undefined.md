@@ -44,40 +44,40 @@ _\*이메일을 받아보는 '수신자'를 등록하고 관리하는 방법에 
 
 이메일의 편집, 발송, 자동화 등 스티비의 이메일 기능 사용을 위한 모든 내용을 이 섹션에서 확인할 수 있습니다. 아래 '다음' 버튼을 클릭해 단계적으로 학습하거나 원하는 아티클로 바로 넘어가 필요한 내용을 확인해보세요.&#x20;
 
-{% content-ref url="edit/" %}
-[edit](edit/)
+{% content-ref url="undefined-1/" %}
+[undefined-1](undefined-1/)
 {% endcontent-ref %}
 
-{% content-ref url="send/" %}
-[send](send/)
+{% content-ref url="undefined-2/" %}
+[undefined-2](undefined-2/)
 {% endcontent-ref %}
 
-{% content-ref url="manage/" %}
-[manage](manage/)
+{% content-ref url="undefined-3/" %}
+[undefined-3](undefined-3/)
 {% endcontent-ref %}
 
-{% content-ref url="a-b.md" %}
-[a-b.md](a-b.md)
+{% content-ref url="a-b-test.md" %}
+[a-b-test.md](a-b-test.md)
 {% endcontent-ref %}
 
-{% content-ref url="manage-sender/" %}
-[manage-sender](manage-sender/)
+{% content-ref url="sender/" %}
+[sender](sender/)
 {% endcontent-ref %}
 
-{% content-ref url="email-statistics/" %}
-[email-statistics](email-statistics/)
+{% content-ref url="analytics/" %}
+[analytics](analytics/)
 {% endcontent-ref %}
 
-{% content-ref url="share/" %}
-[share](share/)
+{% content-ref url="undefined-6/" %}
+[undefined-6](undefined-6/)
 {% endcontent-ref %}
 
-{% content-ref url="automated-email/" %}
-[automated-email](automated-email/)
+{% content-ref url="automation/" %}
+[automation](automation/)
 {% endcontent-ref %}
 
-{% content-ref url="faq.md" %}
-[faq.md](faq.md)
+{% content-ref url="undefined (1).md" %}
+[undefined (1).md](<undefined (1).md>)
 {% endcontent-ref %}
 
 
