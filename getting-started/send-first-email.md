@@ -18,7 +18,7 @@ layout:
 
 이메일을 보내기 위한 기본 준비가 끝났다면 첫번째 이메일을 보내볼 차례입니다. 이 문서에서는 두 종류의 이메일 중 \[일반 이메일]을 사용해 이메일을 보내는 기본적인 방법에 대해 알아봅니다.
 
-
+***
 
 ## 이메일 만들기
 
@@ -46,13 +46,13 @@ layout:
 
 [a-b-test.md](../email/a-b-test.md "mention")
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 발송정보
 
 \[발송정보]에서는 보낼 이메일의 제목과 보내는 사람 정보(발신자 이메일 주소, 발신자 이름) 그리고 미리보기 텍스트를 설정합니다. 원하는 이메일의 제목과 발신자 이름을 입력하고 다음 단계로 넘어갑니다. '발송정보' 단계에 대해 더 자세한 내용이 궁금하다면 아래 링크를 참고해주세요. 정보를 모두 설정했다면, \[다음 → 템플릿]단계로 이동하세요.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 템플릿
 

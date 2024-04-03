@@ -18,11 +18,9 @@ layout:
 
 이메일 편집 5단계 중 '주소록', 'A/B 테스트', '발송정보' 단계에 대해서 알아봅니다.
 
-
+***
 
 이메일 편집 단계는 총 5개로 구성됩니다. 그 중 '주소록', 'A/B 테스트', '발송정보'는 이메일 본문 콘텐츠와 직접적인 관련은 없지만 누구에게 이메일을 보낼 지, 성과 개선을 위한 테스트를 진행할지, 이메일 제목은 어떻게 할지 등 이메일 발송을 위한 기본적인 준비를 진행하는 단계입니다.
-
-
 
 ## 주소록
 
@@ -40,7 +38,7 @@ A/B 테스트에 대한 자세한 내용은 아래 도움말을 참고해보세�
 
 [a-b-test.md](../a-b-test.md "mention")
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -54,9 +52,11 @@ A/B 테스트에 대한 자세한 내용은 아래 도움말을 참고해보세�
   [sender](../sender/ "mention")
 * 미리보기 텍스트: 이메일의 목록에서 표시되는 이메일 일부 내용을 편집할 수 있는 기능입니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 '미리보기 텍스트'를 잘 설정하면 이메일의 내용을 구독자가 열어보기 전에 미리 확인할 수 있기 때문에 오픈율에도 영향을 미칠 수 있습니다. 구독자의 받은편지함에는 이메일의 제목과 함께 본문의 일부 내용이 표시되는 경우가 있습니다. 이메일을 새로 만들거나 수정할 때 발송정보의 미리보기 텍스트에 내용을 입력하면 본문 내용과 상관없이 원하는 내용을 미리보기 텍스트로 표시할 수 있습니다. 아무 것도 입력하지 않으면 콘텐츠의 가장 첫 단락 내용이 자동으로 표시됩니다. 미리보기 텍스트를 활용하는 방법이 궁금하다면 [제목만큼 중요한 미리보기 텍스트 활용하기](https://blog.stibee.com/150624-68fa20cb9978)를 참고하세요.
 
 <figure><img src="../../.gitbook/assets/미리보기 텍스트.png" alt=""><figcaption></figcaption></figure>
+
+발송 정보까지 설정을 완료했다면 다음은 편집할 템플릿을 선택할 차례입니다. 아래의 \[템플릿 선택하기]를 클릭해 다음 내용을 확인해보세요.
 
