@@ -16,22 +16,16 @@ layout:
 
 ## 이 글에서는
 
-스티비 요금제의 특징을 알아보고, '요금제와 결제'에서 어떤 내용을 배울 수 있는지 알아봅니다.
+스티비 요금제의 특징을 알아보고, '요금제와 결제'에서 어떤 내용을 다루는지 살펴봅니다.
 
+***
 
+## 섹션 살펴보기
 
-스티비 요금제는 종류와 구독자 수 구간으로 사용료가 정해집니다.&#x20;
+스티비 요금제 사용료, 기능 등 요금제와 관련한 모든 내용을 이 섹션에서 확인할 수 있습니다. 아래 '다음' 버튼을 클릭해서 단계적으로 학습하거나, 원하는 아티클로 바로 넘어가서 필요한 내용을 확인해 보세요.&#x20;
 
-
-
-## &#x20;<a href="#h_01ha65n09ets1rb1nhjgha0pa6" id="h_01ha65n09ets1rb1nhjgha0pa6"></a>
-
-
-
-## 섹션 구성 살펴보기
-
-{% content-ref url="payment/change-plan.md" %}
-[change-plan.md](payment/change-plan.md)
+{% content-ref url="understanding/" %}
+[understanding](understanding/)
 {% endcontent-ref %}
 
 {% content-ref url="payment/" %}

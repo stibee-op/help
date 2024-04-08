@@ -183,10 +183,10 @@
 
 ## 요금제와 결제 <a href="#pricing" id="pricing"></a>
 
-* [개요](pricing/undefined.md)
-* [요금제 이해하기](pricing/undefined-1/README.md)
-  * [요금제 이해하기](pricing/undefined-1/features.md)
-  * [요금제 종류](pricing/undefined-1/undefined.md)
+* [개요](pricing/overview.md)
+* [요금제 이해하기](pricing/understanding/README.md)
+  * [요금제 이해하기](pricing/understanding/features.md)
+  * [요금제 종류](pricing/understanding/type.md)
 * [결제하기](pricing/payment/README.md)
   * [요금제 결제하기](pricing/payment/change-plan.md)
   * [구독자 수 구간 변경하기](pricing/payment/subscriber.md)
@@ -195,8 +195,8 @@
 * [결제 정보 확인, 수정하기](pricing/information/README.md)
   * [결제 정보 수정하기](pricing/information/modify.md)
   * [영수증 확인하기](pricing/information/receipt.md)
-* [정기 결제 해지하기(신규 추가)](pricing/terminate.md)
-* [자주 묻는 질문](pricing/undefined-2.md)
+* [정기 결제 해지하기](pricing/terminate.md)
+* [자주 묻는 질문](pricing/question.md)
 
 ## 활용 Tip
 
