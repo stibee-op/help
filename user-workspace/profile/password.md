@@ -14,10 +14,19 @@ layout:
 
 # 비밀번호 변경하기
 
-사용자 메뉴(👤)에서 **내 정보**를 클릭합니다.
+## 이 글에서는
 
-![](https://help.stibee.com/hc/article\_attachments/4756539590927/6270c49dc315b.png)&#x20;
+스티비 로그인 시 사용하는 비밀번호를 변경하는 방법에 관해 알아봅니다.
 
-**비밀번호 변경하기**를 클릭하면 비밀번호를 변경할 수 있습니다.
+***
 
-![](https://help.stibee.com/hc/article\_attachments/4756567538703/6270c4a025abb.png)
+스티비 로그인 시 사용하는 비밀번호를 변경하는 방법은 아래와 같습니다.
+
+1. 화면 오른쪽 위의 워크스페이스 이름 클릭
+2. \[내 정보] 클릭
+3. \[비밀번호 변경하기] 클릭
+4. 현재 비밀번호와 새로운 비밀번호를 입력하면 비밀번호 변경이 완료됩니다.
+
+<figure><img src="../../.gitbook/assets/비밀번호 변경하기 (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/비밀번호 변경하기2.png" alt=""><figcaption></figcaption></figure>
