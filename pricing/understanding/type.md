@@ -66,7 +66,7 @@ _\* 스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일
 ### **기능** <a href="#h_54b391955e" id="h_54b391955e"></a>
 
 * 스타터의 모든 기능
-* [사용자](https://help.stibee.com/hc/ko/articles/6462616035727)[ ](../../user-workspace/set/user-permissions.md)수 3명
+* [사용자](https://help.stibee.com/hc/ko/articles/6462616035727)[ ](../../user-workspace/settings/user-permissions.md)수 3명
 * [자동 이메일](../../email/automation/understand.md)
 * 스폰서 배너 제거
 * [메일머지](../../email/edit/merge.md)
@@ -119,7 +119,7 @@ _\* 스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일
 * [구독자 활동 기반 세그먼트](../../list/classify-subscribers/how-to-use-segment.md)
 * 콘텐츠 과거 기록 보기 30일
 * [기간별 통계](../../statistics/undefined-1.md)
-* [사용자 권한 관리](../../user-workspace/set/user-permissions.md)
+* [사용자 권한 관리](../../user-workspace/settings/user-permissions.md)
 
 ### **구간별 사용 금액** <a href="#h_01h9t5vvdf0v6ngga3sgcewskv" id="h_01h9t5vvdf0v6ngga3sgcewskv"></a>
 

@@ -148,7 +148,7 @@
 * [유료 구독 시작하기](paid-newsletter/start/README.md)
   * [유료 구독 주소록 만들기](paid-newsletter/start/create.md)
   * [구독자 문의 채널 설정하기](paid-newsletter/start/contact.md)
-  * [일반 주소록 유료 주소록으로 변환하기](paid-newsletter/start/convert.md)
+  * [일반 주소록을 유료 주소록으로 변환하기](paid-newsletter/start/convert.md)
 * [유료 구독 상품 설정하기](paid-newsletter/settings/README.md)
   * [구독 상품 이해하기: 월간, 연간, 일회성](paid-newsletter/settings/monthly-yearly-one-time.md)
   * [유료 구독 폼 설정하기](paid-newsletter/settings/subscription-form.md)
@@ -175,11 +175,12 @@
   * [로그인용 이메일 주소 변경하기](user-workspace/profile/change-login-email.md)
   * [로그인 시 2단계 인증을 해제하고 싶어요](user-workspace/profile/two-factor-authentication.md)
   * [탈퇴하기](user-workspace/profile/withdrawal.md)
-* [워크스페이스 설정하기](user-workspace/set/README.md)
-  * [워크스페이스 이해하기](user-workspace/set/understand.md)
-  * [워크스페이스 만들기](user-workspace/set/create.md)
-  * [워크스페이스에 사용자 권한 설정하기](user-workspace/set/user-permissions.md)
-* [자주 묻는 질문](user-workspace/undefined.md)
+* [워크스페이스 설정하기](user-workspace/settings/README.md)
+  * [워크스페이스 이해하기](user-workspace/settings/understand.md)
+  * [워크스페이스 만들기](user-workspace/settings/create.md)
+  * [워크스페이스에 사용자 권한 설정하기](user-workspace/settings/user-permissions.md)
+  * [워크스페이스 삭제하기](user-workspace/settings/delete.md)
+* [자주 묻는 질문](user-workspace/questions.md)
 
 ## 요금제와 결제 <a href="#pricing" id="pricing"></a>
 
@@ -196,7 +197,7 @@
   * [결제 정보 수정하기](pricing/information/modify.md)
   * [영수증 확인하기](pricing/information/receipt.md)
 * [정기 결제 해지하기](pricing/terminate.md)
-* [자주 묻는 질문](pricing/question.md)
+* [자주 묻는 질문](pricing/questions.md)
 
 ## 활용 Tip
 

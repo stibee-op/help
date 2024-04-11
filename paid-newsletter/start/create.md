@@ -14,48 +14,43 @@ layout:
 
 # 유료 구독 주소록 만들기
 
-### **💬** 이 내용은 **스탠다드, 프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다. <a href="#h_01ha12mep64zefx135d1fqfdbe" id="h_01ha12mep64zefx135d1fqfdbe"></a>
+**💬** 이 내용은 **스탠다드, 프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다.
 
-&#x20;
 
-### 주소록 생성하기 <a href="#h_582189de2a" id="h_582189de2a"></a>
 
-유료 구독 기능을 사용하려면 유료 구독 주소록을 먼저 만들어야 합니다. 유료 구독 주소록을 통해 유료 구독자를 추가한 뒤, 이메일을 만들 때 유료 주소록을 선택하면, 선택한 주소록에 있는 구독자들에게 유료 뉴스레터가 발송됩니다.\
+## 주소록 생성하기 <a href="#h_582189de2a" id="h_582189de2a"></a>
+
+유료 구독 기능을 사용하려면 먼저 유료 구독 주소록을 만들어야 합니다. 유료 구독 주소록을 통해 유료 구독자를 추가한 뒤, 이메일을 만들 때 유료 주소록을 선택하면, 선택한 주소록에 있는 구독자들에게 유료 뉴스레터가 발송됩니다.\
 \
-메인 대시보드 상단 메뉴에서 주소록을 클릭하여 주소록 목록으로 이동한 뒤, \[새로 만들기]를 클릭하세요.\
-주소록 새로 만들기 **유료 구독 주소록**을 선택하면 유료 구독 주소록을 만들 수 있습니다.\
-\
-**\*주의!** 유료 구독 주소록을 만들고 운영하는 상태에서 주소록을 삭제하거나 회원 탈퇴를 하면 정산에 문제가 생길 수 있습니다. 정산이 마무리 되기 전에 주소록을 삭제하거나 탈퇴해야 한다면, 1:1 채팅이나 이메일(support@stibee.com)을 통해 연락해주세요.\
-\
+메인 대시보드 상단 메뉴에서 주소록을 클릭하여 주소록 목록으로 이동한 뒤, \[새로 만들기]를 클릭하고, \[유료 구독 주소록]을 선택하면 유료 구독 주소록이 생성됩니다.
 
+{% hint style="info" %}
+유료 구독 주소록을 만들고 운영하는 상태에서 주소록을 삭제하거나 회원 탈퇴를 하면 정산에 문제가 생길 수 있습니다. 정산이 마무리 되기 전에 주소록을 삭제하거나 탈퇴해야 한다면, 1:1 채팅이나 이메일(support@stibee.com)을 통해 연락해주세요.
+{% endhint %}
 
-![stibee-help-paid\_list\_create\_0\_\_1\_.png](https://help.stibee.com/hc/article\_attachments/6142715716879)
+<figure><img src="../../.gitbook/assets/유료 주소록 만들기.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;
-
-일반 주소록에 대한 자세한 내용이 궁금한 경우에는 [여기](https://help.stibee.com/hc/ko/articles/4756523822479)를 참고해주세요.
+일반 주소록에 대한 자세한 내용은 [여기](https://help.stibee.com/hc/ko/articles/4756523822479)를 참고해주세요.
 
 &#x20;
 
 ## 주소록 이름 입력하기 <a href="#h_44da5db83f" id="h_44da5db83f"></a>
 
-주소록 이름은 결제 안내 이메일, 구독 폼, 구독 정보 변경 화면 등에서 **뉴스레터를 대표하는 이름**으로 사용됩니다. 따라서, 어떤 뉴스레터인지 쉽게 알 수 있는 이름을 주소록 이름으로 설정하는 것이 좋습니다.
+주소록 이름은 결제 안내 이메일, 구독 폼, 구독 정보 변경 화면 등에서 뉴스레터를 대표하는 이름으로 사용됩니다. 따라서, 어떤 뉴스레터인지 쉽게 알 수 있는 이름을 주소록 이름으로 설정하는 것이 좋습니다.
 
-![stibee-help-paid\_list\_create\_1.png](https://help.stibee.com/hc/article\_attachments/6142715717263)
-
-&#x20;
+<figure><img src="https://help.stibee.com/hc/article_attachments/6142715717263" alt=""><figcaption></figcaption></figure>
 
 ## 유료 구독 정보 설정하기 <a href="#h_8e61db4310" id="h_8e61db4310"></a>
 
-유료 구독 주소록은 다른 주소록과 달리 유료 구독 정보를 추가로 설정해야 합니다. 유료 구독 정보 정산 정보 등록, 구독 상품, 프로모션, 유료 구독 만료일, 유료 구독 만료일정보 등을 설정할 수 있습니다.
+유료 구독 주소록은 다른 주소록과 달리 유료 구독 정보를 추가로 설정해야 합니다. 유료 구독 정보 정산 정보 등록, 구독 상품, 프로모션, 유료 구독 만료일, 유료 구독 만료일 정보 등을 설정할 수 있습니다.
 
-&#x20;
+
 
 ### 정산 정보 등록 <a href="#h_ffb37c1cea" id="h_ffb37c1cea"></a>
 
-\[정산 정보 등록하기]를 클릭하면 [정산](https://help.stibee.com/hc/ko/articles/4756468940687) 정보 등록을 위한 별도 신청 폼으로 이동합니다. 유료 구독을 통해 결제된 금액을 정산 받을 계좌 정보를 입력합니다. 발생한 결제 수수료에 대하여 비용 처리를 위한 증빙 서류 발급이 필요하다면 관련 정보를 입력합니다.
+\[정산 정보 등록하기]를 클릭하면 [정산 정보 등록](create.md#h\_ffb37c1cea)을 위한 별도 신청 폼으로 이동합니다. 유료 구독을 통해 결제된 금액을 정산 받을 계좌 정보를 입력합니다. 발생한 결제 수수료에 대하여 비용 처리를 위한 증빙 서류 발급이 필요하다면 관련 정보를 입력합니다.
 
-![stibee-help-paid\_list\_create\_2.png](https://help.stibee.com/hc/article\_attachments/6142683888143)
+<figure><img src="https://help.stibee.com/hc/article_attachments/6142683888143" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;구독 상품 설정하기 <a href="#h_ce3a629e38" id="h_ce3a629e38"></a>
 
@@ -74,7 +69,7 @@ layout:
 \
 월간 구독으로 결제하는 경우 첫 결제 후 **매월 같은 날짜 오전 11:00**에 설정하신 구독료가 자동결제됩니다. 예를 들어 A라는 구독자가 10월 10일에 유료 구독료를 결제했다면 다음 정기 결제는 11월 10일 오전 11:00에 이루어집니다. 이후 매월 10일 오전 11:00에 정기 결제가 진행됩니다.
 
-![stibee-paid\_list-subscriptions\_\_1\_.png](https://help.stibee.com/hc/article\_attachments/6142709639055)
+<figure><img src="https://help.stibee.com/hc/article_attachments/6142709639055" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -84,7 +79,7 @@ layout:
 \
 만약에 구독료를 5,000원으로 설정했고 첫 3개월간은 30% 할인을 적용하도록 설정했다고 가정해보겠습니다. 어떤 구독자가 3월 10일에 첫 결제를 한 경우 이 구독자는 처음 3개월 (3/10, 4/10, 5/10) 동안은 30% 할인된 금액인 3,500원을 결제하게 되고 3개월 이후의 다음 결제일 (6/10)부터는 설정한 월간 구독료인 5,000원이 매월 결제되게 됩니다.
 
-![stibee-help-paid\_list\_create\_3.png](https://help.stibee.com/hc/article\_attachments/6142716333583)
+<figure><img src="https://help.stibee.com/hc/article_attachments/6142716333583" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -94,9 +89,9 @@ layout:
 
 &#x20;
 
-만료일 7일 전에 만료 예정임을 이메일로 알려드립니다. 만료일이 없으면 유료 구독자의 정기 결제가 계속 진행되기 때문에 만료일이 필요한 경우 꼭 설정해주세요. 만일, 유료 뉴스레터를 시즌제로 발행한다면 시즌 종료일 하루 뒤를 만료일로 설정하세요.
+만료일 7일 전에 만료 예정임을 이메일로 알려드립니다. 만료일이 없으면 유료 구독자의 정기 결제가 계속 진행되기 때문에 만료일이 필요한 경우 꼭 설정해주세요. 만일, 유료 뉴스레터를 시즌제로 발행한다면 시즌 종료일 하루 뒤를 만료일로 설정하세요.&#x20;
 
-![stibee-help-paid\_list\_create\_4.png](https://help.stibee.com/hc/article\_attachments/6142682953231)&#x20;
+<figure><img src="https://help.stibee.com/hc/article_attachments/6142682953231" alt=""><figcaption></figcaption></figure>
 
 ### 유료 구독 주소록의 사용자 정의 필드 이해하기 <a href="#h_8133fd8985" id="h_8133fd8985"></a>
 
@@ -104,9 +99,9 @@ layout:
 \
 유료 구독 결제 안내 이메일에 구독자 이름이 표시되는 경우가 있기 때문에, 이름을 필수 입력 항목으로 설정하는 것이 좋습니다. 결제에 문제가 생겼을 경우 구독자에게 직접 연락해야 할 수 있기 때문에 전화번호를 입력 받는 것을 추천드립니다.
 
-![stibee-help-paid\_list\_create\_5.png](https://help.stibee.com/hc/article\_attachments/6142682988047)
+<figure><img src="https://help.stibee.com/hc/article_attachments/6142682988047" alt=""><figcaption></figcaption></figure>
 
 \
 필수 입력 여부를 해제하면 구독 폼에서 입력항목 표시 여부 변경, 입력 항목의 표시 이름을 수정할 수 있습니다. 구독 폼을 수정하는 방법은 [여기](https://help.stibee.com/hc/ko/articles/4756470653199)를 참고해주세요.
 
-![](https://help.stibee.com/hc/article\_attachments/4756510747919)
+<figure><img src="https://help.stibee.com/hc/article_attachments/4756510747919" alt=""><figcaption></figcaption></figure>

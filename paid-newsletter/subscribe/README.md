@@ -1,5 +1,9 @@
 # 유료 구독자 관리하기
 
+💬 이 내용은 **스탠다드, 프로, 엔터프라이즈** 요금제에 해당하는 도움말입니다.
+
+
+
 * [유료 구독 폼에서 구독하기](https://help.stibee.com/hc/ko/articles/4756516930959-%EC%9C%A0%EB%A3%8C-%EA%B5%AC%EB%8F%85-%ED%8F%BC%EC%97%90%EC%84%9C-%EA%B5%AC%EB%8F%85%ED%95%98%EA%B8%B0)
 * [유료 구독자 구독 유형 변경 이해하기](https://help.stibee.com/hc/ko/articles/4756491007119-%EC%9C%A0%EB%A3%8C-%EA%B5%AC%EB%8F%85%EC%9E%90-%EA%B5%AC%EB%8F%85-%EC%9C%A0%ED%98%95-%EB%B3%80%EA%B2%BD-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 * [유료 주소록에 구독자 직접 추가하기](https://help.stibee.com/hc/ko/articles/4756481241103-%EC%9C%A0%EB%A3%8C-%EA%B5%AC%EB%8F%85-%EC%A3%BC%EC%86%8C%EB%A1%9D%EC%97%90-%EA%B5%AC%EB%8F%85%EC%9E%90-%EC%A7%81%EC%A0%91-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
