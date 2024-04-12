@@ -71,17 +71,13 @@ layout:
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/6142709639055" alt=""><figcaption></figcaption></figure>
 
-&#x20;
-
-### 프로모션 설정하기 <a href="#h_5460f76ea2" id="h_5460f76ea2"></a>
+### 프로모션 설정하기
 
 프로모션 기능을 사용하면 처음으로 구독을 한 구독자에게 일정 기간 동안 구독료 할인을 제공할 수 있습니다. 프로모션은 각 구독자 개별 단위로 제공됩니다.\
 \
 만약에 구독료를 5,000원으로 설정했고 첫 3개월간은 30% 할인을 적용하도록 설정했다고 가정해보겠습니다. 어떤 구독자가 3월 10일에 첫 결제를 한 경우 이 구독자는 처음 3개월 (3/10, 4/10, 5/10) 동안은 30% 할인된 금액인 3,500원을 결제하게 되고 3개월 이후의 다음 결제일 (6/10)부터는 설정한 월간 구독료인 5,000원이 매월 결제되게 됩니다.
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/6142716333583" alt=""><figcaption></figcaption></figure>
-
-&#x20;
 
 ### **유료 구독 만료일 설정하기** <a href="#h_6e52c38320" id="h_6e52c38320"></a>
 
@@ -99,9 +95,7 @@ layout:
 \
 유료 구독 결제 안내 이메일에 구독자 이름이 표시되는 경우가 있기 때문에, 이름을 필수 입력 항목으로 설정하는 것이 좋습니다. 결제에 문제가 생겼을 경우 구독자에게 직접 연락해야 할 수 있기 때문에 전화번호를 입력 받는 것을 추천드립니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/6142682988047" alt=""><figcaption></figcaption></figure>
-
 \
-필수 입력 여부를 해제하면 구독 폼에서 입력항목 표시 여부 변경, 입력 항목의 표시 이름을 수정할 수 있습니다. 구독 폼을 수정하는 방법은 [여기](https://help.stibee.com/hc/ko/articles/4756470653199)를 참고해주세요.
+필수 입력 여부를 해제하면 구독 폼에서 입력 항목 표시 여부 변경, 입력 항목의 표시 이름을 수정할 수 있습니다. 구독 폼을 수정하는 방법은 [여기](https://help.stibee.com/hc/ko/articles/4756470653199)를 참고해주세요.
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/4756510747919" alt=""><figcaption></figcaption></figure>

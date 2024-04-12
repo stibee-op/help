@@ -157,5 +157,5 @@ CSV 파일에서 수신거부 여부를 표시할 열을 추가합니다. 수신
 
 [구독 폼 이해하기](../subscribe/manage.md#h\_01ggcbmn0c7yk62feh8bwj7xg6)
 
-[페이지로 구독 받기](../../page/undefined-3/)
+[페이지로 구독 받기](../../page/subscribe/)
 

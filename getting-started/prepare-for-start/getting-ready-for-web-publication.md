@@ -28,7 +28,7 @@ layout:
 
 자세한 설정 방법은 아래 링크를 참고해주시기 바랍니다.&#x20;
 
-{% content-ref url="../../page/undefined-2/undefined.md" %}
-[undefined.md](../../page/undefined-2/undefined.md)
+{% content-ref url="../../page/manage/create.md" %}
+[create.md](../../page/manage/create.md)
 {% endcontent-ref %}
 

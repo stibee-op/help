@@ -32,8 +32,8 @@ layout:
 
 #### 페이지 사용법
 
-{% content-ref url="../../page/undefined-2/undefined.md" %}
-[undefined.md](../../page/undefined-2/undefined.md)
+{% content-ref url="../../page/manage/create.md" %}
+[create.md](../../page/manage/create.md)
 {% endcontent-ref %}
 
 

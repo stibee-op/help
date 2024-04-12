@@ -1,5 +1,21 @@
 # 정산
 
-* [유료 구독 정산하기](https://help.stibee.com/hc/ko/articles/4756468940687-%EC%9C%A0%EB%A3%8C-%EA%B5%AC%EB%8F%85-%EC%A0%95%EC%82%B0%ED%95%98%EA%B8%B0)
-* [유료 구독 결제 내역 확인하기](https://help.stibee.com/hc/ko/articles/4756458143119-%EC%9C%A0%EB%A3%8C-%EA%B5%AC%EB%8F%85-%EA%B2%B0%EC%A0%9C-%EB%82%B4%EC%97%AD-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
-* [유료 구독 정산에 대한 세무 신고 방법](https://help.stibee.com/hc/ko/articles/6142775676815-%EC%9C%A0%EB%A3%8C-%EA%B5%AC%EB%8F%85-%EC%A0%95%EC%82%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%84%B8%EB%AC%B4-%EC%8B%A0%EA%B3%A0-%EB%B0%A9%EB%B2%95)
+💬 이 내용은 **스탠다드, 프로, 엔터프라이즈** 요금제에 해당하는 도움말입니다.
+
+## 이 글에서는
+
+유료 뉴스레터를 운영하고 구독료를 결제했다면 이제 구독료를 정산받을 차례입니다.
+
+아래 링크를 클릭해 궁금한 내용을 바로 확인해보거나 아래에 있는 '다음' 버튼을 클릭해 단계별 아티클을 확인해 보세요.
+
+{% content-ref url="process.md" %}
+[process.md](process.md)
+{% endcontent-ref %}
+
+{% content-ref url="check-payment-history.md" %}
+[check-payment-history.md](check-payment-history.md)
+{% endcontent-ref %}
+
+{% content-ref url="tax-filing-procedure.md" %}
+[tax-filing-procedure.md](tax-filing-procedure.md)
+{% endcontent-ref %}

@@ -94,19 +94,19 @@
 
 ## 페이지 <a href="#page" id="page"></a>
 
-* [개요](page/undefined.md)
-* [페이지 구성 살펴보기](page/undefined-1.md)
-* [페이지 만들고 관리하기](page/undefined-2/README.md)
-  * [페이지 만들기](page/undefined-2/undefined.md)
-  * [페이지 수정하기](page/undefined-2/undefined-1.md)
-* [페이지로 구독 받기](page/undefined-3/README.md)
-  * [페이지로 구독 신청 받는 방법 추가](page/undefined-3/undefined.md)
-  * [페이지 URL 그룹 파라미터 사용하기](page/undefined-3/url.md)
-  * [페이지 URL 사용자 정의 필드 파라미터 사용하기](page/undefined-3/url-1.md)
-* [구독자의 페이지 사용 방법](page/undefined-4/README.md)
-  * [페이지 로그인하기](page/undefined-4/undefined.md)
-  * [구독 정보 직접 수정하기](page/undefined-4/undefined-1.md)
-* [자주 묻는 질문](page/undefined-5.md)
+* [개요](page/overview.md)
+* [페이지 구성 살펴보기](page/layout.md)
+* [페이지 만들고 관리하기](page/manage/README.md)
+  * [페이지 만들기](page/manage/create.md)
+  * [페이지 수정하기](page/manage/modify.md)
+* [페이지로 구독 받기](page/subscribe/README.md)
+  * [페이지로 구독 신청 받는 방법](page/subscribe/manage.md)
+  * [페이지 URL 그룹 파라미터 사용하기](page/subscribe/group-parameter.md)
+  * [페이지 URL 사용자 정의 필드 파라미터 사용하기](page/subscribe/custom-field-parameter.md)
+* [구독자의 페이지 사용 방법](page/undefined/README.md)
+  * [페이지 로그인하기](page/undefined/undefined.md)
+  * [구독 정보 직접 수정하기](page/undefined/undefined-1.md)
+* [자주 묻는 질문](page/undefined-1.md)
 
 ## 통계 <a href="#statistics" id="statistics"></a>
 

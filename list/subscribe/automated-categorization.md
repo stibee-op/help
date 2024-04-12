@@ -107,20 +107,20 @@ https://stibee.com/api/v1.0/lists/OOOOOOOOOOOOOOO/TYW5AcyOVE51JOZtmxyaTL8zPkJ/pu
 
 \[[페이지](broken-reference)]로 구독 신청을 받는 경우에도 페이지 URL 뒤에 그룹 코드를 추가하면 구독자를 그룹으로 자동 분류할 수 있습니다. 페이지 URL은 아래의 형식으로 생성됩니다.
 
-* [https://{subdomain}.stibee.com/](https://page.stibee.com/subscriptions/%7Blistid%7D)
-* 예. [https://syoletter.stibee.com/](https://page.stibee.com/subscriptions/3)
+* https://{subdomain}.stibee.com/
+* 예. https://syoletter.stibee.com/
 
 이 URL 뒤에 아래의 형식으로 "groupIds"(대소문자 구분)라는 파라미터를 추가하면 그룹을 지정할 수 있습니다.&#x20;
 
 _\*"groupIds"의 "I"는 대문자 "I"(아이)입니다._
 
-* [https://{subdomain}.stibee.com/](https://page.stibee.com/subscriptions/%7Blistid%7D)**?groupIds={groupid}**
-* 예: [https://syoletter.stibee.com/?groupIds=44737](https://page.stibee.com/subscriptions/3?groupIds=44737)
+* https://{subdomain}.stibee.com/**?groupIds={groupid}**
+* 예: https://syoletter.stibee.com/?groupIds=44737
 
 한 번에 여러개의 그룹에 추가하려면, 쉼표(,)로 구분하여 "groupIds" 파라미터를 여러 개 추가하면 됩니다. \*"groupIds"의 "I"는 대문자 "I"(아이)입니다.
 
-* [https://{subdomain}.stibee.com/](https://page.stibee.com/subscriptions/%7Blistid%7D)**?groupIds={groupid},{groupid}**
-* 예: [https://syoletter.stibee.com/?groupIds=44737,44738](https://page.stibee.com/subscriptions/3?groupIds=44737,44738)
+* https://{subdomain}.stibee.com/**?groupIds={groupid},{groupid}**
+* 예: https://syoletter.stibee.com/?groupIds=44737,44738
 
 
 
