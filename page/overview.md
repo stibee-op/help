@@ -1,6 +1,6 @@
 # 개요
 
-### 이 글에서는 <a href="#h_01hesswj79ztnphmhwgs31j045" id="h_01hesswj79ztnphmhwgs31j045"></a>
+## 이 글에서는 <a href="#h_01hesswj79ztnphmhwgs31j045" id="h_01hesswj79ztnphmhwgs31j045"></a>
 
 발송한 이메일을 한곳에 모아 구독자에게 보여주고 구독 신청도 받을 수 있는 \[페이지] 기능의 특징을 알아봅니다.
 
@@ -20,6 +20,8 @@ _\* 페이지와_ [_아카이브_](https://help.stibee.com/hc/ko/articles/475648
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/4756454488975" alt=""><figcaption></figcaption></figure>
 
+
+
 ### 지금까지 발송한 이메일을 모아둘 수 있어요 <a href="#h_a2b1c602e0" id="h_a2b1c602e0"></a>
 
 발송한 이메일을 클릭 몇 번으로 간단하게 페이지에 발행할 수 있습니다. 이때, 페이지와 연결된 주소록에 발송한 이메일만 페이지에 발행할 수 있습니다.&#x20;
@@ -27,6 +29,8 @@ _\* 페이지와_ [_아카이브_](https://help.stibee.com/hc/ko/articles/475648
 잠재 구독자가 기존에 발행된 이메일을 확인하고 구독 신청까지 할 수 있기 때문에 구독자를 모으는 데 도움이 됩니다.&#x20;
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/4756411921295" alt=""><figcaption></figcaption></figure>
+
+
 
 ### 유료 구독자 전용 콘텐츠를 제공할 수 있어요 <a href="#h_76eea89617" id="h_76eea89617"></a>
 

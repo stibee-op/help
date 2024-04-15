@@ -91,7 +91,7 @@ DMARC 설정은 내 도메인을 관리하는 서비스(네임서버가 등록�
 * **구글 도메인**
   * [리소스 레코드](https://support.google.com/domains/answer/3290350?hl=ko\&ref\_topic=9018335)
 
-_\*구글 도메인에서 도메인을 구입하고 이 도메인에 구글 워크스페이스를 함께 사용하는 경우에는 DNS 설정을 수정할 때 주의해야 할 점이 있습니다. 자세한 내용은_ [_여기_](<../undefined (1).md#google-domain-google-workspace>)_를 참고하세요._
+_\*구글 도메인에서 도메인을 구입하고 이 도메인에 구글 워크스페이스를 함께 사용하는 경우에는 DNS 설정을 수정할 때 주의해야 할 점이 있습니다. 자세한 내용은_ [_여기_](../questions.md#google-domain-google-workspace)_를 참고하세요._
 
 
 

@@ -28,15 +28,19 @@ layout:
 * 유료 주소록: 유료 뉴스레터를 운영할 때 유료 구독자를 관리할 수 있는 기능을 제공하는 주소록입니다.&#x20;
 * 연동 주소록: 카페24, NHN커머스, 식스샵 등 솔루션을 통해 만든 온라인 홈페이지가 있는 경우 사용할 수 있는 주소록입니다. 자동으로 연동된 온라인 홈페이지의 회원 정보를 불러옵니다.
 
-이 도움말 섹션에서는 '일반 주소록'에 대해 알아봅니다. 유료 뉴스레터를 운영할 수 있는 유료 주소록 사용법이 궁금하다면 아래 링크를 클릭해서 확인해보세요.
+이 도움말 섹션에서는 '일반 주소록'에 대해 알아봅니다. 유료 뉴스레터를 운영할 수 있는 유료 주소록 사용법이 궁금하다면 아래 링크를 클릭해서 확인해 보세요.
 
-[유료 뉴스레터](broken-reference)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 
 
 외부 솔루션과 연동해서 사용할 수 있는 연동 주소록 사용법이 궁금하다면 아래 링크를 클릭해서 확인해보세요.
 
-[외부 서비스 연동](broken-reference)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 
 
@@ -78,7 +82,7 @@ layout:
 [check-subscriber-statistics](check-subscriber-statistics/)
 {% endcontent-ref %}
 
-{% content-ref url="undefined (1).md" %}
-[undefined (1).md](<undefined (1).md>)
+{% content-ref url="questions.md" %}
+[questions.md](questions.md)
 {% endcontent-ref %}
 

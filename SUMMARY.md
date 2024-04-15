@@ -65,7 +65,7 @@
   * [자동 이메일 이해하기](email/automation/understand.md)
   * [자동 이메일 사용하기](email/automation/use.md)
   * [발송하기](email/automation/send.md)
-* [자주 묻는 질문](<email/undefined (1).md>)
+* [자주 묻는 질문](email/questions.md)
 
 ## 주소록 <a href="#list" id="list"></a>
 
@@ -90,7 +90,7 @@
 * [구독자 통계 확인하기](list/check-subscriber-statistics/README.md)
   * [구독자 통계 확인하기](list/check-subscriber-statistics/understand.md)
   * [구독자별 통계 내보내기](list/check-subscriber-statistics/export.md)
-* [자주 묻는 질문](<list/undefined (1).md>)
+* [자주 묻는 질문](list/questions.md)
 
 ## 페이지 <a href="#page" id="page"></a>
 
@@ -100,38 +100,38 @@
   * [페이지 만들기](page/manage/create.md)
   * [페이지 수정하기](page/manage/modify.md)
 * [페이지로 구독 받기](page/subscribe/README.md)
-  * [페이지로 구독 신청 받는 방법](page/subscribe/manage.md)
+  * [페이지로 구독 신청 받는 방법](page/subscribe/subscribe.md)
   * [페이지 URL 그룹 파라미터 사용하기](page/subscribe/group-parameter.md)
   * [페이지 URL 사용자 정의 필드 파라미터 사용하기](page/subscribe/custom-field-parameter.md)
-* [구독자의 페이지 사용 방법](page/undefined/README.md)
-  * [페이지 로그인하기](page/undefined/undefined.md)
-  * [구독 정보 직접 수정하기](page/undefined/undefined-1.md)
-* [자주 묻는 질문](page/undefined-1.md)
+* [구독자의 페이지 사용 방법](page/subscriber-guide/README.md)
+  * [페이지 로그인하기](page/subscriber-guide/login.md)
+  * [구독 정보 직접 수정하기](page/subscriber-guide/modify.md)
+* [자주 묻는 질문](page/questions.md)
 
-## 통계 <a href="#statistics" id="statistics"></a>
+## 통계 <a href="#periodic-statistics" id="periodic-statistics"></a>
 
-* [개요](statistics/undefined.md)
-* [통계 조회하기](statistics/undefined-1.md)
-* [통계 확인하기](statistics/undefined-2.md)
-* [통계 내보내기](statistics/undefined-3.md)
-* [자주 묻는 질문](statistics/undefined-4.md)
+* [개요](periodic-statistics/undefined.md)
+* [통계 조회하기](periodic-statistics/undefined-1.md)
+* [통계 확인하기](periodic-statistics/undefined-2.md)
+* [통계 내보내기](periodic-statistics/undefined-3.md)
+* [자주 묻는 질문](periodic-statistics/undefined-4.md)
 
 ## 외부 서비스 연동 <a href="#integration" id="integration"></a>
 
 * [개요](integration/undefined.md)
-* [카페24 연동하기](integration/24/README.md)
-  * [카페24](integration/24/24.md)
-  * [연동 해제하기](integration/24/undefined.md)
-* [NHN 커머스 연동하기](integration/nhn/README.md)
-  * [NHN 커머스](integration/nhn/nhn.md)
-  * [연동 해제하기](integration/nhn/undefined.md)
-* [식스샵 연동하기](integration/undefined-1/README.md)
-  * [식스샵](integration/undefined-1/undefined.md)
-  * [연동 해제하기](integration/undefined-1/undefined-1.md)
-* [도너스 연동하기](integration/undefined-2/README.md)
-  * [도너스](integration/undefined-2/undefined.md)
-  * [연동 해제하기](integration/undefined-2/undefined-1.md)
-* [자주 묻는 질문](integration/undefined-3.md)
+* [카페24 연동하기](integration/cafe24/README.md)
+  * [카페24](integration/cafe24/integration.md)
+  * [연동 해제하기](integration/cafe24/disconnect.md)
+* [NHN 커머스 연동하기](integration/nhn-commerce/README.md)
+  * [NHN 커머스](integration/nhn-commerce/integration.md)
+  * [연동 해제하기](integration/nhn-commerce/disconnect.md)
+* [식스샵 연동하기](integration/sixshop/README.md)
+  * [식스샵](integration/sixshop/integration.md)
+  * [연동 해제하기](integration/sixshop/disconnect.md)
+* [도너스 연동하기](integration/donus/README.md)
+  * [도너스](integration/donus/integration.md)
+  * [연동 해제하기](integration/donus/disconnect.md)
+* [자주 묻는 질문](integration/questions.md)
 
 ## API, 웹훅 <a href="#api-webhook" id="api-webhook"></a>
 

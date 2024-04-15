@@ -58,20 +58,20 @@ layout:
 
 **외부 솔루션 연동하기**
 
-{% content-ref url="../../integration/24/" %}
-[24](../../integration/24/)
+{% content-ref url="../../integration/cafe24/" %}
+[cafe24](../../integration/cafe24/)
 {% endcontent-ref %}
 
-{% content-ref url="../../integration/nhn/" %}
-[nhn](../../integration/nhn/)
+{% content-ref url="../../integration/nhn-commerce/" %}
+[nhn-commerce](../../integration/nhn-commerce/)
 {% endcontent-ref %}
 
-{% content-ref url="../../integration/undefined-1/" %}
-[undefined-1](../../integration/undefined-1/)
+{% content-ref url="../../integration/sixshop/" %}
+[sixshop](../../integration/sixshop/)
 {% endcontent-ref %}
 
-{% content-ref url="../../integration/undefined-2/" %}
-[undefined-2](../../integration/undefined-2/)
+{% content-ref url="../../integration/donus/" %}
+[donus](../../integration/donus/)
 {% endcontent-ref %}
 
 

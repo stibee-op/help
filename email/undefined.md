@@ -76,8 +76,8 @@ _\*이메일을 받아보는 '수신자'를 등록하고 관리하는 방법에 
 [automation](automation/)
 {% endcontent-ref %}
 
-{% content-ref url="undefined (1).md" %}
-[undefined (1).md](<undefined (1).md>)
+{% content-ref url="questions.md" %}
+[questions.md](questions.md)
 {% endcontent-ref %}
 
 

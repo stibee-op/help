@@ -6,13 +6,17 @@
 
 ***
 
-페이지는 크게 '메인 화면'과 '콘텐츠 화면' 두 가지로 구성됩니다. 사용자가 확인하는 환경이 PC인지 모바일인지 등의 여부에 따라 자동으로 판단하여 페이지 디자인은 반응형으로 변경됩니다.&#x20;
+## 페이지 화면 이해하기
+
+페이지는 크게 '메인 화면'과 '콘텐츠 화면' 두 가지로 구성됩니다. 사용자가 확인하는 환경이 PC인지 모바일인지 여부에 따라 자동으로 판단하여 페이지 디자인은 반응형으로 변경됩니다.&#x20;
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/4756396790927/6270bfa5d7a35.png" alt=""><figcaption></figcaption></figure>
 
+
+
 ## 메인화면 <a href="#h_3e360d52f1" id="h_3e360d52f1"></a>
 
-구독자가 페이지의 URL을 통해 접근했을 때 가장 먼저 확인하는 화면입니다.\
+구독자가 페이지에 접속했을 때, 가장 먼저 확인할 수 있는 화면입니다.\
 
 
 ### 상단 메뉴바 <a href="#h_572f621896" id="h_572f621896"></a>
@@ -29,15 +33,21 @@
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/4756439542031/6270bfa97ef47.png" alt=""><figcaption></figcaption></figure>
 
+
+
 ### 헤더 <a href="#h_d38264031e" id="h_d38264031e"></a>
 
 헤더 이미지와 프로필 사진, 뉴스레터 이름, 짧은 소개글, 구독하기 링크, SNS 링크, 긴소개글 등이 표시됩니다. 내 뉴스레터가 어떤 뉴스레터인지 구독자에게 소개할 수 있는 가장 중요한 부분입니다. SNS 링크는 '기본설정'에서 수정할 수 있고 어떤 채널을 선택하는지에 따라 로고의 모양이 달라집니다.&#x20;
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/4756439560207/6270bfaae1d6a.png" alt=""><figcaption></figcaption></figure>
 
+
+
 구독자가 로그인을 하지 않은 경우에는 \[구독하기] 버튼이 표시되고 아래에 있는 '이미 구독자이신가요?' 텍스트를 클릭해 페이지에 로그인 할 수 있습니다. 구독자가 이미 로그인을 한 상황이라면 \[구독하기] 버튼은 표시되지 않습니다.&#x20;
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/4756460441103/6270bfac9a811.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### 지난 뉴스레터 <a href="#h_47a67c44d2" id="h_47a67c44d2"></a>
 
@@ -59,6 +69,8 @@
 
 ## 콘텐츠 화면 <a href="#h_5d10d4d348" id="h_5d10d4d348"></a>
 
+구독자가 개별 뉴스레터를 클릭했을 때 확인할 수 있는 화면입니다.
+
 ### 뉴스레터 본문 <a href="#h_7e5398c638" id="h_7e5398c638"></a>
 
 발행한 뉴스레터 내용이 표시되는 공간입니다. 이메일의 제목과 이메일을 발송한 날짜가 상단에 표시됩니다. '메일머지' 기능을 사용한 경우에는 '사용자 정의 필드'의 기본값으로 설정해놓은 텍스트가 자동으로 표시됩니다.
@@ -72,6 +84,8 @@
 뉴스레터 목록을 기준으로 '이전 뉴스레터' 또는 '다음 뉴스레터'를 클릭해 다른 뉴스레터로 넘어갈 수 있습니다.&#x20;
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/4756411674127/6270bfbcdfbb0.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### 푸터 <a href="#h_3d73615611" id="h_3d73615611"></a>
 

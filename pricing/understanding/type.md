@@ -74,7 +74,7 @@ _\* 스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일
 * HTML 내보내기
 * [유료 구독](../../paid-newsletter/start/)
 * [주소록 API, 웹훅](broken-reference)
-* [구독자별 통계 내보내기](../../statistics/undefined-3.md)
+* [구독자별 통계 내보내기](../../periodic-statistics/undefined-3.md)
 
 ### **구간별 사용 금액** <a href="#h_01h9t5wb74rp2cn1kvqz2v8mhy" id="h_01h9t5wb74rp2cn1kvqz2v8mhy"></a>
 
@@ -118,7 +118,7 @@ _\* 스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일
 * [콘텐츠 A/B 테스트](../../email/a-b-test.md)
 * [구독자 활동 기반 세그먼트](../../list/classify-subscribers/how-to-use-segment.md)
 * 콘텐츠 과거 기록 보기 30일
-* [기간별 통계](../../statistics/undefined-1.md)
+* [기간별 통계](../../periodic-statistics/undefined-1.md)
 * [사용자 권한 관리](../../user-workspace/settings/user-permissions.md)
 
 ### **구간별 사용 금액** <a href="#h_01h9t5vvdf0v6ngga3sgcewskv" id="h_01h9t5vvdf0v6ngga3sgcewskv"></a>

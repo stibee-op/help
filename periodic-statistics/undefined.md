@@ -1,5 +1,19 @@
 # 개요
 
+💬 이 내용은 **프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다.
+
+## 이 글에서는
+
+기간별 통계 기능을활용하면 기간별이메일 발송 성과를 한눈에 파악할 수 있습니다.
+
+
+
+{% hint style="info" %}
+이 글에서는 기간별 통계 기능에 관해 설명합니다.
+{% endhint %}
+
+
+
 * 목표
   * 통계와 이메일 단위 통계의 차이점을 이해한다.
   * 통계 기능 활용 방법을 학습한다.
@@ -7,41 +21,7 @@
   * 통계 기능과 이메일 단위 통계의 차이점
   * 통계 기능의 장점 및 사용 가능한 요금제
 
-### 💬 이 내용은 **프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다. <a href="#id-01h8b77fvmjwmda7y7ae652gjq" id="id-01h8b77fvmjwmda7y7ae652gjq"></a>
-
 &#x20;
-
-### 이 글에서는 <a href="#h_01h9mhvp9k1k2fk0nsbb27dp7s" id="h_01h9mhvp9k1k2fk0nsbb27dp7s"></a>
-
-스티비가 새롭게 제공하는 통계 기능을 살펴봅니다.
-
-통계 기능을 활용하면 이메일 발송 성과를 한눈에 파악할 수 있습니다.
-
-&#x20;
-
-### 목차 <a href="#id-01h5sb5zt1m0jq056eq4gtsgfa" id="id-01h5sb5zt1m0jq056eq4gtsgfa"></a>
-
-[기존에 제공하던 통계 기능과는 어떤 점이 다른가요?](https://help.stibee.com/hc/ko/articles/7456018757135-%EA%B8%B0%EA%B0%84%EB%B3%84-%ED%86%B5%EA%B3%84#01H5VKQRJ9CKQ8CT3PA321AJYZ)
-
-[통계 사용하기](https://help.stibee.com/hc/ko/articles/7456018757135-%EA%B8%B0%EA%B0%84%EB%B3%84-%ED%86%B5%EA%B3%84#01H68BGK0SX8ERXF9HHJ00S62F)
-
-[통계 지표 이해하기](https://help.stibee.com/hc/ko/articles/7456018757135-%EA%B8%B0%EA%B0%84%EB%B3%84-%ED%86%B5%EA%B3%84#h\_01GFME40BEFZQXWGZF0EHTQE9R)
-
-[통계 조건 설정하기 - 기간, 주소록](https://help.stibee.com/hc/ko/articles/7456018757135-%EA%B8%B0%EA%B0%84%EB%B3%84-%ED%86%B5%EA%B3%84#01H5SB5ZT1G27GAT0XDW1M9MGG)
-
-[통계 요약](https://help.stibee.com/hc/ko/articles/7456018757135-%EA%B8%B0%EA%B0%84%EB%B3%84-%ED%86%B5%EA%B3%84#h\_01GFME40BEFZQXWGZF0EHTQE9R)
-
-[구독자 현황](https://help.stibee.com/hc/ko/articles/7456018757135-%EA%B8%B0%EA%B0%84%EB%B3%84-%ED%86%B5%EA%B3%84#01H5VVQV027J5KVAW09K7NZYH7)
-
-[이메일 목록](https://help.stibee.com/hc/ko/articles/7456018757135-%EA%B8%B0%EA%B0%84%EB%B3%84-%ED%86%B5%EA%B3%84#01H5VMWKBDZFA0KHJN9DE4W93B)
-
-[이메일 발송 성과 개선해 보기](https://help.stibee.com/hc/ko/articles/7456018757135-%EA%B8%B0%EA%B0%84%EB%B3%84-%ED%86%B5%EA%B3%84#01H63MJC68P08QGZ8HVJY6BSZ8)
-
-[오픈율 개선해 보기](https://help.stibee.com/hc/ko/articles/7456018757135-%EA%B8%B0%EA%B0%84%EB%B3%84-%ED%86%B5%EA%B3%84#01H63MQXS5HMD3BASPE3NRZB6N)
-
-[장기간 오픈 기록이 없는 구독자 관리하기](https://help.stibee.com/hc/ko/articles/7456018757135-%EA%B8%B0%EA%B0%84%EB%B3%84-%ED%86%B5%EA%B3%84#h\_01GHAEF0QTENBZF15BEZJBDWX6)
-
-[다른 사용자들의 이메일 지표 확인하기](https://help.stibee.com/hc/ko/articles/7456018757135-%EA%B8%B0%EA%B0%84%EB%B3%84-%ED%86%B5%EA%B3%84#01H63N4RHT953H2X2SWMG8TNM6)
 
 &#x20;
 
