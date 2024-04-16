@@ -123,7 +123,7 @@
   * [카페24](integration/cafe24/integration.md)
   * [연동 해제하기](integration/cafe24/disconnect.md)
 * [NHN 커머스 연동하기](integration/nhn-commerce/README.md)
-  * [NHN 커머스](integration/nhn-commerce/integration.md)
+  * [(수정 필요) NHN 커머스](integration/nhn-commerce/integration.md)
   * [연동 해제하기](integration/nhn-commerce/disconnect.md)
 * [식스샵 연동하기](integration/sixshop/README.md)
   * [식스샵](integration/sixshop/integration.md)
