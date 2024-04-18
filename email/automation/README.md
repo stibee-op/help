@@ -28,11 +28,11 @@ layout:
 [understand.md](understand.md)
 {% endcontent-ref %}
 
-{% content-ref url="use.md" %}
-[use.md](use.md)
+{% content-ref url="using.md" %}
+[using.md](using.md)
 {% endcontent-ref %}
 
-{% content-ref url="send.md" %}
-[send.md](send.md)
+{% content-ref url="sending.md" %}
+[sending.md](sending.md)
 {% endcontent-ref %}
 

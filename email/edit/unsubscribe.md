@@ -22,9 +22,7 @@ layout:
 
 ## 수신거부 기능 이해하기 <a href="#h_2055ad7d04" id="h_2055ad7d04"></a>
 
-### 작동 방식 <a href="#h_c0bbff259a" id="h_c0bbff259a"></a>
-
-이메일 본문이나 구독 정보 변경 페이지에 있는 수신거부 링크를 클릭하는 경우 구독자는 아래와 같은 화면으로 이동합니다. 여기서 \[수신거부 하기] 버튼을 클릭하면 그 구독자는 '[구독 상태](../../list/adding-managing-subscriber/understanding-subscriber-status.md)'가 수신거부 상태로 변경되며 발송 대상에서 자동으로 제외됩니다.&#x20;
+이메일 본문이나 구독 정보 변경 페이지에 있는 수신거부 링크를 클릭하는 경우 구독자는 아래와 같은 화면으로 이동합니다. 여기서 \[수신거부 하기] 버튼을 클릭하면 그 구독자는 '[구독 상태](../../list/adding-managing-subscriber/understanding-subscriber-status.md)'가 수신거부 상태로 변경되며 발송 대상에서 자동으로 제외됩니다.
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
@@ -40,7 +38,12 @@ layout:
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-HTML 코드로 편집할 때도 수신거부 기능은 사용할 수 있습니다. 자세한 사용 방법은 [여기](../undefined-1/html.md#h\_99886c447f) 링크에서 참고해보세요.&#x20;
 
-수신거부 된 구독자는 이메일이 발송된 주소록에서 확인할 수 있습니다. 수신거부하는 구독자에게 수신을 거부하는 이유도 입력 받을 수 있습니다. 관련해서 자세한 내용은 [여기](../../list/adding-managing-subscriber/manage-unsubscribe.md)에서 확인해보세요.
 
+### HTML 코드로 편집할 때도 수신거부 링크 넣기  <a href="#h_99886c447f" id="h_99886c447f"></a>
+
+HTML 코드를 사용해 이메일을 편집할 때도 수신거부 링크를 넣을 수 있습니다. 자세한 사용 방법은 [#h\_99886c447f](../undefined-1/html.md#h\_99886c447f "mention") 도움말을 참고해 주세요.
+
+
+
+수신거부 된 구독자는 이메일이 발송된 주소록에서 확인할 수 있습니다. 수신거부 하려는 구독자에게 수신을 거부하는 이유도 입력 받을 수 있습니다. 관련해 자세한 내용은 [수신거부 관리하기](../../list/adding-managing-subscriber/manage-unsubscribe.md) 도움말에서 확인해 보세요.

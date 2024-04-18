@@ -24,11 +24,11 @@ layout:
 
 화면 오른쪽 편집 상자 화면에서 \[버튼] 상자를 왼쪽 화면에 끌어다 놓거나 구성 요소 중 \[버튼]을 선택해서 추가할 수 있습니다. 추가한 버튼을 클릭해 텍스트를 입력하고 편집할 수 있습니다. 텍스트 크기를 바꾸면, 버튼의 크기 역시 텍스트 크기에 맞춰 변경됩니다.
 
-_\*_[_메일머지_](https://help.stibee.com/hc/ko/articles/5734981600271) _기능을 사용하여 버튼 클릭 성과를 개선할 수 있습니다._
+[_메일머지_](../personalized-merge.md) _기능을 사용하여 버튼 클릭 성과를 개선할 수 있습니다._
 
 ![](https://help.stibee.com/hc/article\_attachments/4889206699023/\_\_\_\_\_\_\_\_\_\_\_11.gif)
 
-&#x20;
+
 
 ### 버튼에 링크 삽입하기 <a href="#h_01ggs74hn1na9h0h7em1xfngbt" id="h_01ggs74hn1na9h0h7em1xfngbt"></a>
 
@@ -36,7 +36,7 @@ _\*_[_메일머지_](https://help.stibee.com/hc/ko/articles/5734981600271) _기�
 
 ![](https://help.stibee.com/hc/article\_attachments/4889219859983/\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.png)
 
-&#x20;
+
 
 ### 버튼 스타일, 정렬 변경하기 <a href="#h_01ggs74ppr0w6gy35f4xbjxxjb" id="h_01ggs74ppr0w6gy35f4xbjxxjb"></a>
 

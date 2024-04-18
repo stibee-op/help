@@ -12,11 +12,15 @@
 
 페이지 구독 폼 URL에 이름 필드(name)를 파라미터로 미리 입력했을 때와 입력하지 않았을 때의 차이를 아래 이미지를 통해서 확인할 수 있습니다.
 
+
+
 ### **파라미터가 적용되지 않은 페이지 URL**
 
 * https://{subdomain}.stibee.com (subdomain은 페이지 설정에 따라 달라집니다.)&#x20;
 
 <figure><img src="https://downloads.intercomcdn.com/i/o/528915667/9985ee2c3099df298980205b/%ED%8E%98%EC%9D%B4%EC%A7%80%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98%ED%95%84%EB%93%9C%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0_1.gif" alt=""><figcaption></figcaption></figure>
+
+
 
 ### **파라미터가 적용된 페이지 URL**
 
@@ -24,13 +28,13 @@
 
 <figure><img src="https://downloads.intercomcdn.com/i/o/528916728/c5df1c069d7c9bfffede6c13/%ED%8E%98%EC%9D%B4%EC%A7%80%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98%ED%95%84%EB%93%9C%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0_2.gif" alt=""><figcaption></figcaption></figure>
 
-페이지가 아닌 일반 [구독 폼](../../list/subscribe/manage.md#h\_01ggcbmn0c7yk62feh8bwj7xg6)에서도 파라미터를 추가해 사용할 수 있습니다. 사용자 정의 필드 URL 파라미터를 사용해 [추천인 기능](https://help.stibee.com/hc/ko/articles/4971631583119)을 구현할 수 있고 이외에도 다양한 정보를 수집할 수 있습니다.\
+페이지가 아닌 일반 [구독 폼](../../list/gather-subscribers/form.md#h\_01ggcbmn0c7yk62feh8bwj7xg6)에서도 파라미터를 추가해 사용할 수 있습니다. 사용자 정의 필드 URL 파라미터를 사용해 [추천인 기능](https://help.stibee.com/hc/ko/articles/4971631583119)을 구현할 수 있고 이외에도 다양한 정보를 수집할 수 있습니다.\
 \
 페이지에서도 그룹으로 자동 배정이 되는 그룹 파라미터 기능을 사용할 수 있습니다.\
 \
 페이지에서 구독 시 그룹으로 자동 분류하고 싶다면 [그룹 파라미터](https://help.stibee.com/hc/ko/articles/4756482888463)를 페이지 URL 뒤에 넣어서 사용하면 됩니다.
 
-&#x20;
+
 
 ## 페이지 URL 사용자 정의 필드 파라미터 사용하기 <a href="#h_b4c1c49ce3" id="h_b4c1c49ce3"></a>
 
@@ -49,6 +53,8 @@ field\_key는 사용자 정의 필드의 키 값으로 주소록 내 사용자 �
 &#x20;
 
 <figure><img src="https://downloads.intercomcdn.com/i/o/528908888/5134a4728a731241b7fd2c2b/%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98%ED%95%84%EB%93%9C%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0_3.gif" alt=""><figcaption></figcaption></figure>
+
+
 
 ## **주의사항** <a href="#h_e7965db396" id="h_e7965db396"></a>
 

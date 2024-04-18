@@ -60,8 +60,8 @@ _\*이메일을 받아보는 '수신자'를 등록하고 관리하는 방법에 
 [a-b-test.md](a-b-test.md)
 {% endcontent-ref %}
 
-{% content-ref url="sender/" %}
-[sender](sender/)
+{% content-ref url="managing-sender/" %}
+[managing-sender](managing-sender/)
 {% endcontent-ref %}
 
 {% content-ref url="analytics/" %}

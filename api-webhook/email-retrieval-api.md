@@ -147,7 +147,7 @@ Content-Type: application/json
 1. 주소록 목록에서 주소록 이름을 클릭하여 \[주소록 대시보드]로 이동
 2. 브라우저에 표시되는 URL에서 'lists' 뒤의 숫자를 확인
 
-이메일 목록 조회 요청의 응답 예시는 [여기](api-1.md#undefined-2)를 참고해주세요.
+이메일 목록 조회 요청의 응답 예시는 [여기](email-retrieval-api.md#undefined-2)를 참고해주세요.
 
 
 
@@ -212,7 +212,7 @@ Content-Type: application/json
   * D: 수신거부
 * **createdTime**: 상세 통계가 기록된 날짜입니다.&#x20;
 
-이메일 상세  통계조회 요청의 응답 예시는 [여기](api-1.md#undefined-2)를 참고해주세요.
+이메일 상세  통계조회 요청의 응답 예시는 [여기](email-retrieval-api.md#undefined-2)를 참고해주세요.
 
 
 

@@ -8,8 +8,8 @@
 
 아래 아티클을클릭해 궁금한 내용을 바로 확인하거나 \[다음] 버튼을 클릭해 단계별 아티클을 확인해 보세요.
 
-{% content-ref url="subscribe.md" %}
-[subscribe.md](subscribe.md)
+{% content-ref url="form.md" %}
+[form.md](form.md)
 {% endcontent-ref %}
 
 {% content-ref url="understand-type-change.md" %}

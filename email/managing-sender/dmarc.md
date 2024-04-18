@@ -27,7 +27,7 @@ DMARC 설정은 SPF, DKIM 설정과 더불어 수신 서비스에서 이메일�
 DMARC 설정은 발신자 주소의 도메인에 하는 설정입니다. 예를 들어 사용하는 발신자 이메일 주소가 dooly@stibee.com이라면 예시 주소의 도메인에 해당하는 stibee.com에 추가하는 설정입니다. 따라서 직접 가지고 있는 도메인에만 설정이 가능하며 공개된 이메일 주소(예: naver.com, gmail.com, kakao.com 등) 또는 본인이 가지고 있지 않은 도메인(예: stibee.com)에는 설정이 불가능합니다.
 
 가지고 있는 도메인이 없다면 아래 도움말을 참고해 나만의 발신자 이메일 주소를 만들어보세요.\
-[나만의 발신자 주소를 만들고 싶어요](../../getting-started/prepare-for-start/custom-sender-address.md)
+[나만의 발신자 주소를 만들고 싶어요](../../getting-started/preparing-for-start/custom-sender-address.md)
 
 DMARC 설정을 위해서는 도메인에 미리 스티비의 SPF, DKIM 설정을 추가해야 합니다. SPF, DKIM 설정을 한 뒤 최소 48시간이 지난 뒤 DMARC 설정을 시도하시기를 바랍니다. SPF, DKIM 설정을 하는 방법은 [SPF, DKIM 설정 이해하기](dmarc.md#h\_01hkkyss98y0fzps03mx9zjhy2)를 참고해 주세요.
 

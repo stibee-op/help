@@ -338,7 +338,7 @@ _API 요청은 1초당 10회, 1회당 256KB로 제한되어 있습니다._
 1. 주소록 목록에서 주소록 이름을 클릭하여 \[주소록 대시보드]로 이동
 2. 브라우저에 표시되는 URL에서 'lists' 뒤의 숫자를 확인
 
-주소록 목록 조회 요청의 응답 예제는 [여기](api.md#undefined-6)에서 확인할 수 있습니다.
+주소록 목록 조회 요청의 응답 예제는 [여기](list-api.md#undefined-6)에서 확인할 수 있습니다.
 
 
 
@@ -418,7 +418,7 @@ _API 요청은 1초당 10회, 1회당 256KB로 제한되어 있습니다._
 3. 그룹 이름을 클릭하여 그룹 필터링이 적용된 구독자 목록으로 이동
 4. 브라우저에 표시되는 URL에서 'subscribed' 뒤의 숫자를 확인
 
-그룹 조회 요청의 응답 예제는 [여기](api.md#undefined-7)에서 확인할 수 있습니다.
+그룹 조회 요청의 응답 예제는 [여기](list-api.md#undefined-7)에서 확인할 수 있습니다.
 
 
 
@@ -491,7 +491,7 @@ Content-Type: application/json
   * HttpStatusCode: Http 에러 코드
   * Message: 에러 메시지
 
-구독자 숫자 조회의 요청 및 응답 예제는 [여기](api.md#undefined-7)를 참고하세요.
+구독자 숫자 조회의 요청 및 응답 예제는 [여기](list-api.md#undefined-7)를 참고하세요.
 
 
 
@@ -576,7 +576,7 @@ Content-Type: application/json
   * HttpStatusCode: Http 에러 코드
   * Message: 에러 메시지
 
-구독자 목록 조회의 요청 및 응답 예제는 [여기](api.md#undefined-9)를 참고하세요.
+구독자 목록 조회의 요청 및 응답 예제는 [여기](list-api.md#undefined-9)를 참고하세요.
 
 ## _AP_I 요청 및 응답 예제
 

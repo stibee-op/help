@@ -28,6 +28,8 @@ layout:
 * 유료 주소록: 유료 뉴스레터를 운영할 때 유료 구독자를 관리할 수 있는 기능을 제공하는 주소록입니다.&#x20;
 * 연동 주소록: 카페24, NHN커머스, 식스샵 등 솔루션을 통해 만든 온라인 홈페이지가 있는 경우 사용할 수 있는 주소록입니다. 자동으로 연동된 온라인 홈페이지의 회원 정보를 불러옵니다.
 
+
+
 이 도움말 섹션에서는 '일반 주소록'에 대해 알아봅니다. 유료 뉴스레터를 운영할 수 있는 유료 주소록 사용법이 궁금하다면 아래 링크를 클릭해서 확인해 보세요.
 
 {% content-ref url="broken-reference" %}
@@ -54,7 +56,7 @@ layout:
 * 그룹: 구독자를 직접 원하는 기준에 따라 수동으로 분류할 수 있는 \[그룹]을 생성할 수 있습니다.
 * 사용자 정의 필드: 이메일 주소 외 다른 구독자 정보를 받고 싶을 때 정보를 입력 받을 필드를 생성하고 관리할 수 있습니다.
 * 구독 화면: 구독 폼, 구독 확인 이메일, 구독자 정보 변경 화면 등 구독 기능과 관련된 관리 기능을 사용할 수 있습니다.
-* 웹훅: 외부로 주소록의 구독자 변경, 추가 등 업데이트가 일어날 때 알림을 줄 수 있는 기능입니다. 웹훅에 대한 자세한 내용은 [여기](../api-webhook/undefined-1.md)에서 확인해보세요.
+* 웹훅: 외부로 주소록의 구독자 변경, 추가 등 업데이트가 일어날 때 알림을 줄 수 있는 기능입니다. 웹훅에 대한 자세한 내용은 [여기](../api-webhook/list-webhook.md)에서 확인해보세요.
 
 <figure><img src="../.gitbook/assets/주소록 화면.png" alt=""><figcaption></figcaption></figure>
 
@@ -62,8 +64,8 @@ layout:
 
 화면 아래의 \[다음]을 클릭해 주소록 사용 방법을 단계적으로 알아보거나 다음 문서 링크를 클릭해 원하는 내용으로 바로 넘어가 주소록 기능을 학습해보세요.
 
-{% content-ref url="creating-managing-list/" %}
-[creating-managing-list](creating-managing-list/)
+{% content-ref url="creating-and-managing/" %}
+[creating-and-managing](creating-and-managing/)
 {% endcontent-ref %}
 
 {% content-ref url="adding-managing-subscriber/" %}
@@ -74,8 +76,8 @@ layout:
 [classify-subscribers](classify-subscribers/)
 {% endcontent-ref %}
 
-{% content-ref url="subscribe/" %}
-[subscribe](subscribe/)
+{% content-ref url="gather-subscribers/" %}
+[gather-subscribers](gather-subscribers/)
 {% endcontent-ref %}
 
 {% content-ref url="check-subscriber-statistics/" %}

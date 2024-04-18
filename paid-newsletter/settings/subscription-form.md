@@ -28,8 +28,6 @@ layout:
 \
 유료 주소록의 구독 폼은 '이메일 주소'외에 '이름'과 '전화번호'를 필수로 입력하도록 설정되어 있습니다. 이 외의 다른 항목을 추가하고 싶은 경우에는 주소록의 '[사용자 정의 필드](https://help.stibee.com/hc/ko/articles/4756474066575)'에서 새로운 필드를 추가하면 됩니다.
 
-&#x20;
-
 <figure><img src="https://help.stibee.com/hc/article_attachments/4756483803535" alt=""><figcaption></figcaption></figure>
 
 ## 구독 폼에 표시될 구독 유형 설정하기 <a href="#h_5b83ac38d2" id="h_5b83ac38d2"></a>
@@ -51,4 +49,4 @@ layout:
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/4756483969423" alt=""><figcaption></figcaption></figure>
 
-구독 폼 헤더 이미지 설정, 제목, 내용, 자동입력방지(reCAPTCHA), 버튼 편집 등은 기존 일반 주소록의 구독 폼 사용 방법과 동일합니다. 관련한 자세한 내용은 [구독 폼은 어떻게 사용하나요?](../../list/subscribe/manage.md) 아티클을 참고하세요.
+구독 폼 헤더 이미지 설정, 제목, 내용, 자동입력방지(reCAPTCHA), 버튼 편집 등은 기존 일반 주소록의 구독 폼 사용 방법과 동일합니다. 관련한 자세한 내용은 [구독 폼은 어떻게 사용하나요?](../../list/gather-subscribers/form.md) 아티클을 참고하세요.

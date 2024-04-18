@@ -51,7 +51,7 @@ layout:
 \
 가능하다면 공개된 도메인(예: naver.com 등)이 아닌 내 도메인을 사용하는 발신자 주소를 만들어 사용하는 것을 권장합니다. 나만의  발신자 주소를 만드는 법이 궁금하다면 아래 도움말을 참고해보세요.
 
-[나만의 발신자 주소 만들기](../../getting-started/prepare-for-start/custom-sender-address.md)
+[나만의 발신자 주소 만들기](../../getting-started/preparing-for-start/custom-sender-address.md)
 
 
 
@@ -102,7 +102,7 @@ layout:
 ### 기술적인 조치 <a href="#h_01hkxtbqn0d3ajqn511p2dre3q" id="h_01hkxtbqn0d3ajqn511p2dre3q"></a>
 
 기술적인 조치는 자신만의 개인화된 이메일 주소를 가지고 있는 경우에만 설정할 수 있습니다. 예를 들어 [gmail.com](http://gmail.com/), [naver.com](http://naver.com/) 등의 공개된 도메인을 가진 발신자 주소를 사용하는 경우에는 조치가 불가능합니다. 공개된 이메일 주소를 사용해 이메일을 보내는 경우 이메일의 전송 속도가 제한되거나 차단되거나 스팸으로 표시될 수 있습니다. 따라서 도메인을 구입해 나만의 발신자 주소를 만들어 사용하는 것을 권장합니다.\
-[나만의 발신자 주소 만들기](../../getting-started/prepare-for-start/custom-sender-address.md)
+[나만의 발신자 주소 만들기](../../getting-started/preparing-for-start/custom-sender-address.md)
 
 
 

@@ -10,10 +10,10 @@
 [subscribe.md](subscribe.md)
 {% endcontent-ref %}
 
-{% content-ref url="group-parameter.md" %}
-[group-parameter.md](group-parameter.md)
+{% content-ref url="how-to-use-group-parameter.md" %}
+[how-to-use-group-parameter.md](how-to-use-group-parameter.md)
 {% endcontent-ref %}
 
-{% content-ref url="custom-field-parameter.md" %}
-[custom-field-parameter.md](custom-field-parameter.md)
+{% content-ref url="how-to-use-custom-field-parameter.md" %}
+[how-to-use-custom-field-parameter.md](how-to-use-custom-field-parameter.md)
 {% endcontent-ref %}

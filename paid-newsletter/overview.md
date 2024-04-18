@@ -20,8 +20,8 @@
 
 유료 뉴스레터를 발행하기 위한 모든 내용을 이섹션에서 확인할 수 있습니다. 아래 '다음' 버튼을 클릭해 단계적으로 학습하거나 원하는 아티클로 바로 넘어가 필요한 내용을 확인해 보세요.&#x20;
 
-{% content-ref url="start/" %}
-[start](start/)
+{% content-ref url="getting-started/" %}
+[getting-started](getting-started/)
 {% endcontent-ref %}
 
 {% content-ref url="settings/" %}
@@ -32,7 +32,7 @@
 [send.md](send.md)
 {% endcontent-ref %}
 
-{% content-ref url="subscribe/" %}
-[subscribe](subscribe/)
+{% content-ref url="managing-paid-subscribers/" %}
+[managing-paid-subscribers](managing-paid-subscribers/)
 {% endcontent-ref %}
 

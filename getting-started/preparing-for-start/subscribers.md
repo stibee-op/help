@@ -26,14 +26,14 @@ layout:
 
 #### 구독 폼 사용법
 
-{% content-ref url="../../list/subscribe/manage.md" %}
-[manage.md](../../list/subscribe/manage.md)
+{% content-ref url="../../list/gather-subscribers/form.md" %}
+[form.md](../../list/gather-subscribers/form.md)
 {% endcontent-ref %}
 
 #### 페이지 사용법
 
-{% content-ref url="../../page/manage/create.md" %}
-[create.md](../../page/manage/create.md)
+{% content-ref url="../../page/creating-and-managing/create.md" %}
+[create.md](../../page/creating-and-managing/create.md)
 {% endcontent-ref %}
 
 
@@ -78,7 +78,6 @@ layout:
 
 **API 사용해서 직접 연동하기**
 
-{% content-ref url="../../api-webhook/api.md" %}
-[api.md](../../api-webhook/api.md)
+{% content-ref url="../../api-webhook/list-api.md" %}
+[list-api.md](../../api-webhook/list-api.md)
 {% endcontent-ref %}
-

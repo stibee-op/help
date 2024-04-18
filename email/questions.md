@@ -85,7 +85,7 @@ layout:
 
 <summary>이메일 제목에 구독자 이름을 넣을 수 있나요?</summary>
 
-[메일머지](edit/merge.md) 기능을 사용하면 구독자 별로 개인화된 이메일을 만들 수 있습니다.
+[메일머지](edit/personalized-merge.md) 기능을 사용하면 구독자 별로 개인화된 이메일을 만들 수 있습니다.
 
 </details>
 
@@ -97,9 +97,9 @@ layout:
 \
 버튼이나 텍스트에 링크를 넣는 방법은 아래 도움말을 참고해주세요.
 
-[텍스트 편집하기](edit/use/text.md)
+[텍스트 편집하기](edit/using-edit-box/text.md)
 
-[버튼 상자 사용하기](edit/use/button.md)\
+[버튼 상자 사용하기](edit/using-edit-box/button.md)\
 
 
 뉴스레터로 만족도 조사를 받는 방법에 대해서는 스티비 블로그를 통해 소개한 적이 있습니다. 자세한 내용은 아래 블로그 글을 참고해주세요.
@@ -319,7 +319,7 @@ PDF로 저장하거나 이미지로 캡처하고 싶은 경우에는 이메일�
 \
 이때 "stibee.com에서 보낸 이메일이지만 내 도메인(예: domain.com, test.com 등)에서 보낸 것이 맞다."를 알려주기 위한 설정을 통해 도메인의 신뢰도를 확보하면 경고 메시지가 표시되는 것을 방지할 수 있습니다. \
 \
-이 설정을 SPF, DKIM 설정이라고 합니다. SPF, DKIM 설정에 대한 자세한 내용은 [여기](sender/spf-dkim.md)를 참고해주세요.
+이 설정을 SPF, DKIM 설정이라고 합니다. SPF, DKIM 설정에 대한 자세한 내용은 [여기](managing-sender/spf-dkim.md)를 참고해주세요.
 
 </details>
 
@@ -371,7 +371,7 @@ HTML 코드를 입력했을 때 오류메시지가 뜨거나 작성한 내용이
 
 <summary>자동 이메일이 발송되지 않았어요.</summary>
 
-자동 이메일이 '[실행중](automation/send.md#undefined-3)' 상태이지만 발송되지 않는 경우에는 아래 가이드에 따라 이상이 없는지 여부를 확인해보세요. 만약에 이상이 없다면 스티비 고객센터를 통해 문의해주시면 자세하게 답변을 받아보실 수 있습니다.
+자동 이메일이 '[실행중](automation/sending.md#undefined-3)' 상태이지만 발송되지 않는 경우에는 아래 가이드에 따라 이상이 없는지 여부를 확인해보세요. 만약에 이상이 없다면 스티비 고객센터를 통해 문의해주시면 자세하게 답변을 받아보실 수 있습니다.
 
 ### 주소록에 구독자가 등록되어 있는지 확인해보세요 <a href="#h_371ba26571" id="h_371ba26571"></a>
 
@@ -501,8 +501,8 @@ DMARC 레코드
 <summary>구글 도메인(Google domain)에서 구입한 도메인에 구글 워크스페이스(Google Workspace)를 사용하고 있을 때는 어떻게 설정하나요?</summary>
 
 _\* 이 도움말은 구글 도메인(Google domain)에서 도메인을 구입했고, 구글 워크스페이스(Google workspace)를 함께 사용하는 경우 SPF, DKIM, DMARC를 설정하는 방법에 관한 내용입니다. 일반적인 SPF, DKIM 설정 방법은 아래 링크를  참고 하세요._\
-[SPF, DKIM 설정 이해하기 ](sender/spf-dkim.md)\
-[DMARC 설정 이해하기](sender/dmarc.md)
+[SPF, DKIM 설정 이해하기 ](managing-sender/spf-dkim.md)\
+[DMARC 설정 이해하기](managing-sender/dmarc.md)
 
 
 

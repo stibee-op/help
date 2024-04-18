@@ -26,8 +26,8 @@ layout:
 
 아래 도움말을 참고해 카페24와 스티비를 연동해 보세요. 언제든지 연동을 해제할 수도 있습니다.
 
-{% content-ref url="integration.md" %}
-[integration.md](integration.md)
+{% content-ref url="how-to-integration.md" %}
+[how-to-integration.md](how-to-integration.md)
 {% endcontent-ref %}
 
 {% content-ref url="disconnect.md" %}

@@ -18,8 +18,8 @@ NHN 커머스 회원 DB와 스티비 주소록을 연동하면 NHN 커머스 솔
 
 아래 도움말을 참고해 NHN 커머스와 스티비를 연동해 보세요. 연동은 언제든지 해제할 수도 있습니다.
 
-{% content-ref url="integration.md" %}
-[integration.md](integration.md)
+{% content-ref url="how-to-integration.md" %}
+[how-to-integration.md](how-to-integration.md)
 {% endcontent-ref %}
 
 {% content-ref url="disconnect.md" %}
