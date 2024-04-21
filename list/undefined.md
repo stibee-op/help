@@ -16,7 +16,7 @@ layout:
 
 ## 이 글에서는&#x20;
 
-주소록의 기본적인 사용방법에 대해 알아봅니다.
+주소록의 기본적인 사용 방법에 대해 알아봅니다.
 
 ***
 
@@ -30,7 +30,7 @@ layout:
 
 
 
-이 도움말 섹션에서는 '일반 주소록'에 대해 알아봅니다. 유료 뉴스레터를 운영할 수 있는 유료 주소록 사용법이 궁금하다면 아래 링크를 클릭해서 확인해 보세요.
+이 도움말 섹션에서는 '일반 주소록'에 대해 알아봅니다. 유료 뉴스레터를 운영할 수 있는 유료 주소록 사용법이 궁금하다면 아래 도움말을 클릭해서 확인해 보세요.
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
@@ -38,7 +38,7 @@ layout:
 
 
 
-외부 솔루션과 연동해서 사용할 수 있는 연동 주소록 사용법이 궁금하다면 아래 링크를 클릭해서 확인해보세요.
+외부 솔루션과 연동해서 사용할 수 있는 연동 주소록 사용법이 궁금하다면 아래 도움말을 클릭해서 확인해보세요.
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
@@ -62,7 +62,7 @@ layout:
 
 ## 섹션 살펴보기
 
-화면 아래의 \[다음]을 클릭해 주소록 사용 방법을 단계적으로 알아보거나 다음 문서 링크를 클릭해 원하는 내용으로 바로 넘어가 주소록 기능을 학습해보세요.
+화면 아래의 \[다음]을 클릭해 주소록 사용 방법을 단계적으로 학습할 수 있습니다. 또는 도움말을 클릭해 원하는 내용으로 바로 넘어갈 수도 있어요.
 
 {% content-ref url="creating-and-managing/" %}
 [creating-and-managing](creating-and-managing/)
@@ -87,4 +87,3 @@ layout:
 {% content-ref url="questions.md" %}
 [questions.md](questions.md)
 {% endcontent-ref %}
-
