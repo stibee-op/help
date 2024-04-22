@@ -22,8 +22,8 @@ layout:
 [다른 아카이브에 발행한 이메일 옮기기](https://app.gitbook.com/s/wBrOzEHYdkzYspUyGYcs/tip/undefined)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-3.md" %}
-[undefined-3.md](undefined-3.md)
+{% content-ref url="email-content-mismatch.md" %}
+[email-content-mismatch.md](email-content-mismatch.md)
 {% endcontent-ref %}
 
 {% content-ref url="https://app.gitbook.com/s/wBrOzEHYdkzYspUyGYcs/tip/undefined-1" %}

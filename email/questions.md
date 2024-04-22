@@ -32,7 +32,7 @@ layout:
 
 스팸으로 표시되는 비율을 줄일 수 있는 다른 방법이 궁금하다면 아래 글도 참고해보세요.
 
-[undefined-4.md](../tip/overview/undefined-4.md "mention")
+[prevent-email-spam-marking.md](../tip/overview/prevent-email-spam-marking.md "mention")
 
 </details>
 
@@ -65,7 +65,7 @@ layout:
 
 그 외 다른 해결 방법이 궁금하다면 아래 도움말도 참고해보세요.
 
-[undefined-3.md](../tip/overview/undefined-3.md "mention")
+[email-content-mismatch.md](../tip/overview/email-content-mismatch.md "mention")
 
 </details>
 

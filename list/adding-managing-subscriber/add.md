@@ -86,7 +86,7 @@ layout:
 
 ### 추가할 구독자 정보 입력하기 <a href="#h_01gftbveaq9zd6s6n9t7mrn0vq" id="h_01gftbveaq9zd6s6n9t7mrn0vq"></a>
 
-\[파일로 추가하기]화면으로 이동했다면, 먼저 추가하고 싶은 '구독자 목록 파일'을 업로드해야 합니다. 파일을 어떻게 만들어야 할지 모르겠다면 [샘플 파일](https://stibee.com/download/%EC%8A%A4%ED%8B%B0%EB%B9%84\_%EC%A3%BC%EC%86%8C%EB%A1%9D\_%EC%83%98%ED%94%8C.csv)을 내려받아 사용하세요. (만약 파일 업로드가 되지 않는다면 [여기](../../tip/overview/undefined.md)를 참고하세요.)
+\[파일로 추가하기]화면으로 이동했다면, 먼저 추가하고 싶은 '구독자 목록 파일'을 업로드해야 합니다. 파일을 어떻게 만들어야 할지 모르겠다면 [샘플 파일](https://stibee.com/download/%EC%8A%A4%ED%8B%B0%EB%B9%84\_%EC%A3%BC%EC%86%8C%EB%A1%9D\_%EC%83%98%ED%94%8C.csv)을 내려받아 사용하세요. (만약 파일 업로드가 되지 않는다면 [여기](../../tip/overview/subscriber-upload-issues.md)를 참고하세요.)
 
 1. \[파일로 추가하기]화면에서 \[파일 선택]버튼을 클릭합니다.
 2. 추가하고 싶은 구독자 목록(CSV)을 업로드합니다.
