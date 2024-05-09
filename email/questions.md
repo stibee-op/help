@@ -14,7 +14,7 @@ layout:
 
 # 자주 묻는 질문
 
-## 이메일 편집, 발송
+## 이메일 편집, 발송 <a href="#id" id="id"></a>
 
 <details>
 
@@ -381,7 +381,7 @@ HTML 코드를 입력했을 때 오류메시지가 뜨거나 작성한 내용이
 
 
 
-## 이메일 자동화
+## 이메일 자동화 <a href="#id" id="id"></a>
 
 <details>
 
@@ -458,7 +458,7 @@ HTML 코드를 입력했을 때 오류메시지가 뜨거나 작성한 내용이
 
 
 
-## SPF/DKIM, DMARC 설정
+## SPF/DKIM, DMARC 설정 <a href="#id" id="id"></a>
 
 <details>
 
@@ -568,7 +568,7 @@ _\* 이 도움말은 구글 도메인(Google domain)에서 도메인을 구입�
 
 
 
-## 통계
+## 통계 <a href="#id" id="id"></a>
 
 <details>
 
