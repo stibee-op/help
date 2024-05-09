@@ -4,7 +4,7 @@
 
 <details>
 
-<summary><strong>스티비 요금제 종류가 궁금해요.</strong></summary>
+<summary>스티비 요금제 종류가 궁금해요.</summary>
 
 스티비 요금제는 스타터, 스탠다드, 프로, 엔터프라이즈로 구성됩니다. 요금제에 따라 사용할 수 있는 기능에 차이가 있습니다. 자세한 내용은 [요금제 종류](understanding/type.md) 아티클에서 확인해 주세요.
 
@@ -105,7 +105,7 @@
 
 <details>
 
-<summary><strong>해외 카드로 결제할 수 있나요?</strong></summary>
+<summary>해외 카드로 결제할 수 있나요?</summary>
 
 해외 카드 결제는 지원하지 않습니다.
 
@@ -113,7 +113,7 @@
 
 <details>
 
-<summary><strong>계좌이체로 결제하고 싶어요. 또한, 세금계산서 발급이 가능한가요?</strong></summary>
+<summary>계좌이체로 결제하고 싶어요. 또한, 세금계산서 발급이 가능한가요?</summary>
 
 1 년치 요금을 한 번에 결제하는 '연간결제'는 계좌이체로 결제할 수 있으며, 세금계산서 발급을 지원합니다. 연간 결제 계좌이체 결제를 원한다면, [여기에서](https://stb.do/upgradenew) 신청해 주세요.
 
@@ -178,7 +178,7 @@
 
 <details>
 
-<summary><strong>결제 진행 중 오류 메시지가 뜨면서 결제가 이루어지지 않아요.</strong></summary>
+<summary>결제 진행 중 오류 메시지가 뜨면서 결제가 이루어지지 않아요.</summary>
 
 올바른 카드 정보를 입력했는지 확인해 주세요.
 
