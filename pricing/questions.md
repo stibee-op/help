@@ -1,6 +1,6 @@
 # 자주 묻는 질문
 
-## 요금제 종류
+## 요금제 종류 <a href="#plan" id="plan"></a>
 
 <details>
 
@@ -32,7 +32,7 @@
 
 </details>
 
-## 요금제 결제하기
+## 요금제 결제하기 <a href="#paid" id="paid"></a>
 
 <details>
 
@@ -174,7 +174,7 @@
 
 </details>
 
-## 요금제 결제 실패, 환불
+## 요금제 결제 실패, 환불 <a href="#payment-failure-refund" id="payment-failure-refund"></a>
 
 <details>
 
