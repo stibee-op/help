@@ -64,7 +64,7 @@ _기본적인 이메일 생성과 발송에 대한 자세한 내용은_ [_첫 �
 
 &#x20;
 
-### 스티비를 이미 사용하고 있는 경우 <a href="#id-01hg7zx5ncg2yvggbxcnz1qk8q" id="id-01hg7zx5ncg2yvggbxcnz1qk8q"></a>
+### 스티비를 이미 사용하고 있는 경우 <a href="#already-in-use" id="already-in-use"></a>
 
 기존에 사용하던 워크스페이스와 카페24 회원 DB를 연동할 수 있습니다. [스티비 홈페이지](https://stibee.com/)에 로그인한 뒤, \[워크스페이스 이름 → 워크스페이스 설정 → 외부 서비스 연동]에서 스티비와 카페24를 연동해 주세요.
 

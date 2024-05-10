@@ -45,7 +45,7 @@ layout:
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/5691803444623" alt=""><figcaption></figcaption></figure>
 
-## 발송 실패 통계 확인하기 <a href="#h_01gfmfz4vxk1e8gds0mhbttyrm" id="h_01gfmfz4vxk1e8gds0mhbttyrm"></a>
+## 발송 실패 통계 확인하기 <a href="#bounce" id="bounce"></a>
 
 스티비에서 보낸 이메일 발송 요청에 대해 종종 구독자가 사용하는 이메일 수신 서비스에서 발송실패 응답을 보내는 경우가 있습니다. 이런 경우 구독자에게 보낸 이메일은 '발송실패'로 기록됩니다.  이메일이 발송 실패되는 경우를 '반송, 바운스(Bounce)'라고 합니다. 발송실패는 이유에 따라 다시 '소프트바운스(Soft bounce)'와 '하드바운스(Hard bounce)'로 나뉩니다.&#x20;
 

@@ -47,7 +47,7 @@ layout:
 
 ![](https://help.stibee.com/hc/article\_attachments/5673375544335)
 
-### 구독자가 직접 변경하기 <a href="#h_01gfaz1dqx7jfb1mr5w6myba1t" id="h_01gfaz1dqx7jfb1mr5w6myba1t"></a>
+### 구독자가 직접 변경하기 <a href="#self-serve" id="self-serve"></a>
 
 \[구독 정보 변경 화면]에서 구독자가 자신의 구독 정보를 직접 변경할 수 있습니다. 구독 폼의 구독 확인 메시지나 구독 확인 화면 등의 링크를 통해서 구독자가 구독 정보 변경 화면에 접근할 수 있습니다. \[주소록 - 구독 관리 화면 - 구독 정보 변경 화면]에서 URL을 확인할 수 있습니다.
 
