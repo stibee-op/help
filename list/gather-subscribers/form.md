@@ -16,7 +16,7 @@ layout:
 
 ## 이 글에서는 <a href="#h_01hfna4p2h02gnxargrck6ft11" id="h_01hfna4p2h02gnxargrck6ft11"></a>
 
-구독 폼을 사용해 구독 신청을 받는 방법에 대해서 알아봅니다.
+구독 폼을 사용해 구독 신청을 받는 방법에 대해서 알아보고, 구독 폼 정보를 수정하는 방법을 살펴봅니다.
 
 ***
 
@@ -26,15 +26,19 @@ layout:
 
 \[구독 폼]을 사용하면 구독자가 자신의 이메일 주소를 입력해 직접 구독을 신청할 수 있습니다. \[구독 폼]은 \[주소록]과 연결되며, \[주소록]을 만들 때마다 자동으로 새로운 \[구독 폼]이 함께 만들어집니다. 구독 폼이 어떻게 생겼는지 궁금하다면 아래 예시를 참고해 보세요.
 
-* <스요레터>, [https://page.stibee.com/subscriptions/3](https://page.stibee.com/subscriptions/3)
+* <스티비 뉴스레터>, [https://page.stibee.com/subscriptions/3](https://page.stibee.com/subscriptions/3)
 * <위클리D>, [https://page.stibee.com/subscriptions/29178](https://page.stibee.com/subscriptions/29178)
 * <커피팟>, [https://page.stibee.com/subscriptions/52057](https://page.stibee.com/subscriptions/52057)
 
-\[구독 폼]을 통해 구독 신청한 구독자는 자동으로 \[구독 폼]과 연결된 \[주소록]에 구독자로 등록됩니다. \[주소록 → 구독자 목록]에서 추가된 구독자 명단을 확인할 수 있습니다. 구독자는 구독을 완료한 화면에서 자신이 구독한 날짜와 시간을 확인할 수 있습니다.
-
 ![](https://help.stibee.com/hc/article\_attachments/9037475183247)
 
+
+
+\[구독 폼]을 통해 구독 신청한 구독자는 자동으로 \[구독 폼]과 연결된 \[주소록]에 구독자로 등록됩니다. \[주소록 → 구독자 목록]에서 추가된 구독자 명단을 확인할 수 있습니다. 구독자는 구독을 완료한 화면에서 자신이 구독한 날짜와 시간을 확인할 수 있습니다.
+
 ![](https://help.stibee.com/hc/article\_attachments/9037491680015)
+
+
 
 ## 구독 폼 설정하기 <a href="#h_01ggcbmvd2pm93jfz25n2z1kc2" id="h_01ggcbmvd2pm93jfz25n2z1kc2"></a>
 
@@ -43,29 +47,41 @@ layout:
 1. 화면 위쪽 메인 메뉴에서 \[주소록]을 클릭합니다.
 2. 주소록 목록에서 구독 신청을 받고 싶은 주소록을 클릭합니다.
 3. 주소록 메뉴에서 \[구독 관리 화면]을 클릭합니다.
-4. 구독 관리 화면 가장 위쪽에 있는 \[구독 폼] 세션을 찾습니다.
+4. 구독 관리 화면 가장 위쪽에 있는 \[구독 폼] 섹션을 찾습니다.
 
-구독 폼 세션에서는 구독 폼 활성화 여부, 구독 폼 URL 확인, 구독 폼 수정, 구독 폼 코드 확인 등 구독 폼 사용과 관련된 기본적인 설정을 수정하거나 확인할 수 있습니다.
+구독 폼 섹션에서는 구독 폼 활성화 여부, 구독 폼 URL 확인, 구독 폼 수정, 구독 폼 코드 확인 등 구독 폼 사용과 관련한기본적인 설정을 수정하거나 확인할 수 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/8544081392015" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/구독 폼 설정하기.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+
+
+## 언어 선택하기
+
+구독 폼, 구독 확인 이메일, 구독 정보 변경 화면에서 사용할 언어를 선택할 수 있습니다. 기본적으로 '한국어'로 표시되며, '영어'로 표시되도록 하려면 사용할 언어를 수정해 주시면 됩니다.
+
+<figure><img src="../../.gitbook/assets/구독 폼 언어 선택하기.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/img_subscribe_lang.gif" alt=""><figcaption></figcaption></figure>
+
+
 
 ## 구독 폼 활성화 설정 <a href="#id-01hh1t1m2chswbxwsz6rvfh143" id="id-01hh1t1m2chswbxwsz6rvfh143"></a>
 
-\[구독 폼] 활성화 여부를 설정합니다. 구독 폼을 활성화하는 경우 \[구독 폼]의 URL을 통해 페이지에 접근한 경우 구독 신청 폼이 표시됩니다. 구독 폼을 비활성화하는 경우 \[구독 폼]의 URL을 통해 페이지에 접근한 경우 구독 신청 폼이 표시되지 않습니다. 구독 신청을 받고 싶은 경우라면 기본적으로 '활성화' 상태로 설정하면 됩니다.
+구독 폼 활성화 여부를 설정할 수 있습니다.
 
-![구독 화면2.png](https://help.stibee.com/hc/article\_attachments/8544107373967)
+구독 폼을 활성화하는 경우, 구독 폼 URL을 통해 페이지에 접근하면 '구독 신청 폼'이 표시됩니다. 구독 폼을 비활성화하는 경우, 구독 폼 URL을 통해 페이지에 접근한 경우 '구독 신청 폼'이 표시되지 않습니다. 구독 신청을 받고 싶다면 '활성화' 상태로 설정하면 됩니다.
 
-&#x20;
+![](https://help.stibee.com/hc/article\_attachments/8544107373967)
+
+
 
 ## 구독 폼 URL 확인하기 <a href="#h_01ggcbn8tqknhrf5wfxpwzn8gv" id="h_01ggcbn8tqknhrf5wfxpwzn8gv"></a>
 
 \[구독 폼] 페이지로 연결되는 URL을 확인할 수 있습니다. URL은 자동으로 생성됩니다. \[URL 복사하기]를 클릭하면 URL이 자동으로 복사됩니다.
 
-![stibee-help-list-form\_URL.png](https://help.stibee.com/hc/article\_attachments/5748947069967)
+![](https://help.stibee.com/hc/article\_attachments/5748947069967)
 
-&#x20;
+
 
 ## 구독 폼 정보 수정하기 <a href="#h_01ggcbne0xarz8tagb4jctaedf" id="h_01ggcbne0xarz8tagb4jctaedf"></a>
 
@@ -82,11 +98,15 @@ layout:
 
 ![](https://help.stibee.com/hc/article\_attachments/8544175653391)
 
+
+
 ## 구독 확인 이메일 <a href="#h_01ggcbnt2yhr650w6tfy7w97tc" id="h_01ggcbnt2yhr650w6tfy7w97tc"></a>
 
 \[구독 확인 이메일]은 구독 폼으로 구독을 신청했을 때 발송되는 이메일입니다. \[구독 확인 이메일]을 사용하도록 설정한 상태로 구독 신청을 한 경우에는 구독 확인 이메일에서 구독 확인을 하지 않으면 구독자로 추가되지 않습니다.&#x20;
 
 _\* 구독 확인 링크의 유효 기간은 24시간입니다. 24시간이 지났다면 다시 구독 신청을 진행해 새로운 확인 링크를 받아 구독 신청을 완료해야 합니다._
+
+
 
 ### 발송 여부 설정하기
 
@@ -115,11 +135,15 @@ _\* 주소록의 이름을 수정해도 구독 확인 이메일의 내용이 함
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/8552393601807" alt=""><figcaption></figcaption></figure>
 
+
+
 ## 내 홈페이지에 구독 폼 넣기
 
-구독 폼을내 홈페이지나 블로그 일부분에 넣어서 사용하는 것도 가능합니다. 스티비에서는 \[구독 폼]을 직접 편집할 수 있는 HTML 코드로 제공하고 있습니다.&#x20;
+구독 폼을 내 홈페이지나 블로그 일부분에 넣어서 사용하는 것도 가능합니다. 스티비에서는 \[구독 폼]을 직접 편집할 수 있는 HTML 코드로 제공하고 있습니다.&#x20;
 
-직접 운영하고 있는 홈페이지나 블로그의 일부분에 \[구독 폼]을 넣어 사용하고 싶은 경우, 이 HTML 코드를 활용할 수 있습니다. 이렇게 하면 원하는 위치에 원하는 형태로 \[구독 폼]을 노출할 수 있습니다. 만약, 코드를 직접 수정할 수 있다면 독립된 구독 페이지를 사용할 때보다 더 자유롭게 구성, 디자인을 수정할 수 있습니다.
+직접 운영하는 홈페이지나 블로그의 일부분에 \[구독 폼]을 넣어 사용하고 싶은 경우, 이 HTML 코드를 활용할 수 있습니다. 이렇게 하면 원하는 위치에 원하는 형태로 \[구독 폼]을 노출할 수 있습니다. 만약, 코드를 직접 수정할 수 있다면 독립된 구독 페이지를 사용할 때보다 더 자유롭게 구성, 디자인을 수정할 수 있습니다.
+
+
 
 ### HTML 코드로 구독 폼 내보내기 <a href="#h_01hpraaenyynxnqpdr3g4m9t4y" id="h_01hpraaenyynxnqpdr3g4m9t4y"></a>
 
@@ -138,14 +162,13 @@ _\* 주소록의 이름을 수정해도 구독 확인 이메일의 내용이 함
 * <어피티>, [https://uppity.co.kr/](https://uppity.co.kr/)
 * <부딩>, [https://www.booding.co/](https://www.booding.co/)
 
-\
 구독 폼, 구독 확인 이메일, 구독 정보 변경 화면에서 사용할 언어를 '영어'로 선택하면, 영어 버전의 HTML 코드도 사용할 수 있습니다. 구독 폼 제목, 내용, 구독자 입력 항목, 버튼에 표시되는 문구 등은 \[수정하기]를 통해 직접 변경해 주셔야 합니다.
 
 &#x20;
 
 ### 주의사항 <a href="#h_3ba18b72a2" id="h_3ba18b72a2"></a>
 
-구독 폼을 HTML 코드로 편집할 때 몇가지 주의사항이 있습니다.&#x20;
+구독 폼을 HTML 코드로 편집할 때 몇 가지 주의사항이 있습니다.&#x20;
 
 * \[코드 내보내기]는 HTML 코드만 제공합니다. CSS 수정 등 디자인 작업은 직접 진행해야 합니다.
 * HTML 태그 'id'와 'class' 값을 수정하는 경우 구독 폼이 정상적으로 작동하지 않을 수 있습니다.

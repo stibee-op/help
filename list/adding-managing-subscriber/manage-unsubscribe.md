@@ -52,21 +52,25 @@ layout:
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/4756466326287" alt=""><figcaption></figcaption></figure>
 
+
+
 '수신거부 이유 입력받기' 기능이 ON 상태인 경우 수신거부 화면에는 수신거부 이유를 입력받을 수 있는 창이 표시됩니다. 수신거부 이유 입력은 주관식(최대 50자까지 입력 가능)으로만 입력할 수 있습니다.
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/4756467502351" alt=""><figcaption></figcaption></figure>
+
+
 
 구독자별 '활동' 기록 탭에서 수신거부 사유를 확인할 수 있습니다. \[주소록 → 구독자 목록 오른쪽 '내보내기'] 버튼을 통해 구독자 목록 내보내기, [통계 내보내기](../check-subscriber-statistics/export.md) 에도 파일 내에서 수신거부 사유를 확인할 수 있습니다.
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/4756489031055" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+
 
 ## 수신거부 화면 언어 설정하기 <a href="#h_01hgaf2jgtj77h3jbpjm6hxh4v" id="h_01hgaf2jgtj77h3jbpjm6hxh4v"></a>
 
-수신거부 화면에 표시되는 언어를 설정할 수 있습니다. 언어는 기본적으로 '한국어+영어'가 표시되도록 설정되어 있습니다. 표시되는 언어를 영어 또는 일본어로 표시되도록 하려면 사용할 언어를 수정해 주시면 됩니다. \[주소록 → 구독 화면 → 수신 거부 화면 → 언어]에서 설정에서 표시 언어를 수정할 수 있습니다.
+수신거부 화면에 표시되는 언어를 설정할 수 있습니다. 언어는 기본적으로 '한국어+영어'가 표시되도록 설정되어 있습니다. 표시되는 언어를 '영어' 또는 '일본어'로 표시되도록 하려면 사용할 언어를 수정해 주시면 됩니다. \[주소록 → 구독 화면 → 수신 거부 화면 → 언어]에서 설정에서 표시 언어를 수정할 수 있습니다.
 
-![](https://help.stibee.com/hc/article\_attachments/8472120090639)
+<figure><img src="../../.gitbook/assets/수신거부 화면 언어 설정하기.png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.stibee.com/hc/article\_attachments/8472120091023)
 
