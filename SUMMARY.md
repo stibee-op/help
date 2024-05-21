@@ -143,7 +143,6 @@
 * [이메일 조회 API](api-webhook/email-retrieval-api.md)
 * [자동 이메일 API](api-webhook/auto-email-api.md)
 * [자주 묻는 질문](api-webhook/questions.md)
-* [비공개 API](api-webhook/api.md)
 
 ## 유료 뉴스레터 <a href="#paid-newsletter" id="paid-newsletter"></a>
 
