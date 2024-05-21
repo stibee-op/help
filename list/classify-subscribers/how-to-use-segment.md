@@ -63,7 +63,7 @@ layout:
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/7549798024847" alt=""><figcaption></figcaption></figure>
 
-### **구독자 정보와 구독자 활동** <a href="#h_01h6dg2nvh908nv71n5s7n6kz9" id="h_01h6dg2nvh908nv71n5s7n6kz9"></a>
+### **구독자 정보와 구독자 활동** <a href="#information-activity" id="information-activity"></a>
 
 {% hint style="info" %}
 '구독자 활동' 조건은 프로와 엔터프라이즈 요금제부터 사용할 수 있습니다.
