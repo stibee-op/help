@@ -46,11 +46,15 @@ layout:
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+
+
 ### 발송정보
 
 \[발송정보]에서는 보낼 이메일의 제목과 보내는 사람 정보(발신자 이메일 주소, 발신자 이름) 그리고 미리보기 텍스트를 설정합니다. 원하는 이메일의 제목과 발신자 이름을 입력하고 다음 단계로 넘어갑니다. '발송정보' 단계에 대해 더 자세한 내용이 궁금하다면 아래 링크를 참고해주세요. 정보를 모두 설정했다면, \[다음 → 템플릿]단계로 이동하세요.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### 템플릿
 
@@ -59,11 +63,11 @@ layout:
 1. 스티비에서 제공하는 디자인 템플릿을 선택하고 템플릿의 내용을 편집하여 사용할 수 있습니다.
 2. \[빈 템플릿, 1단 템플릿, 2단 템플릿, 1+2단 템플릿]을 선택하여 처음부터 완전히 편집할 수 있습니다.
 
-**\* 주의:** 이메일 편집 중 템플릿을 변경하는 경우, 앞서 작업한 내용이 모두 사라지니 주의하세요.
+**\* 주의:** 이메일 편집 중 템플릿을 변경하는 경우, 앞서 작업한 내용이 모두 사라집니다.
 
 <figure><img src="../.gitbook/assets/템플릿.png" alt=""><figcaption></figcaption></figure>
 
-원하는 템플릿을 선택한 뒤 \[다음 → 콘텐츠] 단계로 이동하세요.
+원하는 템플릿을 선택한 뒤, \[다음 → 콘텐츠] 단계로 이동하세요.
 
 
 
@@ -71,9 +75,11 @@ layout:
 
 \[콘텐츠] 단계에서는 에디터를 사용해 이메일을 편집할 수 있습니다. 오른쪽 편집 상자에서 원하는 상자를 클릭 후 드래그하여 왼쪽 편집 화면에 추가할 수 있습니다. 스티비에서는 텍스트, 이미지, 버튼 상자 등을 제공하고 있습니다.&#x20;
 
-콘텐츠 편집 방법에 대한 더 자세한 내용은 아래 도움말을 참고해주세요.
+콘텐츠 편집 방법에 대한 더 자세한 내용은 아래 도움말을 참고해 주세요.
 
-[undefined-1](../email/undefined-1/ "mention")
+{% content-ref url="../email/undefined-1/" %}
+[undefined-1](../email/undefined-1/)
+{% endcontent-ref %}
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -112,5 +118,7 @@ _테스트 이메일은 발송 횟수 제한이 없습니다. 실제 발송 전�
 **\*주의:** 발송된 이메일은 이메일의 특성상 내용 수정, 발송 취소, 회수가 불가능합니다. 마지막까지 전체 내용을 잘 입력했는지 꼼꼼히 확인해 주세요.
 
 <figure><img src="../.gitbook/assets/발송하기.gif" alt=""><figcaption></figcaption></figure>
+
+
 
 이메일을 발송했다면 [이메일 대시보드](../email/analytics/email-statistics-dashboard.md)에서 발송 통계를 확인할 수 있습니다. 만약에 발송한 이메일을 받아보지 못했다면 여기를 참고해 보세요.&#x20;

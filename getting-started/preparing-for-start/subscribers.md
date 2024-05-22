@@ -46,7 +46,7 @@ layout:
 
 
 
-#### 구독자 수동으로 추가하기
+### 구독자 수동으로 추가하기
 
 {% content-ref url="../../list/adding-managing-subscriber/add.md" %}
 [add.md](../../list/adding-managing-subscriber/add.md)
@@ -54,9 +54,9 @@ layout:
 
 
 
-#### 구독자 자동으로 추가하기
+### 구독자 자동으로 추가하기
 
-**외부 솔루션 연동하기**
+#### **외부 솔루션 연동하기**
 
 {% content-ref url="../../integration/cafe24/" %}
 [cafe24](../../integration/cafe24/)
@@ -76,7 +76,7 @@ layout:
 
 
 
-**API 사용해서 직접 연동하기**
+#### **API 사용해서 직접 연동하기**
 
 {% content-ref url="../../api-webhook/list-api.md" %}
 [list-api.md](../../api-webhook/list-api.md)
