@@ -20,7 +20,7 @@ layout:
 
 ***
 
-## 파라미터 이해하기
+## 파라미터 이해하기 <a href="#parameter" id="parameter"></a>
 
 그룹으로 특정 구독자를 분류하거나 구독자 정보에 특정 값이 자동으로 입력되게 하려면 우선 파라미터의 개념을 알아두는 것이 좋습니다.
 
@@ -48,9 +48,9 @@ https://page.stibee.com/subscriptions/187957?name=스티비
 
 
 
-## 그룹으로 자동 분류하기
+## 그룹으로 자동 분류하기 <a href="#parameter-group" id="parameter-group"></a>
 
-### 스티비 구독 폼을 사용하는 경우 <a href="#undefined" id="undefined"></a>
+### 스티비 구독 폼을 사용하는 경우 <a href="#parameter-group-form" id="parameter-group-form"></a>
 
 구독 폼 URL 뒤에 'groupIds(대소문자 구분)'라는 파라미터를 추가하면 구독자가 추가될 그룹을 지정할 수 있습니다. 그룹에 할당된 고유 아이디(group id)는 아래 방법으로 확인할 수 있습니다.
 
