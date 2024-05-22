@@ -103,7 +103,7 @@ https://stibee.com/api/v1.0/lists/OOOOOOOOOOOOOOO/TYW5AcyOVE51JOZtmxyaTL8zPkJ/pu
 
 
 
-### 페이지를 사용하는 경우
+### 페이지를 사용하는 경우 <a href="#page" id="page"></a>
 
 \[[페이지](broken-reference)]로 구독 신청을 받는 경우에도 페이지 URL 뒤에 그룹 코드를 추가하면 구독자를 그룹으로 자동 분류할 수 있습니다. 페이지 URL은 아래의 형식으로 생성됩니다.
 

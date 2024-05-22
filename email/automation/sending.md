@@ -117,7 +117,7 @@ _\*종료된 자동 이메일은 재시작할 수 없습니다._\
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/4756478628111" alt=""><figcaption></figcaption></figure>
 
-## 자동 이메일의 상태 <a href="#h_01gh88jd5svt98k9ww8swjzm83" id="h_01gh88jd5svt98k9ww8swjzm83"></a>
+## 자동 이메일의 상태 <a href="#status" id="status"></a>
 
 \[자동 이메일]의 상태는 '작성중, 실행중, 예약중 일시정지, 종료'의 4가지로 구분할 수 있습니다. \[자동 이메일]은 \[트리거]로 설정한 조건을 만족할 때마다 자동으로 설정해둔 이메일이 발송되는 방식입니다. \[트리거]는 \[자동 이메일]이 '실행중'인 경우에만 동작합니다. 자동 이메일의 상태에 대해 더 자세한 내용이 궁금한 경우에는 [여기](https://help.stibee.com/hc/ko/articles/4756473085455)를 참고해주세요.
 

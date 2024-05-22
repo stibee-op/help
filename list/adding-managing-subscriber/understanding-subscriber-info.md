@@ -123,7 +123,7 @@ layout:
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/6631072877071" alt=""><figcaption></figcaption></figure>
 
-## 광고성 정보 수신 동의 이해하기 <a href="#h_01gfa42p5rm26z5b69z987t2be" id="h_01gfa42p5rm26z5b69z987t2be"></a>
+## 광고성 정보 수신 동의 이해하기 <a href="#understanding-promotional-consent" id="understanding-promotional-consent"></a>
 
 스티비에서는 구독 상태 중 \[수신거부] 외에 구독자의 사용자 정의 필드 값으로 \[광고성 정보 수신동의] 필드를 기본 값으로 제공합니다.  종종 필요에 따라 '광고성 정보'에 해당하는 경우 구독자 중 광고성 정보 수신에만 동의한 구독자에게 이메일을 보내야 하는 경우가 있습니다.
 
@@ -133,7 +133,7 @@ layout:
 
 
 
-### 필수, 선택 동의 여부 설정하기
+### 필수, 선택 동의 여부 설정하기 <a href="#setting-consent-options" id="setting-consent-options"></a>
 
 사용자 정의 필드에서 '광고성 정보 수신 동의'를 필수로 받을지 선택으로 받을지 설정할 수 있습니다. 주소록에서 '사용자 정의 필드' 를 클릭합니다. 화면 아래쪽에 '기본 필드' 로 이동하여 목록 가장 상단에 이름이 '광고성 정보 수신 동의'인 필드를 찾습니다. 이 필드의 '필수 입력' 여부를 체크하는 박스을 체크하거나 체크 해제하여 '필수','선택' 여부를 설정할 수 있습니다.
 

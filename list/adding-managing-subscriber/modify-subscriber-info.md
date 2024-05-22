@@ -165,7 +165,7 @@ listid(주소록에 할당된 고유의 아이디)는 아래의 방법으로 확
 
 ![](https://help.stibee.com/hc/article\_attachments/5673375464719)
 
-## 광고성 정보 수신 동의 여부 변경하기
+## 광고성 정보 수신 동의 여부 변경하기 <a href="#change-promotional-consent" id="change-promotional-consent"></a>
 
 관리자가 구독자를 신규로 '직접 추가'하거나 '파일로 추가'할 때, 광고성 정보 수신 동의 여부를 선택할 수 있으며, 주소록에 이미 추가되어 있는 구독자의 광고성 정보 수신 동의 여부를 한 명씩 혹은 여러 명을 한꺼번에 변경할 수 있습니다.\
 

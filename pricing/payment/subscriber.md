@@ -22,7 +22,7 @@ layout:
 
 ***
 
-## 구독자가 늘었을 때 <a href="#id-01ha9a7pkrxj0gtq0fv3x8j8vd" id="id-01ha9a7pkrxj0gtq0fv3x8j8vd"></a>
+## 구독자가 늘었을 때 <a href="#extra-charges" id="extra-charges"></a>
 
 ### 추가 요금 이해하기 <a href="#h_01habcxf9wqq867nxnea9x5ym5" id="h_01habcxf9wqq867nxnea9x5ym5"></a>
 
