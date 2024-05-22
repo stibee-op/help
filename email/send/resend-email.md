@@ -42,24 +42,25 @@ layout:
 
 이메일 목록에서 다시 발송을 하고 싶은 이메일을 클릭합니다.&#x20;
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756414238863/6270c129be4e4.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6270c129be4e4.gif" alt=""><figcaption></figcaption></figure>
 
 \
 이메일 대시보드의 '상세통계'에서 \[발송 실패]를 클릭합니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756487170959/6270c12c0c8b4.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6270c12c0c8b4.gif" alt=""><figcaption></figcaption></figure>
 
 \
-발송 실패 상세 통계 페이지에서 \[다시 발송하기]를를 클릭합니다.
+발송 실패 상세 통계 페이지에서 \[다시 발송하기]를 클릭합니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756501291663/6270c12e9a5f0.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6270c12e9a5f0.gif" alt=""><figcaption></figcaption></figure>
+
+
 
 \[다시 발송하기]를 클릭하면 ‘발송 실패’ 명단에 있는 모든 구독자를 새로운 그룹으로 추가하기 위한 그룹 생성 화면이 표시됩니다.  여기에서 ‘발송실패’ 구독자들이 등록될 새로운 주소록 그룹의 이름을 입력하고 \[만들기] 버튼을 클릭합니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756501314063/6270c1325824b.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6270c1325824b.gif" alt=""><figcaption></figcaption></figure>
 
 \
 \[만들기] 버튼을 클릭하면 ‘발송 실패’ 명단의 구독자들이 모두 새롭게 생성한 그룹으로 할당되고 발송한 이메일이 ‘복사’ 됩니다. 이후 자동으로 복사된 이메일의 이메일 편집 단계 중 ‘주소록’ 선택 단계로 이동합니다. 주소록 단계에서는 앞서 새롭게 생성한 그룹이 기본적으로 선택이 되어 있는 상태로 표시됩니다. 이후 이메일 발송은 일반적인 이메일 편집, 발송 절차와 똑같이 진행하면 됩니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756414317071/6270c134955e5.gif" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/6270c134955e5 (1).gif" alt=""><figcaption></figcaption></figure>
