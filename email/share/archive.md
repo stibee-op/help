@@ -82,7 +82,7 @@ layout:
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/4756397488655/6270bffdc8bb1.gif" alt=""><figcaption></figcaption></figure>
 
-## 아카이브 이해하기
+## 아카이브 이해하기 <a href="#archiving" id="archiving"></a>
 
 아카이브는 주소록 당 1개의 아카이브가 자동으로 생성됩니다. 그리고 아카이브가 연결된 주소록에 발송한 이메일만 아카이브로 발행할 수 있습니다.  예를 들면 A주소록과 B주소록이 있다고 가정해보면&#x20;
 
