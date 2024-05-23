@@ -167,7 +167,7 @@
   * [유료 구독 정산하기](paid-newsletter/billing/process.md)
   * [유료 구독 결제 내역 확인하기](paid-newsletter/billing/check-payment-history.md)
   * [유료 구독 정산에 대한 세무 신고 방법](paid-newsletter/billing/tax-filing-procedure.md)
-* [자주 묻는 질문](paid-newsletter/undefined.md)
+* [자주 묻는 질문](paid-newsletter/questions.md)
 
 ## 사용자 및 워크스페이스 <a href="#user-workspace" id="user-workspace"></a>
 
