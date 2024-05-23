@@ -207,6 +207,7 @@
   * [구독자 파일 업로드가 안 될 때](tip/overview/subscriber-upload-issues.md)
   * [편집기의 텍스트가 모두 볼드 스타일이 적용된 것처럼 보일 때](tip/overview/editor-text-bold-appearance.md)
   * [이메일을 보냈지만 받아보지 못했을 때](tip/overview/email-not-received.md)
+  * [발송 서버 예외 처리하기](tip/overview/send-server-permit-list.md)
   * [카페24 회원에게 웰컴 이메일 보내기](tip/overview/welcome-email-cafe24-members.md)
   * [받아 본 이메일이 편집한 내용과 다르게 표시될 때](tip/overview/email-content-mismatch.md)
   * [이메일 스팸 표시 방지하기](tip/overview/prevent-email-spam-marking.md)

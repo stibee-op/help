@@ -14,7 +14,7 @@ layout:
 
 # 구독자 파일 업로드가 안 될 때
 
-### 언제 필요한가요? <a href="#h_01he4y5t97t3c2qjd5nbbww9qr" id="h_01he4y5t97t3c2qjd5nbbww9qr"></a>
+## 언제 필요한가요? <a href="#h_01he4y5t97t3c2qjd5nbbww9qr" id="h_01he4y5t97t3c2qjd5nbbww9qr"></a>
 
 * 구독자를 파일로 업로드했는데 오류가 발생할 때
 * 구독자를 파일로 업로드했지만 \[다음] 버튼이 활성화되지 않아 진행이 어려울 때
