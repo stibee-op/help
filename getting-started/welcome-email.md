@@ -36,7 +36,7 @@ layout:
 
 \[이메일 → 새로 만들기 → 자동 이메일 만들기]를 클릭해 자동 이메일을 만듭니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

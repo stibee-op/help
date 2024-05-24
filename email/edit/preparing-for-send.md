@@ -44,7 +44,7 @@ A/B 테스트에 대한 자세한 내용은 아래 도움말을 참고해 보세
 [a-b-test.md](../a-b-test.md)
 {% endcontent-ref %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -57,7 +57,7 @@ A/B 테스트에 대한 자세한 내용은 아래 도움말을 참고해 보세
 * 발신자 이메일 주소: 이메일을 보내는 사람으로 설정할 '이메일 주소'를 입력합니다. 처음 가입할 때 사용한 워크스페이스 소유자 이메일 주소 외에 다른 이메일 주소를 추가해 사용하는 것도 가능합니다. 자세한 내용은 [managing-sender](../managing-sender/ "mention") 도움말을 참고해 보세요.
 * 미리보기 텍스트: 이메일의 목록에서 표시되는 이메일 일부 내용을 편집할 수 있는 기능입니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
