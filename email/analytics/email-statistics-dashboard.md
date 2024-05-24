@@ -48,10 +48,9 @@ layout:
 1. 화면 가장 위쪽의 메인 메뉴에서 \[이메일]을 클릭합니다.
 2. 이메일 목록에서 통계를 확인하고 싶은 \[이메일]을 클릭합니다.
 
-\[이메일 대시보드]에서는 \[이메일 정보, 성과, 발송 후 24시간 오픈, 클릭, 많이 클릭한 링크, 많이 오픈/클릭한 구독자 Top5, 모바일 VS 데스크탑 비교] 정보를 확인할 수 있습니다.\
+\[이메일 대시보드]에서는 \[이메일 정보, 성과, 발송 후 24시간 오픈, 클릭, 많이 클릭한 링크, 많이 오픈/클릭한 구독자 Top5, 모바일 VS 데스크탑 비교] 정보를 확인할 수 있습니다.
 
-
-<figure><img src="https://help.stibee.com/hc/article_attachments/5691551817359" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (2).gif" alt=""><figcaption></figcaption></figure>
 
 ### 이메일 정보 <a href="#h_01gfme53d5r9tnwaf8kjczyc7p" id="h_01gfme53d5r9tnwaf8kjczyc7p"></a>
 
@@ -59,13 +58,13 @@ layout:
 \
 발송이 완료된 이메일을 \[HTML 내보내기]를 통해 HTML 코드 형태로 만들어 외부에 게시하거나 자주 확인하는 이메일은 \[태그]를 달아 관리할 수 있습니다. 이메일별로 \[콘텐츠 공유 설정]을 수정하거나 이메일을 발송한 주소록과 연결된 \[아카이브], \[페이지]에 발송한 이메일을 발행하는 것도 가능합니다.
 
-![stibee-email-statistics-summary.png](https://help.stibee.com/hc/article\_attachments/5687603229199)
+<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 성과 <a href="#h_01gfme5827x3qnzq6vthctscbf" id="h_01gfme5827x3qnzq6vthctscbf"></a>
 
 발송한 이메일의 \[발송 성공율, 오픈율, 클릭율, 수신거부] 현황을 확인할 수 있습니다. 비교 기준은 가장 최근에 같은 주소록에 발송된 이메일입니다. 오픈, 클릭은 이벤트가 일어날 때마다 계속해서 추적되고 수시로 업데이트됩니다.&#x20;
 
-![stibee-email-statistics-performance.png](https://help.stibee.com/hc/article\_attachments/5691405199631)
+<figure><img src="../../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -73,25 +72,25 @@ layout:
 
 이메일이 발송 완료된 이후 첫 24시간 동안 구독자가 언제 이메일을 가장 많이 '오픈, 클릭' 했는지를 확인할 수 있습니다. 그래프에는 첫 24시간 동안의 성과만 기록이 되지만 발송 성과는 이벤트(예: 오픈, 클릭)가 일어날 때마다 계속해서 추적됩니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/5691398722703" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 많이 클릭한 링크 <a href="#h_01gfme5neqqhady8hebg3gf86t" id="h_01gfme5neqqhady8hebg3gf86t"></a>
 
 이메일에 있는 링크 중 가장 많이 클릭이 일어난 상위 다섯개의 링크 정보를 확인할 수 있습니다. 전체 링크의 클릭 기록은 이메일 화면 상단의 \[상세 통계]에서 확인할 수 있습니다. \[클릭맵 보기]를 클릭하면 링크 클릭현황을 시각화하여 확인할 수 있습니다.
 
-![](https://help.stibee.com/hc/article\_attachments/5691449953935)
+<figure><img src="../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
 
 \[클릭맵 보기] 기능을 사용하면 이메일에 포함된 링크가 전체 클릭과 비교하여 얼마나 클릭했는지 보기 쉽게 확인할 수 있습니다. 상세 통계의 \[링크별 클릭]에서도 데이터를 확인할 수 있지만 \[클릭맵] 기능을 사용하면 어떤 링크가 얼마나 클릭되었는지를 '시각적으로 쉽게 파악'할 수 있습니다. 버튼, 텍스트, 이미지 등 링크가 들어간 곳이라면 모두 성과를 확인할 수 있습니다.\
 \
 \[클릭맵]에 표시된 숫자를 클릭하면 각 링크별로 어떤 구독자가 클릭을 했는지 상세 데이터도 확인할 수 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/5691460295695" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 많이 오픈/클릭한 구독자 Top5 <a href="#h_01gfme5tqghvjbtg2v0y07f1t2" id="h_01gfme5tqghvjbtg2v0y07f1t2"></a>
 
 이메일을 가장 많이 오픈하거나 클릭한 구독자의 목록을 확인할 수 있습니다. 구독자 이메일 주소를 클릭하면 각 구독자별 상세 활동 기록을 확인할 수 있습니다. 다른 구독자의 오픈, 클릭 기록은 이메일 화면 상단의 \[상세 통계]에서 확인할 수 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/5691450568591" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 모바일 VS 데스크톱 <a href="#h_01gfme609q1xnpn5h4jcvsdp0x" id="h_01gfme609q1xnpn5h4jcvsdp0x"></a>
 
@@ -110,7 +109,7 @@ layout:
 * 일반적인 수신 서비스(예: 네이버, G메일 등)의 형식을 따르지 않기 때문에 판단이 불가능한 경우에 해당합니다.
 * 보통 썬더메일 등 그룹웨어(업무용 소프트웨어) 환경에서 확인한 경우일 가능성이 높습니다. 보다 정확한 통계 분류를 위해 기타로 분류되는 기준은 계속해서 모니터링하여 업데이트하고 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/5691405139471" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 상세통계 확인하기 <a href="#h_b39175c058" id="h_b39175c058"></a>
 
@@ -121,6 +120,6 @@ layout:
 3. \[상세통계 ∨]를 클릭하면 \[발송 성공, 발송 실패, 수신거부, 오픈, 오픈안함, 클릭, 클릭 안 함, 링크별 클릭]항목이 표시됩니다. 확인하고 싶은 상세통계 항목을 클릭합니다.
 4. 클릭한 \[상세통계]의 구독자 목록을 확인합니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/5691449909775" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9 (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;상세 통계에 대한 자세한 내용은 다음 버튼을 클릭해 확인해보세요.

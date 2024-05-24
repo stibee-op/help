@@ -42,13 +42,13 @@ layout:
 
 일반 주소록으로 발송된 이메일은 페이지에 접속한 모든 사용자가 확인할 수 있는 '전체 공개'로만 발행이 가능합니다.  일반 주소록으로 메일을 발송할 때 예약하기 혹은 발송하기 버튼을 클릭한 후 발행 설정을 할 수 있습니다.
 
-![](https://help.stibee.com/hc/article\_attachments/5128451175823/\_\_\_\_\_\_\_\_\_\_\_\_\_\_2.gif)
+<figure><img src="../../.gitbook/assets/1 (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### 발송 완료된 이메일 발행하기 <a href="#h_c78ace908d" id="h_c78ace908d"></a>
 
 이메일 목록에서 발행하고 싶은 이메일의 오른쪽에 있는 \[더보기 V → 발행 설정하기]를 클릭해 이메일 발행 설정으로 이동합니다. 여기서 \[전체 공개로 발행]을 선택하면 연결된 페이지에 이메일이 바로 발행됩니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756411994383/6270bfe630306.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (2).gif" alt=""><figcaption></figcaption></figure>
 
 ### 유료 구독자 전용으로 발행하기
 
@@ -56,9 +56,7 @@ layout:
 
 [유료 구독 주소록](broken-reference)으로 이메일을 보낸 경우에는 유료 구독자에게만 콘텐츠를 공개할 수 있도록 설정하는 것도 가능합니다. 유료 구독자 전용 콘텐츠도 일반 이메일 발행과 마찬가지로 이메일을 보낼 때와 이미 발송이 완료된 이메일 둘 모두 발행할 수 있습니다. 이메일의 예약 또는 발송 화면에서 \[발행 설정 → 유료 구독자용으로 발행]을 선택하고 이메일을 보내면 콘텐츠를 유료 구독자에게만 제공할 수 있습니다.
 
-![\_\_\_\_\_\_\_\_\_\_\_\_\_\_4.gif](https://help.stibee.com/hc/article\_attachments/5128514226191/\_\_\_\_\_\_\_\_\_\_\_\_\_\_4.gif)
-
-
+<figure><img src="../../.gitbook/assets/3 (1).gif" alt=""><figcaption></figcaption></figure>
 
 #### 유료 구독 주소록으로 발송 완료된 이메일 발행하기 <a href="#h_948760e52e" id="h_948760e52e"></a>
 
@@ -68,19 +66,17 @@ layout:
 페이지에 발행된 메일은 모두 아카이브에도 발행됩니다. 유료 구독자 전용으로 발행한 콘텐츠라고 해도 아카이브에서는 누구나 확인이 가능하기 때문에 유료 콘텐츠를 페이지에 발행하는 경우에는 주소록에 연결된 아카이브의 URL이 외부로 노출되지 않도록 주의해야 합니다.
 {% endhint %}
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756440365583/6270bfed28a80.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (2).gif" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756412062863/6270bff10a7d6.gif" alt=""><figcaption></figcaption></figure>
-
-&#x20;
+<figure><img src="../../.gitbook/assets/5 (2).gif" alt=""><figcaption></figcaption></figure>
 
 
 
-## 발행 취소하기
+### 발행 취소하기
 
 페이지에 발행된 메일을 더 이상 공개하고 싶지 않다면 발행 취소를 할 수 있습니다. 이메일 목록에서 발행하고 싶은 이메일의 오른쪽에 있는 \[더보기 V → 발행 설정하기]를 클릭해 이메일 발행 설정으로 이동합니다. 여기서 \[발행하지 않음]을 선택하면 발행된 이메일이 페이지에서 더 이상 표시되지 않습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756397488655/6270bffdc8bb1.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (2).gif" alt=""><figcaption></figcaption></figure>
 
 ## 아카이브 이해하기 <a href="#archiving" id="archiving"></a>
 
@@ -116,16 +112,16 @@ ex) http:// 또는 [https://stibee.com](https://stibee.com/), [www.stibee.com](h
 
 이메일을 발송할 때 예약하기 혹은 발송하기 버튼을 클릭한 후 발행 설정을 할 수 있습니다.
 
-![\_\_\_\_\_\_\_\_\_\_2.gif](https://help.stibee.com/hc/article\_attachments/5130551666191/\_\_\_\_\_\_\_\_\_\_2.gif)
+<figure><img src="../../.gitbook/assets/7 (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### 발송 완료된 이메일 발행하기
 
 이메일 목록에서 발행하고 싶은 이메일의 오른쪽에 있는 \[더보기 V → 발행 설정하기]를 클릭해 이메일 발행 설정으로 이동합니다. 여기서 \[전체 공개로 발행]을 선택하면 연결된 페이지에 이메일이 바로 발행됩니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756411994383/6270bfe630306.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
 ## 아카이브 발행 취소하기 <a href="#h_354be0c08a" id="h_354be0c08a"></a>
 
 아카이브로 발행된 이메일의 오른쪽 화살표를 누르고 \[발행 설정하기] 버튼을 클릭한 후 발행 상태를 \[발행하지 않음]으로 선택하고 저장하면 아카이브에 발행을 취소할 수 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756511687695/6270c2aebebc4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>

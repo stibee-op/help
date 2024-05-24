@@ -20,13 +20,11 @@ layout:
 
 이메일을 발송하면 단축 URL이 만들어지는데 이 URL을 SNS에 공유하면 됩니다. 발송 완료 화면에서 URL을 확인할 수 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756497236239/6270c4e1bd30c.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
 
 이메일 대시보드에서도 이 URL을 확인할 수 있습니다. \[URL 복사하기]를 클릭하면 URL이 복사됩니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756531865615/6270c4e37d684.png" alt=""><figcaption></figcaption></figure>
-
-&#x20;
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 ## 공유정보 설정하기 <a href="#h_a90bc7cd3f" id="h_a90bc7cd3f"></a>
 
@@ -36,22 +34,20 @@ layout:
 
 에디터 화면 오른쪽 위 쪽의 \[공유정보 설정하기]를 클릭합니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756540764687/6270c4e5425f6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 창에서 이미지, 제목, 설명을 설정한 뒤에 \[설정하기] 버튼을 클릭하여 설정을 저장합니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756531902607/6270c4e747fc4.png" alt=""><figcaption></figcaption></figure>
-
-&#x20;
+<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 ### 발송이 완료된 이메일 대시보드에서 설정하기 <a href="#h_12376bb580" id="h_12376bb580"></a>
 
 발송이 완료된 이메일 대시보드에서 \[공유정보 설정하기]를 클릭합니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756552576143/6270c4e937e7c.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
 \
 창에서 이미지, 제목, 설명을 설정한 뒤에 \[설정하기] 버튼을 클릭하여 설정을 저장합니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756540845583/6270c4eb3fae8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>

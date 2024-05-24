@@ -43,7 +43,7 @@ layout:
 3. \[발송 성공]을 클릭하면 이메일 발송이 성공한 구독자 명단을 확인할 수 있습니다.
 4. \[이메일 주소]와 \[발송 완료일]을 클릭해 정렬을 변경하여 확인할 수 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/5691803444623" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (4).png" alt=""><figcaption></figcaption></figure>
 
 ## 발송 실패 통계 확인하기 <a href="#bounce" id="bounce"></a>
 
@@ -56,7 +56,7 @@ layout:
 
 _\*발송 실패 비율이 높다면 발송 속도에도 영향이 있을 수 있어요. 발송 속도가 고민된다면 발송 실패 구독자 명단 정제 작업으로 발송이 완료되는 속도를 개선하는 효과도 기대할 수 있습니다._
 
-![](https://help.stibee.com/hc/article\_attachments/5691810121999)
+<figure><img src="../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 소프트바운스
 
@@ -98,9 +98,7 @@ _\*소프트바운스로 발송 실패한 구독자에게 이메일을 재발송
 \
 이메일을 중복으로 열어본 경우, '마지막 오픈일' 정보만 확인할 수 있지만 \[구독자 활동 기록]에서는 구독자 별로 언제 이메일을 오픈했는지 시간별로 자세히 확인하는 것도 가능합니다.&#x20;
 
-![](https://help.stibee.com/hc/article\_attachments/5691949863695)
-
-
+<figure><img src="../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
 
 ## 오픈 안 함 통계 확인하기 <a href="#h_01gfmh5yz7jqpny97qp9hjhtct" id="h_01gfmh5yz7jqpny97qp9hjhtct"></a>
 
@@ -109,9 +107,7 @@ _\*소프트바운스로 발송 실패한 구독자에게 이메일을 재발송
 3. \[오픈 안 함]을 클릭하면 이메일을 열어보지 않은 구독자 명단을 확인할 수 있습니다.
 4. \[이메일 주소]와 \[발송완료일]을 클릭해 정렬을 변경하여 확인할 수 있습니다.
 
-![](https://help.stibee.com/hc/article\_attachments/5691960117647)
-
-
+<figure><img src="../../.gitbook/assets/4 (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 클릭 통계 확인하기 <a href="#h_01gfmh73yz4hmrhs9x4895q2d7" id="h_01gfmh73yz4hmrhs9x4895q2d7"></a>
 
@@ -122,9 +118,7 @@ _\*소프트바운스로 발송 실패한 구독자에게 이메일을 재발송
 
 중복으로 링크를 클릭한 구독자의 경우 '마지막 클릭일' 정보만 기록됩니다. 이전 클릭이 언제 이루어졌는지 확인하고 싶은 경우에는 \[구독자 활동 기록]을 확인하면 됩니다.
 
-![](https://help.stibee.com/hc/article\_attachments/5692050761103)
-
-&#x20;
+<figure><img src="../../.gitbook/assets/5 (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 클릭 안 함 통계 확인하기 <a href="#h_01gfmh7bq15s7ajsvywb1hxb0q" id="h_01gfmh7bq15s7ajsvywb1hxb0q"></a>
 
@@ -133,30 +127,31 @@ _\*소프트바운스로 발송 실패한 구독자에게 이메일을 재발송
 3. \[클릭 안 함]을 클릭하면 이메일의 링크를 클릭하지 않은 구독자 명단을 확인할 수 있습니다.
 4. \[이메일 주소]와 \[발송완료일]을 클릭해 정렬을 변경하여 확인할 수 있습니다.
 
-![stibee-email-statistics-not\_click.png](https://help.stibee.com/hc/article\_attachments/5692061052431)
-
-&#x20;
+<figure><img src="../../.gitbook/assets/6 (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 링크별 클릭 통계 확인하기 <a href="#h_01gfmh7h8mz0rrtx16m5bdw61x" id="h_01gfmh7h8mz0rrtx16m5bdw61x"></a>
 
 1. \[링크별 클릭]통계를 확인하고 싶은 이메일을 클릭하여 \[[이메일 대시보드](email-statistics-dashboard.md)]로 이동합니다.
 2. 대시보드 옆 \[상세통계 ∨]를 클릭하고 \[링크별 클릭]을 클릭합니다.
 3. \[링크별 클릭]을 클릭하면 이메일의 링크별로 클릭이 얼마나 일어났는지를 확인할 수 있습니다.
+4. 링크를 클릭하면 각 링크별로 어떤 구독자들이 클릭했는지 여부를 자세히 확인할 수 있습니다.
 
-![](https://help.stibee.com/hc/article\_attachments/5692061022863)
-
-4\. 링크를 클릭하면 각 링크별로 어떤 구독자들이 클릭했는지 여부를 자세히 확인할 수 있습니다.
-
-![](https://help.stibee.com/hc/article\_attachments/5692061024015)
-
-
+<figure><img src="../../.gitbook/assets/8 (3).png" alt=""><figcaption></figcaption></figure>
 
 ## 상세통계 내보내기
 
-1. 상세통계를 내보내고 싶은 이메일을 클릭해 \[[이메일 대시보드](email-statistics-dashboard.md)]로 이동합니다.
+#### 전체 상세통계 한번에 내보내기
+
+1. 상세통계를 내보내기 싶은 이메일을 클릭해 \[이메일 대시보드]로 이동합니다.
+2. 스크롤을 내려 '성과' 섹션으로 이동합니다.
+3. 성과 섹션에 오른쪽 위에 있는 \[상세 통계 한번에 내보내기]를 클릭합니다.
+
+<figure><img src="../../.gitbook/assets/9 (4).png" alt=""><figcaption></figcaption></figure>
+
+#### 상세통계 별로 내보내기
+
+1. 상세통계를 내보내고 싶은 이메일을 클릭해 \[이메일 대시보드]로 이동합니다.
 2. 대시보드 옆 \[상세통계 ∨]를 클릭하고 내보내고 싶은 통계를 클릭합니다.
 3. 통계 목록 오른쪽 위에 있는 \[파일로 내보내기]를 클릭해 상세통계를 파일로 내려받을 수 있습니다.
 
-_\*상세통계는 개별 이메일 단위로만 내보낼 수 있습니다._
-
-![](https://help.stibee.com/hc/article\_attachments/5692566340495)
+<figure><img src="../../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>

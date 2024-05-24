@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 통계 조회하기
 
 💬 이 내용은 **프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다.
@@ -10,15 +24,13 @@
 
 ## 통계 기능 사용하기 <a href="#id-01h68bgk0sx8erxf9hhj00s62f" id="id-01h68bgk0sx8erxf9hhj00s62f"></a>
 
-화면 위쪽의 \[통계] 버튼을 클릭하면, 통계 기능을 사용할 수 있습니다.
+화면 위쪽의 \[통계] 버튼을 클릭하면, 통계 기능을 사용할 수 있습니다.&#x20;
 
-<div data-full-width="true">
+<div data-full-width="false">
 
-<img src="https://help.stibee.com/hc/article_attachments/7550839556751" alt="">
+<figure><img src="../.gitbook/assets/통계 기능 사용하기_1.gif" alt=""><figcaption></figcaption></figure>
 
 </div>
-
-&#x20;
 
 ## 통계 조건 설정하기 <a href="#id-01h5sb5zt1g27gat0xdw1m9mgg" id="id-01h5sb5zt1g27gat0xdw1m9mgg"></a>
 
@@ -30,4 +42,4 @@
 
 조회를 원하는 기간과 주소록을 설정한 뒤 \[조회하기]를 누르면 정리된 데이터가 화면에 표시됩니다. 화면에서 기간별, 구독자별, 태그별 이메일 성과를 한눈에 파악할 수 있습니다.
 
-![](https://help.stibee.com/hc/article\_attachments/8463718241551)
+<figure><img src="../.gitbook/assets/통계 조회하기_2.png" alt=""><figcaption></figcaption></figure>
