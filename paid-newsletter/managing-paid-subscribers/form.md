@@ -26,13 +26,11 @@ layout:
 
 유료 구독 폼 설정 단계에서 선택한 구독 유형에 따라 구독 상품에 내용이 표시됩니다. 구독자는 여기서 구독 상품을 선택하고 결제할 수 있습니다. 결제 수단을 선택한 뒤에 결제 정보를 입력하고 구독하기 버튼을 클릭하면 유료 구독이 진행됩니다. 결제 수단은 업데이트를 통해 계속해서 추가될 예정입니다.
 
-&#x20;
-
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756481261199" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/유료 구독 폼에서 구독하기 _ 유료 구독하기.png" alt=""><figcaption></figcaption></figure>
 
 ### 구독 확인 이메일을 사용하는 경우 결제 시점 <a href="#h_f2e8983884" id="h_f2e8983884"></a>
 
-구독 확인 이메일이 켜져 있는 경우, 구독 확인 이메일에서 구독 확인까지 완료했을 때 결제가 진행됩니다. 이 때, 구독 확인을 하지 않으면 구독 대기 상태로 남아있고, 유료 뉴스레터 발송 대상에 포함되지 않습니다. 구독 확인 이메일이 꺼져 있는 경우, 구독과 결제가 동시에 진행됩니다. 구독 확인 이메일에 대해서는 [여기](https://help.stibee.com/hc/ko/articles/4756470653199)를 참고해주세요.
+\[[구독 확인 이메일](../../list/gather-subscribers/form.md#h\_01ggcbnt2yhr650w6tfy7w97tc)]을 사용하시는 경우, 구독자가 구독을 신청한 뒤 발송되는 '구독 확인 이메일'에서 \[구독하기]를 눌러야 결제가 이루어집니다. 이메일 내 \[구독하기] 버튼을 누르지 않으면 '구독 대기' 상태로 남아있고, 유료 뉴스레터 발송 대상에 포함되지 않습니다. 구독 확인 이메일이 꺼져 있는 경우, 구독과 결제가 동시에 진행됩니다.
 
 
 
@@ -40,4 +38,4 @@ layout:
 
 구독과 결제가 완료되면 구독자에게 결제 안내 이메일이 발송됩니다. 첫 번째 결제 이후 매월 같은 날짜에 정기 결제가 진행됩니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756505681551" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/유료 구독 폼에서 구독하기 _ 결제 결과 안내.png" alt=""><figcaption></figcaption></figure>

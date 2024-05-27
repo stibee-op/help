@@ -75,13 +75,15 @@ layout:
 
 \[콘텐츠] 단계에서는 에디터를 사용해 이메일을 편집할 수 있습니다. 오른쪽 편집 상자에서 원하는 상자를 클릭 후 드래그하여 왼쪽 편집 화면에 추가할 수 있습니다. 스티비에서는 텍스트, 이미지, 버튼 상자 등을 제공하고 있습니다.&#x20;
 
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
 콘텐츠 편집 방법에 대한 더 자세한 내용은 아래 도움말을 참고해 주세요.
 
 {% content-ref url="../email/undefined-1/" %}
 [undefined-1](../email/undefined-1/)
 {% endcontent-ref %}
-
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -94,6 +96,8 @@ layout:
 _테스트 이메일은 발송 횟수 제한이 없습니다. 실제 발송 전에 충분히 테스트해 보세요._
 
 <figure><img src="../.gitbook/assets/테스트 발송하기.gif" alt=""><figcaption></figcaption></figure>
+
+
 
 ### 예약 발송하기
 
