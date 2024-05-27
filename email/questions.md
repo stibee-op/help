@@ -400,7 +400,7 @@ _스티비 1년 전 업데이트 시간 에디터의 이메일 처리 방식이 
 
 
 
-## 이메일 자동화 <a href="#id" id="id"></a>
+## 이메일 자동화 <a href="#automation" id="automation"></a>
 
 <details>
 
