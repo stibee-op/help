@@ -30,13 +30,13 @@ layout:
 
 '구독자 목록' 아래의 \[구독 중(∨)]을 클릭하면 \[구독 중, 수신거부, 자동삭제] 상태별 구독자 목록을 확인할 수 있습니다. 여기서 원하는 조건을 클릭하고 \[적용하기]를 누르면 원하는 상태의 구독자만 목록에 표시됩니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/7850804297871" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (8).png" alt=""><figcaption></figcaption></figure>
 
 ## 그룹 필터 <a href="#h_01gfaq4qe9cngf2jrp4nq8gndv" id="h_01gfaq4qe9cngf2jrp4nq8gndv"></a>
 
 구독자가 속한 그룹별로 확인할 수 있습니다. '구독 중' 옆의 \[모든 그룹(∨)]을 클릭하면 현재 주소록에 등록된 그룹 목록이 표시됩니다. 여기서 확인을 원하는 그룹을 선택한 뒤 \[적용하기]를 클릭합니다. 그룹을 여러 개 선택하는 것도 가능합니다.
 
-![](https://help.stibee.com/hc/article\_attachments/7850838395151)
+![](<../../.gitbook/assets/2 (7).png>)
 
 ## 사용자 정의 필드, 구독자 활동 필터 <a href="#h_01gfaq4wa1nv0gyyzg029acycy" id="h_01gfaq4wa1nv0gyyzg029acycy"></a>
 
@@ -48,7 +48,7 @@ layout:
 4. 추가한 조건을 삭제하고 싶은 경우에는 입력창 오른쪽 위에 있는 \[삭제하기]를 클릭합니다.
 5. 조건 설정을 완료했다면 \[적용하기]를 클릭하여 구독자를 검색합니다.
 
-![](https://help.stibee.com/hc/article\_attachments/7851075242767)
+![](<../../.gitbook/assets/3 (8).png>)
 
 ## 검색하기 <a href="#h_01gfaq50zhgvhqcsnx5w13717d" id="h_01gfaq50zhgvhqcsnx5w13717d"></a>
 
@@ -60,4 +60,4 @@ _\*'이름'의 경우 사용자 정의 필드의 키(Key)값이 name으로 설�
 3. 입력창에 검색하고 싶은 텍스트를 입력합니다.
 4. \[검색하기]를 클릭하면 결과가 표시됩니다.
 
-![](https://help.stibee.com/hc/article\_attachments/7851105724303)
+![](<../../.gitbook/assets/4 (7).png>)

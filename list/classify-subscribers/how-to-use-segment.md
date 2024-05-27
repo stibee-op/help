@@ -28,7 +28,7 @@ layout:
 2. 등록된 주소록 목록에서, 세그먼트를 만들들고 싶은 주소록을 선택합니다.
 3. 주소록 메뉴에서 \[세그먼트]를 클릭합니다.
 
-![](https://help.stibee.com/hc/article\_attachments/6455051245583)
+![](<../../.gitbook/assets/1 (9).png>)
 
 세그먼트 목록 화면에서 \[+새로 만들기]를 클릭해 세그먼트를 생성합니다. 만들 수 있는 세그먼트의 수는 사용하고 있는 요금제에 따라 달라집니다.
 
@@ -37,7 +37,7 @@ layout:
 * 프로 요금제 : 주소록 당 10개의 세그먼트를 만들 수 있습니다.
 * 엔터프라이즈 요금제 : 세그먼트 개수에 제한이 없습니다.&#x20;
 
-![](https://help.stibee.com/hc/article\_attachments/6455022450447)
+![](<../../.gitbook/assets/2 (8).png>)
 
 &#x20;
 
@@ -61,7 +61,7 @@ layout:
 
 세그먼트 목록에 표시되는 숫자는 '10분' 간격으로 자동 업데이트 됩니다. 구독자 수가 변경되지 않는다면 우선 조건을 잘 설정했는지 확인한 뒤 설정에는 이상이 없다면 잠시 기다려 주세요.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/7549798024847" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (9).png" alt=""><figcaption></figcaption></figure>
 
 ### **구독자 정보와 구독자 활동** <a href="#information-activity" id="information-activity"></a>
 
@@ -77,7 +77,7 @@ layout:
 
 구독자 정보나 활동을 기준으로 세그먼트로 분류할지 여부가 결정됩니다. 예를 들어 구독자 정보를 ‘연령’으로 둔다면 구독자 정보에 등록된 연령(예: 20대, 30대 등) 정보가 구독자를 분류하는 기준으로 사용됩니다.
 
-![](https://help.stibee.com/hc/article\_attachments/7549814153615)
+![](<../../.gitbook/assets/4 (8).png>)
 
 &#x20;
 
@@ -130,7 +130,7 @@ layout:
 2. 가운데 텍스트 입력칸에 '20대'를 판단값으로 입력합니다.
 3. 조건의 마지막, 기준을 \[같음]으로 선택합니다.
 
-![](https://help.stibee.com/hc/article\_attachments/7465415408143)
+![](<../../.gitbook/assets/5 (6).png>)
 
 **예시2.**
 
@@ -153,7 +153,7 @@ _\* \[개별 조건 중 하나라도 만족하는(OR)]을 선택할 경우에는
 
 _둘 중 하나라도 포함되면 조건을 만족한 것으로 판단합니다._&#x20;
 
-![](https://help.stibee.com/hc/article\_attachments/6455051216271)
+![](<../../.gitbook/assets/6 (6).png>)
 
 ## **세그먼트 관리하기** <a href="#h_01gsyvdptbbs67c27tkgxmjtt4" id="h_01gsyvdptbbs67c27tkgxmjtt4"></a>
 
@@ -163,7 +163,7 @@ _둘 중 하나라도 포함되면 조건을 만족한 것으로 판단합니다
 
 _\*세그먼트 구분색은 자동으로 설정되며, 색상을 수정하는 것은 불가능합니다._
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/6455022445455" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (5).png" alt=""><figcaption></figcaption></figure>
 
 ### 세그먼트 수정, 복사, 삭제하기 <a href="#h_01gsyq9p3q52y092n4a23pcxjc" id="h_01gsyq9p3q52y092n4a23pcxjc"></a>
 
@@ -174,7 +174,7 @@ _\*세그먼트 구분색은 자동으로 설정되며, 색상을 수정하는 �
 * 삭제(![20230223\_164957.png](https://help.stibee.com/hc/article\_attachments/6454795029135)): 생성한 세그먼트를 삭제합니다. \
   **\*주의:** 삭제한 세그먼트는 복구할 수 없습니다. 세그먼트를 삭제해도 구독자 정보는 삭제되지 않습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/6455022435471" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8 (7).png" alt=""><figcaption></figcaption></figure>
 
 ### **세그먼트로 이메일 발송하기** <a href="#h_01gsyqasmq0tv4x3m6abapy1zz" id="h_01gsyqasmq0tv4x3m6abapy1zz"></a>
 
@@ -185,7 +185,7 @@ _\*세그먼트 구분색은 자동으로 설정되며, 색상을 수정하는 �
 3. 세그먼트를 선택한 주소록을 선택하고 \[세그먼트, 그룹] 드롭다운 메뉴를 클릭한 뒤 발송을 원하는 세그먼트를 선택합니다.
 4. 이메일을 발송합니다.
 
-![](https://help.stibee.com/hc/article\_attachments/6455022388623)
+![](<../../.gitbook/assets/9 (8).png>)
 
 사용자 정의 필드 파라미터를  사용하면 특정 구독 폼 URL로 접수되는 구독자의 사용자 정의 필드에 특정 값을 자동으로 입력하도록 할 수 있습니다. 이 기능을 활용하면 구독자를 특정 세그먼트로 구독이 신청될 때마다 자동으로 분류하는 것이 가능합니다. 자세한 내용이 궁금하다면 [여기](../gather-subscribers/automated-categorization.md#url-2)에서 확인해보세요.
 

@@ -50,19 +50,17 @@ layout:
 
 주소록 대시보드에서 '구독 관리 화면'을 클릭하고 스크롤을 아래로 내리면 '수신거부 화면'이라는 세션을 확인할 수 있습니다. 여기서 \[수신거부 이유 입력받기] 버튼을 클릭해서 기능을 ON, OFF 할 수 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756466326287" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (4).gif" alt=""><figcaption></figcaption></figure>
 
 
 
 '수신거부 이유 입력받기' 기능이 ON 상태인 경우 수신거부 화면에는 수신거부 이유를 입력받을 수 있는 창이 표시됩니다. 수신거부 이유 입력은 주관식(최대 50자까지 입력 가능)으로만 입력할 수 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756467502351" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/2 (6).png" alt=""><figcaption></figcaption></figure>
 
 구독자별 '활동' 기록 탭에서 수신거부 사유를 확인할 수 있습니다. \[주소록 → 구독자 목록 오른쪽 '내보내기'] 버튼을 통해 구독자 목록 내보내기, [통계 내보내기](../check-subscriber-statistics/export.md) 에도 파일 내에서 수신거부 사유를 확인할 수 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756489031055" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (2).gif" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -72,7 +70,13 @@ layout:
 
 <figure><img src="../../.gitbook/assets/수신거부 화면 언어 설정하기.png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.stibee.com/hc/article\_attachments/8472120091023)
+<div>
 
-![](https://help.stibee.com/hc/article\_attachments/8472120091407)
+<img src="../../.gitbook/assets/3 (7).png" alt="">
+
+ 
+
+<figure><img src="../../.gitbook/assets/4 (6).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 

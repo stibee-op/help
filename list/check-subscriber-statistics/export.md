@@ -32,7 +32,7 @@ layout:
 5. 이메일에 있는 \[통계 데이터 내려받기]를 클릭하여 파일 내려받기 화면으로 이동합니다.
 6. \[통계 데이터 내려받기]를 클릭합니다.
 
-![](https://help.stibee.com/hc/article\_attachments/5728719804815)
+![](<../../.gitbook/assets/구독자별 통계 내보내기\_1.png>)
 
 
 

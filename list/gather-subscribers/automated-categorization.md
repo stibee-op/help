@@ -59,7 +59,7 @@ https://page.stibee.com/subscriptions/187957?name=스티비
 3. \[그룹] 이름을 클릭하여 그룹 필터링이 적용된 구독자 목록으로 이동
 4. 브라우저에서 표시되는 URL에서 'subscribers/S' 뒤의 숫자를 확인
 
-![stibee-help-group\_id.png](https://help.stibee.com/hc/article\_attachments/5749074065167)
+![](<../../.gitbook/assets/구독자를 자동으로 분류하기\_1.png>)
 
 \[구독 폼] URL은 아래의 형식으로 만들어집니다.
 

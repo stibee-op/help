@@ -30,7 +30,7 @@ layout:
 2. 주소록 목록에서 구독자를 추가하고 싶은 주소록의 오른쪽에 있는 \[추가하기(∨)]를 클릭합니다.
 3. \[직접 추가하기]를 클릭합니다.
 
-![](https://help.stibee.com/hc/article\_attachments/8404854631567)
+![](<../../.gitbook/assets/1 (6).png>)
 
 ### 구독자 목록에서 추가하기 <a href="#h_01gftbt53qcp92bsc0qkxrydx8" id="h_01gftbt53qcp92bsc0qkxrydx8"></a>
 
@@ -38,9 +38,9 @@ layout:
 2. \[구독자 목록]의 오른쪽 위에 있는 빨간색 \[+ 추가하기]버튼을 클릭합니다.
 3. \[직접 추가하기] 버튼을 클릭합니다.
 
-![](https://help.stibee.com/hc/article\_attachments/8404872781071)
+![](<../../.gitbook/assets/2 (4).png>)
 
-&#x20;
+
 
 ### 추가할 구독자 정보 입력하기 <a href="#h_01gftbtdnvb0z4g8117m5anzqe" id="h_01gftbtdnvb0z4g8117m5anzqe"></a>
 
@@ -52,11 +52,11 @@ layout:
 
 예를 들어, '이메일 주소: [dooly@stibee.com](mailto:dooly@stibee.com) / 이름: 둘리'로 입력하고 \[추가하는 필드에 값이 없으면 기존 값을 삭제하고 빈 값으로 업데이트합니다.]옵션을 체크합니다. 이후에 같은 이메일 주소([dooly@stibee.com](mailto:dooly@stibee.com))를 가진 구독자의 '이름'을 비어있는 상태로 추가하면, 이메일 주소만 남고 이름은 빈 값으로 업데이트됩니다.
 
-![](https://help.stibee.com/hc/article\_attachments/8478481217935)
+![](<../../.gitbook/assets/3 (5).png>)
 
 \[그룹을 선택하여 구독자를 추가하시겠습니까?]를 \[예]로 선택하면 구독자를 추가할 때 특정 그룹으로 추가되도록 설정할 수 있습니다. \[그룹] 기능을 사용하면 구독자를 목적에 따라 분류하여 이메일을 발송할 수 있고 그룹 단위로 구독자를 관리할 수 있습니다.
 
-![](https://help.stibee.com/hc/article\_attachments/8478481219471)
+![](<../../.gitbook/assets/4 (3).png>)
 
 구독자 정보가 입력이 완료됐다면 \[추가하기] 버튼을 클릭합니다. 구독자 추가까지는 추가하는 양에 따라 시간이 조금 걸릴 수 있습니다. 구독자를 추가하는 도중 화면을 떠나도 완료될 때까지 자동으로 진행됩니다.
 
@@ -72,7 +72,7 @@ layout:
 2. 주소록 목록에서 구독자를 추가하고 싶은 주소록의 오른쪽에 있는 \[추가하기(∨)]를 클릭합니다. &#x20;
 3. \[파일로 추가하기]를 클릭합니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/8478481220495" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (4).png" alt=""><figcaption></figcaption></figure>
 
 ### 구독자 목록에서 이동하기 <a href="#h_01gftbv72ptg4apx4xskgnm4jk" id="h_01gftbv72ptg4apx4xskgnm4jk"></a>
 
@@ -80,7 +80,7 @@ layout:
 2. \[구독자 목록]의 오른쪽 위에 있는 빨간색 \[+ 추가하기]버튼을 클릭합니다.
 3. 표시되는 \[직접 추가하기]와 \[파일로 추가하기] 중 \[파일로 추가하기]를 클릭합니다.
 
-![list\_add\_subscriber\_file3.png](https://help.stibee.com/hc/article\_attachments/8478518675983)
+![](<../../.gitbook/assets/6 (4).png>)
 
 #### &#x20; <a href="#h_01hfnb10m1hnrrw2egxh4w0v6v" id="h_01hfnb10m1hnrrw2egxh4w0v6v"></a>
 
@@ -96,14 +96,16 @@ layout:
 5. \[그룹을 선택하여 구독자를 추가하시겠습니까?]에서 그룹 추가 여부를 선택합니다.&#x20;
 6. \[추가하기]를 클릭합니다.
 
-![](https://help.stibee.com/hc/article\_attachments/8478518676495)
+![](<../../.gitbook/assets/7 (3).png>)
 
 파일로 구독자 정보를 추가할 때 이메일 주소 외에 이름, 핸드폰 번호 등 다른 정보가 있다면 파일에 있는 어떤 행이 각각 '이름' 또는 '핸드폰 번호'의 정보에 해당하는지 선택해야 합니다. 만약 파일에는 다른 정보가 있지만 이 단계(아래 사진)에서 선택해야 하는 필드가 없다면 [사용자 정의 필드](understanding-subscriber-info.md#undefined)에서 추가하고 싶은 정보를 추가한 뒤에 다시 시도해주세요.
+
+![](<../../.gitbook/assets/8 (5).png>)
 
 \
 정보가 잘 입력됐다면 \[추가하기]를 클릭했을 때 구독자 추가가 진행됩니다. 추가하는 구독자의 양에 따라 업로드 완료 시간은 차이가 있습니다. 구독자를 추가하는 도중 화면을 떠나도 계속해서 완료될 때까지 자동으로 진행됩니다.
 
-![](https://help.stibee.com/hc/article\_attachments/8478481219471)
+![](<../../.gitbook/assets/9 (6).png>)
 
 ### 구독자 추가 결과 확인하기
 
@@ -114,32 +116,32 @@ layout:
 * 이메일 주소 형식 오류: 구독자의 이메일 주소가 입력됐지만 형식을 올바르게 갖추지 못한 정보가 입력됐습니다. 이메일 주소 형식은 _example@stibee.com_과 같은 형식으로 구성되어야 합니다. 원본 파일에 이메일 주소 형식이 올바르게 기입됐는지 여부를 확인해보세요.
 * 이메일 주소 중복 요청: 추가한 구독자 중에 같은 이메일 주소를 가진 구독자가 여러 명 있어, 한 명만 추가가 됐습니다. 가장 처음에 요청한 이메일 주소를 기준으로 구독자 정보가 업데이트됩니다.
 
-![](https://help.stibee.com/hc/article\_attachments/8478518678671)
+<figure><img src="../../.gitbook/assets/10 (2).png" alt=""><figcaption></figcaption></figure>
 
 구독자를 파일로 추가한 결과 별로 구독자 목록을 조회하고 다운로드 받을 수 있습니다. 어떤 구독자가 왜 등록이 되지 않았는지 자세하게 확인해 정보를 수정하고 다시 추가를 시도할 수 있습니다.
 
-![](https://help.stibee.com/hc/article\_attachments/8478518681231)
+![](<../../.gitbook/assets/11 (2).png>)
 
 ### 파일로 추가할 때 수신거부 상태로 추가하기 <a href="#h_01gfam9r8typybhwpebnjf382c" id="h_01gfam9r8typybhwpebnjf382c"></a>
 
 CSV 파일에서 수신거부 여부를 표시할 열을 추가합니다. 수신거부 상태로 추가할 구독자는 이 열에 **Y**를 입력합니다. 수신거부 항목으로 선택된 열에 **Y**가 입력되어있으면, 그 구독자는 수신거부 상태로 추가됩니다. 만약 이미 등록된 구독자라면, 수신거부 상태로 변경됩니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756474094735/6270c4c81e1e3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/12 (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 구독자 정보가 주소록의 어떤 항목에 해당하는지 선택할 때, 수신거부에 대한 값을 입력한 열을 **수신거부** 항목으로 선택합니다.&#x20;
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756540293263/6270c4cac07b4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/13.png" alt=""><figcaption></figcaption></figure>
 
 ### 파일로 추가할 때 광고성 정보 수신 동의 설정하기
 
 구독자를 '파일로 추가하기' 기능을 사용해 신규로 추가하는 경우 광고성 정보 수신 동의 여부를 선택해서 추가할 수 있습니다. 파일로 추가하기 기능을 통해 광고성 정보 수신 동의 여부를 선택하기 위해서는 광고성 정보 수신 동의한 구독자는 파일에 미리 '광고성 정보 수신 동의' 열을 만들어 'Y'를 입력해야 합니다. \[주소록 → 추가하기 → 파일로 추가하기]를 클릭해 파일을 업로드합니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4717287257359/6265f309c0857.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/14 (1).png" alt=""><figcaption></figcaption></figure>
 
 구독자 파일 업로드 후 필드 선택 단계에서 광고성 정보 수신 동의 여부가 체크되어 있는 열에 '광고성 정보 수신 동의' 필드를 선택합니다. Y가 입력된 구독자는 광고성 정보 수신 동의 여부가 '동의'로 표시됩니다. N 혹은 빈칸으로 입력된 구독자는 광고성 정보 수신 동의 여부가 '동의하지 않음(빈칸)'으로 표시됩니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4717295495951/6265f30b6a9ed.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/15 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## DB 연동으로 자동 추가하기 <a href="#h_01gfam9r8typybhwpebnjf382c" id="h_01gfam9r8typybhwpebnjf382c"></a>
 

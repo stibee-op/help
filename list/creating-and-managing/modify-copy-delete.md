@@ -30,8 +30,8 @@ layout:
 
 주소록 목록에서 주소록을 복사하거나 삭제할 수 있습니다. 주소록 목록 오른쪽에 복사, 삭제 버튼이 표시됩니다. \[복사하기] 버튼을 클릭하면 동일한 주소록이 복제되어 생성됩니다. 단, 주소록에 등록된 구독자는 복사되지 않고, 주소록 이름, 발신자 정보 기본값, 회사/단체 정보 등만 복사됩니다. \[삭제하기]를 클릭하면 확인 단계를 거쳐 주소록을 삭제합니다. 삭제한 주소록은 복구할 수 없습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756471730703/6270c3a83e23c.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (3).gif" alt=""><figcaption></figcaption></figure>
 
 즐겨찾기 기능은 사용하는 주소록이 많은 경우 사용하면 좋은 기능입니다. 주소록 목록 오른쪽에 있는 \[별(☆)] 표시를 클릭하면 특정 주소록을 즐겨찾기 주소록으로 설정할 수 있습니다. 목록 우측 상단의 \[+새로 만들기] 버튼 옆의 \[별(☆)] 표시를 클릭하면 ' 즐겨찾기 한 주소록만 필터를 걸어 확인할 수 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/5012946139535/20220621_stibee_help_list_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (3).png" alt=""><figcaption></figcaption></figure>

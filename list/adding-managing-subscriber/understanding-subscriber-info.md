@@ -26,7 +26,7 @@ layout:
 \
 예를 들어 다른 일반적인 상황에 빗대어 알아보게 된다면 보통 엑셀 문서를 작업할 때 A행에는 각 필드별로 이 필드의 제목을 입력하는 경우가 많이 있습니다. 각 필드별로 제목을 추가하는 행위가 스티비에서는 사용자 정의 필드를 하나씩 새롭게 추가하는 것과 같은 행위라고 할 수 있습니다. 구독자 별로 이메일 주소 외에 다른 정보를 받고 싶다면 먼저 사용자 정의 필드를 주소록에 새롭게 추가하는 것부터 시작하면 됩니다.&#x20;
 
-![](https://help.stibee.com/hc/article\_attachments/6631072917519)
+<figure><img src="../../.gitbook/assets/1 (5).png" alt=""><figcaption></figcaption></figure>
 
 ## 사용자 정의 필드 사용하기
 
@@ -56,7 +56,7 @@ layout:
 자세한 내용은 [여기](../gather-subscribers/automated-categorization.md#url-2)를 참고해보세요.
 {% endhint %}
 
-![](https://help.stibee.com/hc/article\_attachments/6631073032847)
+![](<../../.gitbook/assets/2 (3).gif>)
 
 ### 필드 설정 이해하기 <a href="#h_01gw460d9ef6jnqejvre8925tv" id="h_01gw460d9ef6jnqejvre8925tv"></a>
 
@@ -72,7 +72,7 @@ layout:
 * 필수입력: [구독 폼](../gather-subscribers/form.md#undefined)을 사용해 구독 신청을 받을 때 필수, 선택 입력 여부를 선택할 수 있습니다. 필수로 입력받고 싶은 정보인 경우 박스를 체크하면 됩니다.\
   _\*필수 설정은 구독 폼에서만 동작합니다._
 
-![](https://help.stibee.com/hc/article\_attachments/6631111461263)
+![](<../../.gitbook/assets/3 (4).png>)
 
 ### 필드 유형 이해하기 <a href="#h_01gw460hrx8exwzp9d43dzeasx" id="h_01gw460hrx8exwzp9d43dzeasx"></a>
 
@@ -80,33 +80,33 @@ layout:
 
 가장 기본적인 사용자 정의 필드 유형입니다. 대부분의 정보는 일반적으로 '텍스트' 유형을 선택해 사용하면 됩니다. 예를 들면 이름, 단체 또는 회사명 등의 정보를 텍스트 형식으로 받아 사용할 수 있습니다.
 
-![](https://help.stibee.com/hc/article\_attachments/6631072969487)
+![](<../../.gitbook/assets/4 (3).gif>)
 
 #### 드롭다운
 
 구독 폼에서 구독자 정보를 '드롭다운' 형태로 구독자가 선택해서 입력할 수 있도록 합니다. 예를 들어 구독 경로, 예/아니오 등 정해진 선택지가 존재하는 정보를 받을 때 사용하면 효과적입니다.
 
-![](https://help.stibee.com/hc/article\_attachments/6631095176591)
+![](<../../.gitbook/assets/5 (3).png>)
 
 #### 라디오 버튼
 
 드롭다운과 기본적으로 비슷합니다. 다만 '드롭다운' 옵션의 경우 전체 선택 옵션을 메뉴를 클릭해야 볼 수 있지만 라디오 버튼은 처음부터 모든 선택지를 표시합니다. '기타' 의견을 추가로 받고 싶은 경우에는 라디오버튼 유형을 사용해 받으면 좋습니다. 예를 들면 취미, 관심사 등의 정보를 받을 때 사용하면 효과적입니다.
 
-![](https://help.stibee.com/hc/article\_attachments/6631089225231)
+![](<../../.gitbook/assets/6 (3).png>)
 
 #### 숫자
 
 텍스트가 아닌 '숫자' 형식의 데이터만 입력할 수 있도록 설정할 수 있습니다. 숫자가 아닌 다른 정보를 입력하면 오류메시지가 출력 되고 정보가 입력되지 않습니다. 숫자 유형은 적립금, 누적 구매 금액, 나이 등 숫자 유형의 데이터를 주소록에 입력할 때 활용하면 좋습니다. 숫자 유형 데이터 필드와 \[[세그먼트](../classify-subscribers/how-to-use-segment.md)]를 잘 활용하면 다양한 조건으로 구독자를 분류할 수 있습니다.\
 \***주의.** 유형이 '숫자'인 필드는 한번 생성하면 다른 유형으로 수정이 불가능합니다.
 
-![](https://help.stibee.com/hc/article\_attachments/6667751854735)
+![](<../../.gitbook/assets/7 (2).gif>)
 
 #### 날짜
 
 입력하는 정보의 형식을 '날짜' 형식으로 지정할 수 있습니다. 연,월,일만 표시되도록 설정할 수 있고 (YYYY.MM.DD) 시간까지 표시하도록 지정할 수도 있습니다. (YYYY. MM. DD 오전/오후 hh:mm) 데이터를 날짜 형식으로 지정하면 \[[세그먼트](https://help.stibee.com/hc/ko/articles/5874547500943)]와 날짜 유형 데이터를 같이 사용하면 다양한 조건으로 구독자를 분류할 수 있습니다.\
 **\*주의.** 날짜 형식으로 지정된 필드에는 정의된 형식에 맞게 정보가 입력되어야 합니다. 구독자를 파일로 추가할 때 형식에 맞지 않는다면 오류가 발생할 수 있습니다. 자세한 내용은 [여기](../../tip/overview/subscriber-upload-issues.md)를 참고하세요.
 
-![list-field-date.png](https://help.stibee.com/hc/article\_attachments/8463500983439)
+![](<../../.gitbook/assets/8 (4).png>)
 
 &#x20;
 
@@ -121,7 +121,7 @@ layout:
 
 \***주의.** '숫자' 유형으로 생성한 필드는 다른 유형(텍스트, 드롭다운, 라디오버튼)으로 변경이 불가능합니다. 마찬가지로 다른 유형으로 생성한 필드는 '숫자' 유형으로 변경이 불가능합니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/6631072877071" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9 (5).png" alt=""><figcaption></figcaption></figure>
 
 ## 광고성 정보 수신 동의 이해하기 <a href="#understanding-promotional-consent" id="understanding-promotional-consent"></a>
 
@@ -151,15 +151,13 @@ layout:
 \
 구독자의 광고성 정보 수신 동의 여부를 변경하고 싶으신 경우 [여기](https://help.stibee.com/hc/ko/articles/4717308760207)를 참고해주세요.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756477567887/6270c122e2119.gif" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/9-1.gif" alt=""><figcaption></figcaption></figure>
 
 ### 광고성 정보 수신에 동의한 구독자만 조회하기 <a href="#h_9d4a13b4af" id="h_9d4a13b4af"></a>
 
 주소록의 '필터' 기능을 활용하면 광고성 정보 수신에 동의한 구독자만 조회할 수 있습니다. '구독자 목록' 화면에서 '필터' 버튼을 클릭하고 '필터 추가하기' 버튼을 클릭합니다. 항목을 '광고성 정보 수신 동의'를 선택한 뒤 '동의함'을 선택하고 \[적용하기] 버튼을 클릭하면 '광고성 정보 수신'에 동의한 구독자만 모아서 조회할 수 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756414218767/6270c1253df0c.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9-2.gif" alt=""><figcaption></figcaption></figure>
 
 광고성 정보 수신 동의 여부를 관리자가 수정하는 것도 가능합니다. 관련하여 자세한 내용은 [여기](modify-subscriber-info.md#undefined-2)를 참고해주세요.
 
@@ -170,7 +168,7 @@ layout:
 * 광고성 정보 수신 동의: 종종 목적에 따라 광고성 정보에 해당하는 정보를 보내야 하는 경우에는 광고성 정보 수신에 동의한 구독자에게만 보내야 하는 경우가 있을 수 있습니다. 광고성 정보 수신 동의 필드는 구독자 별로 광고성 정보 수신 동의 여부를 관리할 수 있는 기능입니다. 구독 폼을 이용하는 경우 구독자가 구독 신청을 할 때 광고성 정보 수신 동의를 필수로 할지 선택으로 할지 여부를 설정할 수 있습니다. 자세한 내용은 [여기](https://help.stibee.com/hc/ko/articles/4756487085071)를 참고해주세요.&#x20;
 * 구독일: 구독자가 주소록에 등록된 날짜를 의미합니다.
 
-![](https://help.stibee.com/hc/article\_attachments/6631111996303)
+<figure><img src="../../.gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 사용할 수 있는 기본 필드 목록 <a href="#h_01gg9m8qb1mjndpp2a89y41n8c" id="h_01gg9m8qb1mjndpp2a89y41n8c"></a>
 
@@ -218,5 +216,5 @@ layout:
 
 [이메일 마케팅 리포트 2023 신청 페이지 확인하기 →](https://report.stibee.com/2023/)
 
-![](https://help.stibee.com/hc/article\_attachments/6631089264783)
+![](<../../.gitbook/assets/11 (1).png>)
 
