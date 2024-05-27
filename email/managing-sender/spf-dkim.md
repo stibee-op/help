@@ -33,7 +33,7 @@ SPF, DKIM 설정은 발신자 주소의 '도메인(URL)'에 하는 설정입니�
 
 
 
-## SPF, DKIM이 뭔가요? <a href="#h_01h110pmte8p020zy1xk6qv5cm" id="h_01h110pmte8p020zy1xk6qv5cm"></a>
+## SPF, DKIM이 뭔가요? <a href="#understand" id="understand"></a>
 
 SPF(Sender Policy Framework)와 DKIM(Domainkeys Identified Mail)은 이메일 수신 서비스(예: 네이버, 구글, 다음, 기업 메일 등)에서 이메일 발신자가 신뢰할 만한 주소인지 '신뢰도'를 검증해 이메일 수신자에게 스팸 메일이 전달되는 것을 막기 위해 널리 사용되는 방법입니다.&#x20;
 

@@ -35,7 +35,7 @@ DMARC 설정을 위해서는 도메인에 미리 스티비의 SPF, DKIM 설정�
 
 
 
-## DMARC가 뭔가요? <a href="#h_01hm827fnmxzqf0qdngf700cd6" id="h_01hm827fnmxzqf0qdngf700cd6"></a>
+## DMARC가 뭔가요? <a href="#understand" id="understand"></a>
 
 DMARC는 Domain-based Message Authentication, Reporting & Conformance의 약자로 누군가 내 발신자 이메일 주소를 도용해 발송하는 것을 방지하기 위해 널리 사용되는 이메일 처리 방식입니다. DMARC를 설정함으로써 누군가 내 발신자 이메일 주소와 똑같은 가짜 발신자 주소를 사용해서 스팸 메일을 보내 피해가 발생하는 것을 방지할 수 있습니다. DMARC 설정은 이메일을 보내는 사람과 받아보는 사람을 모두 보호하기 위한 효과적인 장치입니다.
 
@@ -103,7 +103,7 @@ SPF, DKIM을 설정하는 방법은 [SPF, DKIM 설정 이해하기](spf-dkim.md)
 
 
 
-### DMARC 설정을 위한 TXT 레코드 추가 <a href="#h_01hkky31a2vkzarwpz76500yra" id="h_01hkky31a2vkzarwpz76500yra"></a>
+### DMARC 설정을 위한 TXT 레코드 추가 <a href="#txt_record" id="txt_record"></a>
 
 SPF, DKIM 값을 추가했고 48시간이 지났다면 도메인의 설정 값에 DMARC 값을 추가하면 됩니다. DMARC 값은 TXT 레코드를 추가하고 설정 값을 입력하면 됩니다. DMARC 레코드에는 여러 태그 값이 존재합니다. 태그 값은 상황에 따라 수정하여 작성하시면 좋지만, 처음부터 많은 설정을 추가하는 경우 이메일 발송에 문제가 생길 수 있습니다.&#x20;
 
