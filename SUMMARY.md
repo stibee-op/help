@@ -63,6 +63,7 @@
   * [이메일 공유 설정하기](email/share/configuration.md)
   * [SNS에 이메일 공유하기](email/share/social-media.md)
   * [이메일 아카이빙하기](email/share/archive.md)
+  * [내 홈페이지에 공유하기](email/share/undefined.md)
 * [이메일 자동화하기](email/automation/README.md)
   * [자동 이메일 이해하기](email/automation/understand.md)
   * [자동 이메일 사용하기](email/automation/using.md)
