@@ -87,7 +87,9 @@ layout:
 
 <summary>이메일 제목에 구독자 이름을 넣을 수 있나요?</summary>
 
-[메일머지](edit/personalized-merge.md) 기능을 사용하면 구독자 별로 개인화된 이메일을 만들 수 있습니다.
+#### 메일머지기능을 사용하면 구독자별 개인화된 이메일을 만들 수 있습니다. <a href="#personalized-merge" id="personalized-merge"></a>
+
+자세한 내용은 [personalized-merge.md](edit/personalized-merge.md "mention")를 참고해 주세요.
 
 </details>
 
