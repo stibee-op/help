@@ -29,7 +29,7 @@
 
 
 
-## 스타터 요금제 <a href="#h_01gjhq6k6xjhhj1f60cjzzj336" id="h_01gjhq6k6xjhhj1f60cjzzj336"></a>
+## 스타터 요금제 <a href="#starter" id="starter"></a>
 
 스타터 요금제는 가입과 동시에 사용할 수 있는 무료 요금제입니다. 구독 페이지부터 웰컴 이메일까지, 뉴스레터를 시작하고 싶을 때, 스티비를 선택하세요.
 
@@ -52,7 +52,7 @@ _\* 스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일
 
 
 
-## 스탠다드 요금제 <a href="#h_01gjhq72pnz5tyv0sqqegek5ea" id="h_01gjhq72pnz5tyv0sqqegek5ea"></a>
+## 스탠다드 요금제 <a href="#standard" id="standard"></a>
 
 개인화, 자동화된 이메일 마케팅을 시작하거나 콘텐츠를 판매하고 싶을 때, 스탠다드 요금제를 선택하세요.&#x20;
 
@@ -100,7 +100,7 @@ _\* 스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일
 
 &#x20;
 
-## 프로 요금제 <a href="#h_01gjhq7veqydnmk8njqe87p5b8" id="h_01gjhq7veqydnmk8njqe87p5b8"></a>
+## p프로 요금제 <a href="#pro" id="pro"></a>
 
 콘텐츠 A/B 테스트, 통계 분석으로 전문적인 이메일 마케팅을 하고 싶을 때, 프로 요금제를 선택하세요.&#x20;
 
@@ -145,7 +145,7 @@ _\* 스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일
 
 &#x20;
 
-## 엔터프라이즈 요금제 <a href="#id-01h9mkmczfjzpsvkd48y0eeqcw" id="id-01h9mkmczfjzpsvkd48y0eeqcw"></a>
+## 엔터프라이즈 요금제 <a href="#enterprise" id="enterprise"></a>
 
 대규모 팀과 기업을 위한 강화된 보안, 맞춤 기능과 고객 지원이 필요할 때, 엔터프라이즈 요금제를 선택하세요.
 
