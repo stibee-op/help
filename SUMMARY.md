@@ -117,7 +117,7 @@
 * [통계 조회하기](periodic-statistics/view.md)
 * [통계 확인하기](periodic-statistics/verify.md)
 * [통계 내보내기](periodic-statistics/export.md)
-* [자주 묻는 질문](periodic-statistics/undefined.md)
+* [자주 묻는 질문](periodic-statistics/questions.md)
 
 ## 외부 서비스 연동 <a href="#integration" id="integration"></a>
 
