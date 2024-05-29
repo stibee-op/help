@@ -20,7 +20,7 @@ layout:
 
 ***
 
-## A/B 테스트란?
+## A/B 테스트란? <a href="#understand" id="understand"></a>
 
 마케팅에서 A/B 테스트는 마케팅 성과를 개선하기 위해 가장 많이 사용되는 방법론입니다. 스티비를 사용하면 이메일 성과를 개선하기 위한 A/B 테스트를 간단하게 진행할 수 있습니다. 전체 구독자를 두 개 그룹으로 나눠 이메일의 성과를 테스트하거나 전체 그룹 중 일부에만 테스트를 진행한 뒤 더 성과가 좋은 안으로 나머지 그룹에 발송되도록 할 수 있습니다. 예를 들어 전체 100명의 구독자가 있다고 가정한다면,
 
@@ -29,7 +29,7 @@ layout:
 
 
 
-## A/B 테스트 시작하기 <a href="#h_01h3eqs5pkbdfmrprhxvxqbaha" id="h_01h3eqs5pkbdfmrprhxvxqbaha"></a>
+## A/B 테스트 시작하기 <a href="#start" id="start"></a>
 
 이메일 편집 단계 중 \[A/B 테스트]에서 테스트를 설정할 수 있습니다.
 
@@ -41,7 +41,7 @@ layout:
 
 
 
-## 테스트 항목 설정하기 <a href="#h_01h3eqsh0dphp96vr0t3ba5999" id="h_01h3eqsh0dphp96vr0t3ba5999"></a>
+## 테스트 항목 설정하기 <a href="#setting" id="setting"></a>
 
 'A/B 테스트를 하시겠습니까?' 에서 \[예]를 클릭하면 테스트 항목을 설정할 수 있는 화면이 표시됩니다.&#x20;
 
@@ -54,7 +54,7 @@ _\* 테스트 항목은 업데이트를 통해 추가할 예정입니다._
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-### 이메일 제목 테스트하기 <a href="#h_01h3eqspfv5b9v9skk2y274e8w" id="h_01h3eqspfv5b9v9skk2y274e8w"></a>
+### 이메일 제목 테스트하기 <a href="#title" id="title"></a>
 
 이메일 제목을 기준으로 테스트하면 같은 내용이지만 제목만 다른 이메일을 A안과 B안으로 나눠 발송하고, 이메일 성과를 비교할 수 있습니다.&#x20;
 
@@ -66,7 +66,7 @@ _\* 테스트 항목은 업데이트를 통해 추가할 예정입니다._
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-### 발신자 이름 테스트하기 <a href="#h_01h3eqsvwmrnjkr7fagzr0dwjm" id="h_01h3eqsvwmrnjkr7fagzr0dwjm"></a>
+### 발신자 이름 테스트하기 <a href="#sender-name" id="sender-name"></a>
 
 발신자 이름을 기준으로 테스트하면 같은 제목, 내용의 이메일의 발신자 이름만 다르게 설정하여 A안, B안으로 나눠 발송하고, 이메일 성과를 비교할 수 있습니다.
 
@@ -78,7 +78,7 @@ _\* 테스트 항목은 업데이트를 통해 추가할 예정입니다._
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-### 발송 스케줄 테스트하기 <a href="#h_01h3eqt03edkkayf3n9v7en2aj" id="h_01h3eqt03edkkayf3n9v7en2aj"></a>
+### 발송 스케줄 테스트하기 <a href="#sending-schedule" id="sending-schedule"></a>
 
 같은 내용, 제목, 발신자 이름의 이메일을 두 가지 시간으로 나눠 발송한 뒤 이메일의 성과를 비교할 수 있습니다. 예를 들면, A라는 이메일을 100명에게 보내는 경우 50명에게는 오전 9시에 발송하고 나머지 50명에게는 오후 6시에 발송해서 두 이메일의 성과를 비교할 수 있습니다. 발송 스케줄 조건을 사용해 테스트를 진행하면 언제 이메일을 보내는 것이 가장 성과가 좋은지 확인할 수 있어 발송 스케줄을 최적화하는 데 도움을 받을 수 있습니다.
 
@@ -88,13 +88,13 @@ _\* 테스트 항목은 업데이트를 통해 추가할 예정입니다._
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-### 콘텐츠 테스트하기 <a href="#h_01h3eqt03edkkayf3n9v7en2aj" id="h_01h3eqt03edkkayf3n9v7en2aj"></a>
+### 콘텐츠 테스트하기
 
 콘텐츠 테스트는 콘텐츠를 A안, B안 두가지로 나눠 어떤 콘텐츠가 더 효과적인지 확인할 수 있는 테스트입니다. 콘텐츠 테스트는 프로 요금제부터 사용할 수 있습니다. 자세한 내용은 [여기](a-b-test.md#h\_01h8b8qwm5axynzjfbewhkvzye)에서 확인해보세요.
 
 
 
-## 테스트, 발송 그룹 비율 설정하기 <a href="#h_01h3en8d5zf42gqhgqbap9y99q" id="h_01h3en8d5zf42gqhgqbap9y99q"></a>
+## 테스트, 발송 그룹 비율 설정하기 <a href="#sending-group-rate" id="sending-group-rate"></a>
 
 \[이메일 제목]과 \[발신자 이름] 조건에서는 테스트, 발송 그룹 비율을 설정할 수 있습니다. 이 설정을 활용해 전체 구독자를 50대 50으로 테스트만 진행 후 각 그룹 간 차이를 비교할지 아니면 '테스트 그룹'에만 이메일을 발송해 일정 시간 동안 테스트를 진행한 뒤에 더 성과가 좋은 안으로 나머지 '발송 그룹'에 이메일을 발송해 이메일의 성과를 개선하도록 할지 여부를 선택할 수 있습니다. 예를 들어 A라는 이메일을 100명에게 발송할 때 전체 구독자를 50대 50으로 나눠 보내고 싶다면,
 
@@ -112,7 +112,7 @@ _\*발송 그룹에 얼마나 테스트를 진행한 뒤 보낼지 여부는 직
 
 <figure><img src="../.gitbook/assets/ab테스트.gif" alt=""><figcaption></figcaption></figure>
 
-## A/B 테스트 성과 확인하기 <a href="#h_01h3eqvwfdcx0ncmzz5xjnrc5r" id="h_01h3eqvwfdcx0ncmzz5xjnrc5r"></a>
+## A/B 테스트 성과 확인하기 <a href="#analytics" id="analytics"></a>
 
 ### 전체 성과 확인하기 <a href="#h_01h3eqw4g8nk5q3a4gwqx64h31" id="h_01h3eqw4g8nk5q3a4gwqx64h31"></a>
 
@@ -137,7 +137,7 @@ A안, B안 중 어떤 안이 더 성과가 좋은 지 여부는 이메일의 '�
 
 <figure><img src="https://help.stibee.com/hc/article_attachments/7254658495247" alt=""><figcaption></figcaption></figure>
 
-## A/B 테스트 중단하고 바로 발송하기 <a href="#h_01h3eqwddfaytcx7jkbtp1vx54" id="h_01h3eqwddfaytcx7jkbtp1vx54"></a>
+## A/B 테스트 중단하고 바로 발송하기 <a href="#send-immediately" id="send-immediately"></a>
 
 A/B 테스트를 중단하고 발송 그룹에 A안, B안 중 더 우수한 안으로 바로 발송할 수 있습니다.&#x20;
 
@@ -155,7 +155,7 @@ A/B 테스트를 하기 위해 가설을 세우고 검증하는 과정이 궁금
 
 
 
-## 콘텐츠 A/B 테스트 <a href="#h_01h8b8qwm5axynzjfbewhkvzye" id="h_01h8b8qwm5axynzjfbewhkvzye"></a>
+## 콘텐츠 A/B 테스트 <a href="#contents" id="contents"></a>
 
 💬 이 내용은 **프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다.
 
@@ -185,7 +185,7 @@ A/B 테스트를 하기 위해 가설을 세우고 검증하는 과정이 궁금
 11. 편집을 완료한 후, \[발송하기]를 클릭해 이메일을 발송합니다.
 12. 이메일이 발송된 후, 이메일 대시보드로 이동해 \[A/B 테스트 결과]에서 테스트 결과를 확인합니다.
 
-### 이메일 성과 확인하기 <a href="#h_01h8b8z6gqdz488gh968b3dhy8" id="h_01h8b8z6gqdz488gh968b3dhy8"></a>
+### 이메일 성과 확인하기 <a href="#analytics" id="analytics"></a>
 
 콘텐츠 A/B 테스트를 진행하면 각 그룹별로 발송 성과를 확인할 수 있습니다. 발송이 완료된 이메일을 클릭해서 이메일 대시보드로 이동한 뒤 \[A/B 테스트 결과]를 클릭하면 확인할 수 있습니다. A/B 테스트 결과 어떤 안이 성과가 좋은지 여부에 대한 판단은 '클릭 수'를 기준으로 평가합니다.
 
