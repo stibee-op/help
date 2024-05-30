@@ -6,7 +6,7 @@
 
 ***
 
-## 구독 상태 <a href="#h_01ggeqwbj3z661mpg605k7jw7d" id="h_01ggeqwbj3z661mpg605k7jw7d"></a>
+## 구독 상태 <a href="#status" id="status"></a>
 
 주소록에 등록된 구독자는 \[구독 중, 수신거부, 자동삭제] 3가지 상태로 분류될 수 있습니다. 이메일은 \[구독 중] 상태인 경우에만 발송되며 \[수신거부], \[자동삭제]인 구독자에게는 이메일이 발송되지 않습니다. 구독자의 구독 상태는 주소록 단위로 관리됩니다. \
 \
@@ -16,19 +16,19 @@
 
 
 
-### 구독 중 <a href="#h_01ggeqwgfg8ygdwvve14c9djn1" id="h_01ggeqwgfg8ygdwvve14c9djn1"></a>
+### 구독 중 <a href="#subscribe" id="subscribe"></a>
 
 구독자가 이메일 수신이 가능한 상태를 말합니다. 일반적으로 처음 주소록에 구독자를 추가하거나 \[구독 폼]을 통해 구독 신청한 경우 기본적으로 '구독 중' 상태로 추가됩니다. 이메일을 발송하는 경우 '구독 중' 상태인 구독자에게만 이메일이 발송됩니다.
 
 
 
-### 수신거부 <a href="#h_01ggeqwq6cxmv4h1m3d8anvg8p" id="h_01ggeqwq6cxmv4h1m3d8anvg8p"></a>
+### 수신거부 <a href="#unsubscribe" id="unsubscribe"></a>
 
 구독자가 이메일 수신을 거부한 상태를 말합니다. 이메일의 수신거부 링크를 사용해 구독자가 수신을 거부했거나 관리자가 직접 구독자를 수신거부 상태로 만든 경우일 수 있습니다. 수신거부 상태의 구독자에게는 이메일이 발송되지 않습니다.&#x20;
 
-&#x20;
 
-### **자동삭제** <a href="#h_01ggeqwwge8xajvge9n58y2k5c" id="h_01ggeqwwge8xajvge9n58y2k5c"></a>
+
+### **자동삭제** <a href="#auto-deleted" id="auto-deleted"></a>
 
 이메일을 발송했을 때 [하드바운스](../../email/analytics/email-detailed-statistics.md#undefined-3)로 발송에 실패한 경우를 의미합니다. 이메일을 발송했지만 하드바운스로 발송에 실패해 영구적으로 이메일을 수신할 수 없는 상태로 판단된 경우에는 자동 삭제로 분류되며 앞으로 발송 대상에서도 제외됩니다.\
 \
