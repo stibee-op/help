@@ -22,9 +22,9 @@ layout:
 
 결제 정보는 \[워크스페이스 이름 → 요금제 및 결제 → 결제 정보]에서 확인할 수 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/7902707662351" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
-보조 연락처: ①을 클릭해서 보조 연락처를 수정할 수 있습니다. 참고로보조 연락처는 현재 사용하지 않는 기능입니다.&#x20;
+보조 연락처: ①을 클릭해서 보조 연락처를 수정할 수 있습니다. 보조 연락처는 현재 사용하지 않는 기능입니다.
 
 카드 추가하기: ②를 클릭해 결제 카드를 추가할 수 있습니다. 매월 정기 결제되는 카드 정보를 변경하고 싶은 경우 새로운 카드를 등록한 뒤 기본 결제 카드를 새로운 카드로 변경하면 됩니다.
 

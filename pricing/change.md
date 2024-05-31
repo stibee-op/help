@@ -32,6 +32,8 @@ layout:
 * 6월 20일에 결제 주기를 변경해도, 바로 결제 주기가 변경되지 않습니다.
 * 다음 결제일인 7월 10일에 1년 치 요금이 결제되고, 결제 주기도 연간 결제로 변경됩니다.
 
+
+
 결제되는 사용료는 결제되는 시점에 등록된 구독자 수를 기준으로 정해집니다. 결제 주기 변경을 예약할 때 변경될 구독자 수 구간을 선택하는 것은 불가합니다.
 
 예를 들어, 6월 20일에는 A 워크스페이스에 2,501-5,000명 구간에 해당하는 구독자가 등록되어 있고, 7월 10일에는 5,001-10,000명 구간에 해당하는 구독자가 등록되어 있다면,
@@ -40,7 +42,7 @@ layout:
 
 원하는 구독자 수 구간이 있다면, 결제 주기 변경일 이전에 해당 구간에 맞춰 주소록을 정리해 주세요.
 
-&#x20;
+
 
 ## 결제 주기 변경하기 <a href="#h_01h1xrnww8dg58wyepf3zrcf5y" id="h_01h1xrnww8dg58wyepf3zrcf5y"></a>
 
@@ -50,6 +52,6 @@ layout:
 4. 결제 정보를 확인하고 약관에 동의한 뒤 \[변경하기]를 클릭합니다.
 5. 결제 주기 변경이 예약되고 다음 정기 결제일에 변경된 결제 주기에 따라 자동 결제가 이루어집니다.
 
-![](https://help.stibee.com/hc/article\_attachments/7896983122703)
+<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.stibee.com/hc/article\_attachments/7897038546191)
+<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>

@@ -14,9 +14,13 @@
 
 <figure><img src="../.gitbook/assets/정기 결제 해지하기1 (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/정기 결제 해지하기2.png" alt=""><figcaption></figcaption></figure>
+
 
 스티비 요금제는 선불 요금제이므로 즉시 결제가 해지되지 않고, 다음 정기 결제일 오전 11:00에 스타터 요금제로 변경되며 해제됩니다.
+
+<figure><img src="../.gitbook/assets/정기 결제 해지하기2.png" alt=""><figcaption></figcaption></figure>
+
+
 
 정기 결제를 해지하여 무료 요금제인 스타터 요금제로 변경되어도 이전에 발송했던 메일(메일 목록, 통계 등)과 주소록(구독자 목록, 구독자 정보) 정보는 그대로 유지되며, 발송된 이메일의 공유용 URL도 계속 사용할 수 있습니다.
 
