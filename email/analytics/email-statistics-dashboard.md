@@ -58,7 +58,7 @@ layout:
 \
 발송이 완료된 이메일을 \[HTML 내보내기]를 통해 HTML 코드 형태로 만들어 외부에 게시하거나 자주 확인하는 이메일은 \[태그]를 달아 관리할 수 있습니다. 이메일별로 \[콘텐츠 공유 설정]을 수정하거나 이메일을 발송한 주소록과 연결된 \[아카이브], \[페이지]에 발송한 이메일을 발행하는 것도 가능합니다.
 
-<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 성과 <a href="#h_01gfme5827x3qnzq6vthctscbf" id="h_01gfme5827x3qnzq6vthctscbf"></a>
 

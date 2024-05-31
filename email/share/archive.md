@@ -56,7 +56,7 @@ layout:
 
 [유료 구독 주소록](broken-reference)으로 이메일을 보낸 경우에는 유료 구독자에게만 콘텐츠를 공개할 수 있도록 설정하는 것도 가능합니다. 유료 구독자 전용 콘텐츠도 일반 이메일 발행과 마찬가지로 이메일을 보낼 때와 이미 발송이 완료된 이메일 둘 모두 발행할 수 있습니다. 이메일의 예약 또는 발송 화면에서 \[발행 설정 → 유료 구독자용으로 발행]을 선택하고 이메일을 보내면 콘텐츠를 유료 구독자에게만 제공할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/3 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1) (1).gif" alt=""><figcaption></figcaption></figure>
 
 #### 유료 구독 주소록으로 발송 완료된 이메일 발행하기 <a href="#h_948760e52e" id="h_948760e52e"></a>
 
@@ -112,7 +112,7 @@ ex) http:// 또는 [https://stibee.com](https://stibee.com/), [www.stibee.com](h
 
 이메일을 발송할 때 예약하기 혹은 발송하기 버튼을 클릭한 후 발행 설정을 할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/7 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (1) (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### 발송 완료된 이메일 발행하기
 

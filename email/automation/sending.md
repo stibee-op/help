@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 발송하기
 
 ## 이 글에서는 <a href="#h_b701b1a2bd" id="h_b701b1a2bd"></a>
@@ -12,30 +26,29 @@
 
 모든 단계의 입력을 완료한 뒤 화면 오른쪽 위에 있는 \[시작하기]를 클릭해서 자동 이메일 발송을 시작할 수 있습니다. 자동 이메일이 '실행중' 상태가 되면 이때부터 \[발송조건] 단계에서 설정한 조건을 특정 구독자가 만족하는 경우 이메일이 자동으로 발송됩니다.
 
-![stibee-email-create-automail\_start.png](https://help.stibee.com/hc/article\_attachments/5813317056399)
+![](../../.gitbook/assets/1.png)
 
 &#x20;
 
 자동 이메일도 발송하기 전에 마지막으로 각 단계에서 입력하거나 설정한 내용을 확인할 수 있습니다. 이 때 자동 이메일의 '종료 시점'도 설정할 수 있습니다. 종료 시점을 설정하면 스케줄에 따라 자동 이메일 발송이 종료됩니다. 종료 시점을 설정하지 않으면 직접 종료하기 전까지 자동 이메일이 계속 발송됩니다.\
 _\*종료된 자동 이메일은 재시작할 수 없습니다._\
 \
-모든 설정을 확인한 뒤 화면 아래쪽에 있는 \[지금 시작하기]를 클릭하면 자동 이메일 발송이 시작됩니다.\
-&#x20;
+모든 설정을 확인한 뒤 화면 아래쪽에 있는 \[지금 시작하기]를 클릭하면 자동 이메일 발송이 시작됩니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/5813287246479" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 ### 실행 예약하기 <a href="#h_23acb85bcd" id="h_23acb85bcd"></a>
 
 화면 오른쪽 위에 있는 \[예약하기]를 클릭하면 자동 이메일 실행을 예약할 수 있습니다. 자동 이메일 발송을 바로 시작하지 않고, 시작할 시점을 설정할 수 있습니다. 자동 이메일이 '예약 중'인 경우에는 트리거를 만족하는 조건이 발생했다고 하여도 자동 이메일은 발송되지 않습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/5813287179791" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3.gif" alt=""><figcaption></figcaption></figure>
 
 자동 이메일도 발송하기 전에 마지막으로 각 단계에서 입력하거나 설정한 내용을 확인할 수 있습니다. 이 때 자동 이메일의 '종료 시점'도 설정할 수 있습니다. 종료 시점을 설정하면 스케줄에 따라 자동 이메일 발송이 종료됩니다. 종료 시점을 설정하지 않으면 직접 종료하기 전까지 자동 이메일이 계속 발송됩니다.\
 \*종료된 자동 이메일은 재시작할 수 없습니다.\
 \
 모든 설정을 확인한 뒤 화면 아래쪽에 있는 \[예약하기]를 클릭하면 자동 이메일이 '예약중' 상태로 변경됩니다. 예약한 시간이 다가오면 자동 이메일은 '예약중'에서 '실행중' 상태로 변경되며 이때부터 트리거 조건을 만족할 때마다 이메일이 자동으로 발송됩니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/5813316975375" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -53,9 +66,7 @@ _\*종료된 자동 이메일은 재시작할 수 없습니다._\
 
 이메일 목록에서 확인하고 싶은 자동 이메일을 클릭합니다. 자동 이메일 대시보드에서 우측 상단의 '발송대기'를 클릭하여 명단을 확인합니다. 구독상태가 수신거부, 자동삭제인 구독자는 '발송대기' 명단에 표시되지 않습니다. 만약에 구독자 정보를 '발송대기' 명단에서 확인할 수 없는 경우에는 주소록의 '구독자 목록'에서 구독자가 '수신거부', '자동삭제'로 분류되어 있는 것은 아닌지 확인해보세요.
 
-&#x20;
-
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756488037007" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### 구독자 선택하기 <a href="#h_cdf10413d8" id="h_cdf10413d8"></a>
 
@@ -63,15 +74,13 @@ _\*종료된 자동 이메일은 재시작할 수 없습니다._\
 
 발송 대기 목록의 구독자 명단 왼쪽에 있는 체크 박스를 클릭하면 구독자를 개별로 선택할 수 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756478367247" alt=""><figcaption></figcaption></figure>
-
-&#x20;
+<figure><img src="../../.gitbook/assets/4.gif" alt=""><figcaption></figcaption></figure>
 
 #### 현재 페이지에있는 구독자 전체 선택하기 <a href="#h_b79f66c693" id="h_b79f66c693"></a>
 
 목록 좌측 상단의 '이메일 제목' 필드 옆의 체크 박스 모양에 마우스 커서를 올리면 구독자 선택 옵션 창을 확인할 수 있습니다. 여기서 '이 페이지 선택'을 클릭하면 지금 페이지에 있는 모든 구독자를 한번에 선택할 수 있습니다. 페이지당 최대 20명의 구독자가 표시됩니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756414672271" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.gif" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -79,15 +88,13 @@ _\*종료된 자동 이메일은 재시작할 수 없습니다._\
 
 구독자 선택 옵션 창에서 '모든 페이지 선택'을 클릭하면 지금 목록에 있는 모든 구독자를 한번에 선택할 수 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756478429711" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6.gif" alt=""><figcaption></figcaption></figure>
 
 #### 전체 선택 취소하기 <a href="#h_94d4176c23" id="h_94d4176c23"></a>
 
 구독자 선택 옵션 창에서 '전체 선택 해제' 을 클릭하면 한번에 모든 구독자 선택을 해제할 수 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756478458895" alt=""><figcaption></figcaption></figure>
-
-&#x20;
+<figure><img src="../../.gitbook/assets/7.gif" alt=""><figcaption></figcaption></figure>
 
 #### 대기 명단에 지금 발송하기 <a href="#h_f6a69b7195" id="h_f6a69b7195"></a>
 
@@ -95,27 +102,25 @@ _\*종료된 자동 이메일은 재시작할 수 없습니다._\
 \
 발송 결과는 '상세통계'의 '발송 성공' 또는 '발송 실패' 탭에서 확인할 수 있습니다. 자동 이메일 발송량에 따라 실제 발송이 완료되는 시점은 조금 늦어질 수 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756467165327" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8.gif" alt=""><figcaption></figcaption></figure>
 
 #### 대기 목록에서 삭제하기 <a href="#h_ceb04e3556" id="h_ceb04e3556"></a>
 
 발송 대기 목록에 있는 구독자를 목록에서 삭제할 수 있는 기능입니다. 발송 대기 목록에서 구독자를 삭제하면 예약되었던 자동 이메일 발송이 취소됩니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756467196943" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9.gif" alt=""><figcaption></figcaption></figure>
 
 #### 구독자 검색하기 <a href="#h_4f2e6a6e89" id="h_4f2e6a6e89"></a>
 
 발송 대기 명단에서는 구독자를 검색할 수 있는 기능을 제공합니다. 이메일 주소 또는 사용자 정의 필드에 있는 정보를 기준으로 원하는 조건의 구독자를 조회할 수 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756414776079" alt=""><figcaption></figcaption></figure>
-
-&#x20;
+<figure><img src="../../.gitbook/assets/10.gif" alt=""><figcaption></figcaption></figure>
 
 #### 발송 대기 시간 순으로 정렬 순서 변경하기 <a href="#h_3a5892ff0f" id="h_3a5892ff0f"></a>
 
 발송 예정일 필드의 우측에 있는 화살표를 클릭하면 발송 예정일을 기준으로 '내림차순' 또는 '올림차순'으로 발송 대기 명단의 정렬을 변경하여 조회할 수 있습니다. 예약된 자동 이메일이 발송되는 시점의 자동 이메일의 상태, 발송 대상이 되는 구독자의 구독 상태 등에 따라 발송 여부는 달라질 수 있습니다. 자세한 내용은 [여기](../../list/adding-managing-subscriber/understanding-subscriber-status.md) 링크를 참고해주세요.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756478628111" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/11.gif" alt=""><figcaption></figcaption></figure>
 
 ## 자동 이메일의 상태 <a href="#status" id="status"></a>
 

@@ -24,7 +24,7 @@ layout:
 
 에디터 화면은 크게 왼쪽의 \[편집 공간]과 오른쪽의 \[편집 상자 공간]으로 구성됩니다. \[편집 상자 공간]에서 넣고 싶은 상자를 클릭하여 왼쪽에 있는 \[편집 공간]에 끌어다 놓으면 됩니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 상자 구성 요소 <a href="#h_01ggs15cs6aebvae0nym5yvj5a" id="h_01ggs15cs6aebvae0nym5yvj5a"></a>
 
@@ -38,7 +38,7 @@ layout:
 
 상자에 마우스 커서를 올리면 왼쪽 윗부분에 상자를 이동할 수 있는 버튼\[↑], \[↓]이 나타납니다. 위, 아래 화살표 버튼을 클릭하여 상자를 이동할 수 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/3.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3 (2).gif" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -50,7 +50,7 @@ layout:
 
  
 
-<figure><img src="../../../.gitbook/assets/4.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4 (1).gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -60,11 +60,11 @@ layout:
 
 상자 위에 마우스 커서를 올리면 상자 오른쪽에 버튼\[+]이 표시됩니다. \[+]버튼을 클릭하면 똑같은 상자가 바로 아래에 복사됩니다.
 
-<figure><img src="../../../.gitbook/assets/5.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5 (1).gif" alt=""><figcaption></figcaption></figure>
 
 \[+]버튼 위 휴지통 모양의 삭제하기 버튼을 클릭해 상자를 삭제할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/6.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/6 (1).gif" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -72,7 +72,7 @@ layout:
 
 편집 상자의 레이아웃은 1단, 2단 두가지 종류가 있습니다. 추가한 상자를 클릭하면 오른쪽에 상자 설정 화면이 표시됩니다. \[레이아웃]에서 \[1단], \[2단]을 클릭하여 상자의 레이아웃을 변경할 수 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/7.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/7 (1).gif" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -86,7 +86,7 @@ layout:
 
  
 
-<figure><img src="../../../.gitbook/assets/8.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/8 (1).gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -98,7 +98,7 @@ layout:
 
 상자 표시 설정은 상자 클릭 후 우측 상자 설정에서 할 수 있으며, 이메일과 웹에서 보기 페이지에서 모두 내용을 공개할 수 있는 '이메일, 웹 공개', 이메일에서만 내용을 공개하는 '이메일에서만 공개', 웹에서 보기(공유용 URL)에서만 내용을 공개하는 '웹에서만 공개' 총 3가지 옵션을 사용할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/9.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/9 (1).gif" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -108,7 +108,7 @@ layout:
 
 #### 에디터
 
-<figure><img src="../../../.gitbook/assets/10.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/10 (1).gif" alt=""><figcaption></figcaption></figure>
 
 #### 이메일
 

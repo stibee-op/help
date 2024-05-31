@@ -54,23 +54,23 @@ layout:
 
 콘텐츠 공유 설정 기본 값을 설정할 수 있습니다. 기본 값은 설정 이후 생성된 이메일에만 적용됩니다. \[워크 스페이스 이름 → 내 정보]를 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 '이메일 콘텐츠 공유 설정 기본 값'에서 원하는 설정을 선택한 후 \[저장하기] 를 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/4 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (1) (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### 발송 단계에서 설정하기 <a href="#h_e350c1d6a6" id="h_e350c1d6a6"></a>
 
 이메일을 발송하거나 예약할 때, 콘텐츠 공유 설정 값을 선택할 수 있습니다. 이메일 제작 완료 후에 \[예약하기] 를 클릭하고 하단 콘텐츠 공유 설정 값을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/5 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (1) (1).gif" alt=""><figcaption></figcaption></figure>
 
 \
 이메일 제작 완료 후에 \[발송하기] 를 클릭하고 하단 콘텐츠 공유 설정 값을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/6 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (1) (1).gif" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -82,4 +82,4 @@ layout:
 
 이메일 대시보드에서 \[콘텐츠 공유 설정하기] 를 클릭한 후 콘텐츠 공유 설정 값을 수정합니다.
 
-<figure><img src="../../.gitbook/assets/8 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8 (1) (1).gif" alt=""><figcaption></figcaption></figure>

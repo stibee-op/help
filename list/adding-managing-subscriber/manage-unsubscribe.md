@@ -60,7 +60,7 @@ layout:
 
 구독자별 '활동' 기록 탭에서 수신거부 사유를 확인할 수 있습니다. \[주소록 → 구독자 목록 오른쪽 '내보내기'] 버튼을 통해 구독자 목록 내보내기, [통계 내보내기](../check-subscriber-statistics/export.md) 에도 파일 내에서 수신거부 사유를 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/3 (2).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (2) (1).gif" alt=""><figcaption></figcaption></figure>
 
 
 
