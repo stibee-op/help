@@ -26,7 +26,7 @@ layout:
 
 콘텐츠 공유 설정에는 '이메일 콘텐츠 공유용 URL을 생성합니다.', '마케팅 활용을 위해 이메일 콘텐츠를 공개합니다.', '이메일 콘텐츠를 검색엔진에 노출합니다.' 3가지 옵션이 있습니다.
 
-<figure><img src="../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **이메일 콘텐츠 공유용 URL을 생성합니다**
 
@@ -54,7 +54,7 @@ layout:
 
 콘텐츠 공유 설정 기본 값을 설정할 수 있습니다. 기본 값은 설정 이후 생성된 이메일에만 적용됩니다. \[워크 스페이스 이름 → 내 정보]를 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 '이메일 콘텐츠 공유 설정 기본 값'에서 원하는 설정을 선택한 후 \[저장하기] 를 클릭합니다.
@@ -78,7 +78,7 @@ layout:
 
 이메일 발송 완료 후에 대시보드에서 콘텐츠 공유 설정 값을 수정할 수 있습니다. 발송 완료된 이메일을 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (1).png" alt=""><figcaption></figcaption></figure>
 
 이메일 대시보드에서 \[콘텐츠 공유 설정하기] 를 클릭한 후 콘텐츠 공유 설정 값을 수정합니다.
 

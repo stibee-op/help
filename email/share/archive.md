@@ -56,7 +56,7 @@ layout:
 
 [유료 구독 주소록](broken-reference)으로 이메일을 보낸 경우에는 유료 구독자에게만 콘텐츠를 공개할 수 있도록 설정하는 것도 가능합니다. 유료 구독자 전용 콘텐츠도 일반 이메일 발행과 마찬가지로 이메일을 보낼 때와 이미 발송이 완료된 이메일 둘 모두 발행할 수 있습니다. 이메일의 예약 또는 발송 화면에서 \[발행 설정 → 유료 구독자용으로 발행]을 선택하고 이메일을 보내면 콘텐츠를 유료 구독자에게만 제공할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/3 (1) (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1) (1) (1).gif" alt=""><figcaption></figcaption></figure>
 
 #### 유료 구독 주소록으로 발송 완료된 이메일 발행하기 <a href="#h_948760e52e" id="h_948760e52e"></a>
 
@@ -118,10 +118,10 @@ ex) http:// 또는 [https://stibee.com](https://stibee.com/), [www.stibee.com](h
 
 이메일 목록에서 발행하고 싶은 이메일의 오른쪽에 있는 \[더보기 V → 발행 설정하기]를 클릭해 이메일 발행 설정으로 이동합니다. 여기서 \[전체 공개로 발행]을 선택하면 연결된 페이지에 이메일이 바로 발행됩니다.
 
-<figure><img src="../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 아카이브 발행 취소하기 <a href="#h_354be0c08a" id="h_354be0c08a"></a>
 
 아카이브로 발행된 이메일의 오른쪽 화살표를 누르고 \[발행 설정하기] 버튼을 클릭한 후 발행 상태를 \[발행하지 않음]으로 선택하고 저장하면 아카이브에 발행을 취소할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9 (1).png" alt=""><figcaption></figcaption></figure>

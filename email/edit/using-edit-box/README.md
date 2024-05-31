@@ -24,7 +24,7 @@ layout:
 
 에디터 화면은 크게 왼쪽의 \[편집 공간]과 오른쪽의 \[편집 상자 공간]으로 구성됩니다. \[편집 상자 공간]에서 넣고 싶은 상자를 클릭하여 왼쪽에 있는 \[편집 공간]에 끌어다 놓으면 됩니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 상자 구성 요소 <a href="#h_01ggs15cs6aebvae0nym5yvj5a" id="h_01ggs15cs6aebvae0nym5yvj5a"></a>
 

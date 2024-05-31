@@ -26,7 +26,7 @@ layout:
 
 모든 단계의 입력을 완료한 뒤 화면 오른쪽 위에 있는 \[시작하기]를 클릭해서 자동 이메일 발송을 시작할 수 있습니다. 자동 이메일이 '실행중' 상태가 되면 이때부터 \[발송조건] 단계에서 설정한 조건을 특정 구독자가 만족하는 경우 이메일이 자동으로 발송됩니다.
 
-![](../../.gitbook/assets/1.png)
+![](<../../.gitbook/assets/1 (2).png>)
 
 &#x20;
 
@@ -35,20 +35,20 @@ _\*종료된 자동 이메일은 재시작할 수 없습니다._\
 \
 모든 설정을 확인한 뒤 화면 아래쪽에 있는 \[지금 시작하기]를 클릭하면 자동 이메일 발송이 시작됩니다.
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 실행 예약하기 <a href="#h_23acb85bcd" id="h_23acb85bcd"></a>
 
 화면 오른쪽 위에 있는 \[예약하기]를 클릭하면 자동 이메일 실행을 예약할 수 있습니다. 자동 이메일 발송을 바로 시작하지 않고, 시작할 시점을 설정할 수 있습니다. 자동 이메일이 '예약 중'인 경우에는 트리거를 만족하는 조건이 발생했다고 하여도 자동 이메일은 발송되지 않습니다.
 
-<figure><img src="../../.gitbook/assets/3.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).gif" alt=""><figcaption></figcaption></figure>
 
 자동 이메일도 발송하기 전에 마지막으로 각 단계에서 입력하거나 설정한 내용을 확인할 수 있습니다. 이 때 자동 이메일의 '종료 시점'도 설정할 수 있습니다. 종료 시점을 설정하면 스케줄에 따라 자동 이메일 발송이 종료됩니다. 종료 시점을 설정하지 않으면 직접 종료하기 전까지 자동 이메일이 계속 발송됩니다.\
 \*종료된 자동 이메일은 재시작할 수 없습니다.\
 \
 모든 설정을 확인한 뒤 화면 아래쪽에 있는 \[예약하기]를 클릭하면 자동 이메일이 '예약중' 상태로 변경됩니다. 예약한 시간이 다가오면 자동 이메일은 '예약중'에서 '실행중' 상태로 변경되며 이때부터 트리거 조건을 만족할 때마다 이메일이 자동으로 발송됩니다.
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -66,7 +66,7 @@ _\*종료된 자동 이메일은 재시작할 수 없습니다._\
 
 이메일 목록에서 확인하고 싶은 자동 이메일을 클릭합니다. 자동 이메일 대시보드에서 우측 상단의 '발송대기'를 클릭하여 명단을 확인합니다. 구독상태가 수신거부, 자동삭제인 구독자는 '발송대기' 명단에 표시되지 않습니다. 만약에 구독자 정보를 '발송대기' 명단에서 확인할 수 없는 경우에는 주소록의 '구독자 목록'에서 구독자가 '수신거부', '자동삭제'로 분류되어 있는 것은 아닌지 확인해보세요.
 
-<figure><img src="../../.gitbook/assets/3 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1) (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### 구독자 선택하기 <a href="#h_cdf10413d8" id="h_cdf10413d8"></a>
 

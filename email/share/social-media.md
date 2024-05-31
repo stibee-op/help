@@ -30,7 +30,7 @@ layout:
 
 이메일 대시보드에서도 이 URL을 확인할 수 있습니다. \[URL 복사하기]를 클릭하면 URL이 복사됩니다.
 
-<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 공유정보 설정하기 <a href="#h_a90bc7cd3f" id="h_a90bc7cd3f"></a>
 
@@ -40,20 +40,20 @@ layout:
 
 에디터 화면 오른쪽 위 쪽의 \[공유정보 설정하기]를 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/3 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 창에서 이미지, 제목, 설명을 설정한 뒤에 \[설정하기] 버튼을 클릭하여 설정을 저장합니다.
 
-<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 발송이 완료된 이메일 대시보드에서 설정하기 <a href="#h_12376bb580" id="h_12376bb580"></a>
 
 발송이 완료된 이메일 대시보드에서 \[공유정보 설정하기]를 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 창에서 이미지, 제목, 설명을 설정한 뒤에 \[설정하기] 버튼을 클릭하여 설정을 저장합니다.
 
-<figure><img src="../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>

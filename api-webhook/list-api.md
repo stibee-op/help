@@ -40,13 +40,13 @@ _\* '주소록 API'는 '주소록 웹훅'과 함께 사용하면 내 서비스�
 
 주소록 API를 사용하기 위해서는 스티비에서 API 키를 만들어야 합니다. API는 워크스페이스 단위로 관리되기 때문에 API 키의 생성과 관리는 모두 화면 오른쪽 위에 있는 \[워크스페이스 이름 → 워크스페이스 설정 → API 키] 에서 이루어집니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/7000529224079" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 #### API 키 사용하기 <a href="#id-1-api" id="id-1-api"></a>
 
 \[새로 만들기]를 클릭해 API 키를 생성한 뒤 \[복사하기]를 클릭하면 API 키를 복사할 수 있습니다. 이 키는 API 요청 시 토큰으로 사용됩니다. API 키는 최대 10개까지 생성할 수 있습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/7000529244175" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -63,10 +63,10 @@ API로 제공되는 기능은 다음과 같습니다.&#x20;
 * 완전삭제: 구독자를 완전삭제합니다. 구독자 정보와 활동 기록이 모두 삭제됩니다. 삭제된 구독자 정보와 활동 기록은 복구할 수 없습니다.
 * 그룹 할당: 구독자를 주소록의 특정 그룹에 추가합니다.
 * 그룹 해제: 구독자를 주소록의 특정 그룹에서 삭제합니다.
-* 주소록 조회: 워크스페이스에 생성된 주소록 목록을 조회합니다. **(2024년 3월 15일 추가)**
-* 그룹 조회: 주소록에 생성된 그룹 목록을 조회합니다. **(2024년 3월 15일 추가)**
-* 구독자 숫자 조회: 주소록의 구독 상태별 구독자 수를 조회합니다. **(2024년 3월 15일 추가)**
-* 구독자 목록조회: 주소록의 구독자 목록을 조회합니다. **(2024년 3월 15일 추가)**
+* 주소록 조회: 워크스페이스에 생성된 주소록 목록을 조회합니다. (준비 중입니다.)
+* 그룹 조회: 주소록에 생성된 그룹 목록을 조회합니다. (준비 중입니다.)
+* 구독자 숫자 조회: 주소록의 구독 상태별 구독자 수를 조회합니다. (준비 중입니다.)
+* 구독자 목록조회: 주소록의 구독자 목록을 조회합니다.  (준비 중입니다.)
 
 API로 제공되는 기능은 계속 추가될 예정입니다.
 
@@ -98,7 +98,7 @@ listId(주소록에 할당된 고유의 아이디)는 아래 방법으로 확인
 1. 주소록 목록에서 주소록 이름을 클릭하여 \[주소록 대시보드]로 이동
 2. 브라우저에 표시되는 URL에서 'lists' 뒤의 숫자를 확인
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/7000529244559" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 #### **Request Body**
 
@@ -131,11 +131,9 @@ groupId(그룹에 할당된 고유의 아이디)는 아래 방법으로 확인�
 1. 주소록 목록에서 주소록 이름을 클릭하여 \[주소록 대시보드]로 이동
 2. \[그룹]을 클릭하여 그룹 목록으로 이동
 3. 그룹 이름을 클릭하여 그룹 필터링이 적용된 구독자 목록으로 이동
-4. 브라우저에 표시되는 URL에서 'subscribed' 뒤의 숫자를 확인
+4. 브라우저에 표시되는 URL에서 'S' 뒤의 숫자를 확인
 
-&#x20;
-
-<figure><img src="https://help.stibee.com/hc/article_attachments/7000529224847" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 이에 대한 응답은 다음과 같습니다.
 
@@ -171,7 +169,7 @@ listId(주소록에 할당된 고유의 아이디)는 아래 방법으로 확인
 1. 주소록 목록에서 주소록 이름을 클릭하여 \[주소록 대시보드]로 이동
 2. 브라우저에 표시되는 URL에서 'lists' 뒤의 숫자를 확인
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/7000529244559" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
 #### **Request Body**
 
@@ -197,7 +195,7 @@ listId(주소록에 할당된 고유의 아이디)는 아래 방법으로 확인
 * 주소록 목록에서 주소록 이름을 클릭하여 “주소록 대시보드"로 이동
 * 브라우저에 표시되는 URL에서 "lists" 뒤의 숫자를 확인
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/7000529244559" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 #### **Request Body**
 
@@ -223,16 +221,16 @@ listId(주소록에 할당된 고유의 아이디)는 아래 방법으로 확인
 * 주소록 목록에서 주소록 이름을 클릭하여 “주소록 대시보드"로 이동
 * 브라우저에 표시되는 URL에서 "lists" 뒤의 숫자를 확인
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/7000529244559" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
 groupId(그룹에 할당된 고유의 아이디)는 아래 방법으로 확인할 수 있습니다.
 
 1. 주소록 목록에서 주소록 이름을 클릭하여 \[주소록 대시보드]로 이동
 2. \[그룹]을 클릭하여 그룹 목록으로 이동
 3. 그룹 이름을 클릭하여 그룹 필터링이 적용된 구독자 목록으로 이동
-4. 브라우저에 표시되는 URL에서 'subscribed' 뒤의 숫자를 확인
+4. 브라우저에 표시되는 URL에서 'S' 뒤의 숫자를 확인
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/7000529224847" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
 
 #### **Request Body**
 
@@ -255,18 +253,16 @@ listId(주소록에 할당된 고유의 아이디)는 아래 방법으로 확인
 1. 주소록 목록에서 주소록 이름을 클릭하여 “주소록 대시보드"로 이동
 2. 브라우저에 표시되는 URL에서 "lists" 뒤의 숫자를 확인
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/7000529244559" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
 
 groupId(그룹에 할당된 고유의 아이디)는 아래 방법으로 확인할 수 있습니다.
 
 1. 주소록 목록에서 주소록 이름을 클릭하여 \[주소록 대시보드]로 이동
 2. \[그룹]을 클릭하여 그룹 목록으로 이동
 3. 그룹 이름을 클릭하여 그룹 필터링이 적용된 구독자 목록으로 이동
-4. 브라우저에 표시되는 URL에서 'subscribed' 뒤의 숫자를 확인
+4. 브라우저에 표시되는 URL에서 'S' 뒤의 숫자를 확인
 
-&#x20;
-
-<figure><img src="https://help.stibee.com/hc/article_attachments/7000529224847" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
 
 #### **Request Body**
 

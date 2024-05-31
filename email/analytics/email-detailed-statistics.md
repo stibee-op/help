@@ -56,7 +56,7 @@ layout:
 
 _\*발송 실패 비율이 높다면 발송 속도에도 영향이 있을 수 있어요. 발송 속도가 고민된다면 발송 실패 구독자 명단 정제 작업으로 발송이 완료되는 속도를 개선하는 효과도 기대할 수 있습니다._
 
-<figure><img src="../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 소프트바운스 <a href="#soft-bounce" id="soft-bounce"></a>
 
