@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 페이지 URL 그룹 파라미터 사용하기
 
 ## 이 글에서는
@@ -31,7 +45,7 @@ groupId(그룹에 할당된 고유의 아이디)는 아래 방법으로 확인�
 3. 그룹 이름을 클릭하여 그룹 필터링이 적용된 구독자 목록으로 이동
 4. 브라우저에 표시되는 URL에서 "subscribers/S" 뒤의 숫자를 확인
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756518765455/6270c2ccec5fb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (15).png" alt=""><figcaption></figcaption></figure>
 
 
 

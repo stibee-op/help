@@ -1,10 +1,24 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 자주 묻는 질문
 
 <details>
 
 <summary>페이지에 이메일을 발행했는데 표시되지 않습니다.</summary>
 
-
+페이지에 연결된 주소록에 이메일을 발송했는지 확인해보세요. 페이지는 주소록과 연결됩니다. 페이지와 연결된 주소록에 발송된 이메일만 페이지로 발행할 수 있습니다.
 
 </details>
 

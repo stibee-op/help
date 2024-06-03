@@ -26,15 +26,15 @@ layout:
 
 [_메일머지_](../personalized-merge.md) _기능을 사용하여 버튼 클릭 성과를 개선할 수 있습니다._
 
-![](https://help.stibee.com/hc/article\_attachments/4889206699023/\_\_\_\_\_\_\_\_\_\_\_11.gif)
+![](<../../../.gitbook/assets/1 (8).gif>)
 
 
 
 ### 버튼에 링크 삽입하기 <a href="#h_01ggs74hn1na9h0h7em1xfngbt" id="h_01ggs74hn1na9h0h7em1xfngbt"></a>
 
-버튼을 클릭하면 툴바가 표시됩니다. 툴바의 \[링크(![Link.png](https://help.stibee.com/hc/article\_attachments/5862720616463))]를 클릭하여 버튼에 링크를 추가할 수 있습니다. \[링크 해제(![remove-link.png](https://help.stibee.com/hc/article\_attachments/5862766618639))]버튼을 클릭하면 입력한 링크를 삭제할 수 있습니다.
+버튼을 클릭하면 툴바가 표시됩니다. 툴바의 \[링크(🔗)]를 클릭하여 버튼에 링크를 추가할 수 있습니다. \[링크 해제]버튼을 클릭하면 입력한 링크를 삭제할 수 있습니다.
 
-![](https://help.stibee.com/hc/article\_attachments/4889219859983/\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.png)
+![](<../../../.gitbook/assets/2 (15).png>)
 
 
 
@@ -42,4 +42,4 @@ layout:
 
 버튼의 모양과 색상, 테두리 모양과 색상, 텍스트 색상을 변경할 수 있습니다. 버튼의 정렬(왼쪽, 오른쪽, 가운데)을 변경해 표시 위치를 변경할 수 있습니다.
 
-![](https://help.stibee.com/hc/article\_attachments/4889198959375/\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.png)
+![](<../../../.gitbook/assets/3 (16).png>)

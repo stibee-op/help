@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 상품 구매하기
 
 💬 이 내용은 **카페24와 연동한 워크스페이스**에 해당하는 도움말입니다.
