@@ -22,7 +22,7 @@ layout:
 
 ***
 
-## 들어가기 전에 <a href="#h_01h9mnkve0157zzmzkm7q4xb50" id="h_01h9mnkve0157zzmzkm7q4xb50"></a>
+## 들어가기 전에 <a href="#understand" id="understand"></a>
 
 \[자동 이메일]의 발송은 구독자 한명 한명에게 정확히 보내는 구조에 최적화되어 있습니다. 따라서 자동 이메일로 한 번에 여러 명의 구독자에게 보내는 경우, \[[일반 이메일](broken-reference)]과 처리 방식이 달라 발송 완료까지 시간이 오래 걸릴 수 있습니다. 구독자 별로 보내는 것이 아니라 한 번에 여러 명에게 보내는 이메일(뉴스레터, 프로모션 메일 등 구독자의 참여를 유도하기 위해 대량 발송하는 이메일)이라면 일반 이메일을 사용해서 보내주세요.
 
@@ -74,11 +74,9 @@ layout:
 
 
 
-### **트리거** <a href="#h_01gh88kd78e54580s6b1tqyxmy" id="h_01gh88kd78e54580s6b1tqyxmy"></a>
+### **트리거** <a href="#trigger" id="trigger"></a>
 
 트리거는 이메일을 발송할 기본 조건입니다. 이메일, 주소록에 대한 구독자의 행동이나 API 요청에 의해 실행됩니다. 트리거로 설정할 수 있는 구독자의 행동은 다음과 같습니다.
-
-
 
 <figure><img src="../../.gitbook/assets/이메일 자동화하기 _ 트리거.png" alt=""><figcaption></figcaption></figure>
 
