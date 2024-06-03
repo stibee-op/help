@@ -37,7 +37,7 @@ layout:
 2. \[A/B 테스트] 단계로 이동합니다.
 3. 'A/B테스트를 하시겠습니까?' 에서 \[예]를 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -52,7 +52,7 @@ layout:
 
 _\* 테스트 항목은 업데이트를 통해 추가할 예정입니다._
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 이메일 제목 테스트하기 <a href="#title" id="title"></a>
 
@@ -64,7 +64,7 @@ _\* 테스트 항목은 업데이트를 통해 추가할 예정입니다._
 3. \[발송 정보] 단계에서 A안, B안 이메일 제목을 입력합니다. 미리보기 화면에서 작성한 결과를 확인할 수 있습니다.
 4. \[콘텐츠] 단계에서 편집을 마무리한 뒤 이메일을 발송합니다.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 발신자 이름 테스트하기 <a href="#sender-name" id="sender-name"></a>
 
