@@ -24,7 +24,7 @@ layout:
 
 오른쪽의 상자 선택 화면에서 \[텍스트] 상자를 본문에 끌어다 놓거나 상자 [구성 요소](https://help.stibee.com/hc/ko/articles/4877052902543#h\_01GGS15CS6AEBVAE0NYM5YVJ5A) 중 \[텍스트]를 선택하여 추가할 수 있습니다. 텍스트를 클릭하면 스타일을 변경하거나 링크를 넣을 수 있는 툴바가 표시됩니다. 텍스트 정렬(왼쪽, 가운데, 오른쪽, 양쪽 정렬)을 변경하거나 '목록' 기능을 적용할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -34,7 +34,7 @@ layout:
 
 폰트의 경우 [이메일 환경에서는 웹폰트를 사용할 수 없기 때문에](https://blog.stibee.com/%EB%89%B4%EC%8A%A4%EB%A0%88%ED%84%B0-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EB%8F%84%EC%99%80%EC%A3%BC%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8F%B0%ED%8A%B8-%EC%82%AC%EC%9A%A9%EB%B2%95-2a54c399145d) 에디터에서는 고딕, 명조 계열만 선택할 수 있도록 제공하고 있습니다. 텍스트 크기는 12px \~ 60px까지 선택할 수 있습니다. 텍스트 정렬 방식(왼쪽, 오른쪽, 가운데, 양쪽)을 선택할 수 있습니다. 볼드, 이탤릭, 밑줄, 취소선 등 텍스트 스타일을 설정할 수 있습니다. 텍스트 색상이나 배경색을 설정하는 것도 가능합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -42,7 +42,7 @@ layout:
 
 링크를 입력하고 싶은 텍스트를 선택한 뒤 \[링크]를 클릭하여 URL을 입력할 수 있습니다. \[링크 제거]버튼을 클릭하면 텍스트에 걸린 링크를 삭제할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -58,4 +58,4 @@ layout:
 
 _\*메모장에서 작업한 텍스트의 경우에도 보이지 않는 HTML 코드가 섞여 들어갈 수 있습니다. 따라서 외부 텍스트는 가능하면 '서식 없이 붙여넣기(ctrl+shift+v)'를 사용해 넣어주세요._
 
-<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>

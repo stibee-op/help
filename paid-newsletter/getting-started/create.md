@@ -38,7 +38,7 @@ layout:
 
 주소록 이름은 결제 안내 이메일, 구독 폼, 구독 정보 변경 화면 등에서 뉴스레터를 대표하는 이름으로 사용됩니다. 따라서, 어떤 뉴스레터인지 쉽게 알 수 있는 이름을 주소록 이름으로 설정하는 것이 좋습니다.
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 유료 구독 정보 설정하기 <a href="#h_8e61db4310" id="h_8e61db4310"></a>
 
@@ -76,7 +76,7 @@ layout:
 
 월간, 연간 구독을 구독폼을 통해 신청받을지 여부는 \[구독 관리 화면 → 구독 폼 → 수정하기]를 눌러 진행하실 수 있어요.
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (45) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 프로모션 설정하기
 
@@ -87,7 +87,7 @@ layout:
 * 어떤 구독자가 3월 10일에 첫 결제를 한 경우 이 구독자는 처음 3개월 (3/10, 4/10, 5/10) 동안은 30% 할인된 금액인 3,500원을 결제하게 되고,
 * 3개월 이후의 다음 결제일 (6/10)부터는 설정한 월간 구독료인 5,000원이 매월 결제하게 됩니다.
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -97,7 +97,7 @@ layout:
 
 만료일 오전 11:00에 모든 유료 구독자가 무료 구독자로 변경되고, 이후 정기 결제가 진행되지 않습니다. 구독자의 결제 정보 역시 모두 삭제됩니다.
 
-<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50) (1).png" alt=""><figcaption></figcaption></figure>
 
 만료일 7일 전, 관련한 내용을 이메일로 전달드립니다. 만료일이 없으면 유료 구독자의 정기 결제가 계속 진행되므로, 만료일이 필요한 경우 꼭 설정해 주세요. 만일, 유료 뉴스레터를 시즌제로 발행한다면 시즌 종료일 하루 뒤를 만료일로 설정해 주세요.
 
@@ -109,7 +109,7 @@ layout:
 \
 유료 구독 결제 안내 이메일에 구독자 이름이 표시되는 경우가 있기 때문에, 이름을 필수 입력 항목으로 설정하는 것이 좋습니다. 결제에 문제가 생겼을 경우 구독자에게 직접 연락해야 할 수 있기 때문에 전화번호를 입력 받는 것을 추천드립니다.
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (51) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -30,7 +30,7 @@ layout:
 
 일반적으로 푸터 상자에는 회사명 또는 이름, 주소, 전화번호, 발신자 이메일 주소가 포함됩니다. 푸터 상자에 자동으로 입력된 정보는 주소록에 등록된 정보에서 가져옵니다. 주소록에 등록된 정보를 수정하면 푸터 상자에 자동으로 입력되는 정보도 함께 변경됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

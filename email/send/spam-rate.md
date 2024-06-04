@@ -41,7 +41,7 @@ layout:
 
 [https://postmaster.google.com](https://postmaster.google.com/)를 클릭해 포스트마스터 도구에 로그인합니다. 도구를 사용하기 위해서는 구글 계정이 필요합니다. 로그인을 한 뒤 화면에 있는 \[+] 버튼을 클릭해 도메인 입력 창으로 이동합니다.
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 도메인 입력하기 <a href="#h_01hj5j9a87x0vxcd0pmv0eaamg" id="h_01hj5j9a87x0vxcd0pmv0eaamg"></a>
 
@@ -49,7 +49,7 @@ layout:
 
 **\*주의:** 포스트마스터 툴은 직접 소유하고 있는 도메인에만 설정이 가능합니다. gmail.com, naver.com 등 직접 소유하지 않은 공개된 URL에는 설정이 불가능합니다.
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 도메인 인증하기 <a href="#h_01hj5jckgq3se3tn2b9eas04qq" id="h_01hj5jckgq3se3tn2b9eas04qq"></a>
 
@@ -58,7 +58,7 @@ layout:
 _\*네임서버가 등록된 곳은 아래 URL에서 직접 확인해보는 것도 가능합니다. 검색창에 URL을 입력하고 결과에 'name server' 부분에 입력된 링크가 내 도메인의 네임서버가 등록된 곳입니다._\
 [후이즈 도메인 조회](https://xn--c79as89aj0e29b77z.xn--3e0b707e/kor/whois/whois.jsp)
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -87,4 +87,4 @@ _\*네임서버가 등록된 곳은 아래 URL에서 직접 확인해보는 것�
 
 설정이 완료됐다면 이제 내가 보낸 이메일이 얼마나 스팸으로 분류되는지 비율을 확인할 수 있습니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>

@@ -30,7 +30,7 @@ layout:
 
 '메일머지'는 같은 내용의 이메일을 여러 구독자에게 보내는 경우 이메일의 제목 또는 본문 등 원하는 곳에 구독자별로 다른 정보를 넣어 보낼 수 있는 기능을 말합니다. 이메일의 본문이나 제목에 메일머지 형식을 갖춰서 정보를 입력하면 실제 발송 시 주소록에 구독자별로 저장된 고유 값으로 자동으로 변환되어 발송됩니다.
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -75,11 +75,11 @@ A 주소록에 dooly@stibee.com라는 구독자의 회사명이 스티비로 등
 
 이메일 제목 입력창과 편집기의 텍스트 상자를 사용하는 경우 툴바 윗 부분에 메일머지 코드를 입력할 수 있는 버튼이 표시됩니다. 버튼을 클릭해 입력하고 싶은 \[사용자 정의 필드]를 선택하면 자동으로 메일머지 형식에 맞는 값이 입력됩니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 이메일 본문에서도 같은 방법으로 메일머지 치환자를 버튼으로로 간단하게 입력할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 직접 입력하기 <a href="#h_01gg72npydwncy0b92apvnhd39" id="h_01gg72npydwncy0b92apvnhd39"></a>
 
@@ -163,7 +163,7 @@ _\*기본 필드를 활용한 메일머지 기능은 무료인 스타터 요금�
 3. 목록에서 \[가장 최근에 발송한 이메일의 공유용 URL]을 선택하면 기본 메일 머지 필드가 입력됩니다.
 4. 또는 기본 메일머지 코드 $%permalink\_latest%$ 를 링크 입력 창에 직접 입력해도 됩니다.
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -176,7 +176,7 @@ _\*기본 필드를 활용한 메일머지 기능은 무료인 스타터 요금�
 3. 입력창 오른쪽에 있는 \[ { } ]를 클릭하고 \[구독 정보 변경 화면 URL]을 선택합니다. 또는 $%preferences%$를 링크에 직접 입력해도 됩니다.
 4. 이메일을 발송하면 $%preferences%$가 자동으로 이메일이 발송된 주소록의 \[구독 정보 변경 화면] URL로 변환됩니다.
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 이메일을 통한 서비스 유입 성과 측정하기 <a href="#h_01gg9m7fqz25c1h40fdde2qjye" id="h_01gg9m7fqz25c1h40fdde2qjye"></a>
 

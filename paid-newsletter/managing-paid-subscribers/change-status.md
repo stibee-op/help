@@ -34,7 +34,7 @@ layout:
 \
 단, 관리자가 구독 상태를 유료 구독으로 변경한 경우에는 결제 정보가 없기 때문에 정기 결제가 이루어지지 않습니다. 관리자가 추가한 구독자의 정기 결제를 등록하고 싶은 경우에는 [여기](../questions.md#undefined-7) 참고해 주세요.
 
-<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (66) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -56,7 +56,7 @@ layout:
 \
 구독자가 구독 정보를 직접 변경하는 방법 사용법은 [여기](../../list/adding-managing-subscriber/modify-subscriber-info.md#self-serve) 링크를 참고해주세요!
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -64,12 +64,12 @@ layout:
 
 #### 관리자가 변경하는 방법 <a href="#h_9553631ac3" id="h_9553631ac3"></a>
 
-구독상태를 변경하고 싶은 구독자가 추가되어 있는 유료 구독 주소록을 선택하고 변경하고 싶은 구독자를 선택합니다.\
+구독 상태를 변경하고 싶은 구독자가 추가되어 있는 유료 구독 주소록을 선택하고 변경하고 싶은 구독자를 선택합니다.\
 \
 목록 우측 상단에 있는 \[상태 변경하기] 버튼을 클릭하고 '무료 구독 상태로 변경하기' 버튼을 클릭합니다.\
 "무료 구독" 상태로 변경된 구독자는 결제 정보가 삭제되고 정기 결제가 이루어지지 않습니다.
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (68) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -79,11 +79,9 @@ layout:
 
 
 
-
-
 구독자가 직접 "무료 구독"으로 상태를 변경한 경우 바로 구독 상태가 변경되는 것은 아니고 다음 정기 결제일에 "무료 구독" 상태로 변경됩니다. 구독자가 정기 결제를 해지하는 경우에 대한 자세한 설명은 [여기](https://help.stibee.com/ko/articles/5615198-%EC%9C%A0%EB%A3%8C-%EA%B5%AC%EB%8F%85-%EC%A0%95%EA%B8%B0-%EA%B2%B0%EC%A0%9C-%ED%95%B4%EC%A7%80%ED%95%98%EA%B8%B0) 링크를 참고해주세요.
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

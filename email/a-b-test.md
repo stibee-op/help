@@ -37,7 +37,7 @@ layout:
 2. \[A/B 테스트] 단계로 이동합니다.
 3. 'A/B테스트를 하시겠습니까?' 에서 \[예]를 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -52,7 +52,7 @@ layout:
 
 _\* 테스트 항목은 업데이트를 통해 추가할 예정입니다._
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 이메일 제목 테스트하기 <a href="#title" id="title"></a>
 
@@ -64,7 +64,7 @@ _\* 테스트 항목은 업데이트를 통해 추가할 예정입니다._
 3. \[발송 정보] 단계에서 A안, B안 이메일 제목을 입력합니다. 미리보기 화면에서 작성한 결과를 확인할 수 있습니다.
 4. \[콘텐츠] 단계에서 편집을 마무리한 뒤 이메일을 발송합니다.
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 발신자 이름 테스트하기 <a href="#sender-name" id="sender-name"></a>
 
@@ -76,7 +76,7 @@ _\* 테스트 항목은 업데이트를 통해 추가할 예정입니다._
 3. \[발송 정보] 단계에서 A안, B안 발신자 이름을 입력합니다. 미리보기 화면에서 작성한 결과를 확인할 수 있습니다.
 4. \[콘텐츠] 단계에서 편집을 마무리한 뒤 이메일을 발송합니다.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 발송 스케줄 테스트하기 <a href="#sending-schedule" id="sending-schedule"></a>
 
@@ -86,7 +86,7 @@ _\* 테스트 항목은 업데이트를 통해 추가할 예정입니다._
 2. \[콘텐츠] 단계에서 편집을 마무리한 뒤 \[예약하기]를 클릭합니다.
 3. 그룹 별로 원하는 발송 시간을 설정한 뒤 \[예약하기]를 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 콘텐츠 테스트하기
 
@@ -108,7 +108,7 @@ _\* 테스트 항목은 업데이트를 통해 추가할 예정입니다._
 
 _\*발송 그룹에 얼마나 테스트를 진행한 뒤 보낼지 여부는 직접 설정할 수 있습니다. 최소 1시간부터 최대 7일까지 설정할 수 있습니다._
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ab테스트.gif" alt=""><figcaption></figcaption></figure>
 
@@ -169,18 +169,18 @@ A/B 테스트를 하기 위해 가설을 세우고 검증하는 과정이 궁금
 4. A/B 테스트를 사용하기로 설정하면, 테스트 항목이 표시됩니다. 4번째 항목인 \[콘텐츠]를 선택합니다. 테스트 그룹의 ‘클릭’ 성과를 비교해 성과가 좋은 버전을 발송 그룹에게 발송합니다.
 5. 발송 그룹의 비율을 선택하고, 다음 단계로 이동해 발송 정보를 입력합니다.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. 템플릿을 선택하고, 다음 단계로 이동합니다.
 7. \[HTML 만들기] 템플릿에서는 콘텐츠 A/B 테스트를 진행할 수 없습니다.
 8. 콘텐츠 단계에서, 에디터 왼쪽 상단의 \[테스트 그룹 A]를 클릭합니다. 현재 편집 중인 버전이 선택되어 있으며, 다른 버전인 \[테스트 그룹 B]로도 편집 화면을 전환할 수 있습니다.
 9. 테스트 그룹 B의 콘텐츠를 편집하려면, 왼쪽 상단의 \[테스트 그룹 A]의 메뉴에서 \[테스트 그룹 B]를 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 10. 테스트 그룹 A의 콘텐츠와 테스트 그룹 B의 콘텐츠를 동일한 내용으로 만들려면, \[콘텐츠 불러오기]를 클릭합니다. 콘텐츠를 확인한 후, \[불러오기]를 클릭하면 테스트 그룹 B의 콘텐츠가 변경됩니다.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 11. 편집을 완료한 후, \[발송하기]를 클릭해 이메일을 발송합니다.
 12. 이메일이 발송된 후, 이메일 대시보드로 이동해 \[A/B 테스트 결과]에서 테스트 결과를 확인합니다.
@@ -189,4 +189,4 @@ A/B 테스트를 하기 위해 가설을 세우고 검증하는 과정이 궁금
 
 콘텐츠 A/B 테스트를 진행하면 각 그룹별로 발송 성과를 확인할 수 있습니다. 발송이 완료된 이메일을 클릭해서 이메일 대시보드로 이동한 뒤 \[A/B 테스트 결과]를 클릭하면 확인할 수 있습니다. A/B 테스트 결과 어떤 안이 성과가 좋은지 여부에 대한 판단은 '클릭 수'를 기준으로 평가합니다.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>

@@ -53,7 +53,7 @@ SPF와 DKIM 설정을 하게 되면 '의심스러운 발신자'를 이유로 이
 
 SPF, DKIM 설정은 하지 않아도 이메일을 발송할 수 있지만 구독자가 사용하는 이메일 수신 서비스의 수신 정책에 따라 SPF와 DKIM 레코드가 등록해야만 이메일을 받아볼 수 있는 경우가 있습니다. 이메일의 콘텐츠나 제목, 정당한 절차에 따라 수신 동의를 받은 구독자 DB에 발송하는 경우에도 스팸으로 분류되는 문제가 있다면 도메인에 SPF, DKIM 레코드를 발신자 도메인에 추가해 주는 것이 좋습니다.
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
 
 SPF, DKIM을 설정하지 않으면 구독자의 이메일 수신 서비스에서 이러한 경고 메시지가 표시되는 경우도 있습니다.
 

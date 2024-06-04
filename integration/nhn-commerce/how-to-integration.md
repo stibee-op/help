@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# (수정 필요) NHN 커머스
+# NHN 커머스
 
 ## 이 글에서는
 
@@ -26,23 +26,19 @@ _기본적인 이메일 생성과 발송에 대한 자세한 내용은_ [_첫 �
 
 화면 오른쪽 위 \[워크스페이스 이름 → 워크스페이스 설정]에서 \[NHN 커머스 연동하기]를 클릭합니다.&#x20;
 
-(이미지)
+<figure><img src="../../.gitbook/assets/NHN 커머스 연동하기.png" alt=""><figcaption></figcaption></figure>
 
 
 
-\[쇼핑몰 관리자 → 회원 → 이메일 마케팅]에서 스티비 서비스설정이 가능합니다.
+\[쇼핑몰 관리자 → 회원 → 이메일 마케팅]에서 스티비 서비스 설정이 가능합니다.
 
 
 
 ## 연동 주소록 만들기 <a href="#undefined" id="undefined"></a>
 
-스티비에서 NHN 커머스 회원 DB를 불러오려면 \[NHN 커머스 연동 주소록]을 먼저 만들어야 합니다. NHN 커머스 연동 주소록은 일반 주소록과 기본적인 기능은 동일하되, NHN 커머스 회원 DB를 불러올 수 있다는 점이 다릅니다. _주소록과 관련된 도움말은_ [_여기_](broken-reference)_에서 확인할 수 있습니다._
+스티비에서 NHN 커머스 회원 DB를 불러오려면 \[NHN 커머스 연동 주소록]을 먼저 만들어야 합니다. NHN 커머스 연동 주소록은 일반 주소록과 기본적인 기능은 동일하되, NHN 커머스 회원 DB를 불러올 수 있다는 점이 다릅니다. 일반 주소록과 관련된 도움말은 [여기](broken-reference)에서 확인할 수 있습니다.
 
-
-
-
-
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756535321999/6270c38059e79.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -54,35 +50,35 @@ _기본적인 이메일 생성과 발송에 대한 자세한 내용은_ [_첫 �
 
 'NHN 커머스에서 불러오기' 화면에서 다음을 클릭하면 구독자 추가를 시작합니다.&#x20;
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756535339791/6270c3823c51b.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 
 
 회원 수가 많으면 구독자 추가에 시간이 걸릴 수 있습니다. 보통 1만 명 기준 5초 이내에 완료됩니다.&#x20;
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756535376399/6270c38407ef6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 
 
 구독자 추가 중에 다른 화면으로 이동할 수 있기 때문에, 구독자 추가가 완료될 때까지 다른 이메일의 통계를 확인하거나 발송할 이메일을 미리 만들 수 있습니다.
 
-\
-\
+
+
 구독자 추가가 완료되면 화면 우측 상단에 알림이 표시됩니다.&#x20;
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756521292559/6270c3861be7e.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 
 
-'NHN 커머스에서 불러오기'는 주소록 목록과 주소록의 구독자 목록에서 언제든 실행할 수 있습니다. 주소록 목록에서 추가하기의 NHN 커머스에서불러오기를 클릭합니다.&#x20;
+'NHN 커머스에서 불러오기'는 주소록 목록과 주소록의 구독자 목록에서 언제든 실행할 수 있습니다. 주소록 목록에서 추가하기의 NHN 커머스에서불러오기를 클릭합니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756514207247/6270c387ce5d9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 
 
 주소록의 구독자 목록에서 추가하기의 NHN 커머스에서 불러오기를 클릭합니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/4756514220431/6270c3897fa2a.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -128,8 +124,8 @@ NHN 커머스 회원의 프로 요금제는 월 28,000원부터 시작합니다.
 
 (부가세 포함)
 
-&#x20;
+
 
 ### 엔터프라이즈 요금제 <a href="#h_01hfn5byjgwcjq8q3cmy9wkznm" id="h_01hfn5byjgwcjq8q3cmy9wkznm"></a>
 
-채널톡 상담 또는 이메일([support@stibee.com](mailto:support@stibee.com))을 통해 별도로 문의해주세요.
+채널톡 상담 또는 이메일([support@stibee.com](mailto:support@stibee.com))을 통해 별도로 문의해 주세요.

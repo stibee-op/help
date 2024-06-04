@@ -28,13 +28,13 @@ layout:
 
 구독료를 변경하고 싶은 유료 구독 주소록을 선택하고 주소록의 대시보드에서 \[수정하기]를 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (64) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 유료 구독 정보 - '구독 상품'에서 월간 구독료와 연간 구독료를 수정하고 페이지 하단 \[저장하기]를 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (63) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -27,6 +27,6 @@ layout:
 3. 워크스페이스 설정 화면에서 가장 아래에 있는 \[워크스페이스 삭제]를 클릭합니다.
 4. 표시되는 창에서 워크스페이스 이름을 입력하고 \[삭제하기]를 클릭합니다.
 
-![](https://help.stibee.com/hc/article\_attachments/6462640799759)
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.stibee.com/hc/article\_attachments/6462613420943)
+<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>

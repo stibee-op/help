@@ -28,7 +28,7 @@ layout:
 
 직접 또는 파일로 추가된 구독자를 유료 구독으로 변경할 수 있습니다. \[주소록 → 구독자 검색 → 상태 변경하기]를 통해 처리해 주시면 됩니다.
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (65) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

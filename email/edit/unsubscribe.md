@@ -24,7 +24,7 @@ layout:
 
 이메일 본문이나 구독 정보 변경 페이지에 있는 수신거부 링크를 클릭하는 경우 구독자는 아래와 같은 화면으로 이동합니다. 여기서 \[수신거부 하기] 버튼을 클릭하면 그 구독자는 '[구독 상태](../../list/adding-managing-subscriber/understanding-subscriber-status.md)'가 수신거부 상태로 변경되며 발송 대상에서 자동으로 제외됩니다.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -36,7 +36,7 @@ layout:
 
 \***주의**: 수신거부 치환자 링크가 아닌 다른 링크를 넣어 보내는 경우에는 수신거부 기능이 동작하지 않습니다.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

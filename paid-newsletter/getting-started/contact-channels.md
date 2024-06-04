@@ -52,7 +52,7 @@ layout:
 
 일부 사용자를 대상으로 제공되고 있는 페이지 내 모든 화면의 푸터 영역에 유료 주소록의 기본 발신자 주소가 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

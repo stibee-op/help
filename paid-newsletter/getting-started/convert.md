@@ -26,7 +26,7 @@ layout:
 
 서비스 상단에 있는 '주소록'을 클릭합니다. 주소록 목록에서 변경하고 싶은 주소록의 오른쪽에 있는 화살표(▼)를 클릭하면 \[유료 주소록 변환하기] 버튼이 있습니다. 이 버튼을 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (53) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -34,7 +34,7 @@ layout:
 
 버튼을 클릭하면 '유료 주소록' 생성에 필요한 정보를 입력하는 단계로 이동합니다. [정산 정보](https://help.stibee.com/hc/ko/articles/4756468940687)를 등록하고 [월 구독료](https://help.stibee.com/hc/ko/articles/4756469156623)와 [만료일](https://help.stibee.com/hc/ko/articles/4756469156623) 정보를 입력한 뒤 \[저장하기] 버튼을 클릭합니다. 여기서 \[취소] 버튼을 클릭해서 정보 저장을 완료하지 않는 경우에는 '유료 주소록 변경' 절차가 취소되고 주소록도 그대로 일반 주소록 상태로 남아 있게 됩니다.
 
-<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (55) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -42,7 +42,7 @@ layout:
 
 유료 구독 정보 입력이 완료되면 유료 주소록의 대시보드로 이동하게 됩니다. 이제 '구독폼'에서 '[유료 구독](https://help.stibee.com/hc/ko/articles/4756516930959)' 할 수 있는 화면이 표시되도록 설정만 해주면 변환 절차가 마무리됩니다. 주소록 대시보드 상단의 '구독 관리 화면'을 클릭하고 '구독폼' 세션의 \[수정하기] 버튼을 클릭합니다. 여기서 구독 유형을 '유료 구독'으로 설정하고 \[저장하기] 버튼을 클릭하면 구독폼에 '유료 구독 결제'와 관련된 화면이 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

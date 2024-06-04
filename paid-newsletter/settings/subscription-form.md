@@ -28,7 +28,7 @@ layout:
 \
 유료 주소록의 구독 폼은 이메일 주소, 이름, 전화번호를 필수로 입력하도록 설정되어 있습니다. 이외의 다른 항목을 추가하고 싶은 경우에는 주소록의 \[[사용자 정의 필드](../../list/adding-managing-subscriber/understanding-subscriber-info.md#h\_01gw45zrwcjd1eg1cam4vhw25m)]에서 새로운 필드를 추가하면 됩니다.
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (58) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -36,13 +36,13 @@ layout:
 
 구독 유형은 '월간, 연간, 무료 구독'으로 구성됩니다. 여기서 체크한 구독 유형만 구독 폼에 표시되며, '무료 구독'은 받지 않고 '유료 구독'만 받고 싶은 경우, '무료 구독' 체크를 해제하면 됩니다.
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (59) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 '월간 구독', '연간 구독'도 두 가지 구독 유형에 따라 모두 신청을 받을지 아니면 하나의 구독 유형으로만 신청을 받을지 여부를 설정할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (60) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -50,7 +50,7 @@ layout:
 
 유료 구독을 받는 경우에는 결제할 때 구독자들에게 '유료 구독자 이용약관' 및 '개인정보 수집 및 이용 동의'에 대하여 반드시 동의를 받아야 하기 때문에 필수 값으로 설정되어 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (62) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

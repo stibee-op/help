@@ -38,7 +38,7 @@ layout:
 '작성중, 예약중'인 경우와 '일시정지, 종료' 상태인 경우 트리거가 동작하지 않기 때문에 트리거에 만족하는 동작이 발생해도 자동 이메일은 발송되지 않습니다. 따라서 자동 이메일을 보내기 위해서는 이메일을 '실행중' 상태로 만들어야 합니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -52,7 +52,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/자동 이메일_1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -62,7 +62,7 @@ layout:
 \
 \[일반 이메일]은 선택된 주소록에 등록된 구독자에게 '일괄 발송'되지만, \[자동 이메일]은 선택된 주소록에 등록된 구독자 중 발송 조건에 따라 '각기 다른 사람'에게, '각기 다른 시점'에 발송됩니다.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -70,7 +70,7 @@ layout:
 
 자동 이메일이 일반 이메일과 다른 점은 \[발송 조건]을 설정한다는 것입니다. 발송 조건은 자동 이메일을 발송하기 위한 조건으로 '트리거, 필터, 발송 시간대, 반복 발송 설정'으로 구분합니다.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -124,7 +124,7 @@ layout:
 
 트리거는 기본적으로 '중복' 발생하는 요청에 대해서는 동작하지 않도록 설정되어 있습니다. 단, 필요에 따라 중복으로 발생한 트리거도 동작할 수 있도록 설정할 수 있습니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -168,7 +168,7 @@ _\* 중복 요청 시간 제한을 두고 싶지 않다면 제한 시간을 0분
 \
 발송 시간대가 아니어서 이메일이 발송되지 않은 경우, 발송 시간대가 돌아올 때까지 기다렸다가 이메일이 발송됩니다. 예를 들어 신제품을 소개하는 이메일에 포함된 신제품 소개 페이지 링크를 클릭한 구독자에게, 매주 일요일 오후 5시에서 7시 사이에 특별 할인 코드를 제공하는 이메일을 발송하도록 설정할 수 있습니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -213,7 +213,7 @@ C라는 이메일의 발송 시간대를 '월요일 오후 3:00 \~ 오전 9:00'�
 
 설정한 주기에 따라 자동으로 이메일이 반복 발송되게 설정할 수 있습니다. 이 기능을 사용하면 2년에 한번씩 '광고성 정보 수신 동의'를 받는 이메일 등을 쉽게 설정할 수 있습니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
