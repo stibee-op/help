@@ -39,9 +39,9 @@ _\* 엑셀 버전에 따라 메뉴나 버튼 이름은 다를 수 있습니다._
 4. 파일 이름 아래에 표시된 파일 형식을 'CSV UTF-8(쉼표로 분리) (\*.csv)'로 선택합니다.
 5. 저장합니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/7013856259599" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+
 
 #### 메모장(윈도우 전용) <a href="#undefined" id="undefined"></a>
 
@@ -53,9 +53,9 @@ _\* 엑셀 버전에 따라 메뉴나 버튼 이름은 다를 수 있습니다._
 6. 인코딩(E)을 'UTF-8'로 변경합니다.
 7. 저장합니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/7013840919439" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
-### &#x20; <a href="#h_01h0s8dp00q8js4bm7h5qgh587" id="h_01h0s8dp00q8js4bm7h5qgh587"></a>
+
 
 ### 구독자 정보를 올바른 형식으로 입력했는지 확인해 보세요. <a href="#h_01h0s8dp00q8js4bm7h5qgh587" id="h_01h0s8dp00q8js4bm7h5qgh587"></a>
 
@@ -68,17 +68,13 @@ _\* 엑셀 버전에 따라 메뉴나 버튼 이름은 다를 수 있습니다._
 * 이메일 주소가 입력된 열 외에 다른 열은 필수가 아닙니다.
 * 파일 업로드 후 각 열이 어떤 필드에 해당하는지 확인하기 때문에, 원본 파일의 열 순서와 제목 등은 신경 쓰지 않아도 됩니다.
 
-\
-\
-
-
-<figure><img src="https://help.stibee.com/hc/article_attachments/7013918973711" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
 #### 날짜, 시간 타입 형식 <a href="#h_01hehqt3qngp7fbhy4zfm55196" id="h_01hehqt3qngp7fbhy4zfm55196"></a>
 
 날짜, 시간 타입은 지원하는 형식이 있습니다. 8자리(날짜), 12자리(날짜와 시간), 14자리(날짜와 시간) 형식을 지원합니다.
 
-**\*주의:** 시간은 24시간 기준으로 입력해야 합니다. 예를 들어, 2023년 9월 20일 오후 5시 25분 15초를 추가하고 싶다면, 2023-09-20 17:25:15 형식으로 입력해야 합니다.
+**\* 주의:** 시간은 24시간 기준으로 입력해야 합니다. 예를 들어, 2023년 9월 20일 오후 5시 25분 15초를 추가하고 싶다면, 2023-09-20 17:25:15 형식으로 입력해야 합니다.
 
 <pre><code><strong>지원하는 형식
 </strong>
@@ -116,26 +112,30 @@ yyyyMMddHHmmss      (예: 202030809141520)
 * 2023.11.23 22:35:15 형식으로 입력하면 구독일과 시간이 추가됩니다.
 * 2023.11.23 오후 10:35:15 형식으로 입력하면 오전 10시 35분으로 추가됩니다. 시간은 24시간 형식으로 입력해야 합니다.
 
-&#x20;
+
 
 ### 파일 용량을 확인합니다. <a href="#id-2" id="id-2"></a>
 
 업로드할 수 있는 파일의 용량을 **50MB**로 제한하고 있습니다. 더 큰 용량의 파일로 구독자를 추가해야 한다면, 50MB 이내로 파일을 쪼개어 업로드하는 것을 권장합니다. 이메일 주소만 입력되어 있다고 가정했을 때 50MB는 약 250만 행에 해당합니다.
 
-&#x20;
+
 
 ### 원본 파일의 모든 필드가 \[사용자 정의 필드] 별로 올바르게 선택됐는지 확인해 보세요. <a href="#h_01h0s8dz775dyr4awtwwed30xp" id="h_01h0s8dz775dyr4awtwwed30xp"></a>
 
 파일 형식, 용량, 원본 파일에 문제가 없는데 파일 업로드가 되지 않는다면, 파일 업로드 단계에서 원본 파일 필드와 \[사용자 정의 필드]가 잘 선택되어 연결됐는지 확인해 보세요.
 
-**\*주의:** 사용하지 않는 필드가 있다면 '사용 안 함'으로 선택해야 합니다. 선택되지 않은 행이 남아 있으면 파일이 업로드되지 않습니다.
+**\* 주의:** 사용하지 않는 필드가 있다면 '사용 안 함'으로 선택해야 합니다. 선택되지 않은 행이 남아 있으면 파일이 업로드되지 않습니다.
 
-<figure><img src="https://help.stibee.com/hc/article_attachments/7013901827983" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### '시크릿 모드'에서도 문제가 계속되는지 확인해 보세요. <a href="#h_01h0s8e42n5cg38kn3wm476nwp" id="h_01h0s8e42n5cg38kn3wm476nwp"></a>
 
 종종 브라우저에서 사용하는 확장 프로그램이 정상적인 기능 동작을 방해하는 경우가 있습니다. 브라우저를 '시크릿 모드' 상태로 바꾼 뒤, 파일을 업로드 해보면 확인할 수 있습니다. 시크릿 모드에서는 파일이 업로드된다면 브라우저의 확장 프로그램 문제일 가능성이 높습니다. 확장 프로그램을 하나씩 비활성화해 보면서 어떤 프로그램이 원인인지 확인해 보아야 합니다.&#x20;
 
-### &#x20;다른 네트워크에서 파일을 업로드해 보세요. <a href="#h_01h0s8e9y2k88jvtgnjjp6rtjg" id="h_01h0s8e9y2k88jvtgnjjp6rtjg"></a>
+
+
+### 다른 네트워크에서 파일을 업로드해 보세요.
 
 네트워크 보안 설정을 이유로 파일 업로드에 제한이 걸리는 경우가 있습니다. 지금 사용하는 네트워크가 아닌 다른 네트워크(예: 핸드폰 테더링 등)에서 파일을 업로드 해보면 이를 확인하실 수 있습니다. 다른 네트워크에서는 파일이 정상적으로 업로드된다면 네트워크 보안 문제일 가능성이 높습니다. 이 경우 내부 보안 관리자분께 문의해 보시면 빠르게 문제를 해결하실 수 있습니다.
