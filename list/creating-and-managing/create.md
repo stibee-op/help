@@ -68,7 +68,7 @@ layout:
 
 보내는 이메일의 성격 또는 목적에 따라 수신거부 구독자에게도 발송할 수 있는 이메일이 있습니다. 이 옵션을 사용하면 수신거부 구독자도 발송 대상에 포함하여 이메일을 보낼 수 있습니다. 자세한 내용은 아래 도움말을 참고해보세요.
 
-[수신거부 구독자에게 이메일 보내기](../../email/send/undefined.md)
+[수신거부 구독자에게 이메일 보내기](../../email/send/send-email-unsubscribed-subscriber.md)
 
 <figure><img src="../../.gitbook/assets/주소록 만들기_수신거부.png" alt=""><figcaption></figcaption></figure>
 

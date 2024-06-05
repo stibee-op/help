@@ -83,5 +83,5 @@ layout:
 {% hint style="info" %}
 보내는 이메일의 성격 또는 목적에 따라 수신거부 구독자에게도 발송할 수 있는 이메일이 있습니다. 수신거부 구독자에게도 이메일을 보내는 방법이 궁금하다면 아래 도움말을 참고하세요.
 
-[수신거부 구독자에게 이메일 보내기](../../email/send/undefined.md)
+[수신거부 구독자에게 이메일 보내기](../../email/send/send-email-unsubscribed-subscriber.md)
 {% endhint %}

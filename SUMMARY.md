@@ -45,7 +45,7 @@
   * [이메일 발송 상태 이해하기](email/send/status.md)
   * [발송 기능 이해하기](email/send/understand-sending-functionality.md)
   * [이메일 다시 보내기](email/send/resend-email.md)
-  * [수신거부 구독자에게 이메일 보내기](email/send/undefined.md)
+  * [수신거부 구독자에게 이메일 보내기](email/send/send-email-unsubscribed-subscriber.md)
   * [스팸 분류 비율 확인하기](email/send/spam-rate.md)
 * [관리하기](email/undefined-3/README.md)
   * [이메일 수정, 복사, 삭제하기](email/manage/modify-copy-delete.md)
