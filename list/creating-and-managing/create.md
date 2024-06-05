@@ -56,12 +56,20 @@ layout:
 
 <figure><img src="../../.gitbook/assets/푸터 정보 추가.png" alt=""><figcaption></figcaption></figure>
 
-## 자동 삭제 기능 사용 여부 설정하기기
+## 자동 삭제 기능 사용 여부 설정하기
 
 \[자동삭제 기능 사용 유무]를 설정할 수 있습니다. 이메일 마케팅에서는 이메일 발송이 실패하는 경우를 '[바운스](../../email/analytics/email-detailed-statistics.md#h\_01gfmfz4vxk1e8gds0mhbttyrm)'라고 표현합니다. 스티비에서는 사유에 따라 발송 실패를 '소프트바운스'와 '하드바운스'로 분류하고 있습니다. 하드바운스로 발송에 실패한 경우는 구독 상태가 자동삭제로 변경되어 발송 대상에서 제외됩니다. \
 \
 \[자동삭제] 기능을 설정하면 이메일 주소가 비활성화 되는 등 이메일 수신이 불가능한 상태인 구독자가 자동으로 걸러지기 때문에 일반적으로 발송 성공률이 높아집니다. 특별한 경우가 아니라면 자동삭제 기능 사용을 권장하고 있습니다.
 
-<figure><img src="../../.gitbook/assets/자동 삭제 설정.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/주소록 만들기_자동삭제.png" alt=""><figcaption></figcaption></figure>
 
-정보를 수정한 뒤 \[저장하기] 버튼을 클릭하면 주소록 정보 수정이 마무리됩니다.
+## 수신거부 구독자 발송 대상 포함 여부 설정하기
+
+보내는 이메일의 성격 또는 목적에 따라 수신거부 구독자에게도 발송할 수 있는 이메일이 있습니다. 이 옵션을 사용하면 수신거부 구독자도 발송 대상에 포함하여 이메일을 보낼 수 있습니다. 자세한 내용은 아래 도움말을 참고해보세요.
+
+[수신거부 구독자에게 이메일 보내기](../../email/send/undefined.md)
+
+<figure><img src="../../.gitbook/assets/주소록 만들기_수신거부.png" alt=""><figcaption></figcaption></figure>
+
+모든 정보를 입력하고 옵션을 선택한 뒤 \[저장하기]를 클릭하면 새로운 주소록이 만들어집니다.
