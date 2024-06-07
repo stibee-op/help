@@ -72,7 +72,7 @@ _\* 테스트 항목은 업데이트를 통해 추가할 예정입니다._
 
 1. 테스트 항목 중 \[발신자 이름]을 선택합니다.
 2. '테스트 그룹'과 '발송 그룹' 비율을 설정하고 \[다음]을 클릭합니다.\
-   _\*비율 설정 방법에 대한 자세한 내용은_  [_테스트, 발송 그룹 비율 설정하기_](broken-reference) _항목을 참고하세요._
+   _\* 비율 설정 방법에 대한 자세한 내용은_ [_테스트, 발송 그룹 비율 설정하기_](a-b-test.md#sending-group-rate) _항목을 참고하세요._
 3. \[발송 정보] 단계에서 A안, B안 발신자 이름을 입력합니다. 미리보기 화면에서 작성한 결과를 확인할 수 있습니다.
 4. \[콘텐츠] 단계에서 편집을 마무리한 뒤 이메일을 발송합니다.
 
@@ -110,7 +110,9 @@ _\*발송 그룹에 얼마나 테스트를 진행한 뒤 보낼지 여부는 직
 
 <figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/ab테스트.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/stibee-ab_test_group_percentage (1).gif" alt=""><figcaption></figcaption></figure>
+
+
 
 ## A/B 테스트 성과 확인하기 <a href="#analytics" id="analytics"></a>
 
