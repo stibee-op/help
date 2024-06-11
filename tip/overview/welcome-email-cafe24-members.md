@@ -42,7 +42,7 @@ layout:
 
 자동으로 생성된 '웰컴 이메일'은 제목, 발송 조건, 발송정보, 템플릿, 콘텐츠가 이미 입력되어 있습니다. \[웰컴 이메일 편집하기]를 눌러서 내 쇼핑몰에 맞는 내용으로 수정해 주세요.
 
-<figure><img src="../../.gitbook/assets/카페24 연동하기2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/카페24 연동하기2 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

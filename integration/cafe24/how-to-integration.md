@@ -36,41 +36,41 @@ _기본적인 이메일 생성과 발송에 대한 자세한 내용은_ [_첫 �
 
 스티비를 처음 사용한다면 카페24 연동과 함께 스티비 회원가입이 필요합니다. [카페24 앱스토어](https://store.cafe24.com/kr/apps/1652)의 스티비 앱 설치 화면에서 스티비 앱 '설치하기'를 진행해 주세요.
 
-<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
-<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/카페24 연동하기_스티비 앱 설치하기.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/카페24 연동하기_스티비 앱 설치 동의하기 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
 카페24 연동 시작하기 화면에서 스티비 회원가입을 진행해 주세요.
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
-
-
-
-가입을 완료하면 스티비와 카페24 연동이 시작됩니다. '카페24 회원 정보 불러오기를 시작했습니다.'는 안내가 표시됐다면 모든 연동이 잘 마무리 됐다는 것을 의미합니다. 다른 화면으로 이동해도 구독자는 계속해서 자동으로 추가됩니다.
-
-<figure><img src="../../.gitbook/assets/카페24 연동하기3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/카페24 연동하기_스티비 회원가입.png" alt=""><figcaption></figcaption></figure>
 
 
 
 스티비와 카페24 연동이 처음이라면 '웰컴 이메일'을 바로 만들어볼 수 있는 화면이 표시됩니다. \[웰컴 이메일 만들기]를 클릭해 이메일을 만들어보세요. 웰컴 이메일에 대한 자세한 내용이 궁금하다면 '[카페24 회원에게 웰컴 이메일 보내기](../../tip/overview/welcome-email-cafe24-members.md)' 도움말을 참고해 보세요.
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/카페24 연동하기.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/카페24 연동하기2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
 카페24 회원 정보 불러오기가 완료되면 \[주소록]에서 '카페24 연동 주소록'을 확인할 수 있습니다.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/카페24 연동 권한 업데이트하기_주소록 (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/카페24 연동 권한 업데이트하기_추가 권한 허용4.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/카페24 연동 권한 업데이트하기_주소록.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -82,13 +82,13 @@ _기본적인 이메일 생성과 발송에 대한 자세한 내용은_ [_첫 �
 
 기존에 사용하던 워크스페이스와 카페24 회원 DB를 연동할 수 있습니다. [스티비 홈페이지](https://stibee.com/)에 로그인한 뒤, \[워크스페이스 이름 → 워크스페이스 설정 → 외부 서비스 연동]에서 스티비와 카페24를 연동해 주세요.
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/카페24 연동하기_스티비 앱 설치.png" alt=""><figcaption></figcaption></figure>
 
 
 
 또는 [카페24 앱스토어의 스티비 앱 설치 화면](https://store.cafe24.com/kr/apps/1652)에서 스티비와 카페24를 연동할 수 있습니다. 카페24 앱스토어에서 스티비 앱을 설치합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/카페24 연동하기_스티비 앱 설치하기 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -102,29 +102,23 @@ _기본적인 이메일 생성과 발송에 대한 자세한 내용은_ [_첫 �
 
 
 
-'카페24 회원 정보 불러오기를 시작했습니다.'는 안내가 표시됐다면 모든 연동이 잘 마무리 됐다는 것을 의미합니다. 다른 화면으로 이동해도 구독자는 계속해서 자동으로 추가됩니다.
-
-<figure><img src="../../.gitbook/assets/카페24 연동하기3.png" alt=""><figcaption></figcaption></figure>
-
-
-
 스티비와 카페24 연동이 처음이라면 '웰컴 이메일'을 바로 만들어볼 수 있는 화면이 표시됩니다. \[웰컴 이메일 만들기]를 클릭해 이메일을 만들어보세요. 웰컴 이메일에 대한 자세한 내용이 궁금하다면 '[카페24 회원에게 웰컴 이메일 보내기](../../tip/overview/welcome-email-cafe24-members.md)' 도움말을 참고해 보세요.
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/카페24 연동하기.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/카페24 연동하기2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
 카페24 회원 정보 불러오기가 완료되면 \[주소록]에서 '카페24 연동 주소록'을 확인할 수 있습니다.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/카페24 연동 권한 업데이트하기_주소록 (2).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/카페24 연동 권한 업데이트하기_추가 권한 허용4 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/카페24 연동 권한 업데이트하기_주소록.png" alt=""><figcaption></figcaption></figure>
 
 
 
