@@ -103,7 +103,7 @@
 * [페이지 만들고 관리하기](page/creating-and-managing/README.md)
   * [페이지 만들기](page/creating-and-managing/create.md)
   * [페이지 수정하기](page/creating-and-managing/modify.md)
-  * [페이지 성과 추적하기](page/creating-and-managing/undefined.md)
+  * [페이지 성과 추적하기](page/creating-and-managing/analytics.md)
 * [페이지로 구독 받기](page/subscribe/README.md)
   * [페이지로 구독 신청 받는 방법](page/subscribe/subscribe.md)
   * [페이지 URL 그룹 파라미터 사용하기](page/subscribe/how-to-use-group-parameter.md)
