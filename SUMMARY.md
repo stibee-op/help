@@ -71,6 +71,38 @@
   * [발송하기](email/automation/sending.md)
 * [자주 묻는 질문](email/questions.md)
 
+## 요금제와 결제 <a href="#pricing" id="pricing"></a>
+
+* [개요](pricing/overview.md)
+* [요금제 이해하기](pricing/understanding/README.md)
+  * [요금제 이해하기](pricing/understanding/features.md)
+  * [요금제 종류](pricing/understanding/type.md)
+* [결제하기](pricing/payment/README.md)
+  * [요금제 결제하기](pricing/payment/change-plan.md)
+  * [구독자 수 구간 변경하기](pricing/payment/subscriber.md)
+* [요금제 연장하기](pricing/renewal.md)
+* [결제 주기 변경하기](pricing/change.md)
+* [결제 정보 확인, 수정하기](pricing/information/README.md)
+  * [결제 정보 수정하기](pricing/information/modify.md)
+  * [영수증 확인하기](pricing/information/receipt.md)
+* [정기 결제 해지하기](pricing/terminate.md)
+* [자주 묻는 질문](pricing/questions.md)
+
+## 사용자 및 워크스페이스 <a href="#user-workspace" id="user-workspace"></a>
+
+* [개요](user-workspace/overview.md)
+* [내 정보 설정하기](user-workspace/profile/README.md)
+  * [비밀번호 변경하기](user-workspace/profile/password.md)
+  * [로그인용 이메일 주소 변경하기](user-workspace/profile/change-login-email.md)
+  * [로그인 시 2단계 인증을 해제하고 싶어요](user-workspace/profile/two-factor-authentication.md)
+  * [탈퇴하기](user-workspace/profile/withdrawal.md)
+* [워크스페이스 설정하기](user-workspace/settings/README.md)
+  * [워크스페이스 이해하기](user-workspace/settings/understand.md)
+  * [워크스페이스 만들기](user-workspace/settings/create.md)
+  * [워크스페이스에 사용자 권한 설정하기](user-workspace/settings/user-permissions.md)
+  * [워크스페이스 삭제하기](user-workspace/settings/delete.md)
+* [자주 묻는 질문](user-workspace/questions.md)
+
 ## 주소록 <a href="#list" id="list"></a>
 
 * [개요](list/undefined.md)
@@ -96,6 +128,14 @@
   * [구독자별 통계 내보내기](list/check-subscriber-statistics/export.md)
 * [자주 묻는 질문](list/questions.md)
 
+## 통계 <a href="#periodic-statistics" id="periodic-statistics"></a>
+
+* [개요](periodic-statistics/overview.md)
+* [통계 조회하기](periodic-statistics/view.md)
+* [통계 확인하기](periodic-statistics/verify.md)
+* [통계 내보내기](periodic-statistics/export.md)
+* [자주 묻는 질문](periodic-statistics/questions.md)
+
 ## 페이지 <a href="#page" id="page"></a>
 
 * [개요](page/overview.md)
@@ -112,40 +152,6 @@
   * [페이지 로그인하기](page/subscriber-guide/login.md)
   * [구독 정보 직접 수정하기](page/subscriber-guide/modify.md)
 * [자주 묻는 질문](page/questions.md)
-
-## 통계 <a href="#periodic-statistics" id="periodic-statistics"></a>
-
-* [개요](periodic-statistics/overview.md)
-* [통계 조회하기](periodic-statistics/view.md)
-* [통계 확인하기](periodic-statistics/verify.md)
-* [통계 내보내기](periodic-statistics/export.md)
-* [자주 묻는 질문](periodic-statistics/questions.md)
-
-## 외부 서비스 연동 <a href="#integration" id="integration"></a>
-
-* [개요](integration/overview.md)
-* [카페24](integration/cafe24/README.md)
-  * [연동하기](integration/cafe24/how-to-integration.md)
-  * [연동 해제하기](integration/cafe24/disconnect.md)
-* [NHN 커머스](integration/nhn-commerce/README.md)
-  * [연동하기](integration/nhn-commerce/how-to-integration.md)
-  * [연동 해제하기](integration/nhn-commerce/disconnect.md)
-* [식스샵](integration/sixshop/README.md)
-  * [연동하기](integration/sixshop/how-to-integration.md)
-  * [연동 해제하기](integration/sixshop/disconnect.md)
-* [도너스](integration/donus/README.md)
-  * [연동하기](integration/donus/how-to-integration.md)
-  * [연동 해제하기](integration/donus/disconnect.md)
-* [자주 묻는 질문](integration/questions.md)
-
-## API, 웹훅 <a href="#api-webhook" id="api-webhook"></a>
-
-* [개요](api-webhook/overview.md)
-* [주소록 API](api-webhook/list-api.md)
-* [주소록 웹훅](api-webhook/list-webhook.md)
-* [이메일 조회 API](api-webhook/email-retrieval-api.md)
-* [자동 이메일 API](api-webhook/auto-email-api.md)
-* [자주 묻는 질문](api-webhook/questions.md)
 
 ## 유료 뉴스레터 <a href="#paid-newsletter" id="paid-newsletter"></a>
 
@@ -172,37 +178,31 @@
   * [유료 구독 정산에 대한 세무 신고 방법](paid-newsletter/billing/tax-filing-procedure.md)
 * [자주 묻는 질문](paid-newsletter/questions.md)
 
-## 사용자 및 워크스페이스 <a href="#user-workspace" id="user-workspace"></a>
+## 외부 서비스 연동 <a href="#integration" id="integration"></a>
 
-* [개요](user-workspace/overview.md)
-* [내 정보 설정하기](user-workspace/profile/README.md)
-  * [비밀번호 변경하기](user-workspace/profile/password.md)
-  * [로그인용 이메일 주소 변경하기](user-workspace/profile/change-login-email.md)
-  * [로그인 시 2단계 인증을 해제하고 싶어요](user-workspace/profile/two-factor-authentication.md)
-  * [탈퇴하기](user-workspace/profile/withdrawal.md)
-* [워크스페이스 설정하기](user-workspace/settings/README.md)
-  * [워크스페이스 이해하기](user-workspace/settings/understand.md)
-  * [워크스페이스 만들기](user-workspace/settings/create.md)
-  * [워크스페이스에 사용자 권한 설정하기](user-workspace/settings/user-permissions.md)
-  * [워크스페이스 삭제하기](user-workspace/settings/delete.md)
-* [자주 묻는 질문](user-workspace/questions.md)
+* [개요](integration/overview.md)
+* [카페24](integration/cafe24/README.md)
+  * [연동하기](integration/cafe24/how-to-integration.md)
+  * [연동 해제하기](integration/cafe24/disconnect.md)
+* [NHN 커머스](integration/nhn-commerce/README.md)
+  * [연동하기](integration/nhn-commerce/how-to-integration.md)
+  * [연동 해제하기](integration/nhn-commerce/disconnect.md)
+* [식스샵](integration/sixshop/README.md)
+  * [연동하기](integration/sixshop/how-to-integration.md)
+  * [연동 해제하기](integration/sixshop/disconnect.md)
+* [도너스](integration/donus/README.md)
+  * [연동하기](integration/donus/how-to-integration.md)
+  * [연동 해제하기](integration/donus/disconnect.md)
+* [자주 묻는 질문](integration/questions.md)
 
-## 요금제와 결제 <a href="#pricing" id="pricing"></a>
+## API, 웹훅 <a href="#api-webhook" id="api-webhook"></a>
 
-* [개요](pricing/overview.md)
-* [요금제 이해하기](pricing/understanding/README.md)
-  * [요금제 이해하기](pricing/understanding/features.md)
-  * [요금제 종류](pricing/understanding/type.md)
-* [결제하기](pricing/payment/README.md)
-  * [요금제 결제하기](pricing/payment/change-plan.md)
-  * [구독자 수 구간 변경하기](pricing/payment/subscriber.md)
-* [요금제 연장하기](pricing/renewal.md)
-* [결제 주기 변경하기](pricing/change.md)
-* [결제 정보 확인, 수정하기](pricing/information/README.md)
-  * [결제 정보 수정하기](pricing/information/modify.md)
-  * [영수증 확인하기](pricing/information/receipt.md)
-* [정기 결제 해지하기](pricing/terminate.md)
-* [자주 묻는 질문](pricing/questions.md)
+* [개요](api-webhook/overview.md)
+* [주소록 API](api-webhook/list-api.md)
+* [주소록 웹훅](api-webhook/list-webhook.md)
+* [이메일 조회 API](api-webhook/email-retrieval-api.md)
+* [자동 이메일 API](api-webhook/auto-email-api.md)
+* [자주 묻는 질문](api-webhook/questions.md)
 
 ## 활용 Tip
 
