@@ -56,7 +56,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/푸터 정보 추가.png" alt=""><figcaption></figcaption></figure>
 
-## 자동 삭제 기능 사용 여부 설정하기
+## 자동 삭제 기능 사용 여부 설정하기 <a href="#auto-deletion" id="auto-deletion"></a>
 
 \[자동삭제 기능 사용 유무]를 설정할 수 있습니다. 이메일 마케팅에서는 이메일 발송이 실패하는 경우를 '[바운스](../../email/analytics/email-detailed-statistics.md#h\_01gfmfz4vxk1e8gds0mhbttyrm)'라고 표현합니다. 스티비에서는 사유에 따라 발송 실패를 '소프트바운스'와 '하드바운스'로 분류하고 있습니다. 하드바운스로 발송에 실패한 경우는 구독 상태가 자동삭제로 변경되어 발송 대상에서 제외됩니다. \
 \
