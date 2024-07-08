@@ -62,8 +62,8 @@ layout:
 [cafe24](../../integration/cafe24/)
 {% endcontent-ref %}
 
-{% content-ref url="../../integration/nhn-commerce/" %}
-[nhn-commerce](../../integration/nhn-commerce/)
+{% content-ref url="../../integration/godomall/" %}
+[godomall](../../integration/godomall/)
 {% endcontent-ref %}
 
 {% content-ref url="../../integration/sixshop/" %}

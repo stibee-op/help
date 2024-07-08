@@ -8,7 +8,7 @@
 
 ## 스티비와 연동할 수 있는 외부 서비스
 
-현재 스티비에서는 '카페24, NHN 커머스, 식스샵, 도너스' 네 개의 서비스에 대해 연동 기능을 제공하고 있습니다. 만약, 네 개의 서비스 이외에 다른 서비스를 사용하고 계신다면 주소록 API를 통해 연동을 진행할 수 있어요. 자세한 방법은 [주소록  API](../api-webhook/list-api.md) 도움말을 참고해 주세요.
+현재 스티비에서는 '카페24, 고도몰, 식스샵, 도너스' 네 개의 서비스에 대해 연동 기능을 제공하고 있습니다. 만약, 네 개의 서비스 이외에 다른 서비스를 사용하고 계신다면 주소록 API를 통해 연동을 진행할 수 있어요. 자세한 방법은 [주소록  API](../api-webhook/list-api.md) 도움말을 참고해 주세요.
 
 
 
@@ -20,8 +20,8 @@
 [cafe24](cafe24/)
 {% endcontent-ref %}
 
-{% content-ref url="nhn-commerce/" %}
-[nhn-commerce](nhn-commerce/)
+{% content-ref url="godomall/" %}
+[godomall](godomall/)
 {% endcontent-ref %}
 
 {% content-ref url="sixshop/" %}
@@ -31,4 +31,3 @@
 {% content-ref url="donus/" %}
 [donus](donus/)
 {% endcontent-ref %}
-
