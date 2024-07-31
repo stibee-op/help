@@ -94,7 +94,7 @@
 * [내 정보 설정하기](user-workspace/profile/README.md)
   * [비밀번호 변경하기](user-workspace/profile/password.md)
   * [로그인용 이메일 주소 변경하기](user-workspace/profile/change-login-email.md)
-  * [로그인 시 2단계 인증을 해제하고 싶어요](user-workspace/profile/two-factor-authentication.md)
+  * [2단계 인증 해제하기](user-workspace/profile/two-factor-authentication.md)
   * [탈퇴하기](user-workspace/profile/withdrawal.md)
 * [워크스페이스 설정하기](user-workspace/settings/README.md)
   * [워크스페이스 이해하기](user-workspace/settings/understand.md)
