@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 카페24 연동하기
+# 카페24
 
 ## 이 글에서는
 
@@ -30,6 +30,10 @@ layout:
 
 {% content-ref url="how-to-integration.md" %}
 [how-to-integration.md](how-to-integration.md)
+{% endcontent-ref %}
+
+{% content-ref url="undefined.md" %}
+[undefined.md](undefined.md)
 {% endcontent-ref %}
 
 {% content-ref url="disconnect.md" %}

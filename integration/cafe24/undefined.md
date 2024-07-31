@@ -31,3 +31,7 @@
 
 
 쇼핑몰에서 상품을 구매했거나 구매하지 않은 고객에게 구매 유도 이메일을 보내보세요. 아래 도움말을 참고해 손쉽게 웰컴 이메일을 설정할 수 있습니다.
+
+{% content-ref url="../../tip/overview/24.md" %}
+[24.md](../../tip/overview/24.md)
+{% endcontent-ref %}
