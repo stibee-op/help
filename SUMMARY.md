@@ -212,6 +212,7 @@
   * [이메일을 보냈지만 받아보지 못했을 때](tip/overview/email-not-received.md)
   * [스티비의 발송 서버 예외 처리하기](tip/overview/send-server-permit-list.md)
   * [카페24 회원에게 웰컴 이메일 보내기](tip/overview/welcome-email-cafe24-members.md)
+  * [카페24 회원에게 구매 유도 이메일 보내기](tip/overview/24.md)
   * [받아 본 이메일이 편집한 내용과 다르게 표시될 때](tip/overview/email-content-mismatch.md)
   * [이메일 스팸 표시 방지하기](tip/overview/prevent-email-spam-marking.md)
   * [오픈율 개선하기](tip/overview/improve-open-rates.md)
