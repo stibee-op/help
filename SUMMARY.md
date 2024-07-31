@@ -99,7 +99,7 @@
 * [워크스페이스 설정하기](user-workspace/settings/README.md)
   * [워크스페이스 이해하기](user-workspace/settings/understand.md)
   * [워크스페이스 만들기](user-workspace/settings/create.md)
-  * [워크스페이스에 사용자 권한 설정하기](user-workspace/settings/user-permissions.md)
+  * [사용자 권한 설정하기](user-workspace/settings/user-permissions.md)
   * [워크스페이스 삭제하기](user-workspace/settings/delete.md)
 * [자주 묻는 질문](user-workspace/questions.md)
 
