@@ -183,6 +183,7 @@
 * [개요](integration/overview.md)
 * [카페24](integration/cafe24/README.md)
   * [연동하기](integration/cafe24/how-to-integration.md)
+  * [주요 기능](integration/cafe24/undefined.md)
   * [연동 해제하기](integration/cafe24/disconnect.md)
 * [고도몰](integration/godomall/README.md)
   * [연동하기](integration/godomall/how-to-integration.md)
