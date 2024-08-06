@@ -221,4 +221,4 @@
   * [오픈율 개선하기](tip/overview/improve-open-rates.md)
   * [친구를 초대한 구독자에게 보상 주기](tip/overview/rewards-for-referring-friends.md)
   * [시즌제 유료 뉴스레터 운영하기](tip/overview/seasonal-paid-newsletter-management.md)
-  * [광고성 정보 수신 동의 여부 정기적으로 확인하기](tip/overview/undefined.md)
+  * [광고성 정보 수신 동의 여부 정기적으로 확인하기](tip/overview/agree-to-receive-advertising-information.md)
