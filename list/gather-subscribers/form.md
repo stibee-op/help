@@ -59,6 +59,10 @@ layout:
 
 구독 폼, 구독 확인 이메일, 구독 정보 변경 화면에서 사용할 언어를 선택할 수 있습니다. 기본적으로 '한국어'로 표시되며, '영어'로 표시되도록 하려면 사용할 언어를 수정해 주시면 됩니다.
 
+{% hint style="info" %}
+구독 폼의 제목, 버튼명, 구독자에게 노출되는 이메일 주소나 이름 등은 직접 수정해 주셔야 합니다. 예를 들어, 구독 폼의 언어를 '영어'로 변경하더라도 '이메일 주소'가 'Email Address'로 자동 변환되지는 않습니다. 이러한 내용은 구독 폼 \[수정하기]를 눌러 직접 수정할 수 있습니다.
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/구독 폼 언어 선택하기.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/img_subscribe_lang.gif" alt=""><figcaption></figcaption></figure>
