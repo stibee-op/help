@@ -100,6 +100,7 @@
   * [워크스페이스 이해하기](user-workspace/settings/understand.md)
   * [워크스페이스 만들기](user-workspace/settings/create.md)
   * [사용자 권한 설정하기](user-workspace/settings/user-permissions.md)
+  * [특정 IP 주소에서만 워크스페이스 접속 허용하기](user-workspace/settings/ip.md)
   * [워크스페이스 삭제하기](user-workspace/settings/delete.md)
 * [자주 묻는 질문](user-workspace/questions.md)
 
