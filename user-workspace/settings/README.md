@@ -18,6 +18,10 @@
 [user-permissions.md](user-permissions.md)
 {% endcontent-ref %}
 
+{% content-ref url="ip.md" %}
+[ip.md](ip.md)
+{% endcontent-ref %}
+
 {% content-ref url="delete.md" %}
 [delete.md](delete.md)
 {% endcontent-ref %}
