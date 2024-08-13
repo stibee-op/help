@@ -1,4 +1,4 @@
-# 주요 기능
+# 주요 기능 살펴보기
 
 ## 이 글에서는 <a href="#h_01hrpa0pkny8acjcwwwe4fhzcv" id="h_01hrpa0pkny8acjcwwwe4fhzcv"></a>
 
@@ -34,4 +34,12 @@
 
 {% content-ref url="../../tip/overview/24.md" %}
 [24.md](../../tip/overview/24.md)
+{% endcontent-ref %}
+
+
+
+카페24 쇼핑몰 회원의 기념일에 '기념일 축하 이메일'을 보낼 수 있습니다. 회원의 생일 등 특별한 기념일에 축하한다는 메시지를 담은 이메일을 보내보세요. 아래 도움말을 참고해 손쉽게 웰컴 이메일을 설정할 수 있습니다.
+
+{% content-ref url="../../tip/overview/24-1.md" %}
+[24-1.md](../../tip/overview/24-1.md)
 {% endcontent-ref %}
