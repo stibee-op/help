@@ -23,7 +23,7 @@
 
 구독자의 증감 현황을 그래프와 표 형태로 한눈에 파악할 수 있습니다. 가파르게 증가하거나 감소한 구간이 있다면 해당하는 기간에 발생한 이벤트가 있었는지 추적할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -31,7 +31,7 @@
 
 설정한 조건(기간, 주소록, 태그)에 포함된 모든 이메일의 성과 지표를 한번에 확인할 수 있으며, 전체 이메일의 성과를 비교/분석하는 데 유용하게 활용할 수 있습니다. 화면 오른쪽 \[목록 내려받기] 버튼을 클릭하면 CSV 파일로 저장할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

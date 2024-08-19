@@ -34,7 +34,7 @@ layout:
 
 폰트의 경우 [이메일 환경에서는 웹폰트를 사용할 수 없기 때문에](https://blog.stibee.com/%EB%89%B4%EC%8A%A4%EB%A0%88%ED%84%B0-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EB%8F%84%EC%99%80%EC%A3%BC%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8F%B0%ED%8A%B8-%EC%82%AC%EC%9A%A9%EB%B2%95-2a54c399145d) 에디터에서는 고딕, 명조 계열만 선택할 수 있도록 제공하고 있습니다. 텍스트 크기는 12px \~ 60px까지 선택할 수 있습니다. 텍스트 정렬 방식(왼쪽, 오른쪽, 가운데, 양쪽)을 선택할 수 있습니다. 볼드, 이탤릭, 밑줄, 취소선 등 텍스트 스타일을 설정할 수 있습니다. 텍스트 색상이나 배경색을 설정하는 것도 가능합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
