@@ -22,13 +22,15 @@ layout:
 
 ## 파라미터 이해하기 <a href="#parameter" id="parameter"></a>
 
-그룹으로 특정 구독자를 분류하거나 구독자 정보에 특정 값이 자동으로 입력되게 하려면 우선 파라미터의 개념을 알아두는 것이 좋습니다.
+URL에 특정한 형식을 넣어 값이 미리 적용될 수 있도록 하는 기능을 '파라미터'라고 부릅니다. 파라미터가 없는 경우에는 값이 빈 상태로 보여지며, 파라미터가 있다면 값이 미리 등록됩니다. (파라미터로 값이 미리 등록되어 있어도 값을 바꾸면 바꾼 값으로 저장됩니다.)
 
-파라미터란, URL에 특정한 형식을 넣어 미리 값이 적용될 수 있도록 하는 기능을 의미합니다. 파라미터가 없는 경우에는 값이 빈 상태로 보여지며, 파라미터가 있다면 값이 미리 등록됩니다. (파라미터로 값이 미리 등록되어 있어도 값을 바꾸면 바꾼 값으로 저장됩니다.)  구독 폼 URL에 이름 필드(name)를 파라미터로 미리 입력했을 때와 입력하지 않았을 때의 차이를 아래 URL을 통해서 확인할 수 있습니다.
+만약, 구독자를 추가하면서 특정 그룹에 분류되도록 설정하고 싶거나, 구독자 정보에 특정 값이 자동으로 입력되도록 하고 싶다면 파라미터를 활용하면 됩니다.
 
 
 
-**파라미터가 적용되지 않은 구독 폼 URL**
+구독 폼 URL에 이름 필드(name)를 파라미터로 미리 입력했을 때와 입력하지 않았을 때의 차이를 아래 URL을 통해서 확인할 수 있습니다.
+
+#### **파라미터가 적용되지 않은 구독 폼 URL**
 
 ```
 https://page.stibee.com/subscriptions/187957
@@ -36,13 +38,13 @@ https://page.stibee.com/subscriptions/187957
 
 <figure><img src="../../.gitbook/assets/파라미터 이해하기_1 (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
-**파라미터가 적용된 구독 폼 URL**
+#### **파라미터가 적용된 구독 폼 URL**
 
 ```
 https://page.stibee.com/subscriptions/187957?name=스티비
 ```
+
+이름 필드에 '스티비'가 자동으로 기록됩니다.
 
 <figure><img src="../../.gitbook/assets/파라미터 이해하기_2 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -50,9 +52,17 @@ https://page.stibee.com/subscriptions/187957?name=스티비
 
 ## 그룹으로 자동 분류하기 <a href="#parameter-group" id="parameter-group"></a>
 
+{% hint style="info" %}
+파라미터로 활용하던 그룹이 삭제되더라도 기존의 그룹 파라미터 구독 폼 URL을 통해 구독 신청할 수 있습니다. 단, 그룹 파라미터 기능은 동작하지는않습니다.&#x20;
+
+예를 들어 'A 그룹'에 자동으로 분류되도록 그룹 파라미터를 설정해서 사용하고 있었다면, 그룹을 삭제해도 그룹 파라미터 구독 폼 URL을 계속 사용할 수는 있으나 A 그룹으로 자동 분류되지는 않습니다.
+{% endhint %}
+
 ### 스티비 구독 폼을 사용하는 경우 <a href="#parameter-group-form" id="parameter-group-form"></a>
 
 구독 폼 URL 뒤에 'groupIds(대소문자 구분)'라는 파라미터를 추가하면 구독자가 추가될 그룹을 지정할 수 있습니다. 그룹에 할당된 고유 아이디(group id)는 아래 방법으로 확인할 수 있습니다.
+
+**\*주의:** groupIds의 I는 영어 대문자 I(아이)입니다.
 
 1. 주소록 목록에서 주소록 이름을 클릭하여 \[주소록 대시보드]로 이동
 2. \[그룹]을 클릭하여 그룹 목록으로 이동
@@ -66,15 +76,12 @@ https://page.stibee.com/subscriptions/187957?name=스티비
 * 일반 구독 폼 URL 형식: https://page.stibee.com/subscriptions/{listid}&#x20;
 * 그룹에 구독자를 추가하는 구독 폼 URL 형식: https://page.stibee.com/subscriptions/{listid}?groupIds={groupid}
 
-_\*groupIds의 I는 영어 대문자 I(아이)입니다._
-
 예를 들어, 스요레터 주소록의 listid는 3이고, groupId는44737 인그룹에 구독자를 자동으로 추가하고 싶다면, 아래 형식으로 구독 폼 URL을 만들 수 있습니다.
 
 * 스요레터 구독 폼 URL: https://page.stibee.com/subscriptions/3
 * 스요레터 주소록의 44737 그룹에 구독자를 추가하는 구독 폼 URL: https://page.stibee.com/subscriptions/3?groupIds=44737
 
-한 번에 여러 개의 그룹에 추가하려면, 쉼표(,)로 구분하여 'groupIds' 파라미터를 여러 개 추가하면 됩니다. 예를 들어, 44737과 44738 그룹에 구독자를 한 번에 추가하고 싶다면, 아래 형식으로 만들면 됩니다. \
-_\* groupIds의 I는 영어 대문자 I(아이)입니다._
+한 번에 여러 개의 그룹에 추가하려면, 쉼표(,)로 구분하여 'groupIds' 파라미터를 여러 개 추가하면 됩니다. 예를 들어, 44737과 44738 그룹에 구독자를 한 번에 추가하고 싶다면, 아래 형식으로 만들면 됩니다.&#x20;
 
 * _https://page.stibee.com/subscriptions/{listid}**?groupIds={groupid},{groupid}**_
 * _예. https://page.stibee.com/subscriptions/3?groupIds=44737,44738_
@@ -82,6 +89,8 @@ _\* groupIds의 I는 영어 대문자 I(아이)입니다._
 
 
 ### HTML 내보내기로 구독 폼을 사용하는 경우 <a href="#html" id="html"></a>
+
+**\*주의:** groupIds의 I는 영어 대문자 I(아이)입니다.
 
 구독 폼을 코드로 내보낸 뒤에, 코드에서 일부 내용을 수정해 사용하면 됩니다. 구독 폼 코드에서 아래 형식의 코드를 찾습니다.
 
@@ -101,9 +110,9 @@ https://stibee.com/api/v1.0/lists/OOOOOOOOOOOOOOO/TYW5AcyOVE51JOZtmxyaTL8zPkJ/pu
 
 
 
-
-
 ### 페이지를 사용하는 경우 <a href="#page" id="page"></a>
+
+**\*주의:** groupIds의 I는 영어 대문자 I(아이)입니다.
 
 \[[페이지](broken-reference)]로 구독 신청을 받는 경우에도 페이지 URL 뒤에 그룹 코드를 추가하면 구독자를 그룹으로 자동 분류할 수 있습니다. 페이지 URL은 아래의 형식으로 생성됩니다.
 
@@ -129,6 +138,12 @@ _\*"groupIds"의 "I"는 대문자 "I"(아이)입니다._
 
 
 ## 구독자 정보에 자동으로 값 입력하기
+
+파라미터로 활용하던 그룹이 삭제되더라도 기존의 그룹 파라미터 구독 폼 URL을 통해 구독 신청할 수 있습니다. 단, 그룹파라미터 기능은 동작하지는않습니다.&#x20;
+
+예를 들어 'A 그룹'에 자동으로 분류되도록 그룹 파라미터를 설정해서 사용하고 있었다면, 그룹을 삭제해도 그룹 파라미터 구독 폼 URL을 계속 사용할 수는 있으나 A 그룹으로 자동 분류되지는 않습니다.
+
+
 
 사용자 정의 필드 파라미터를 구독 폼, 페이지 등의 URL에 추가하면 특정 구독자 정보를 자동으로 추가할 수 있습니다.
 
@@ -186,4 +201,3 @@ https://stibee.com/api/v1.0/lists/OOOOOOOOOOOOOOO/TYW5AcyOVE51JOZtmxyaTL8zPkJ/pu
 * 사용자 정의 필드에 없는 필드를 파라미터로 넣는 경우 정보가 입력되지 않습니다.
 * 구독 폼에서 파라미터로 설정한 필드의 값을 구독자가 변경하는 경우 변경된 값으로 정보가 입력됩니다.
 {% endhint %}
-

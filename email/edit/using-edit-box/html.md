@@ -22,15 +22,15 @@ _이메일 전체를 HTML 코드로 작성하고 싶다면 HTML 템플릿을 선
 
 ***
 
-### HTML 코드이해하기
+### HTML 코드 이해하기
 
-이메일은 일반적인 웹 환경과 달라 사용할 수 없는 HTML 태그가 있습니다. 이메일에 호환되지 않는 코드가 섞여 문제가 발생하는 것을 방지하기 위해 에디터에서는 일부 HTML 코드를 사용 할 수 없도록 제한하고 있습니다.
+이메일은 일반적인 웹 환경과 달라 사용할 수 없는 'HTML 태그'가 있습니다. 이메일에 호환되지 않는 코드가 섞여 문제가 발생하는 것을 방지하기 위해 에디터에서는 일부 HTML 코드를 사용할 수 없도록 제한하고 있습니다.
 
 사용할 수 없는 코드 정보는 아래와 같습니다.
 
 ```
-<script>, <head>, <body>, <html>, <style>, <form>, <input>, 
-<button>, <noscript>, <meta>, <iframe>
+<script>, <head>, <body>, <html>, <style>, <form>, <input>, <button>, 
+<noscript>, <meta>, <iframe>
 ```
 
 
