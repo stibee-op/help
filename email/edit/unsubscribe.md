@@ -42,7 +42,7 @@ layout:
 
 ### HTML 코드로 편집할 때도 수신거부 링크 넣기  <a href="#h_99886c447f" id="h_99886c447f"></a>
 
-HTML 코드를 사용해 이메일을 편집할 때도 수신거부 링크를 넣을 수 있습니다. 자세한 사용 방법은 [#h\_99886c447f](../undefined-1/html.md#h\_99886c447f "mention") 도움말을 참고해 주세요.
+HTML 코드를 사용해 이메일을 편집할 때도 수신거부 링크를 넣을 수 있습니다. 자세한 사용 방법은 [#unsubscribe](../undefined-1/html.md#unsubscribe "mention")도움말을 참고해 주세요.
 
 
 

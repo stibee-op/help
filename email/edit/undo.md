@@ -30,6 +30,4 @@ layout:
 
 예를 들어, '스탠다드 요금제'를 사용한다면, 8월 8일 오전 11시에 \[과거 기록 보기]에 진입할 경우, 8월 1일 오전 11시 이후의 버전부터 목록에 표시됩니다.&#x20;
 
-_\* 요금제에 대한 안내는_ [_여기_](../../pricing/understanding/type.md)_를 참고해 주세요._
-
 <figure><img src="../../.gitbook/assets/과거기록보기_날짜.gif" alt=""><figcaption></figcaption></figure>
