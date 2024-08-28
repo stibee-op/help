@@ -16,7 +16,7 @@ layout:
 
 ## 이 글에서는
 
-파라미터란, URL에 특정한 형식을 넣어 미리 값이 적용될 수 있도록 하는 기능을 의미합니다. 파라미터가 없는 경우에는 값이 빈 상태로 보여지며, 파라미터가 있다면 값이 미리 등록됩니다. (파라미터로 값이 미리 등록되어 있어도 값을 바꾸면 바꾼 값으로 저장됩니다.)
+파라미터란, URL에 특정한 형식을 넣어 미리 값이 적용될 수 있도록 하는 기능을 의미합니다. 파라미터가 없는 경우에는 값이 빈 상태로 보이며, 파라미터가 있다면 값이 미리 등록됩니다. (파라미터로 값이 미리 등록되어 있어도 값을 바꾸면 바꾼 값으로 저장됩니다.)
 
 페이지 URL 뒤에 사용자 정의 필드 키 값을 파라미터로 추가하면 구독자 정보를 자동으로 추가할 수 있습니다. 이 방법에 관해 알아봅니다.
 
@@ -38,7 +38,7 @@ layout:
 
 ### **파라미터가 적용된 페이지 URL**
 
-* https://{subdomain}.qa-page.stibee.com**?name=스티비** (subdomain은 페이지 설정에 따라 달라집니다.)&#x20;
+* https://{subdomain}.page.stibee.com**?name=스티비** (subdomain은 페이지 설정에 따라 달라집니다.)&#x20;
 
 <figure><img src="https://downloads.intercomcdn.com/i/o/528916728/c5df1c069d7c9bfffede6c13/%ED%8E%98%EC%9D%B4%EC%A7%80%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98%ED%95%84%EB%93%9C%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0_2.gif" alt=""><figcaption></figcaption></figure>
 
