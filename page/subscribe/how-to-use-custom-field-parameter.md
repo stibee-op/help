@@ -38,7 +38,7 @@ layout:
 
 ### **파라미터가 적용된 페이지 URL**
 
-* https://{subdomain}.page.stibee.com**?name=스티비** (subdomain은 페이지 설정에 따라 달라집니다.)&#x20;
+* https://{subdomain}.stibee.com**?name=스티비** (subdomain은 페이지 설정에 따라 달라집니다.)&#x20;
 
 <figure><img src="https://downloads.intercomcdn.com/i/o/528916728/c5df1c069d7c9bfffede6c13/%ED%8E%98%EC%9D%B4%EC%A7%80%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98%ED%95%84%EB%93%9C%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0_2.gif" alt=""><figcaption></figcaption></figure>
 
