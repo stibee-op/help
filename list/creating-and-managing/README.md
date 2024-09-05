@@ -6,7 +6,7 @@
 
 ***
 
-새로운 주소록을 만들고 주소록의 정보를 수정하는 등 주소록 관리를 위한 기본적인 기능을 학습합니다.&#x20;
+새로운 주소록을 만들고, 기존주소록의 정보를 수정하는 등 주소록 관리를 위한 기본적인 기능을 학습합니다.&#x20;
 
 {% content-ref url="create.md" %}
 [create.md](create.md)
@@ -15,4 +15,3 @@
 {% content-ref url="modify-copy-delete.md" %}
 [modify-copy-delete.md](modify-copy-delete.md)
 {% endcontent-ref %}
-
