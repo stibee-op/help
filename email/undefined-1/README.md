@@ -20,7 +20,7 @@ layout:
 
 ***
 
-아래 링크를 클릭해 궁금한 내용을 바로 확인해 보거나 아래에 있는 '다음' 버튼을 클릭해 단계별로 섹션의 내용을 확인해 보세요.
+아래 링크를 클릭해 궁금한 내용을 바로 확인해 보거나 아래에 있는 '다음' 버튼을 클릭해 단계별로 섹션 내용을 확인해 보세요.
 
 {% content-ref url="../edit/preparing-for-send.md" %}
 [preparing-for-send.md](../edit/preparing-for-send.md)

@@ -53,6 +53,6 @@ layout:
 
 ### 자동삭제 <a href="#auto-deleted" id="auto-deleted"></a>
 
-이메일을 발송했을 때 [하드바운스](../../email/analytics/email-detailed-statistics.md#hard-bounce)로 발송에 실패해서영구적으로 이메일을 수신할 수 없는 상태로 판단된 경우에는 자동삭제로 분류되며 앞으로 발송 대상에서도 제외됩니다.
+이메일을 발송했을 때 [하드바운스](../../email/analytics/email-detailed-statistics.md#hard-bounce)로 발송에 실패해서 영구적으로 이메일을 수신할 수 없는 상태로 판단된 경우에는 자동삭제로 분류되며 앞으로 발송 대상에서도 제외됩니다.
 
 자동 삭제 기능을 사용하면 일반적으로 이메일을 발송할수록 발송 성과가 개선됩니다. 단, 원하는 경우에는 주소록에서 '자동삭제' 기능을 직접 비활성화할 수 있습니다. 자동삭제 기능을 비활성화하고 싶다면 [creating-and-managing](../creating-and-managing/ "mention") 도움말을 참고해 주세요.
