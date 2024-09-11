@@ -14,6 +14,6 @@
 
 
 
-페이지와 연동할 구글 애널리틱스 측정 ID를 입력하면 페이지 성과를 분석할 수 있습니다. '측정 ID'를 찾는 방법은 [여기](https://support.google.com/analytics/answer/12270356?hl=ko\&sjid=1015199864081941492-AP)를 참고해 주세요.
+페이지와 연동할 구글 애널리틱스 측정 ID를 입력하면 페이지 성과를 분석할 수 있습니다. '측정 ID'는 구글 애널리틱스에서 확인할 수 있습니다. 자세한 방법은 [여기](https://support.google.com/analytics/answer/12270356?hl=ko\&sjid=1015199864081941492-AP)를 참고해 주세요.
 
 <figure><img src="../../.gitbook/assets/구글 애널리틱스 연동2.png" alt=""><figcaption></figcaption></figure>
