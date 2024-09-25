@@ -160,7 +160,7 @@
 * [유료 구독 시작하기](paid-newsletter/getting-started/README.md)
   * [유료 구독 주소록 만들기](paid-newsletter/getting-started/create.md)
   * [구독자 문의 채널 설정하기](paid-newsletter/getting-started/contact-channels.md)
-  * [일반 주소록을 유료 주소록으로 변환하기](paid-newsletter/getting-started/convert.md)
+  * [일반 주소록을 유료 구독 주소록으로 변환하기](paid-newsletter/getting-started/convert.md)
 * [유료 구독 상품 설정하기](paid-newsletter/settings/README.md)
   * [구독 상품 이해하기: 월간, 연간, 일회성](paid-newsletter/settings/monthly-yearly-one-time.md)
   * [유료 구독 폼 설정하기](paid-newsletter/settings/subscription-form.md)
