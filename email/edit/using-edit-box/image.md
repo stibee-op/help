@@ -20,9 +20,11 @@ layout:
 
 ***
 
-### 이미지업로드하기 <a href="#h_01ggs6kwt85pwrr5tka6f34mgr" id="h_01ggs6kwt85pwrr5tka6f34mgr"></a>
+### 이미지 업로드하기 <a href="#h_01ggs6kwt85pwrr5tka6f34mgr" id="h_01ggs6kwt85pwrr5tka6f34mgr"></a>
 
 오른쪽 상자 선택 화면에서 \[이미지] 상자를 클릭해서 본문에 끌어 당기거나 구성 요소 중 '이미지'를 선택해서 이미지 상자를 추가할 수 있습니다. 이미지 상자를 추가한 뒤 상자를 클릭하면 이미지를 업로드할 수 있는 창이 나타납니다.
+
+이미지 파일 형식은 jpg, png, gif 를 지원하고 있습니다.
 
 
 
