@@ -24,9 +24,9 @@ layout:
 
 스티비에서는 격주 목요일마다 1시간씩 스티비 사용법 관련 웨비나를 진행하고 있습니다. 스티비 사용법에 관해 더욱 자세하게 알고 싶거나, 혹은 도움말로는 해결되지 않은 궁금함이 있다면 이 웨비나에 참석해 보세요. 궁금한 점을 물어볼 수 있는 Q\&A도 진행하고 있으니 사용 중 어려운 점이 있다면 웨비나를 통해 해결할 수 있습니다.
 
-[시작하는 뉴스레터를 위한 웨비나](https://page.stibee.com/subscriptions/353373)
+[시작하는 뉴스레터를 위한 웨비나](https://page.stibee.com/subscriptions/353373?groupIds=371937)
 
-[전문적인 뉴스레터를 위한 웨비나](https://page.stibee.com/subscriptions/354931)
+[전문적인 뉴스레터를 위한 웨비나](https://page.stibee.com/subscriptions/354931?groupIds=371935)
 
 
 
