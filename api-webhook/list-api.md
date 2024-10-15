@@ -293,7 +293,6 @@ _API 요청은 1초당 10회, 1회당 256KB로 제한되어 있습니다._
 
 ```json
 POST https://api.stibee.com/v1/lists/{listId}/subscribers
-[
   {
     "eventOccurredBy": "SUBSCRIBER",
     "confirmEmailYN": "N",
@@ -311,7 +310,6 @@ POST https://api.stibee.com/v1/lists/{listId}/subscribers
       }
     ]
   }
-]
 ```
 
 
@@ -348,7 +346,6 @@ POST https://api.stibee.com/v1/lists/{listId}/subscribers
 
 ```json
 POST https://api.stibee.com/v1/lists/{listId}/subscribers
-[
   {
     "eventOccurredBy": "MANUAL",
     "confirmEmailYN": "N",
@@ -362,7 +359,6 @@ POST https://api.stibee.com/v1/lists/{listId}/subscribers
       }
     ]
   }
-]
 ```
 
 &#x20;
