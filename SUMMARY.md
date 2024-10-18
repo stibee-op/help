@@ -204,8 +204,8 @@
 * [개요](api-webhook/overview.md)
 * [주소록 API](api-webhook/list-api.md)
 * [주소록 웹훅](api-webhook/list-webhook.md)
-* [이메일 조회 API](api-webhook/email-retrieval-api.md)
 * [자동 이메일 API](api-webhook/auto-email-api.md)
+* [이메일 조회 API](api-webhook/email-retrieval-api.md)
 * [자주 묻는 질문](api-webhook/questions.md)
 
 ## 활용 Tip
