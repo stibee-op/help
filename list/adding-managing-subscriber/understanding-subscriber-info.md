@@ -224,7 +224,7 @@ _기본적으로 메일머지 기능은 스탠다드 요금제부터 사용할 �
 1. \[주소록 → 구독자 목록]으로 이동합니다.
 2. \[광고성 정보 수신 동의] 필드 정보를 확인합니다.
 
-필드의 정보가 '동의'인 구독자는 광고성 정보 수신에 동의한 구독자입니다. 필드에 아무런 정보가 없는 구독자는 광고성 정보 수신에 동의하지 않은 구독자입니다. 구독자의 광고성 정보 수신 동의 여부를 변경하고 싶다면 [#change-promotional-consent](modify-subscriber-info.md#change-promotional-consent "mention") 도움말을 참고해 주세요.
+필드의 정보가 '동의'인 구독자는 광고성 정보 수신에 동의한 구독자입니다. 필드에 아무런 정보가 없는 구독자는 광고성 정보 수신에 동의하지 않은 구독자입니다. 구독자의 광고성 정보 수신 동의 여부를 변경하고 싶다면 [#undefined-4](modify-subscriber-info.md#undefined-4 "mention")도움말을 참고해 주세요.
 
 <figure><img src="../../.gitbook/assets/9-1.gif" alt=""><figcaption></figcaption></figure>
 
@@ -239,4 +239,4 @@ _기본적으로 메일머지 기능은 스탠다드 요금제부터 사용할 �
 
 <figure><img src="../../.gitbook/assets/9-2.gif" alt=""><figcaption></figcaption></figure>
 
-광고성 정보 수신 동의 여부를 관리자가 수정하는 것도 가능합니다. 관련하여 자세한 내용은 [#change-promotional-consent](modify-subscriber-info.md#change-promotional-consent "mention") 도움말을 참고해 주세요.
+광고성 정보 수신 동의 여부를 관리자가 수정하는 것도 가능합니다. 관련하여 자세한 내용은 [#undefined-5](modify-subscriber-info.md#undefined-5 "mention") 도움말을 참고해 주세요.
