@@ -28,7 +28,7 @@ _\*스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일 
 
 ### **기능**
 
-* [사용자](broken-reference) 수 1명
+* [사용자](broken-reference) 수 1명 (소유자 포함)
 * 드래그앤드롭 에디터
 * 반응형 템플릿
 * [기본 A/B 테스트](../../email/a-b-test.md)
@@ -49,7 +49,7 @@ _\*스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일 
 ### **기능** <a href="#h_54b391955e" id="h_54b391955e"></a>
 
 * 스타터의 모든 기능
-* [사용자](broken-reference) 수 1명
+* [사용자](broken-reference) 수 3명 (소유자 포함)
 * [자동 이메일](../../email/automation/understand.md)
 * 스폰서 배너 제거
 * [메일머지](../../email/edit/personalized-merge.md)
@@ -95,7 +95,7 @@ _\*스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일 
 ### **기능** <a href="#h_01h9mm24t1nf8tp4vh7bdhv62y" id="h_01h9mm24t1nf8tp4vh7bdhv62y"></a>
 
 * 스탠다드의 모든 기능
-* [사용자](broken-reference) 수 10명
+* [사용자](broken-reference) 수 10명 (소유자 포함)
 * [콘텐츠 A/B 테스트](../../email/a-b-test.md)
 * [구독자 활동 기반 세그먼트](../../list/classify-subscribers/how-to-use-segment.md)
 * 콘텐츠 과거 기록 보기 30일
