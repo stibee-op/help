@@ -79,7 +79,7 @@ layout:
 
 목록 좌측 상단의 '이메일 제목' 필드 옆의 체크 박스 모양에 마우스 커서를 올리면 구독자 선택 옵션 창을 확인할 수 있습니다. 여기서 '이 페이지 선택'을 클릭하면 지금 페이지에 있는 모든 구독자를 한번에 선택할 수 있습니다. 페이지당 최대 20명의 구독자가 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/5.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (4).gif" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 

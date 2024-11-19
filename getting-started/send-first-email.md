@@ -48,7 +48,7 @@ layout:
 
 발송 성과 개선을 위해 기준에 따라 A/B 테스트를 진행하고 싶은 경우 이 단계에서 설정합니다. 테스트를 진행하지 않고 싶은 경우에는 \[아니오]를 선택하고 다음으로 넘어갑니다.  A/B 테스트에 대해 더 자세한 내용이 궁금한 경우에는 아래 링크를 참고하세요.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -56,7 +56,7 @@ layout:
 
 \[발송정보]에서는 보낼 이메일의 제목과 보내는 사람 정보(발신자 이메일 주소, 발신자 이름) 그리고 미리보기 텍스트를 설정합니다. 원하는 이메일의 제목과 발신자 이름을 입력하고 다음 단계로 넘어갑니다. '발송정보' 단계에 대한 자세한 내용은 [#undefined-4](send-first-email.md#undefined-4 "mention")를 참고해 주세요.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 정보를 모두 설정했다면, \[다음 → 템플릿] 단계로 이동하세요.
 
@@ -71,7 +71,7 @@ layout:
 
     **\*주의:** 이메일 편집 중 템플릿을 변경하는 경우, 앞서 작업한 내용이 모두 사라집니다.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 원하는 템플릿을 선택한 뒤, \[다음 → 콘텐츠] 단계로 이동하세요.
 

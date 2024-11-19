@@ -44,7 +44,7 @@ A/B 테스트에 대한 자세한 내용은 아래 도움말을 참고해 주세
 [a-b-test.md](../a-b-test.md)
 {% endcontent-ref %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -59,7 +59,7 @@ A/B 테스트에 대한 자세한 내용은 아래 도움말을 참고해 주세
     자세한 내용은 [managing-sender](../managing-sender/ "mention") 도움말을 참고해 주세요.
 * 미리보기 텍스트: 구독자의 메일함에서 표시될 이메일의 일부 내용을 편집할 수 있는 기능입니다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

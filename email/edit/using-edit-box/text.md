@@ -38,7 +38,7 @@ layout:
 * 볼드, 이탤릭, 밑줄, 취소선 등 텍스트 스타일을 설정할 수 있습니다.&#x20;
 * 텍스트 색상이나 배경색을 설정하는 것도 가능합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
