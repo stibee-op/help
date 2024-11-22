@@ -77,7 +77,7 @@ API에 대한 요청 및 응답 방법은 [스티비 API 문서](https://api.sti
 API 요청에 대한 정책은 아래와 같이 운영하고 있습니다.
 
 * API 요청 및 응답은 JSON 형식을 따릅니다.
-* API 요청은 1초당 10회로 제한합니다.
+* API 요청은 1초당 3회로 제한합니다.
 * API 요청은 1회당 256KB로 제한합니다. 이는 구독자 추가 시 약 2,000명을 한 번에 추가할 수 있는 크기지만, '[사용자 정의 필드](../list/adding-managing-subscriber/understanding-subscriber-info.md#h\_01gw45zrwcjd1eg1cam4vhw25m)' 값에 따라 달라질 수 있습니다.
 
 ### 공통 <a href="#h_979f141299" id="h_979f141299"></a>
