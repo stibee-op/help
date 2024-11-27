@@ -20,7 +20,7 @@ layout:
 
 ***
 
-## 높은 요금제로 업그레이드 하기
+## 높은 요금제로 업그레이드 하기 <a href="#plan-upgrade" id="plan-upgrade"></a>
 
 스티비의 결제는 기본적으로 다음 4단계로 구성됩니다.
 
@@ -40,7 +40,7 @@ layout:
 3. '스탠다드'와 '프로' 중 원하는 요금제를 선택합니다.
 4. 요금제를 선택했다면, \[변경하기]를 클릭해 결제할 카드 정보를 입력합니다.
 5. 결제하고 싶은 구독자 수를 선택하여 표시되는 결제 구간을 확인합니다.\
-   _구독자 수 구간에 따라 워크스페이스에 등록할 수 있는 최대 구독자 수가 결정됩니다. 사용 구간별 이용 요금은_ [_여기_](../understanding/type.md)_에서 확인해 보세요_
+   &#xNAN;_&#xAD6C;독자 수 구간에 따라 워크스페이스에 등록할 수 있는 최대 구독자 수가 결정됩니다. 사용 구간별 이용 요금은_ [_여기_](../understanding/type.md)_에서 확인해 보세요_
 6. 모든 정보를 잘 입력했다면 결제 창 아래에 있는 \[결제하기]를 클릭합니다.
 
 결제에 성공했다면 아래와 같은 화면이 표시됩니다.
@@ -55,7 +55,7 @@ layout:
 
 스탠다드 요금제를 사용하던 도중 프로 요금제로 변경해서 사용할 수 있습니다. \[워크스페이스 이름 → 업그레이드 하기]를 클릭해 요금제 변경을 진행합니다.&#x20;
 
-_스탠다드 요금제에서 프로 요금제로 업그레이드하는 경우_ [_추가 요금_](subscriber.md#h\_01habcxf9wqq867nxnea9x5ym5)_이 발생합니다._
+_스탠다드 요금제에서 프로 요금제로 업그레이드하는 경우_ [_추가 요금_](subscriber.md#h_01habcxf9wqq867nxnea9x5ym5)_이 발생합니다._
 
 1. \[워크스페이스 이름 → 업그레이드 하기]를 클릭해서 결제를 시작합니다.
 2.  '프로 요금제'의 \[변경하기]를 클릭해 다음 결제 정보 입력 단계로 넘어갑니다.
@@ -110,7 +110,7 @@ _스탠다드 요금제에서 프로 요금제로 업그레이드하는 경우_ 
 
 
 
-## 낮은 요금제 종류로 변경하기 <a href="#id-01ha6fxp3q4xaqe8ne5d5gs3tj" id="id-01ha6fxp3q4xaqe8ne5d5gs3tj"></a>
+## 낮은 요금제 종류로 변경하기 <a href="#plan-downgrade" id="plan-downgrade"></a>
 
 스티비 요금제는 선불이므로 낮은 종류의 요금제로 '즉시' 변경하는 것은 불가합니다. 예를 들어, 아래와 같이 더 낮은 단계의 요금제로 변경한다면 즉시 반영되지 않습니다.
 
@@ -128,15 +128,7 @@ _스탠다드 요금제에서 프로 요금제로 업그레이드하는 경우_ 
 
 원하는 요금제로 변경 예약이 잘 되었는지 확인합니다. 다음 결제 갱신일부터 변경된 요금제 종류가 적용됩니다.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
