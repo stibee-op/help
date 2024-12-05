@@ -20,7 +20,7 @@ layout:
 
 ***
 
-## 요금제 특징 <a href="#h_01ha65n09ets1rb1nhjgha0pa6" id="h_01ha65n09ets1rb1nhjgha0pa6"></a>
+## 요금제 특징 <a href="#pricing-features" id="pricing-features"></a>
 
 스티비 요금제는 선불 요금제고, 월간 결제와 연간 결제 중 선택할 수 있으며, 첫 결제일 날짜 기준으로 요금제 갱신일이 자동 설정된다는 특징을 가집니다.
 
@@ -31,7 +31,7 @@ layout:
 
 
 
-## 요금제 계산 기준 <a href="#h_01ha65n09e3m8f39hb8adtbgq3" id="h_01ha65n09e3m8f39hb8adtbgq3"></a>
+## 요금제 계산 기준 <a href="#pricing-calculation" id="pricing-calculation"></a>
 
 스티비 사용료는 사용하는 '[요금제 종류](type.md)'와 워크스페이스에 등록된 '전체 구독자 수'를 기준으로 계산합니다. 요금제 종류마다 시작하는 가격이 다르며, 구독자 수에 따른 가격도 다릅니다.
 
@@ -52,7 +52,7 @@ _유료 요금제인 스탠다드, 프로, 엔터프라이즈 요금제는 추�
 
 
 
-## 요금제 사용 시 주의사항 <a href="#h_01hj2h6w3qawbaeyckvshsqyqe" id="h_01hj2h6w3qawbaeyckvshsqyqe"></a>
+## 요금제 사용 시 주의사항 <a href="#plan-precautions" id="plan-precautions"></a>
 
 이용 요금을 줄이기 위해 사용 중인 요금제의 전체 구독자 수 구간을 초과하는 구독자에게 이메일을 발송하는 것은 [이용약관](https://policy.stibee.com/terms)에 따라 금지하고 있습니다. 스티비에서 금지하는 방식으로 서비스를 사용하는 경우 모니터링에 따라 이용이 제한될 수 있습니다.&#x20;
 
