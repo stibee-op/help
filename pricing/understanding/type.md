@@ -2,15 +2,15 @@
 
 ## 이 글에서는 <a href="#h_01h9mkm4p47362w0tjqadsntj8" id="h_01h9mkm4p47362w0tjqadsntj8"></a>
 
-스티비 요금제 종류와 사용료에 관해 알아봅니다.
+스티비 요금제 종류와 사용료에 관해 알아봅니다. 요금제에 따라 사용할 수 있는 기능에 차이가 있습니다. 내게 맞는 요금제가 무엇인지 헷갈린다면, 각 요금제가 제공하는 기능을 살펴보세요.
 
 ***
 
 ## 요금제 종류
 
-스티비 요금제는 [스타터](type.md#starter), [스탠다드](type.md#standard), [프로](type.md#pro), [엔터프라이즈](type.md#enterprise)로 구성됩니다. 유료 요금제인 스탠다드, 프로, 엔터프라이즈 요금제는 추가할 수 있는 구독자 수 제한이 없습니다. \[워크스페이스 이름 → 업그레이드 하기]를 눌러 추가 요금을 지불하면 구독자 수 구간을 제한 없이 높일 수 있습니다. 자세한 내용은 [subscriber.md](../payment/subscriber.md "mention") 도움말을 참고해 주세요.
+스티비 요금제는 [스타터](type.md#starter), [스탠다드](type.md#standard), [프로](type.md#pro), [엔터프라이즈](type.md#enterprise)로 구성됩니다. 유료 요금제인 스탠다드, 프로, 엔터프라이즈 요금제는 추가할 수 있는 구독자 수 제한이 없습니다. \[워크스페이스 이름 → 업그레이드 하기]를 눌러 추가 요금을 지불하면 구독자 수 구간을 제한 없이 높일 수 있습니다.&#x20;
 
-요금제에 따라 사용할 수 있는 기능에 차이가 있습니다. 내게 맞는 요금제가 무엇인지 헷갈린다면, 각 요금제가 제공하는 기능을 살펴보세요.
+자세한 내용은 [subscriber.md](../payment/subscriber.md "mention") 도움말을 참고해 주세요.
 
 
 
@@ -31,15 +31,18 @@ _\*스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일 
 * [사용자](broken-reference) 수 1명 (소유자 포함)
 * 드래그앤드롭 에디터
 * 반응형 템플릿
-* [기본 A/B 테스트](../../email/a-b-test.md)
+* [통계 대시보드](https://help.stibee.com/email/analytics/email-statistics-dashboard)
+* [A/B 테스트](../../email/a-b-test.md) (제목, 발신자 이름, 발송 시간)
 * [구독 페이지](broken-reference)
-* [세그먼트](../../list/classify-subscribers/how-to-use-segment.md)
+* [사용자 정의 필드](https://help.stibee.com/list/adding-managing-subscriber/understanding-subscriber-info) 30개
+* [세그먼트](../../list/classify-subscribers/how-to-use-segment.md) 1개
+* [그룹](../../list/classify-subscribers/how-to-use-groups.md) 30개
 
 
 
 ## 스탠다드 요금제 <a href="#standard" id="standard"></a>
 
-개인화, 자동화된 이메일 마케팅을 시작하거나 콘텐츠를 판매하고 싶을 때, 스탠다드 요금제를 선택하세요.   스탠다드 요금제는 월 8,900원부터 시작합니다.
+개인화, 자동화된 이메일 마케팅을 시작하거나 콘텐츠를 유료로 판매하고 싶을 때, 스탠다드 요금제를 선택하세요. 스탠다드 요금제는 월 8,900원부터 시작합니다.
 
 ### **사용량 제한**
 
@@ -50,14 +53,15 @@ _\*스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일 
 
 * 스타터의 모든 기능
 * [사용자](broken-reference) 수 3명 (소유자 포함)
+* [세그먼트 ](../../list/classify-subscribers/how-to-use-segment.md)5개
 * [자동 이메일](../../email/automation/understand.md)
 * 스폰서 배너 제거
 * [메일머지](../../email/edit/personalized-merge.md)
-* 콘텐츠 과거 기록 보기 7일
+* [콘텐츠 과거 기록 보기](../../email/edit/undo.md) 7일
 * HTML 내보내기
 * [유료 구독](../../paid-newsletter/getting-started/)
-* [주소록 API, 웹훅](broken-reference)
-* [구독자별 통계 내보내기](../../periodic-statistics/export.md)
+* [구독자별 통계 내보내기](../../list/check-subscriber-statistics/export.md)
+* [구독자 API](../../api-webhook/list-api.md)
 
 ### **구간별 사용료** <a href="#h_01h9t5wb74rp2cn1kvqz2v8mhy" id="h_01h9t5wb74rp2cn1kvqz2v8mhy"></a>
 
@@ -97,10 +101,14 @@ _\*스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일 
 * 스탠다드의 모든 기능
 * [사용자](broken-reference) 수 10명 (소유자 포함)
 * [콘텐츠 A/B 테스트](../../email/a-b-test.md)
-* [구독자 활동 기반 세그먼트](../../list/classify-subscribers/how-to-use-segment.md)
-* 콘텐츠 과거 기록 보기 30일
+* [사용자 정의 필드](https://help.stibee.com/list/adding-managing-subscriber/understanding-subscriber-info) 50개
+* [세그먼트](../../list/classify-subscribers/how-to-use-segment.md) 10개
+  * [구독자 활동 기반 세그먼트](../../list/classify-subscribers/how-to-use-segment.md)
+* [구독자 정보 업데이트, 그룹 추가](../../email/automation/using.md#trigger) 자동 이메일 트리거
+* [콘텐츠 과거 기록 보기](../../email/edit/undo.md) 30일
 * [기간별 통계](../../periodic-statistics/overview.md)
 * [사용자 권한 관리](../../user-workspace/settings/user-permissions.md)
+* 이메일, 그룹 API
 
 ### **구간별 사용료** <a href="#h_01h9t5vvdf0v6ngga3sgcewskv" id="h_01h9t5vvdf0v6ngga3sgcewskv"></a>
 
@@ -128,9 +136,7 @@ _\*스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일 
 
 ## 엔터프라이즈 요금제 <a href="#enterprise" id="enterprise"></a>
 
-대규모 팀과 기업을 위한 강화된 보안, 맞춤 기능과 고객 지원이 필요할 때, 엔터프라이즈 요금제를 선택하세요. 엔터프라이즈 요금제는 월 710,000원부터 시작합니다.
-
-**\*주의:** 엔터프라이즈 요금제는 현재 시범 적용 중입니다. 정식 출시되는 시점에는 사용료가 달라질 수 있습니다.
+대규모 팀과 기업을 위한 강화된 보안, 맞춤 기능과 고객 지원이 필요할 때, 엔터프라이즈 요금제를 선택하세요. 엔터프라이즈 요금제는 월 57,000원부터 시작합니다.
 
 ### 사용량 제한 <a href="#h_01gjhq9h2c9bs4ghfe0s59qn34" id="h_01gjhq9h2c9bs4ghfe0s59qn34"></a>
 
@@ -141,29 +147,35 @@ _\*스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일 
 
 * 프로의 모든 기능
 * [사용자](../../user-workspace/settings/user-permissions.md) 수 무제한
-* [사용자](../../user-workspace/settings/user-permissions.md) 권한 커스텀
-* 강화된 보안 관리
+* [사용자 정의 필드](https://help.stibee.com/list/adding-managing-subscriber/understanding-subscriber-info) 무제한
+* [세그먼트](../../list/classify-subscribers/how-to-use-segment.md), [그룹 ](../../list/classify-subscribers/how-to-use-groups.md)무제한
+* [콘텐츠 과거 기록 보기](../../email/edit/undo.md) 무제한
+* [사용자 맞춤권한 관리](../../user-workspace/security-settings.md#custom-user-permissions)
+* [강화된 보안](../../user-workspace/security-settings.md)[ 설정](../../user-workspace/security-settings.md)
+* 주소록, 발신자 주소 API
 * 전용 발송 서버
-* 추가 API
-* 담당 매니저 배정
+*   1:1 온보딩 지원
+
+    _\* 구독자 수 \~100,000명 구간부터_
 
 ### 구간별 사용료 <a href="#h_01gjhq8155h75e4rs8a07an1ws" id="h_01gjhq8155h75e4rs8a07an1ws"></a>
 
-엔터프라이즈 요금제는 구독자 수 50,000명부터 사용할 수 있습니다.
-
-* 50,001-100,000명: 월 710,000원 (연 7,660,000원)
-* 100,001-150,000명: 월 880,000원 (연 9,500,000원)
-* 150,001-200,000명: 월 1,040,000원 (연 11,230,000원)
-* 200,001-250,000명: 월 1,200,000원 (연 12,960,000원)
-* 250,001-300,000명: 월 1,360,000원 (연 14,680,000원)
-* 300,001-350,000명: 월 1,520,000원 (연 16,410,000원)
-* 350,001-400,000명: 월 1,680,000원 (연 18,140,000원)
-* 400,001-450,000명: 월 1,840,000원 (연 19,870,000원)
-* 450,001-500,000명: 월 2,000,000원 (연 21,600,000원)
+* 0-500명: 월 57,000원 (연 610,000원)
+* 501-1,000명: 월 64,000원 (연 690,000원)
+* 1,001-2,500명: 월 74,000원 (연 790,000원)
+* 2,501-5,000명: 월 94,000원 (연 1,010,000원)
+* 5,001-10,000명: 월 140,000원 (연 1,510,000원)
+* 10,001-25,000명: 월 260,000원 (연 2,800,000원)
+* 25,001-50,000명: 월 470,000원 (연 5,070,000원)
+* 50,001-100,000명: 월 880,000원 (연 9,500,000원)
+* 100,001-150,000명: 월 1,040,000원 (연 11,230,000원)
+* 150,001-200,000명: 월 1,200,000원 (연 12,960,000원)
+* 200,001-250,000명: 월 1,360,000원 (연 14,680,000원)
+* 250,001-300,000명: 월 1,520,000원 (연 16,410,000원)
+* 300,001-350,000명: 월 1,680,000원 (연 18,140,000원)
+* 350,001-400,000명: 월 1,840,000원 (연 19,870,000원)
+* 400,001-450,000명: 월 2,000,000원 (연 21,600,000원)
+* 450,001-500,000명: 월 2,160,000원 (연 23,320,000원)
 * 500,001명 이상: 별도 문의
 
 (부가세 포함)
-
-
-
-엔터프라이즈 요금제 사용은 채널톡 채팅 상담(스티비 홈페이지 로그인 후, 오른쪽 아래 '물음표\[?]'를 클릭하세요.) 또는 이메일([support@stibee.com](mailto:sales@stibee.com))로 문의해 주세요.
