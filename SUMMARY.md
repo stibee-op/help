@@ -64,7 +64,7 @@
   * [이메일 공유 설정하기](email/share/configuration.md)
   * [SNS에 이메일 공유하기](email/share/social-media.md)
   * [이메일 아카이빙하기](email/share/archive.md)
-  * [내 홈페이지에 공유하기](email/share/html\_export.md)
+  * [내 홈페이지에 공유하기](email/share/html_export.md)
 * [이메일 자동화하기](email/automation/README.md)
   * [자동 이메일 이해하기](email/automation/understand.md)
   * [자동 이메일 사용하기](email/automation/using.md)
@@ -100,8 +100,8 @@
   * [워크스페이스 이해하기](user-workspace/settings/understand.md)
   * [워크스페이스 만들기](user-workspace/settings/create.md)
   * [사용자 권한 설정하기](user-workspace/settings/user-permissions.md)
-  * [특정 IP 주소에서만 워크스페이스 접속 허용하기](user-workspace/settings/ip.md)
   * [워크스페이스 삭제하기](user-workspace/settings/delete.md)
+* [보안 기능 설정하기](user-workspace/security-settings.md)
 * [자주 묻는 질문](user-workspace/questions.md)
 
 ## 주소록 <a href="#list" id="list"></a>

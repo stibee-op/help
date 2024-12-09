@@ -68,7 +68,7 @@ layout:
 
 ## 자동삭제 기능 사용 여부 설정하기 <a href="#auto-deletion" id="auto-deletion"></a>
 
-이메일 마케팅에서는 이메일 발송에 실패하는 경우를 '[바운스](../../email/analytics/email-detailed-statistics.md#h\_01gfmfz4vxk1e8gds0mhbttyrm)'라고 표현합니다. 이메일을 영구적으로 수신할 수 없는 상태의 구독자는 하드바운스로 분류되며, 자동삭제 됩니다_._
+이메일 마케팅에서는 이메일 발송에 실패하는 경우를 '[바운스](../../email/analytics/email-detailed-statistics.md#h_01gfmfz4vxk1e8gds0mhbttyrm)'라고 표현합니다. 이메일을 영구적으로 수신할 수 없는 상태의 구독자는 하드바운스로 분류되며, 자동삭제 됩니&#xB2E4;_._
 
 자동삭제 기능은 기본적으로 켜져 있습니다. 만약, 구독자를 자동으로 삭제하고 싶지 않다면 \[자동삭제 기능을 사용하시겠습니까? → 아니요]를 선택해 주세요.
 

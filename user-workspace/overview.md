@@ -32,10 +32,16 @@
 
 \[워크스페이스 설정하기]에서는 독립적으로 사용할 수 있는 작업 공간인 워크스페이스의 개념에 관해 이해하고, 워크스페이스를 생성하고 다른 사용자를 초대하는 방법에 관해 알아봅니다.
 
+\[보안 기능 설정하기]에서는 엔터프라이즈 요금제에서 제공하는 다양한 보안 기능 설정 방법에 관해 알아봅니다.
+
 {% content-ref url="profile/" %}
 [profile](profile/)
 {% endcontent-ref %}
 
 {% content-ref url="settings/" %}
 [settings](settings/)
+{% endcontent-ref %}
+
+{% content-ref url="security-settings.md" %}
+[security-settings.md](security-settings.md)
 {% endcontent-ref %}

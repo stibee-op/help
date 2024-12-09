@@ -71,7 +71,7 @@ https://page.stibee.com/subscriptions/187957?name=스티비
 3. \[그룹] 이름을 클릭하여 그룹 필터링이 적용된 구독자 목록으로 이동
 4. 브라우저에서 표시되는 URL에서 'subscribers/S' 뒤의 숫자를 확인
 
-![](<../../.gitbook/assets/구독자를 자동으로 분류하기\_1.png>)
+![](<../../.gitbook/assets/구독자를 자동으로 분류하기_1.png>)
 
 구독 폼 URL은 아래의 형식으로 만들어집니다.
 
@@ -81,7 +81,7 @@ https://page.stibee.com/subscriptions/187957?name=스티비
 주소록의 listid는 3이고, groupId는 44737인 그룹에 구독자를 자동으로 추가하고 싶다면, 아래 형식으로 구독 폼 URL을 만들 수 있습니다.
 
 * 일반 구독 폼 URL: https://page.stibee.com/subscriptions/3
-* 44737 그룹에 구독자를 추가하는 구독 폼 URL: https://page.stibee.com/subscriptions/3**?groupIds=44737**
+* 44737 그룹에 구독자를 추가하는 구독 폼 URL: https://page.stibee.com/subscriptions/&#x33;**?groupIds=44737**
 
 한 번에 여러 개의 그룹에 추가하려면, 쉼표(,)로 구분하여 'groupIds' 파라미터를 여러 개 추가하면 됩니다. 만약, 44737과 44738 그룹에 구독자를 한 번에 추가하고 싶다면, 아래 형식으로 만들면 됩니다.&#x20;
 
@@ -152,7 +152,7 @@ https://stibee.com/api/v1.0/lists/OOOOOOOOOOOOOOO/TYW5AcyOVE51JOZtmxyaTL8zPkJ/pu
 
 유입 경로라는 사용자 정의 필드를 생성한 뒤, 키(key) 값은 route로 설정했습니다. 이 URL을 통해 유입되는 구독자는 유입 경로에 stibee가 작성되도록 하고 싶다면, 아래처럼 설정하면 됩니다.
 
-* 예:  https://page.stibee.com/subscriptions/3**?route=stibee**
+* 예:  https://page.stibee.com/subscriptions/&#x33;**?route=stibee**
 
 field\_key는 사용자 정의 필드의 키 값으로 주소록 내 사용자 정의 필드에서 확인할 수 있습니다.
 
@@ -190,4 +190,4 @@ https://stibee.com/api/v1.0/lists/OOOOOOOOOOOOOOO/TYW5AcyOVE51JOZtmxyaTL8zPkJ/pu
 이 URL 뒤에 아래의 형식으로 사용자 정의 필드의 키 값을 추가하면 구독 시 구독자 정보에 원하는 값이 자동으로 입력됩니다.
 
 * https://{subdomain}.stibee.com?field\_key={field\_value}
-* 예: https://syoletter.stibee.com**?route=stibee**
+* 예: https://syoletter.stibee.co&#x6D;**?route=stibee**

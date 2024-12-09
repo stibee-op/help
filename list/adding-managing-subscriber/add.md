@@ -98,7 +98,7 @@ layout:
 
 만약 파일 업로드가 되지 않는다면 여기를 참고하세요.)
 
-\[파일로 추가하기] 화면으로 이동했다면, 먼저 추가하고 싶은 구독자 목록 파일을 업로드해야 합니다. 파일을 CSV 형태로 만들기 어렵다면 '[샘플 파일](https://stibee.com/download/%EC%8A%A4%ED%8B%B0%EB%B9%84\_%EC%A3%BC%EC%86%8C%EB%A1%9D\_%EC%83%98%ED%94%8C.csv)'을 내려받아서 사용해 주세요.&#x20;
+\[파일로 추가하기] 화면으로 이동했다면, 먼저 추가하고 싶은 구독자 목록 파일을 업로드해야 합니다. 파일을 CSV 형태로 만들기 어렵다면 '[샘플 파일](https://stibee.com/download/%EC%8A%A4%ED%8B%B0%EB%B9%84_%EC%A3%BC%EC%86%8C%EB%A1%9D_%EC%83%98%ED%94%8C.csv)'을 내려받아서 사용해 주세요.&#x20;
 
 1. \[파일 선택] 버튼을 눌러 추가하고 싶은 구독자 목록(CSV)을 업로드합니다.
 2. \[다음]을 눌러 구독자 정보 설정 화면으로 이동합니다.
@@ -125,15 +125,7 @@ layout:
 
 수신거부 열에 Y가 입력되어 있으면, 그 구독자는 수신거부 상태로 추가됩니다. 이미 등록되어 있던 구독자라면 구독 상태가 수신거부로 변경됩니다.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/파일로 업로드할 때 수신거부 상태로 추가하기 (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/파일로 업로드할 때 수신거부 상태로 추가하기.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/파일로 업로드할 때 수신거부 상태로 추가하기 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/파일로 업로드할 때 수신거부 상태로 추가하기.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -146,15 +138,7 @@ layout:
 
 광고성 정보 수신 동의 열에 Y가 입력되어 있으면, 그 구독자는 광고성 정보 수신에 동의한 구독자로 추가됩니다. N 혹은 빈칸으로 입력된 구독자는 광고성 정보 수신 동의 여부가 '동의하지 않음(빈칸)'으로 표시됩니다.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/파일로 추가할 때 광고성 정보 수신동의 업로드하기 (1) (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/파일로 추가할 때 광고성 정보 수신동의 업로드하기 (3).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/파일로 추가할 때 광고성 정보 수신동의 업로드하기 (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/파일로 추가할 때 광고성 정보 수신동의 업로드하기 (3).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -164,7 +148,7 @@ layout:
 
 * 상태 외 정보 업데이트: 추가한 구독자 중 이미 주소록에 존재하는 구독자가 존재하여 이메일 주소 외의 다른 정보를 업데이트 했습니다. 예를 들어, 이메일 주소가 같은데 이름 필드의 값이 다르면, 이름 필드의 값이 마지막에 등록한 파일을 기준으로 구독자 정보가 업데이트 됩니다.
 * 이메일 주소 없음: 업로드한 구독자 파일에 특정 구독자의 이메일 주소 정보가 존재하지 않습니다. 원본 파일을 확인해 보세요.
-* 이메일 주소 형식 오류: 구독자의 이메일 주소가 입력됐지만 형식을 올바르게 갖추지 못한 정보가 입력됐습니다. 이메일 주소 형식은 _example@stibee.com_과 같은 형식으로 구성되어야 합니다. 원본 파일에 이메일 주소 형식이 올바르게 입력되어 있는지 확인해 보세요.
+* 이메일 주소 형식 오류: 구독자의 이메일 주소가 입력됐지만 형식을 올바르게 갖추지 못한 정보가 입력됐습니다. 이메일 주소 형식은 _example@stibee.co&#x6D;_&#xACFC; 같은 형식으로 구성되어야 합니다. 원본 파일에 이메일 주소 형식이 올바르게 입력되어 있는지 확인해 보세요.
 * 이메일 주소 중복 요청: 추가한 구독자 중에 같은 이메일 주소를 가진 구독자가 여러 명 있어, 한 명만 추가가 됐습니다. 가장 처음에 요청한 이메일 주소를 기준으로 구독자 정보가 업데이트됩니다.
 
 <figure><img src="../../.gitbook/assets/10 (2).png" alt=""><figcaption></figcaption></figure>
