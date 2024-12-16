@@ -68,7 +68,7 @@
 * [이메일 자동화하기](email/automation/README.md)
   * [자동 이메일 이해하기](email/automation/understand.md)
   * [자동 이메일 사용하기](email/automation/using.md)
-  * [자동 이메일 API](email/automation/api.md)
+  * [자동 이메일 API 사용하기](email/automation/api.md)
   * [발송하기](email/automation/sending.md)
 * [자주 묻는 질문](email/questions.md)
 
