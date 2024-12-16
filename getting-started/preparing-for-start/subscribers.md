@@ -78,6 +78,6 @@ layout:
 
 #### **API 사용해서 직접 연동하기**
 
-{% content-ref url="../../api-webhook/list-api.md" %}
-[list-api.md](../../api-webhook/list-api.md)
+{% content-ref url="../../api-webhook/api.md" %}
+[api.md](../../api-webhook/api.md)
 {% endcontent-ref %}

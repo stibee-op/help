@@ -22,7 +22,7 @@ layout:
 
 ## 텍스트 상자 추가하기 <a href="#h_01ggs5v0dz5yjgjzz23smyr7hn" id="h_01ggs5v0dz5yjgjzz23smyr7hn"></a>
 
-오른쪽의 상자 선택 화면에서 \[텍스트] 상자를 본문에 끌어다 놓거나 상자 [구성 요소](https://help.stibee.com/hc/ko/articles/4877052902543#h\_01GGS15CS6AEBVAE0NYM5YVJ5A) 중 \[텍스트]를 선택하여 추가할 수 있습니다. 텍스트를 클릭하면 스타일을 변경하거나 링크를 넣을 수 있는 툴바가 표시됩니다. 텍스트 정렬(왼쪽, 가운데, 오른쪽, 양쪽 정렬)을 변경하거나 '목록' 기능을 적용할 수 있습니다.
+오른쪽의 상자 선택 화면에서 \[텍스트] 상자를 본문에 끌어다 놓거나 상자 [구성 요소](https://help.stibee.com/hc/ko/articles/4877052902543#h_01GGS15CS6AEBVAE0NYM5YVJ5A) 중 \[텍스트]를 선택하여 추가할 수 있습니다. 텍스트를 클릭하면 스타일을 변경하거나 링크를 넣을 수 있는 툴바가 표시됩니다. 텍스트 정렬(왼쪽, 가운데, 오른쪽, 양쪽 정렬)을 변경하거나 '목록' 기능을 적용할 수 있습니다.
 
 <figure><img src="../../../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ layout:
 * 볼드, 이탤릭, 밑줄, 취소선 등 텍스트 스타일을 설정할 수 있습니다.&#x20;
 * 텍스트 색상이나 배경색을 설정하는 것도 가능합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

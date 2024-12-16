@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 주소록 웹훅
+# 웹훅 사용하기
 
 💬 이 내용은 **스탠다드, 프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다.
 
@@ -26,7 +26,7 @@ layout:
 
 주소록 웹훅을 사용하면 주소록에서 이벤트가 발생했을 때 사용자의 서버로 알림을 받을 수 있습니다. 사용자는 어떤 URL로 알림을 받을지, 어떤 내용의 알림을 받을지 설정할 수 있습니다. 알림은 POST Method를 사용하여 JSON 형태로 전달됩니다. 웹훅은 주소록 단위로 관리되며, 하나의 주소록은 여러 개의 웹훅을 가질 수 있습니다.
 
-주소록 웹훅은 [주소록 API](list-api.md)와 함께 사용하면 내 서비스의 회원 정보와 스티비 주소록을 완전히 동기화해서 사용할 수 있습니다.
+_\* 주소록 웹훅은 주소록 API와 함께 사용하면 내 서비스의 회원 정보와 스티비 주소록을 완전히 동기화해서 사용할 수 있습니다._
 
 
 
@@ -97,7 +97,7 @@ _웹훅 요청이 실패하는 경우 자동으로 웹훅 요청에 대하여 3�
 
 ### subscribers <a href="#subscribers" id="subscribers"></a>
 
-구독자 정보를 담고 있습니다. Key-Value 배열 형식으로 구성됩니다. 주소록의 [사용자 정의 필드](../list/adding-managing-subscriber/understanding-subscriber-info.md#h\_01gw45zrwcjd1eg1cam4vhw25m)에 정의된 내용을 참조합니다. 이벤트 종류에 따라 추가 정보를 표시합니다.
+구독자 정보를 담고 있습니다. Key-Value 배열 형식으로 구성됩니다. 주소록의 [사용자 정의 필드](../list/adding-managing-subscriber/understanding-subscriber-info.md#h_01gw45zrwcjd1eg1cam4vhw25m)에 정의된 내용을 참조합니다. 이벤트 종류에 따라 추가 정보를 표시합니다.
 
 * Key: 사용자 정의 필드의 “태그”(email, name 등)
 * Value: Key에 해당하는 값. 구독, 구독자 정보 변경 이벤트 발생 시에만 \[사용자 정의 필드]에 정의된 내용이 포함되며, 나머지 이벤트에 대해서는 “email” 값만 표시됩니다.

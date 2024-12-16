@@ -61,7 +61,7 @@ _\*스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일 
 * HTML 내보내기
 * [유료 구독](../../paid-newsletter/getting-started/)
 * [구독자별 통계 내보내기](../../list/check-subscriber-statistics/export.md)
-* [구독자 API](../../api-webhook/list-api.md)
+* [구독자 API](broken-reference)
 
 ### **구간별 사용료** <a href="#h_01h9t5wb74rp2cn1kvqz2v8mhy" id="h_01h9t5wb74rp2cn1kvqz2v8mhy"></a>
 

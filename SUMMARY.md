@@ -68,6 +68,7 @@
 * [이메일 자동화하기](email/automation/README.md)
   * [자동 이메일 이해하기](email/automation/understand.md)
   * [자동 이메일 사용하기](email/automation/using.md)
+  * [자동 이메일 API](email/automation/api.md)
   * [발송하기](email/automation/sending.md)
 * [자주 묻는 질문](email/questions.md)
 
@@ -202,10 +203,8 @@
 ## API, 웹훅 <a href="#api-webhook" id="api-webhook"></a>
 
 * [개요](api-webhook/overview.md)
-* [주소록 API](api-webhook/list-api.md)
-* [주소록 웹훅](api-webhook/list-webhook.md)
-* [자동 이메일 API](api-webhook/auto-email-api.md)
-* [이메일 조회 API](api-webhook/email-retrieval-api.md)
+* [API 사용하기](api-webhook/api.md)
+* [웹훅 사용하기](api-webhook/list-webhook.md)
 * [자주 묻는 질문](api-webhook/questions.md)
 
 ## 활용 Tip
