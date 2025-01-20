@@ -223,3 +223,7 @@
   * [카페24 회원에게 웰컴 이메일 보내기](tip/overview/welcome-email-cafe24-members.md)
   * [카페24 회원에게 구매 유도 이메일 보내기](tip/overview/24.md)
   * [카페24 회원에게 기념일 축하 이메일 보내기](tip/overview/24-1.md)
+
+***
+
+* [크레딧 사용 방법](credit.md)
