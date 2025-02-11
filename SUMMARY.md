@@ -116,6 +116,7 @@
   * [구독 상태 이해하기](list/adding-managing-subscriber/understanding-subscriber-status.md)
   * [구독자 추가하기](list/adding-managing-subscriber/add.md)
   * [구독자 정보 수정하기](list/adding-managing-subscriber/modify-subscriber-info.md)
+  * [구독자 삭제하기](list/adding-managing-subscriber/delete-subscriber.md)
   * [수신거부 관리하기](list/adding-managing-subscriber/manage-unsubscribe.md)
   * [구독자 검색하기](list/adding-managing-subscriber/search-subscriber.md)
   * [구독자 목록 내보내기](list/adding-managing-subscriber/export-list.md)
