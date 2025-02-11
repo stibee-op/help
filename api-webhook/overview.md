@@ -42,7 +42,7 @@ layout:
 * [구독 정보 변경 화면](../page/subscriber-guide/modify.md) 에서 구독자가 직접 자신의 정보를 수정한 경우 내 DB에도 수정 내용을 업데이트 할 수 있습니다.
 * 주소록에서 gildong.go@stibee.com 구독자를 삭제한 경우 내 DB에서도 완전히 삭제할 수 있습니다.
 
-'주소록 - 구독자 API'와 웹훅을 함께 사용하면 내 DB와 주소록을 완전히 동기화하여 사용할 수 있습니다
+'[주소록 - 구독자 API](https://stibeev2.apidocumentation.com/docs#tag/%EC%A3%BC%EC%86%8C%EB%A1%9D---%EA%B5%AC%EB%8F%85%EC%9E%90/POST/lists/{id}/subscribers)'와 웹훅을 함께 사용하면 내 DB와 주소록을 완전히 동기화하여 사용할 수 있습니다.
 
 
 
