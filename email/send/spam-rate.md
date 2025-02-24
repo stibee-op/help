@@ -32,7 +32,7 @@ layout:
 
 구글에서 제공하는 포스트마스터 툴(Postmaster Tools) 도구를 사용하면 내가 보낸 이메일의 스팸 분류 비율, 도메인 평판 등 여러 정보를 확인할 수 있습니다. 이 비율을 확인하면 전반적으로 내가 보낸 이메일이 얼마나 스팸으로 분류되고 있는지 알고 콘텐츠를 개선할 수 있습니다.
 
-아래 도움말을 따라 설정해도 좋지만 구글에서 제공하는 포스트마스터 공식 설정 가이드를 참고해도 좋습니다. 구글의 공식 가이드가 궁금하다면 [Postmaster Tools 시작하기](https://support.google.com/a/answer/9981691?hl=ko\&visit\_id=638409959549630881-476537399\&rd=1) 링크를 클릭하세요.
+아래 도움말을 따라 설정해도 좋지만 구글에서 제공하는 포스트마스터 공식 설정 가이드를 참고해도 좋습니다. 구글의 공식 가이드가 궁금하다면 [Postmaster Tools 시작하기](https://support.google.com/a/answer/9981691?hl=ko\&visit_id=638409959549630881-476537399\&rd=1) 링크를 클릭하세요.
 
 
 
@@ -65,13 +65,13 @@ _네임서버가 등록된 곳이 어디인지 헷갈린다면_ [_후이즈 도�
 도메인 관리 서비스마다 경로가 다르지만 일반적으로 "도메인 관리", "DNS 관리" 등의 화면을 찾으시면 됩니다. 아래 서비스를 사용하고 있다면 링크된 각 도움말이나 아래 업체가 아닌 다른 서비스를 사용하고 있다면 그 서비스의 고객센터로 문의하면 자세하게 안내 받아볼 수 있습니다.
 
 * **카페24**\
-  \- [카페24 구매한 도메인을 타 호스팅, 메일에 연결하고 싶어요.](https://help.cafe24.com/cs/cs\_faq\_view.php?idx=3766) ⑤ TXT 관리
+  \- [카페24 구매한 도메인을 타 호스팅, 메일에 연결하고 싶어요.](https://help.cafe24.com/cs/cs_faq_view.php?idx=3766) ⑤ TXT 관리
 * **가비아**\
   \- [DNS 레코드 설정하기](https://customer.gabia.com/manual#/domain/287/1201) 4) TXT 레코드 설정하기 (SPF 레코드)
 * **후이즈**\
   \- [SPF(TXT) 값은 어떻게 설정하나요?](http://cs.whois.co.kr/faq/?p=list\&service=1\&category=\&keyfield=subject\&keyword=SPF)
 * **구글 도메인**\
-  \- [리소스 레코드](https://support.google.com/domains/answer/3290350?hl=ko\&ref\_topic=9018335)
+  \- [리소스 레코드](https://support.google.com/domains/answer/3290350?hl=ko\&ref_topic=9018335)
 
 
 
@@ -83,6 +83,8 @@ _네임서버가 등록된 곳이 어디인지 헷갈린다면_ [_후이즈 도�
 
 ## 스팸 비율 확인하기 <a href="#id-01hj5k6chp47fbvqbs4aqkd5c6" id="id-01hj5k6chp47fbvqbs4aqkd5c6"></a>
 
-설정이 완료됐다면 이제 내가 보낸 이메일이 얼마나 스팸으로 분류되는지 비율을 확인할 수 있습니다.&#x20;
+설정이 완료됐다면 이제 내가 보낸 이메일이 얼마나 스팸으로 분류되는지 확인할 수 있습니다.
+
+G메일에서는 G메일로 발송되는 이메일의 스팸 비율이 0.1% 미만으로 유지할 것을 권장하고 있고 0.3%를 넘으면 안 된다고 안내하고 있습니다.
 
 <figure><img src="../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
