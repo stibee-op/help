@@ -211,6 +211,7 @@
 ## 활용 Tip
 
 * [Tip](tip/overview/README.md)
+  * [사용 중 문제가 생겼을 때](tip/overview/fix-common-issues.md)
   * [이메일 스팸 표시 방지하기](tip/overview/prevent-email-spam-marking.md)
   * [오픈율 개선하기](tip/overview/improve-open-rates.md)
   * [받아 본 이메일이 편집한 내용과 다르게 표시될 때](tip/overview/email-content-mismatch.md)
