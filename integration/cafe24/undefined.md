@@ -29,8 +29,8 @@
 
 아래 도움말을 참고해 손쉽게 웰컴 이메일을 설정할 수 있습니다.
 
-{% content-ref url="../../tip/overview/welcome-email-cafe24-members.md" %}
-[welcome-email-cafe24-members.md](../../tip/overview/welcome-email-cafe24-members.md)
+{% content-ref url="../../tip/cafe24/welcome-email-cafe24-members.md" %}
+[welcome-email-cafe24-members.md](../../tip/cafe24/welcome-email-cafe24-members.md)
 {% endcontent-ref %}
 
 ### 구매 유도 이메일
@@ -39,8 +39,8 @@
 
 아래 도움말을 참고해 손쉽게 구매 유도 이메일을 보낼 수 있습니다.
 
-{% content-ref url="../../tip/overview/24.md" %}
-[24.md](../../tip/overview/24.md)
+{% content-ref url="../../tip/cafe24/purchase-email.md" %}
+[purchase-email.md](../../tip/cafe24/purchase-email.md)
 {% endcontent-ref %}
 
 ### 기념일 축하 이메일
@@ -49,6 +49,6 @@
 
 아래 도움말을 참고해 손쉽게 기념일 축하 이메일을 설정할 수 있습니다.
 
-{% content-ref url="../../tip/overview/24-1.md" %}
-[24-1.md](../../tip/overview/24-1.md)
+{% content-ref url="../../tip/cafe24/anniversary-email.md" %}
+[anniversary-email.md](../../tip/cafe24/anniversary-email.md)
 {% endcontent-ref %}

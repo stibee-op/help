@@ -28,9 +28,9 @@ layout:
 2. 바우처 코드를 입력하고 \[충전하기]를 누르면 스티비에서 사용하실 수 있는 크레딧이 충전됩니다.
 3. 충전된 크레딧은 스티비 요금제 결제 시 사용할 수 있습니다.
 
-<figure><img src=".gitbook/assets/크레딧 사용 방법2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/크레딧 사용 방법2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/크레딧 사용 방법3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/크레딧 사용 방법3.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -50,7 +50,7 @@ layout:
 * 20,000원 중 10,000원은 크레딧으로 결제합니다.
 * 남은 10,000원은 등록한 카드로 결제합니다.
 
-<figure><img src=".gitbook/assets/크레딧 사용 방법4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/크레딧 사용 방법4.png" alt=""><figcaption></figcaption></figure>
 
 ## 자주 묻는 질문 <a href="#faq" id="faq"></a>
 

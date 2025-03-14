@@ -55,7 +55,7 @@ layout:
 4. \[이메일 주소]와 \[발송 완료일]을 클릭해 정렬을 변경하여 확인할 수 있습니다.
 
 {% hint style="info" %}
-발송 실패 비율이 높다면 발송 속도에도 영향이 있을 수 있습니다. 발송 속도가 고민된다면 발송 실패 구독자 명단 정제 작업으로 발송이 완료되는 속도를 개선하는 효과도 기대할 수 있습니다. 자세한 내용은 [#h\_01ghaef0qtenbzf15bezjbdwx6](../../tip/overview/improve-open-rates.md#h_01ghaef0qtenbzf15bezjbdwx6 "mention") 도움말을 참고해 주세요.
+발송 실패 비율이 높다면 발송 속도에도 영향이 있을 수 있습니다. 발송 속도가 고민된다면 발송 실패 구독자 명단 정제 작업으로 발송이 완료되는 속도를 개선하는 효과도 기대할 수 있습니다. 자세한 내용은 [#h\_01ghaef0qtenbzf15bezjbdwx6](../../tip/improve-open-rates.md#h_01ghaef0qtenbzf15bezjbdwx6 "mention") 도움말을 참고해 주세요.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/2 (2) (1).png" alt=""><figcaption></figcaption></figure>

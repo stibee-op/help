@@ -88,6 +88,7 @@
   * [영수증 확인하기](pricing/information/receipt.md)
 * [정기 결제 해지하기](pricing/terminate.md)
 * [자주 묻는 질문](pricing/questions.md)
+* [크레딧 사용 방법](pricing/credit.md)
 
 ## 사용자 및 워크스페이스 <a href="#user-workspace" id="user-workspace"></a>
 
@@ -208,24 +209,23 @@
 * [웹훅 사용하기](api-webhook/list-webhook.md)
 * [자주 묻는 질문](api-webhook/questions.md)
 
-## 활용 Tip
+## 활용 팁 <a href="#tip" id="tip"></a>
 
-* [Tip](tip/overview/README.md)
-  * [사용 중 문제가 생겼을 때](tip/overview/fix-common-issues.md)
-  * [이메일 스팸 표시 방지하기](tip/overview/prevent-email-spam-marking.md)
-  * [오픈율 개선하기](tip/overview/improve-open-rates.md)
-  * [받아 본 이메일이 편집한 내용과 다르게 표시될 때](tip/overview/email-content-mismatch.md)
-  * [구독자 파일 업로드가 안 될 때](tip/overview/subscriber-upload-issues.md)
-  * [편집기의 텍스트가 모두 볼드 스타일이 적용된 것처럼 보일 때](tip/overview/editor-text-bold-appearance.md)
-  * [이메일을 보냈지만 받아보지 못했을 때](tip/overview/email-not-received.md)
-  * [광고성 정보 수신 동의 여부 정기적으로 확인하기](tip/overview/agree-to-receive-advertising-information.md)
-  * [스티비의 발송 서버 예외 처리하기](tip/overview/send-server-permit-list.md)
-  * [친구를 초대한 구독자에게 보상 주기](tip/overview/rewards-for-referring-friends.md)
-  * [시즌제 유료 뉴스레터 운영하기](tip/overview/seasonal-paid-newsletter-management.md)
-  * [카페24 회원에게 웰컴 이메일 보내기](tip/overview/welcome-email-cafe24-members.md)
-  * [카페24 회원에게 구매 유도 이메일 보내기](tip/overview/24.md)
-  * [카페24 회원에게 기념일 축하 이메일 보내기](tip/overview/24-1.md)
+* [오픈율 개선하기](tip/improve-open-rates.md)
+* [이메일 스팸 표시 방지하기](tip/prevent-email-spam-marking.md)
+* [광고성 정보 수신 동의 여부 정기적으로 확인하기](tip/agree-to-receive-advertising-information.md)
+* [스티비의 발송 서버 예외 처리하기](tip/send-server-permit-list.md)
+* [친구를 초대한 구독자에게 보상 주기](tip/rewards-for-referring-friends.md)
+* [시즌제 유료 뉴스레터 운영하기](tip/seasonal-paid-newsletter-management.md)
+* [카페24 회원에게 자동 이메일 보내기](tip/cafe24/README.md)
+  * [카페24 회원에게 웰컴 이메일 보내기](tip/cafe24/welcome-email-cafe24-members.md)
+  * [카페24 회원에게 기념일 축하 이메일 보내기](tip/cafe24/anniversary-email.md)
+  * [카페24 회원에게 구매 유도 이메일 보내기](tip/cafe24/purchase-email.md)
 
-***
+## 문제 해결하기 <a href="#trouble-shooting" id="trouble-shooting"></a>
 
-* [크레딧 사용 방법](credit.md)
+* [사용 중 문제가 생겼을 때](trouble-shooting/overview/README.md)
+  * [받아 본 이메일이 편집한 내용과 다르게 표시될 때](trouble-shooting/overview/email-content-mismatch.md)
+  * [구독자 파일 업로드가 안 될 때](trouble-shooting/overview/subscriber-upload-issues.md)
+  * [이메일을 보냈지만 받아보지 못했을 때](trouble-shooting/overview/email-not-received.md)
+  * [편집기의 텍스트가 모두 볼드 스타일이 적용된 것처럼 보일 때](trouble-shooting/overview/editor-text-bold-appearance.md)

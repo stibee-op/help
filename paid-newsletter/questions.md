@@ -24,7 +24,7 @@
 
 [굿수진 님의 <굿수진 라디오>](https://blog.stibee.com/%ED%95%98%EC%99%80%EC%9D%B4%EC%97%90%EC%84%9C-%ED%8E%B8%EC%A7%80%ED%95%A0%EA%B2%8C%EC%9A%94-%EC%95%84%EC%82%AC%EC%9D%B4%EB%B3%BC-%ED%95%98%EB%82%98-%EC%82%AC%EC%A3%BC%EC%84%B8%EC%9A%94-cff1fe86bef7)는 시즌제 유료 뉴스레터로 ‘지금 (동시대) 지구 너머에서 일어나는 굿수진의 여행이야기를 주제로 멕시코, 하와이 한 달 동안의 여행 에세이’를 ‘10일’동안 구독 신청을 받은 후 ‘멕시코, 하와이 각 뉴스레터가 한 달씩’ 발행되었습니다.
 
-자세한 설정 방법은 [seasonal-paid-newsletter-management.md](../tip/overview/seasonal-paid-newsletter-management.md "mention")를 참고해 보세요.
+자세한 설정 방법은 [seasonal-paid-newsletter-management.md](../tip/seasonal-paid-newsletter-management.md "mention")를 참고해 보세요.
 
 
 
@@ -58,7 +58,7 @@
 
 유료 구독 주소록이 만료 상태로 변경됨에 따라 기존 '유료 구독' 상태의 구독자는 모두 '무료 구독' 상태로 변경되며, 유료 구독자의 결제 정보도 모두 삭제됩니다.
 
-다시 유료 구독 주소록 기능을 사용하기 위해서는 스티비 요금제를 결제해야 합니다. 결제 정보가 삭제된 구독자에게 다시 결제받고 싶다면 구독자가 구독 폼 혹은 구독 정보 변경 화면을 통해 결제 정보를 입력하고 [결제를 진행](managing-paid-subscribers/change-status.md#h\_3d60d7ba63)해야 합니다.
+다시 유료 구독 주소록 기능을 사용하기 위해서는 스티비 요금제를 결제해야 합니다. 결제 정보가 삭제된 구독자에게 다시 결제받고 싶다면 구독자가 구독 폼 혹은 구독 정보 변경 화면을 통해 결제 정보를 입력하고 [결제를 진행](managing-paid-subscribers/change-status.md#h_3d60d7ba63)해야 합니다.
 
 </details>
 
@@ -134,7 +134,7 @@
 
 #### 결제에 실패했거나 수신거부 한 경우 구독자의 구독 유형이 '무료 구독' 상태로 변경되면 결제 정보가 즉시 삭제되어 정기 결제가 진행되지 않습니다. 다시 결제받기 위해서는 결제 정보를 등록해주어야 합니다.  <a href="#repayment" id="repayment"></a>
 
-자세한 방법은 [#h\_3d60d7ba63](managing-paid-subscribers/change-status.md#h\_3d60d7ba63 "mention")를 참고해 주세요.
+자세한 방법은 [#h\_3d60d7ba63](managing-paid-subscribers/change-status.md#h_3d60d7ba63 "mention")를 참고해 주세요.
 
 </details>
 
@@ -158,7 +158,7 @@
 
 
 
-유료 구독을 취소하는 방법은 관리자가 처리하는 방법과 구독자가 스스로 진행하는 방법으로 나뉩니다. 자세한 방법은 [#h\_3d60d7ba63-1](managing-paid-subscribers/change-status.md#h\_3d60d7ba63-1 "mention") 도움말을 참고해 주세요.
+유료 구독을 취소하는 방법은 관리자가 처리하는 방법과 구독자가 스스로 진행하는 방법으로 나뉩니다. 자세한 방법은 [#h\_3d60d7ba63-1](managing-paid-subscribers/change-status.md#h_3d60d7ba63-1 "mention") 도움말을 참고해 주세요.
 
 </details>
 

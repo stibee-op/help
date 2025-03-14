@@ -263,8 +263,8 @@ C 자동 이메일의 발송 시간대를 '월요일 오후 3:00 \~ 오전 9:00'
 
 자세한 설정 방법은 아래 도움말을 참고해 주세요.
 
-{% content-ref url="../../tip/overview/agree-to-receive-advertising-information.md" %}
-[agree-to-receive-advertising-information.md](../../tip/overview/agree-to-receive-advertising-information.md)
+{% content-ref url="../../tip/agree-to-receive-advertising-information.md" %}
+[agree-to-receive-advertising-information.md](../../tip/agree-to-receive-advertising-information.md)
 {% endcontent-ref %}
 
 

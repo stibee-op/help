@@ -14,11 +14,11 @@ layout:
 
 # 친구를 초대한 구독자에게 보상 주기
 
-💬이 내용은 **스탠다드, 프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다.
+💬 이 내용은 **스탠다드, 프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다.
 
 ## 언제 필요한가요?
 
-* 스티비 \[[구독 폼](../../list/gather-subscribers/form.md)]을 사용해 구독 신청을 받는 경우
+* 스티비 \[[구독 폼](../list/gather-subscribers/form.md)]을 사용해 구독 신청을 받는 경우
 * 구독자에게 전용 초대 링크를 제공해서 성과를 측정하고 싶은 경우
 * 친구를 많이 초대한 구독자에게 보상을 제공하고 싶은 경우
 
@@ -102,7 +102,7 @@ layout:
 \
 만약, dooly@stibee.com라는 구독자가 gildong.go@stibee.com라는 이메일 주소를 사용하는 친구를 초대했다면 gildong.go@stibee.com이라는 구독자의 '추천인' 필드 정보에는 dooly@stibee.com이 기록됩니다.
 
-<figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 
 

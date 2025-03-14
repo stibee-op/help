@@ -42,18 +42,10 @@ layout:
 2. 카페24 연동 시작하기 화면에서 스티비 회원가입을 진행해 주세요.
 3.  스티비와 카페24 연동이 처음이라면 '웰컴 이메일'을 바로 만들어볼 수 있는 화면이 표시됩니다. \[웰컴 이메일 만들기]를 클릭해 이메일을 만들어보세요.&#x20;
 
-    _웰컴 이메일에 대한 자세한 내용이 궁금하다면 '_[_카페24 회원에게 웰컴 이메일 보내기_](../../tip/overview/welcome-email-cafe24-members.md)_' 도움말을 참고해 보세요._
+    _웰컴 이메일에 대한 자세한 내용이 궁금하다면 '_[_카페24 회원에게 웰컴 이메일 보내기_](../../tip/cafe24/welcome-email-cafe24-members.md)_' 도움말을 참고해 보세요._
 4. 카페24 회원 정보 불러오기가 완료되면 \[주소록]에서 '카페24 연동 주소록'을 확인할 수 있습니다.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/카페24 연동하기_스티비 앱 설치하기.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/카페24 연동하기_스티비 회원가입 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/카페24 연동하기_스티비 앱 설치하기.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/카페24 연동하기_스티비 회원가입 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 스티비를 처음 사용한다면 여러 가지 궁금한 점이 생길 수 있어요. [첫 이메일 보내기](../../getting-started/send-first-email.md) 도움말에서 기본 사용법을 확인해 보세요.
 
@@ -69,18 +61,10 @@ layout:
     **\* 주의:** 로그인한 이메일 주소가 '소유자', '관리자'로 등록된 워크스페이스만 연동할 수 있습니다.
 3.  스티비와 카페24 연동이 처음이라면 '웰컴 이메일'을 바로 만들어볼 수 있는 화면이 표시됩니다. \[웰컴 이메일 만들기]를 클릭해 이메일을 만들어보세요.&#x20;
 
-    _웰컴 이메일에 대한 자세한 내용이 궁금하다면 '_[_카페24 회원에게 웰컴 이메일 보내기_](../../tip/overview/welcome-email-cafe24-members.md)_' 도움말을 참고해 보세요._
+    _웰컴 이메일에 대한 자세한 내용이 궁금하다면 '_[_카페24 회원에게 웰컴 이메일 보내기_](../../tip/cafe24/welcome-email-cafe24-members.md)_' 도움말을 참고해 보세요._
 4. 카페24 회원 정보 불러오기가 완료되면 \[주소록]에서 '카페24 연동 주소록'을 확인할 수 있습니다.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/카페24 연동하기_스티비 앱 설치.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/카페24 연동하기_스티비 앱 설치하기 (2).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/카페24 연동하기_스티비 앱 설치.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/카페24 연동하기_스티비 앱 설치하기 (2).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -94,18 +78,10 @@ layout:
 2. 주소록 이름을 입력하고, 연동할 멀티쇼핑몰을 선택합니다.
 3.  스티비와 카페24 연동이 처음이라면 '웰컴 이메일'을 바로 만들어볼 수 있는 화면이 표시됩니다. \[웰컴 이메일 만들기]를 클릭해 이메일을 만들어보세요.&#x20;
 
-    _웰컴 이메일에 대한 자세한 내용이 궁금하다면 '_[_카페24 회원에게 웰컴 이메일 보내기_](../../tip/overview/welcome-email-cafe24-members.md)_' 도움말을 참고해 보세요._
+    _웰컴 이메일에 대한 자세한 내용이 궁금하다면 '_[_카페24 회원에게 웰컴 이메일 보내기_](../../tip/cafe24/welcome-email-cafe24-members.md)_' 도움말을 참고해 보세요._
 4. 연동된 멀티쇼핑몰 주소록을 확인할 수 있습니다. 멀티쇼핑몰의 회원 정보도 실시간으로 연동됩니다.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/spaces_eAMHRdY4ATDXfWZWQs3p_uploads_4M9mClII5QZSdaeYxH4q_image.webp" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/spaces_eAMHRdY4ATDXfWZWQs3p_uploads_4M9mClII5QZSdaeYxH4q_image.webp" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -139,7 +115,7 @@ layout:
 
 ### 스탠다드 요금제 <a href="#h_01hfe134n0sbajnpf8x6417agx" id="h_01hfe134n0sbajnpf8x6417agx"></a>
 
-카페24 회원의 스탠다드 요금제는 월 7,900원부터 시작합니다. 스탠다드 요금제의 자세한 기능은 [여기](../../pricing/understanding/type.md#h\_54b391955e)서 확인할 수 있습니다.
+카페24 회원의 스탠다드 요금제는 월 7,900원부터 시작합니다. 스탠다드 요금제의 자세한 기능은 [여기](../../pricing/understanding/type.md#h_54b391955e)서 확인할 수 있습니다.
 
 * 0-500명: 월 7,900원 (연 85,000원)
 * 501-1,000명: 월 14,000원 (연 150,000원)
@@ -157,7 +133,7 @@ layout:
 
 ### 프로 요금제 <a href="#h_01hfe5fvsydaxm3b3da3y7jfbm" id="h_01hfe5fvsydaxm3b3da3y7jfbm"></a>
 
-카페24 회원의 프로 요금제는 월 28,000원부터 시작합니다. 프로 요금제의 자세한 기능은 [여기](../../pricing/understanding/type.md#h\_01h9mm24t1nf8tp4vh7bdhv62y)서 확인할 수 있습니다.
+카페24 회원의 프로 요금제는 월 28,000원부터 시작합니다. 프로 요금제의 자세한 기능은 [여기](../../pricing/understanding/type.md#h_01h9mm24t1nf8tp4vh7bdhv62y)서 확인할 수 있습니다.
 
 * 0-500명: 월 28,000원 (연 300,000원)
 * 501-1,000명: 월 34,000원 (연 360,000원)

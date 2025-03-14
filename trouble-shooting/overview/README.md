@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 사용 중 문제가 생겼을 때
 
 ## 언제 필요한가요? <a href="#h_01hkm26fsyrr8kbfdtmncznw7h" id="h_01hkm26fsyrr8kbfdtmncznw7h"></a>
@@ -60,4 +56,22 @@ hidden: true
 
 
 
-위 내용을 확인했으나 문제가 계속된다면 언제든지 [스티비 팀](../../getting-started/undefined-4.md#help-center)으로 문의해 주세요.
+
+
+위 내용을 확인했으나 문제가 계속된다면 아래 도움말을 참고해 문제를 해결해 보세요.
+
+{% content-ref url="email-content-mismatch.md" %}
+[email-content-mismatch.md](email-content-mismatch.md)
+{% endcontent-ref %}
+
+{% content-ref url="subscriber-upload-issues.md" %}
+[subscriber-upload-issues.md](subscriber-upload-issues.md)
+{% endcontent-ref %}
+
+{% content-ref url="email-not-received.md" %}
+[email-not-received.md](email-not-received.md)
+{% endcontent-ref %}
+
+{% content-ref url="editor-text-bold-appearance.md" %}
+[editor-text-bold-appearance.md](editor-text-bold-appearance.md)
+{% endcontent-ref %}

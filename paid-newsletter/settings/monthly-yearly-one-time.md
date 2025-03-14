@@ -64,6 +64,6 @@ layout:
 * C구독자의 구독 상태는 계속해서 \[유료 구독] 상태로 남아있습니다.&#x20;
 * C구독자의 구독 상태를 \[무료 구독]으로 변경하고 싶다면 직접 구독자의 구독 상태를 [변경](../managing-paid-subscribers/change-status.md)해야 합니다.
 
-일회성 구독은  [시즌제](../../tip/overview/seasonal-paid-newsletter-management.md)로 뉴스레터를 운영하면서, 전체 시즌 동안 결제를 한 번만 받아야 하는 경우에 사용하면 좋습니다. 시즌제 뉴스레터를 운영하는 자세한 방법은 [seasonal-paid-newsletter-management.md](../../tip/overview/seasonal-paid-newsletter-management.md "mention")도움말을 참고해 주세요.
+일회성 구독은  [시즌제](../../tip/seasonal-paid-newsletter-management.md)로 뉴스레터를 운영하면서, 전체 시즌 동안 결제를 한 번만 받아야 하는 경우에 사용하면 좋습니다. 시즌제 뉴스레터를 운영하는 자세한 방법은 [seasonal-paid-newsletter-management.md](../../tip/seasonal-paid-newsletter-management.md "mention")도움말을 참고해 주세요.
 
 <figure><img src="../../.gitbook/assets/image (57) (1).png" alt=""><figcaption></figcaption></figure>
