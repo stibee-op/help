@@ -69,7 +69,7 @@
   * [자동 이메일 이해하기](email/automation/understand.md)
   * [자동 이메일 사용하기](email/automation/using.md)
   * [자동 이메일 API 사용하기](email/automation/api.md)
-  * [발송하기](email/automation/sending.md)
+  * [자동 이메일 발송하기](email/automation/sending.md)
 * [자주 묻는 질문](email/questions.md)
 
 ## 요금제와 결제 <a href="#pricing" id="pricing"></a>
