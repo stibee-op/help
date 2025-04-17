@@ -56,7 +56,7 @@ layout:
 
 \[페이지]는 내가 만든 이메일을 웹에 게시하여 홍보하고 구독자를 모을 수 있는 홈페이지를 만들 수 있는 기능입니다. 페이지를 사용하면 만든 이메일을 간단하게 웹상에 게시하고 게시한 콘텐츠를 활용해 구독자를 모아볼 수 있습니다.&#x20;
 
-참고: 스티비 뉴스레터 [https://newsletter.stibee.com](https://syoletter.stibee.com/)
+* 참고: 스티비 뉴스레터 [https://newsletter.stibee.com](https://syoletter.stibee.com/)
 
 <figure><img src="../.gitbook/assets/페이지_1.png" alt=""><figcaption><p>https://syoletter.stibee.com</p></figcaption></figure>
 
