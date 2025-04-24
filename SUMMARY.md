@@ -217,7 +217,7 @@
 * [스티비의 발송 서버 예외 처리하기](tip/send-server-permit-list.md)
 * [친구를 초대한 구독자에게 보상 주기](tip/rewards-for-referring-friends.md)
 * [시즌제 유료 뉴스레터 운영하기](tip/seasonal-paid-newsletter-management.md)
-* [유료 뉴스레터 구독 할인 혜택 제공하기](tip/undefined.md)
+* [유료 뉴스레터 구독 할인 혜택 제공하기](tip/offer-discounts.md)
 * [카페24 회원에게 자동 이메일 보내기](tip/cafe24/README.md)
   * [카페24 회원에게 웰컴 이메일 보내기](tip/cafe24/welcome-email-cafe24-members.md)
   * [카페24 회원에게 기념일 축하 이메일 보내기](tip/cafe24/anniversary-email.md)

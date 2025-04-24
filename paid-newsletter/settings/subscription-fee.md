@@ -45,8 +45,8 @@ layout:
 
 유료 뉴스레터 구독료 변경 기능을 사용하면 특정 기간에 결제한 구독자는 할인된 금액으로 계속 이용할 수 있는 '얼리버드 혜택'을 제공하는 것도 가능합니다.
 
-{% content-ref url="../../tip/undefined.md" %}
-[undefined.md](../../tip/undefined.md)
+{% content-ref url="../../tip/offer-discounts.md" %}
+[offer-discounts.md](../../tip/offer-discounts.md)
 {% endcontent-ref %}
 
 
