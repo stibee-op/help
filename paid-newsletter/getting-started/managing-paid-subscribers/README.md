@@ -1,4 +1,4 @@
-# 유료 구독자 관리하기
+# 유료 뉴스레터 구독자 관리하기
 
 💬 이 내용은 **스탠다드, 프로, 엔터프라이즈** 요금제에 해당하는 도움말입니다.
 
@@ -10,22 +10,10 @@
 [form.md](form.md)
 {% endcontent-ref %}
 
-{% content-ref url="understand-type-change.md" %}
-[understand-type-change.md](understand-type-change.md)
-{% endcontent-ref %}
-
 {% content-ref url="direct-addition.md" %}
 [direct-addition.md](direct-addition.md)
 {% endcontent-ref %}
 
-{% content-ref url="change-status.md" %}
-[change-status.md](change-status.md)
-{% endcontent-ref %}
-
-{% content-ref url="cancel-recurring-payment.md" %}
-[cancel-recurring-payment.md](cancel-recurring-payment.md)
-{% endcontent-ref %}
-
-{% content-ref url="refund.md" %}
-[refund.md](refund.md)
+{% content-ref url="understand-type-change.md" %}
+[understand-type-change.md](understand-type-change.md)
 {% endcontent-ref %}
