@@ -169,7 +169,7 @@
 * [유료 뉴스레터 운영하기](paid-newsletter/getting-started/README.md)
   * [유료 뉴스레터 발송하기](paid-newsletter/send.md)
   * [구독자 문의 채널 설정하기](paid-newsletter/getting-started/contact-channels.md)
-  * [유료 뉴스레터 운영 종료하기](paid-newsletter/getting-started/undefined.md)
+  * [유료 뉴스레터 운영 종료하기](paid-newsletter/getting-started/end-paid-newsletter.md)
   * [유료 뉴스레터 구독자 관리하기](paid-newsletter/managing-paid-subscribers/README.md)
     * [유료 구독 폼에서 구독하기](paid-newsletter/managing-paid-subscribers/form.md)
     * [유료 구독 주소록에 구독자 직접 추가하기](paid-newsletter/managing-paid-subscribers/direct-addition.md)

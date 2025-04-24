@@ -30,8 +30,8 @@ layout:
 [contact-channels.md](contact-channels.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined.md" %}
-[undefined.md](undefined.md)
+{% content-ref url="end-paid-newsletter.md" %}
+[end-paid-newsletter.md](end-paid-newsletter.md)
 {% endcontent-ref %}
 
 {% content-ref url="../managing-paid-subscribers/" %}
