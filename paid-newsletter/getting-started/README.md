@@ -22,8 +22,8 @@ layout:
 
 아래 도움말을 클릭해서 궁금한 내용을 바로 확인하거나, \[다음] 버튼을 클릭해 단계별 아티클을 확인해 보세요.
 
-{% content-ref url="send.md" %}
-[send.md](send.md)
+{% content-ref url="../send.md" %}
+[send.md](../send.md)
 {% endcontent-ref %}
 
 {% content-ref url="contact-channels.md" %}
@@ -34,6 +34,6 @@ layout:
 [undefined.md](undefined.md)
 {% endcontent-ref %}
 
-{% content-ref url="managing-paid-subscribers/" %}
-[managing-paid-subscribers](managing-paid-subscribers/)
+{% content-ref url="../managing-paid-subscribers/" %}
+[managing-paid-subscribers](../managing-paid-subscribers/)
 {% endcontent-ref %}

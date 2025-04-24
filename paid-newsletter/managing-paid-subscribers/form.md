@@ -30,13 +30,13 @@ layout:
 2. 결제 방법을 선택한 뒤 결제 정보를 입력합니다.
 3. \[구독하기] 버튼을 누르면 유료 뉴스레터 구독이 진행됩니다.
 
-유료 구독 폼 설정 방법은 [유료 구독 폼 설정하기](../../settings/subscription-form.md) 도움말을 참고해 주세요.
+유료 구독 폼 설정 방법은 [유료 구독 폼 설정하기](../settings/subscription-form.md) 도움말을 참고해 주세요.
 
-<figure><img src="../../../.gitbook/assets/유료 구독 폼에서 구독하기 _ 유료 구독하기.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/유료 구독 폼에서 구독하기 _ 유료 구독하기.png" alt=""><figcaption></figcaption></figure>
 
 ### 구독 확인 이메일을 사용하는 경우 <a href="#h_f2e8983884" id="h_f2e8983884"></a>
 
-[구독 확인 이메일](../../../list/gather-subscribers/form.md#confirm_email) 기능을 사용하는 경우, 구독 신청한 뒤 발송되는 구독 확인 이메일 내 \[구독하기] 버튼을 눌러야 결제가 이루어지고 정상적으로 구독 신청이 완료되며, 주소록에 구독자로 추가됩니다. \[구독하기] 버튼을 누르지 않으면 '구독 대기' 상태로 남아있게되며, 구독자로 추가되지 않습니다.
+[구독 확인 이메일](../../list/gather-subscribers/form.md#confirm_email) 기능을 사용하는 경우, 구독 신청한 뒤 발송되는 구독 확인 이메일 내 \[구독하기] 버튼을 눌러야 결제가 이루어지고 정상적으로 구독 신청이 완료되며, 주소록에 구독자로 추가됩니다. \[구독하기] 버튼을 누르지 않으면 '구독 대기' 상태로 남아있게되며, 구독자로 추가되지 않습니다.
 
 구독 확인 이메일 기능을 사용하지 않는다면 구독과 결제가 동시에 진행됩니다.
 
@@ -46,4 +46,4 @@ layout:
 
 결제가 완료되면 구독자에게 안내 이메일이 발송됩니다.
 
-<figure><img src="../../../.gitbook/assets/유료 구독 폼에서 구독하기 _ 결제 결과 안내.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/유료 구독 폼에서 구독하기 _ 결제 결과 안내.png" alt=""><figcaption></figcaption></figure>

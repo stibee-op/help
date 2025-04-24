@@ -59,7 +59,7 @@ layout:
 #### 구독 상품 이해하기
 
 {% hint style="info" %}
-각 구독 상품에 대한 자세한 내용은 [구독 상품 이해하기](monthly-yearly-one-time.md) 도움말을 참고해 주세요.
+각 구독 상품에 대한 자세한 내용은 [구독 상품 이해하기](../settings/monthly-yearly-one-time.md) 도움말을 참고해 주세요.
 {% endhint %}
 
 구독 상품은 '월간, 연간, 일회성' 총 3가지 종류가 있습니다.
