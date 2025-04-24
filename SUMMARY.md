@@ -213,7 +213,7 @@
 
 * [오픈율 개선하기](tip/improve-open-rates.md)
 * [이메일 스팸 표시 방지하기](tip/prevent-email-spam-marking.md)
-* [자동 이메일 활용하기](tip/undefined.md)
+* [자동 이메일 활용하기](tip/use-auto-email.md)
 * [광고성 정보 수신 동의 여부 정기적으로 확인하기](tip/agree-to-receive-advertising-information.md)
 * [스티비의 발송 서버 예외 처리하기](tip/send-server-permit-list.md)
 * [친구를 초대한 구독자에게 보상 주기](tip/rewards-for-referring-friends.md)
