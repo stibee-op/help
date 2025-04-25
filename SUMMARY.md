@@ -21,7 +21,7 @@
   * [발송 준비하기](email/edit/preparing-for-send.md)
   * [템플릿 선택하기](email/edit/template.md)
   * [편집 상자 사용하기](email/edit/using-edit-box/README.md)
-    * [웹에서 보기](email/edit/using-edit-box/undefined.md)
+    * [웹에서 보기](email/edit/using-edit-box/permalink.md)
     * [텍스트](email/edit/using-edit-box/text.md)
     * [이미지](email/edit/using-edit-box/image.md)
     * [버튼](email/edit/using-edit-box/button.md)
