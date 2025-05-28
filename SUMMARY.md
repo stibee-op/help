@@ -187,19 +187,22 @@
 * [개요](integration/overview.md)
 * [카페24](integration/cafe24/README.md)
   * [연동하기](integration/cafe24/how-to-integration.md)
-  * [주요 기능 살펴보기](integration/cafe24/undefined.md)
+  * [주요 기능 살펴보기](integration/cafe24/features.md)
   * [연동 해제하기](integration/cafe24/disconnect.md)
 * [고도몰](integration/godomall/README.md)
   * [연동하기](integration/godomall/how-to-integration.md)
   * [연동 해제하기](integration/godomall/disconnect.md)
 * [식스샵](integration/sixshop/README.md)
   * [연동하기](integration/sixshop/how-to-integration.md)
-  * [주요 기능 살펴보기](integration/sixshop/undefined.md)
+  * [주요 기능 살펴보기](integration/sixshop/features.md)
   * [연동 해제하기](integration/sixshop/disconnect.md)
 * [도너스](integration/donus/README.md)
   * [연동하기](integration/donus/how-to-integration.md)
-  * [주요 기능 살펴보기](integration/donus/undefined.md)
+  * [주요 기능 살펴보기](integration/donus/features.md)
   * [연동 해제하기](integration/donus/disconnect.md)
+* [Zapier](integration/zapier/README.md)
+  * [연동하기](integration/zapier/how-to-integration.md)
+  * [주요 기능 살펴보기](integration/zapier/features.md)
 * [자주 묻는 질문](integration/questions.md)
 
 ## API, 웹훅 <a href="#api-webhook" id="api-webhook"></a>
@@ -223,6 +226,13 @@
   * [카페24 회원에게 웰컴 이메일 보내기](tip/cafe24/welcome-email-cafe24-members.md)
   * [카페24 회원에게 기념일 축하 이메일 보내기](tip/cafe24/anniversary-email.md)
   * [카페24 회원에게 구매 유도 이메일 보내기](tip/cafe24/purchase-email.md)
+
+***
+
+* [Zapier로 구독자 연동하기](how-to-use-zapier/README.md)
+  * [구글 폼으로 새로운 구독자 연동하기](how-to-use-zapier/google-forms.md)
+  * [타입폼으로 새로운 구독자 연동하기](how-to-use-zapier/typeform.md)
+  * [구글 스프레드시트로 새로운 구독자 연동하기](how-to-use-zapier/spreadsheets.md)
 
 ## 문제 해결하기 <a href="#trouble-shooting" id="trouble-shooting"></a>
 

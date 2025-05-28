@@ -34,8 +34,8 @@ layout:
 [how-to-integration.md](how-to-integration.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined.md" %}
-[undefined.md](undefined.md)
+{% content-ref url="features.md" %}
+[features.md](features.md)
 {% endcontent-ref %}
 
 {% content-ref url="disconnect.md" %}
