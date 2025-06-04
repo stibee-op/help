@@ -18,9 +18,11 @@ layout:
 
 수신 거부된 구독자를 관리하는 방법에 대해서 알아봅니다.
 
-***
-
+{% hint style="info" %}
 스티비에서는 구독자가 이메일을 더 이상 받아보고 싶지 않을 때 수신을 거부할 수 있는 \[수신거부] 기능을 제공합니다. 수신거부는 이메일에 특정 치환자 링크를 넣는 것으로 사용할 수 있습니다. 이메일에 수신거부 링크를 넣는 방법은 [unsubscribe.md](../../email/edit/unsubscribe.md "mention") 도움말을 참고해 주세요.
+{% endhint %}
+
+***
 
 ## 수신거부 목록 확인하기 <a href="#h_4854aebca7" id="h_4854aebca7"></a>
 
@@ -45,17 +47,9 @@ layout:
 2. 수신거부로 변경하거나 취소하고 싶은 구독자를 주소록에서 선택한 뒤, \[상태 변경하기 → 수신거부로 변경하기 또는 수신거부 취소하기]를 클릭합니다.
 3. 구독자의 구독 상태가 변경됩니다.
 
-한 번에 여러 명의 구독자를 수신거부 상태로 변경하려면 파일로 추가하기 기능을 사용해야 합니다. 자세한 방법은 [#h\_01gfam9r8typybhwpebnjf382c](add.md#h\_01gfam9r8typybhwpebnjf382c "mention") 도움말을 참고해 주세요.
+한 번에 여러 명의 구독자를 수신거부 상태로 변경하려면 파일로 추가하기 기능을 사용해야 합니다. 자세한 방법은 [#h\_01gfam9r8typybhwpebnjf382c](add.md#h_01gfam9r8typybhwpebnjf382c "mention") 도움말을 참고해 주세요.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/수신거부로 변경하기_1.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/spaces_eAMHRdY4ATDXfWZWQs3p_uploads_c0i5DJlWmqm6QClSiFhN_수신거부로 변경하기_2.webp" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/수신거부로 변경하기_1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/spaces_eAMHRdY4ATDXfWZWQs3p_uploads_c0i5DJlWmqm6QClSiFhN_수신거부로 변경하기_2.webp" alt=""><figcaption></figcaption></figure></div>
 
 ### 사용 시 주의사항 <a href="#h_744c2fd03e" id="h_744c2fd03e"></a>
 
@@ -93,7 +87,5 @@ layout:
 <figure><img src="../../.gitbook/assets/수신거부 화면 언어 설정하기.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-보내는 이메일의 성격 또는 목적에 따라 수신거부 구독자에게도 발송할 수 있는 이메일이 있습니다. 수신거부 구독자에게도 이메일을 보내는 방법이 궁금하다면 아래 도움말을 참고하세요.
-
-[수신거부 구독자에게 이메일 보내기](../../email/send/send-email-unsubscribed-subscriber.md)
+보내는 이메일의 성격 또는 목적에 따라 수신거부 구독자에게도 발송할 수 있는 이메일이 있습니다. 수신거부 구독자에게도 이메일을 보내는 방법이 궁금하다면 [수신거부 구독자에게 이메일 보내기](../../email/send/send-email-unsubscribed-subscriber.md) 도움말을 참고하세요.
 {% endhint %}
