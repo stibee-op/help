@@ -88,9 +88,16 @@ _웹훅 요청이 실패하는 경우 자동으로 웹훅 요청에 대하여 3�
 * “DELETED”: 자동삭제
 * “PURGED”: 완전삭제
 
-### eventOccuredBy <a href="#eventoccuredby" id="eventoccuredby"></a>
+### eventOccurredBy <a href="#eventoccuredby" id="eventoccuredby"></a>
 
 이벤트를 발생시킨 주체입니다.
+
+* “MANUAL”: 관리자 또는 API에 의해 발생
+* “SUBSCRIBER”: 구독자에 의해 발생
+
+### eventOccuredBy(지원 종료 예정)
+
+eventOccurredBy와 같이 '이벤트를 발생시킨 주체'에 대한 정보를 담습니다. eventOccuredBy는 추후 지원이 종료될 예정이기 때문에 eventOccurredBy로 사용하는 것을 권장합니다.
 
 * “MANUAL”: 관리자 또는 API에 의해 발생
 * “SUBSCRIBER”: 구독자에 의해 발생
