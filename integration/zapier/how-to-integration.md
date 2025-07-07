@@ -21,10 +21,7 @@ Zap은 'Trigger'와 'Action'으로 구성됩니다. Trigger에서 설정한 이�
 
 ## Zapier에서 스티비 앱 사용하기
 
-{% hint style="info" %}
-현재 Zapier 스티비 앱은 베타 테스트를 진행하고 있습니다. 빠르게 스티비 앱을 사용하고 싶다면 베타 테스트를 신청해 주세요.\
-[Zapier 스티비 앱 베타 테스트 신청하기](https://stibee.typeform.com/to/ogXfT7Us)
-{% endhint %}
+아래 방법으로 Zapier에서 스티비 앱을 사용할 수 있습니다.
 
 
 
