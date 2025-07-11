@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 자주 묻는 질문
 
 <details>
@@ -128,9 +114,9 @@ _\*수신 동의를 받지 않은 행위란? 카페, 블로그, 커뮤니티 등
 
 뉴스레터를 받아보면 종종 '좋았어요' 또는 '별로에요' 같은 버튼을 확인할 수 있습니다.&#x20;
 
-이 기능을 만족도 조사라고 합니다. 만족도 조사는 구글 폼(Google Form)이나 타이프폼    (Typeform) 등을 통해 조사 양식을 만들고 이 양식으로 이어지는 링크를 텍스트나 버튼 상자에 넣어주면 됩니다. 버튼이나 텍스트에 링크를 넣는 방법은 [텍스트 편집하기](edit/using-edit-box/text.md), [버튼 상자 사용하기](edit/using-edit-box/button.md) 도움말을 참고해 주세요.
+이 기능을 만족도 조사라고 합니다. 만족도 조사는 구글 설문지(Google Form)나 타이프폼    (Typeform) 등을 통해 조사 양식을 만들고 이 양식으로 이어지는 링크를 텍스트나 버튼 상자에 넣어주면 됩니다. 버튼이나 텍스트에 링크를 넣는 방법은 [텍스트 편집하기](edit/using-edit-box/text.md), [버튼 상자 사용하기](edit/using-edit-box/button.md) 도움말을 참고해 주세요.
 
-_뉴스레터로 만족도 조사를 받는 방법에 대해서는 스티비 블로그를 통해 소개한 적이 있습니다. 자세한 내용은_ [_뉴스레터 피드백을 수집하는 2가지 방법_](https://blog.stibee.com/%EB%89%B4%EC%8A%A4%EB%A0%88%ED%84%B0-%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9D%84-%EC%88%98%EC%A7%91%ED%95%98%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-450e20709995) _블로그 글을 참고해주세요._
+_\* 뉴스레터로 만족도 조사를 받는 방법에 대해서는 스티비 블로그를 통해 소개한 적이 있습니다. 자세한 내용은_ [_뉴스레터 피드백을 수집하는 2가지 방법_](https://blog.stibee.com/%EB%89%B4%EC%8A%A4%EB%A0%88%ED%84%B0-%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9D%84-%EC%88%98%EC%A7%91%ED%95%98%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-450e20709995) _블로그 글을 참고해주세요._
 
 </details>
 

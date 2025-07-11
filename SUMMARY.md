@@ -230,7 +230,7 @@
 ***
 
 * [Zapier로 구독자 연동하기](how-to-use-zapier/README.md)
-  * [구글 폼으로 새로운 구독자 연동하기](how-to-use-zapier/google-forms.md)
+  * [구글 설문지로 새로운 구독자 연동하기](how-to-use-zapier/google-forms.md)
   * [타입폼으로 새로운 구독자 연동하기](how-to-use-zapier/typeform.md)
   * [구글 스프레드시트로 새로운 구독자 연동하기](how-to-use-zapier/spreadsheets.md)
 

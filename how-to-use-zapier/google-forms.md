@@ -1,15 +1,15 @@
-# 구글 폼으로 새로운 구독자 연동하기
+# 구글 설문지로 새로운 구독자 연동하기
 
 💬 이 내용은 **스탠다드, 프로, 엔터프라이즈** 요금제에 해당하는 도움말입니다.
 
 ## 언제 필요한가요?
 
-* 구글 폼(Google Forms)으로 수집한 구독자 정보를 스티비 주소록에 자동으로 추가하고 싶을 때
+* 구글 설문지(Google Forms)로 수집한 구독자 정보를 스티비 주소록에 자동으로 추가하고 싶을 때
 
 ***
 
 {% hint style="info" %}
-구글 폼과 Zapier 스티비 앱을 연동하기 위해서는 구글 폼이 생성된 상태여야 합니다. 또, 최소한 1개 이상의 응답이 미리 존재해야 정상적으로 Test Step을 진행할 수 있어요.
+구글 설문지와 Zapier 스티비 앱을 연동하기 위해서는 구글 설문지가 생성된 상태여야 합니다. 또, 최소한 1개 이상의 응답이 미리 존재해야 정상적으로 Test Step을 진행할 수 있어요.
 {% endhint %}
 
 Zap은 'Trigger'와 'Action'으로 구성됩니다. Trigger에서 설정한 이벤트 조건을 충족하면, Action 이벤트가 실행되는 구조입니다.
@@ -23,7 +23,7 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
 1. Zapier에 접속한 뒤, \[+Create → Zaps]를 눌러 새로운 Zap을 생성합니다.
 2. \[Trigger → Google Forms]을 선택합니다.
 3. \[Trigger event → New Form Response]를 선택합니다.
-4. 'Account'를 눌러 구글 폼을 생성한 구글 계정으로 로그인한 뒤, 액세스 권한을 허용합니다.
+4. 'Account'를 눌러 구글 설문지를 생성한 구글 계정으로 로그인한 뒤, 액세스 권한을 허용합니다.
 
 <figure><img src="../.gitbook/assets/Zapier 구글 폼.png" alt=""><figcaption></figcaption></figure>
 
@@ -32,10 +32,10 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
 
 
 5. \[Continue]를 눌러 \[Configure] 단계로 이동한 뒤, 연동할 구글폼을 선택합니다.   \
-   &#xNAN;_\* 구글 폼과 Zapier 스티비 앱을 연동하기 위해서는 구글 폼이 게시된 상태여야 합니다._
+   &#xNAN;_\* 구글 설문지와 Zapier 스티비 앱을 연동하기 위해서는 구글 설문지가 게시된 상태여야 합니다._
 6. \[Test Trigger]를 눌러 설정이 잘 이루어졌는지 확인합니다.
 7. \[Find new records]를 눌러 Test를 진행할 응답을 선택합니다.   \
-   &#xNAN;_\* 연동한 구글 폼에 최소 1개 이상의 응답이 존재해야 정상적으로 테스트가 진행됩니다._
+   &#xNAN;_\* 연동한 구글 설문지에 최소 1개 이상의 응답이 존재해야 정상적으로 테스트가 진행됩니다._
 
 <figure><img src="../.gitbook/assets/Zapier 구글 폼3 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -68,7 +68,7 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
 
 
 5. \[Continue]를 눌러 \[Test] 단계로 이동한 뒤, \[Test step]을 누릅니다.   \
-   &#xNAN;_\* 연동한 구글 폼에 최소 1개 이상의 응답이 존재해야 정상적으로 테스트가 진행됩니다._
+   &#xNAN;_\* 연동한 구글 설문지에 최소 1개 이상의 응답이 존재해야 정상적으로 테스트가 진행됩니다._
 6. 문제가 없다면 \[Publish]를 눌러 Zap을 실행 상태로 만듭니다.
 
 <figure><img src="../.gitbook/assets/Zapier 타입폼 5.png" alt=""><figcaption></figcaption></figure>
