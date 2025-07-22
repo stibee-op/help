@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 그룹 사용하기
 
 ## 이 글에서는 <a href="#h_01h984hy14dfxnh2ehhdyp0nyq" id="h_01h984hy14dfxnh2ehhdyp0nyq"></a>

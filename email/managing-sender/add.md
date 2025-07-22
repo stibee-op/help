@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 발신자 주소 추가하기
 
 ## 이 글에서는
@@ -49,7 +35,7 @@ dooly@stibee.com 사용자가 만든 워크스페이스에서는 모든 주소�
 <figure><img src="../../.gitbook/assets/발신자 주소_6.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-[G메일](https://blog.stibee.com/gmail-sender-guidelines/)과 [네이버 메일](https://stibee.com/api/v1.0/emails/share/\_pfqzBAjcLjjhSJc5HHpBUUN0W9Mdsc)의 정책에 따라, gmail.com, naver.com 도메인으로 만든 이메일은 발신자 이메일 주소로 설정할 수 없습니다. 따라서, 스티비에서 제공하는 도메인으로 자동 변경되어 저장됩니다.
+[G메일](https://blog.stibee.com/gmail-sender-guidelines/)과 [네이버 메일](https://stibee.com/api/v1.0/emails/share/_pfqzBAjcLjjhSJc5HHpBUUN0W9Mdsc)의 정책에 따라, gmail.com, naver.com 도메인으로 만든 이메일은 발신자 이메일 주소로 설정할 수 없습니다. 따라서, 스티비에서 제공하는 도메인으로 자동 변경되어 저장됩니다.
 
 예를 들어, example@gmail.com을 발신자 이메일 주소로 추가하는 경우, example-gmali.com@send.stibee.com으로 변경되어 저장됩니다. 네이버 메일도 마찬가지로 example@naver.com 발신자 이메일 주소로 추가하는 경우, example-naver.com@send.stibee.com으로 변경되어 저장됩니다.&#x20;
 {% endhint %}

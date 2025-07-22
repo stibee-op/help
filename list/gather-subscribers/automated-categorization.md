@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 구독자를 자동으로 분류하기
 
 ## 이 글에서는 <a href="#h_01hh496d5ehdqkmbhd8hamadjq" id="h_01hh496d5ehdqkmbhd8hamadjq"></a>

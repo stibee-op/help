@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 요금제 결제하기
 
 ## 이 글에서는 <a href="#h_01ha1aag76sdrxdccprnvp71ne" id="h_01ha1aag76sdrxdccprnvp71ne"></a>

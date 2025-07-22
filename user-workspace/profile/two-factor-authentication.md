@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 2단계 인증 설정하기
 
 ## 이 글에서는 <a href="#h_01hmfvmvcyta23gph7xfa9jdv2" id="h_01hmfvmvcyta23gph7xfa9jdv2"></a>

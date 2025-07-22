@@ -1,18 +1,4 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
-# 유료 구독 정산에 대한 세무 신고 방법
+# 유료 뉴스레터 정산에 대한 세무 신고 방법
 
 **💬** 이 내용은 **스탠다드, 프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다.
 
@@ -26,7 +12,7 @@ layout:
 
 ***
 
-스티비에서는 [국세청 고시 제2015-6호](https://txsi.hometax.go.kr/docs/customer/law/inst\_gosi\_NewView.jsp?log\_main\_kind=%EC%B5%9C%EC%8B%A0%ED%9B%88%EB%A0%B9.%EA%B3%A0%EC%8B%9C\&gubun=2\&field\_cd=12\&inst\_notice\_id=2198\&public\_ilja=20150309\&sub\_title=\(%EC%A0%9C2015-6%ED%98%B8\))에 따라 발행인의 매출 자료(월 정산서)를 국세청에 분기마다 제출해야 할 의무를 지니고 있습니다. 정산서는 매월 15일 이메일로 전달되며 월 단위로 작성해서 제출하고 있습니다. 예를 들어, 4월 15일에 정산서를 받았다면,
+스티비에서는 [국세청 고시 제2015-6호](https://txsi.hometax.go.kr/docs/customer/law/inst_gosi_NewView.jsp?log_main_kind=%EC%B5%9C%EC%8B%A0%ED%9B%88%EB%A0%B9.%EA%B3%A0%EC%8B%9C\&gubun=2\&field_cd=12\&inst_notice_id=2198\&public_ilja=20150309\&sub_title=\(%EC%A0%9C2015-6%ED%98%B8\))에 따라 발행인의 매출 자료(월 정산서)를 국세청에 분기마다 제출해야 할 의무를 지니고 있습니다. 정산서는 매월 15일 이메일로 전달되며 월 단위로 작성해서 제출하고 있습니다. 예를 들어, 4월 15일에 정산서를 받았다면,
 
 * 이 정산서에서는 3월 1일 \~ 3월 31일까지의 유료 구독 매출 자료 정보가 포함되어 있습니다.
 * 4월의 결제 내역은 다음 달(5월 15일)에 발송되는 정산서에서 확인할 수 있습니다.

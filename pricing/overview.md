@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 개요
 
 ## 이 글에서는
@@ -47,4 +33,3 @@ layout:
 {% content-ref url="terminate.md" %}
 [terminate.md](terminate.md)
 {% endcontent-ref %}
-

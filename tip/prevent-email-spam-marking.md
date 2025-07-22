@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 이메일 스팸 표시 방지하기
 
 ## 언제 필요한가요? <a href="#h_01hkm26fsyrr8kbfdtmncznw7h" id="h_01hkm26fsyrr8kbfdtmncznw7h"></a>
@@ -49,14 +35,14 @@ layout:
 
 #### gmail.com, naver.com을 발신자 주소 도메인으로 사용하지 않기 <a href="#h_01hky4f9q1as1161dm4a4cv19y" id="h_01hky4f9q1as1161dm4a4cv19y"></a>
 
-[G메일](https://support.google.com/a/answer/81126?hl=ko\&visit\_id=638560892231409319-2480877127\&rd=1)과 [네이버 메일](https://notice.naver.com/notices/mail/15568)의 강화된 이메일 발신자 가이드라인에 따르면, 외부의 다른 서비스를 사용해서 이메일을 보내는 경우 gmail.com, naver.com 도메인을 사용할 수 없습니다. 만약, 외부의 다른 서비스를 사용해 이메일을 보낼 때 gmail.com이나 naver.com을 사용하는 경우 이메일이 스팸으로 표시되거나 차단될 수 있습니다. 따라서, 발신자 주소는 gmail.com, naver.com이 아닌 다른 도메인을 사용하는 주소로 변경해 사용하는 것이 좋습니다.
+[G메일](https://support.google.com/a/answer/81126?hl=ko\&visit_id=638560892231409319-2480877127\&rd=1)과 [네이버 메일](https://notice.naver.com/notices/mail/15568)의 강화된 이메일 발신자 가이드라인에 따르면, 외부의 다른 서비스를 사용해서 이메일을 보내는 경우 gmail.com, naver.com 도메인을 사용할 수 없습니다. 만약, 외부의 다른 서비스를 사용해 이메일을 보낼 때 gmail.com이나 naver.com을 사용하는 경우 이메일이 스팸으로 표시되거나 차단될 수 있습니다. 따라서, 발신자 주소는 gmail.com, naver.com이 아닌 다른 도메인을 사용하는 주소로 변경해 사용하는 것이 좋습니다.
 
 스티비에서는 gmail.com, naver.com 도메인으로 만든 이메일은 발신자 이메일 주소로 설정할 수 없으며, 스티비에서 제공하는 send.stibee.com 도메인으로 자동 변경되어 저장됩니다. 도메인 변경은 무료이며, 별도의 과금이 이루어지지 않습니다. (예: dooly@gmail.com -> dooly-gmail.com@send.stibee.com)
 
 가능하다면 공개된 도메인(예: hanmail.net 등)이 아닌 내 도메인을 사용하는 발신자 주소를 만들어 사용하는 것을 권장합니다. 나만의 발신자 주소를 만드는 법이 궁금하다면 아래 도움말을 참고해 보세요.
 
-{% content-ref url="../../getting-started/preparing-for-start/custom-sender-address.md" %}
-[custom-sender-address.md](../../getting-started/preparing-for-start/custom-sender-address.md)
+{% content-ref url="../getting-started/preparing-for-start/custom-sender-address.md" %}
+[custom-sender-address.md](../getting-started/preparing-for-start/custom-sender-address.md)
 {% endcontent-ref %}
 
 
@@ -81,8 +67,8 @@ layout:
 
 \[주소록 → 필터 → 구독자 활동: 발송 실패, 오픈 안함] 경로를 통해 오랫동안 이메일을 열어보지 않았거나 발송에 실패한 구독자를 찾을 수 있습니다. 프로 요금제부터 사용할 수 있는 \[세그먼트]의 \[구독자 활동 기록] 기반 기능을 사용하면 일정 기간 이메일을 열어보지 않거나 발송에 실패하는 구독자를 자동으로 분류해 보다 손쉽게 관리할 수 있습니다.
 
-{% content-ref url="../../list/classify-subscribers/how-to-use-segment.md" %}
-[how-to-use-segment.md](../../list/classify-subscribers/how-to-use-segment.md)
+{% content-ref url="../list/classify-subscribers/how-to-use-segment.md" %}
+[how-to-use-segment.md](../list/classify-subscribers/how-to-use-segment.md)
 {% endcontent-ref %}
 
 
@@ -93,8 +79,8 @@ layout:
 
 에디터의 \[수신거부] 기능을 사용하면 이메일에 간단하게 수신거부 링크를 넣을 수 있습니다.
 
-{% content-ref url="../../email/edit/unsubscribe.md" %}
-[unsubscribe.md](../../email/edit/unsubscribe.md)
+{% content-ref url="../email/edit/unsubscribe.md" %}
+[unsubscribe.md](../email/edit/unsubscribe.md)
 {% endcontent-ref %}
 
 
@@ -117,8 +103,8 @@ layout:
 
 기술적인 조치는 자신만의 개인화된 이메일 주소를 가지고 있는 경우에만 설정할 수 있습니다. 예를 들어 gmail.com, naver.com 등의 공개된 도메인을 가진 발신자 주소를 사용하는 경우에는 조치가 불가능합니다. 공개된 이메일 주소를 사용해 이메일을 보내는 경우 이메일의 전송 속도가 제한되거나 차단되거나 스팸으로 표시될 수 있습니다. 따라서 도메인을 구입해 나만의 발신자 주소를 만들어 사용하는 것을 권장합니다.
 
-{% content-ref url="../../getting-started/preparing-for-start/custom-sender-address.md" %}
-[custom-sender-address.md](../../getting-started/preparing-for-start/custom-sender-address.md)
+{% content-ref url="../getting-started/preparing-for-start/custom-sender-address.md" %}
+[custom-sender-address.md](../getting-started/preparing-for-start/custom-sender-address.md)
 {% endcontent-ref %}
 
 
@@ -135,7 +121,7 @@ SPF(Sender Policy Framework)와 DKIM(Domainkeys Identified Mail)은 발신자의
 \
 스티비와 같은 이메일 마케팅 서비스를 사용해 이메일을 보내면 내가 가지고 있는 발송 서버가 아닌 사용하는 서비스에서 가지고 있는 서버로 발송이 이루어집니다. 따라서 내가 가지고 있는 서버가 아닌 다른 곳에서 내 발신자 주소를 사용해 이메일을 보내고 있다면 수신 서비스 쪽에서는 이 이메일을 의심스럽다고 판단할 수 있습니다.\
 \
-스티비의 SPF, DKIM을 설정하면 "스티비의 서버에서 발송된 이메일도 내가 보낸 것이 맞다."는 것을 수신 서비스에 안내해 발신자 주소의 신뢰도를 확보하고 스팸으로 분류되는 비율을 낮출 수 있습니다. 자세한 내용은 [SPF, DKIM 설정하기](prevent-email-spam-marking.md#h\_01hkxtbqn0casvd7cmfspnv1y0) 도움말을 참고해 주세요.&#x20;
+스티비의 SPF, DKIM을 설정하면 "스티비의 서버에서 발송된 이메일도 내가 보낸 것이 맞다."는 것을 수신 서비스에 안내해 발신자 주소의 신뢰도를 확보하고 스팸으로 분류되는 비율을 낮출 수 있습니다. 자세한 내용은 [SPF, DKIM 설정하기](prevent-email-spam-marking.md#h_01hkxtbqn0casvd7cmfspnv1y0) 도움말을 참고해 주세요.&#x20;
 
 
 
@@ -143,12 +129,12 @@ SPF(Sender Policy Framework)와 DKIM(Domainkeys Identified Mail)은 발신자의
 
 DMARC(Domain-based Message Authentication, Reporting & Conformance)는 누군가 이메일 주소를 도용하여 발송하는 것을 막기 위해 사용하는 설정입니다. DMARC 설정을 하면 누군가 내 발신자 이메일 주소와 똑같은 가짜 주소를 사용해 스팸 메일을 보내는 것을 방지할 수 있습니다. 발신자 주소를 사칭해 보내는 것이 불가능해지면 이메일이 스팸으로 표시되는 비율이 낮아지고 그 결과 발신자 주소의 평판도 좋아집니다. 평판이 좋은 발신자 주소에서 보내는 이메일은 일반적으로 스팸으로 표시될 확률이 낮습니다.\
 \
-DMARC 설정이 된 도메인에서 보내는 이메일은 사칭자가 보낸 이메일일 확률이 낮습니다. DMARC 설정이 된 도메인에서 보내는 이메일은 상대적으로 그렇지 않은 도메인보다 안전한 이메일일 확률이 높고 이메일 수신 서비스에서도 결과적으로는 DMARC 설정이 된 도메인에서 발송되는 이메일을 더 선호합니다. 자세한 설정 방법은 [DMARC 설정 적용하기](../../email/managing-sender/dmarc.md) 도움말을 참고해 주세요.
+DMARC 설정이 된 도메인에서 보내는 이메일은 사칭자가 보낸 이메일일 확률이 낮습니다. DMARC 설정이 된 도메인에서 보내는 이메일은 상대적으로 그렇지 않은 도메인보다 안전한 이메일일 확률이 높고 이메일 수신 서비스에서도 결과적으로는 DMARC 설정이 된 도메인에서 발송되는 이메일을 더 선호합니다. 자세한 설정 방법은 [DMARC 설정 적용하기](../email/managing-sender/dmarc.md) 도움말을 참고해 주세요.
 
 
 
 #### 모니터링 하기 <a href="#h_01hkxtbqn0fswkpqgfbaa8w5ez" id="h_01hkxtbqn0fswkpqgfbaa8w5ez"></a>
 
-개인화된 발신자 이메일 주소로 이메일을 보낸다면 내가 보낸 이메일이 얼마나 스팸으로 분류되고 있는지 비율을 확인할 수 있습니다. 구글에서 제공하는 포스트마스터 툴(Postmaster Tools)을 사용하면 비율을 확인할 수 있습니다. 자세한 설정 방법은 [스팸 분류 비율 확인하기](../../email/send/spam-rate.md) 도움말을 참고해 주세요.
+개인화된 발신자 이메일 주소로 이메일을 보낸다면 내가 보낸 이메일이 얼마나 스팸으로 분류되고 있는지 비율을 확인할 수 있습니다. 구글에서 제공하는 포스트마스터 툴(Postmaster Tools)을 사용하면 비율을 확인할 수 있습니다. 자세한 설정 방법은 [스팸 분류 비율 확인하기](../email/send/spam-rate.md) 도움말을 참고해 주세요.
 
 대표적인 이메일 수신 서비스 G메일에서는 스팸 메일로 분류되는 비율을 0.3% 미만으로 관리할 것을 권고하고 있습니다. 모니터링 결과 스팸함으로 분류되는 비율이 기준을 초과한다면 취하지 않은 기술적인 조치들이 있는지 확인해 보는 것이 좋습니다. 모든 조치를 진행했지만 비율이 여전히 기준을 초과한다면, 그때는 관리적인 조치를 수행하며 스팸 분류 비율을 관리하는 것이 좋습니다.

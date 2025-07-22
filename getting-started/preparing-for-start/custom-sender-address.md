@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 나만의 발신자 주소 만들기
 
 ## 이 글에서는
@@ -29,14 +15,14 @@ layout:
 도메인을 구입할 수 있는 채널은 다양합니다. 대표적으로 국내에서 가장 많이 사용하는 도메인 구입 채널을 소개하니 아래 링크를 참고해 원하는 도메인을 구입하세요.
 
 * **카페24**
-  * 도메인 구입 하기: [카페24 호스팅 도메인 페이지](https://hosting.cafe24.com/?controller=new\_domain\_search)
-  * 도메인 구입 방법: [카페24에서 도메인 구입하는 방법을 알고 싶어요.](https://help.cafe24.com/cs/cs\_faq\_view.php?idx=3681\&page=1\&select\_os=\&mode=\&s\_value=\&categoryIdx=27\&faq\_list=27\&contentNum=32)
+  * 도메인 구입 하기: [카페24 호스팅 도메인 페이지](https://hosting.cafe24.com/?controller=new_domain_search)
+  * 도메인 구입 방법: [카페24에서 도메인 구입하는 방법을 알고 싶어요.](https://help.cafe24.com/cs/cs_faq_view.php?idx=3681\&page=1\&select_os=\&mode=\&s_value=\&categoryIdx=27\&faq_list=27\&contentNum=32)
 * **가비아**
   * 도메인 구입 하기: [가비아 도메인 검색 페이지](https://domain.gabia.com/)
   * 도메인 구입 방법: [주요 도메인(gTLD) 등록하기](https://customer.gabia.com/manual/domain/273/7280)
 * **후이즈**
   * 도메인 구입 하기: [후이즈 도메인 구입 페이지](https://domain.whois.co.kr/)
-  * 도메인 구입 방법: [도메인 등록 절차 및 필요한 서류는 무엇인가요?](https://cs.whois.co.kr/faq/?p=list\&page=1\&keyfield=sub\_cont\&service=1\&category=1)
+  * 도메인 구입 방법: [도메인 등록 절차 및 필요한 서류는 무엇인가요?](https://cs.whois.co.kr/faq/?p=list\&page=1\&keyfield=sub_cont\&service=1\&category=1)
 * **아임웹**
   * 도메인 구입 방법: [아임웹에서 개인 도메인 구입 및 연결하기](https://imweb.me/faq?mode=view\&category=29\&category2=34\&idx=71417)
 

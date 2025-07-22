@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 요금제 이해하기
 
 ## 이 글에서는 <a href="#h_01h9mkm4p47362w0tjqadsntj8" id="h_01h9mkm4p47362w0tjqadsntj8"></a>

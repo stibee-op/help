@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # DMARC 설정 이해하기
 
 ## 이 글에서는 <a href="#h_01hkkxxnv9dqk9fszaqcgkqegf" id="h_01hkkxxnv9dqk9fszaqcgkqegf"></a>
@@ -29,7 +15,7 @@ DMARC 설정은 발신자 주소의 도메인에 하는 설정입니다. 예를 
 가지고 있는 도메인이 없다면 아래 도움말을 참고해 나만의 발신자 이메일 주소를 만들어보세요.\
 [나만의 발신자 주소를 만들고 싶어요](../../getting-started/preparing-for-start/custom-sender-address.md)
 
-DMARC 설정을 위해서는 도메인에 미리 스티비의 SPF, DKIM 설정을 추가해야 합니다. SPF, DKIM 설정을 한 뒤 최소 48시간이 지난 뒤 DMARC 설정을 시도하시기를 바랍니다. SPF, DKIM 설정을 하는 방법은 [SPF, DKIM 설정 이해하기](dmarc.md#h\_01hkkyss98y0fzps03mx9zjhy2)를 참고해 주세요.
+DMARC 설정을 위해서는 도메인에 미리 스티비의 SPF, DKIM 설정을 추가해야 합니다. SPF, DKIM 설정을 한 뒤 최소 48시간이 지난 뒤 DMARC 설정을 시도하시기를 바랍니다. SPF, DKIM 설정을 하는 방법은 [SPF, DKIM 설정 이해하기](dmarc.md#h_01hkkyss98y0fzps03mx9zjhy2)를 참고해 주세요.
 
 \* _이 도움말은 DMARC 설정에 대한 개념을 설명하기 위한 목적으로 작성됐습니다. 설정이 잘 완료됐는지 조회하고 싶은 경우에는_ [_스티비 실험실_](https://lab.stibee.com/)_에서 바로 확인할 수 있습니다._
 
@@ -83,13 +69,13 @@ DMARC 설정은 내 도메인을 관리하는 서비스(네임서버가 등록�
 네임서버가 설치된 내 도메인 관리 서비스를 확인했다면 다음은 관리 서비스의 'DNS 관리' 화면으로 이동해 설정을 해주면 됩니다. 도메인 관리 서비스마다 경로가 다르지만 일반적으로 '도메인 관리' 또는 'DNS 관리' 등의 화면을 찾으시면 됩니다. 아래 서비스를 사용하고 있다면 링크된 각 도움말을 참고해 주세요. 아래 업체가 아닌 다른 업체에서 서비스를 사용하고 있다면 그 서비스의 고객센터로 문의하면 자세하게 안내받을 수 있습니다.
 
 * **카페24**
-  * [카페24 도메인 DNS 레코드 설정은 어떻게 하나요?](https://help.cafe24.com/cs/cs\_faq\_view.php?idx=3766) 4. TXT 레코드 추가
+  * [카페24 도메인 DNS 레코드 설정은 어떻게 하나요?](https://help.cafe24.com/cs/cs_faq_view.php?idx=3766) 4. TXT 레코드 추가
 * **가비아**
   * SPF 설정 방법: [DNS 레코드 설정하기](https://customer.gabia.com/manual#/domain/287/1201) 4) TXT 레코드 설정하기 (SPF 레코드)
 * **후이즈**
   * SPF 설정 방법: [SPF(TXT) 값은 어떻게 설정하나요?](http://cs.whois.co.kr/faq/?p=list\&service=1\&category=\&keyfield=subject\&keyword=SPF)
 * **구글 도메인**
-  * [리소스 레코드](https://support.google.com/domains/answer/3290350?hl=ko\&ref\_topic=9018335)
+  * [리소스 레코드](https://support.google.com/domains/answer/3290350?hl=ko\&ref_topic=9018335)
 
 _구글 도메인에서 도메인을 구입하고 이 도메인에 구글 워크스페이스를 함께 사용하는 경우에는 DNS 설정을 수정할 때 주의해야 할 점이 있습니다. 자세한 내용은_ [_여기_](../questions.md#google-domain-google-workspace)_를 참고하세요._
 

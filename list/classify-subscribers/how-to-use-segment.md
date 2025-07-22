@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 세그먼트 사용하기
 
 ## 이 글에서는 <a href="#h_01h984hy14dfxnh2ehhdyp0nyq" id="h_01h984hy14dfxnh2ehhdyp0nyq"></a>
@@ -67,7 +53,7 @@ layout:
 
 세그먼트의 조건을 구성할 요소로 '구독자 정보' 또는 '구독자 활동'을 선택할 수 있습니다. _구독자 활동 세그먼트는 프로 요금제부터 제공하는 기능입니다._
 
-* 구독자 정보: 연령대, 성별과 같이 \[주소록 → [사용자 정의 필드](../adding-managing-subscriber/understanding-subscriber-info.md#h\_01gw45zrwcjd1eg1cam4vhw25m)]에서 미리 정의되고 수집한 정보입니다. 구독자 정보에 새로운 항목을 추가하고 싶다면, \[사용자 정의 필드]에서 \[+필드 추가하기]를 사용해 주세요.&#x20;
+* 구독자 정보: 연령대, 성별과 같이 \[주소록 → [사용자 정의 필드](../adding-managing-subscriber/understanding-subscriber-info.md#h_01gw45zrwcjd1eg1cam4vhw25m)]에서 미리 정의되고 수집한 정보입니다. 구독자 정보에 새로운 항목을 추가하고 싶다면, \[사용자 정의 필드]에서 \[+필드 추가하기]를 사용해 주세요.&#x20;
 * 구독자 활동: 오픈이나 클릭과 같이 이메일을 받아본 구독자의 활동 정보를 의미합니다. 예를 들어 dooly@stibee.com 구독자가 이메일을 오픈했거나 이메일에 있는 링크를 클릭한 경우 등을 의미합니다. 구독자 활동 정보는 임의로 추가할 수 없습니다.
 
 {% hint style="info" %}

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # HTML 코드로 편집하기
 
 ## 이 글에서는 <a href="#h_183ecaf6df" id="h_183ecaf6df"></a>

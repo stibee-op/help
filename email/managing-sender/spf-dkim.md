@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # SPF, DKIM 설정 이해하기
 
 ## 이 글에서는
@@ -24,7 +10,7 @@ layout:
 
 SPF, DKIM 설정은 발신자 주소의 '도메인(URL)'에 하는 설정입니다. 예를 들어, 사용하는 발신자 이메일 주소가 dooly@stibee.com이라면 예시 주소의 도메인에 해당하는 stibee.com에 추가하는 설정입니다. 따라서 본인이 구입해서 도메인을 가지고 있는 경우에만 설정이 가능하며 공개된 도메인(예: naver.com, gmail.com, kakao.com 등) 또는 본인이 가지고 있지 않은 도메인(예: stibee.com)에는 설정할 수 없습니다.
 
-최근 [G메일](https://support.google.com/a/answer/81126?hl=ko\&ref=blog.stibee.com\&visit\_id=638560892233199959-2361375663\&rd=1)과 [네이버 메일](https://notice.naver.com/notices/mail/15568)의 수신 정책이 강화되어 G메일 또는 네이버 메일을 사용하는 구독자에게 이메일을 보낼 때 메일 인증(SPF, DKIM)이 이루어지지 않은 발신자 이메일 주소로 발송하는 경우 전송 속도가 느려지거나, 차단되거나, 스팸으로 표시될 수 있습니다. 그러므로 장기적으로 이메일을 보낼 계획이라면 도메인을 구입하여 SPF, DKIM 설정한 뒤 발송하는 것을 권장합니다.&#x20;
+최근 [G메일](https://support.google.com/a/answer/81126?hl=ko\&ref=blog.stibee.com\&visit_id=638560892233199959-2361375663\&rd=1)과 [네이버 메일](https://notice.naver.com/notices/mail/15568)의 수신 정책이 강화되어 G메일 또는 네이버 메일을 사용하는 구독자에게 이메일을 보낼 때 메일 인증(SPF, DKIM)이 이루어지지 않은 발신자 이메일 주소로 발송하는 경우 전송 속도가 느려지거나, 차단되거나, 스팸으로 표시될 수 있습니다. 그러므로 장기적으로 이메일을 보낼 계획이라면 도메인을 구입하여 SPF, DKIM 설정한 뒤 발송하는 것을 권장합니다.&#x20;
 
 도메인을 구입해서 발신자 이메일 주소를 생성하는 방법은 아래 도움말을 참고하세요.\
 [나만의 발신자 주소를 만들고 싶어요](../../getting-started/preparing-for-start/custom-sender-address.md)
@@ -77,8 +63,8 @@ SPF, DKIM 설정은 도메인에 해줘야 하는 설정이기 때문에 내 도
 네임서버가 설치된 내 도메인 관리 서비스를 확인했다면 다음은 관리 서비스의 'DNS 관리' 화면으로 이동해 설정을 해주면 됩니다. 도메인 관리 서비스마다 경로가 다르지만 일반적으로 '도메인 관리' 또는 'DNS 관리' 등의 화면을 찾으시면 됩니다. 아래 서비스를 사용하고 있다면 링크된 각 도움말을 참고해 주세요. 아래 업체가 아닌 다른 업체에서 서비스를 사용하고 있다면 그 서비스의 고객센터로 문의하면 자세하게 안내받을 수 있습니다.
 
 * **카페24**
-  * SPF 설정 방법: [카페24 도메인 DNS레코드 설정은 어떻게 하나요?](https://help.cafe24.com/cs/cs\_faq\_view.php?idx=3766) 4. SPF 관리
-  * DKIM 설정 방법: [카페24 도메인 DNS레코드 설정은 어떻게 하나요? ](https://help.cafe24.com/cs/cs\_faq\_view.php?idx=3766)3. 별칭(CNAME) 관리
+  * SPF 설정 방법: [카페24 도메인 DNS레코드 설정은 어떻게 하나요?](https://help.cafe24.com/cs/cs_faq_view.php?idx=3766) 4. SPF 관리
+  * DKIM 설정 방법: [카페24 도메인 DNS레코드 설정은 어떻게 하나요? ](https://help.cafe24.com/cs/cs_faq_view.php?idx=3766)3. 별칭(CNAME) 관리
 * **가비아**
   * SPF 설정 방법: [DNS 레코드 설정하기](https://customer.gabia.com/manual#/domain/287/1201) 4) TXT 레코드 설정하기 (SPF 레코드)
   * DKIM 설정 방법: [DNS 레코드 설정하기](https://customer.gabia.com/manual#/domain/287/1201) 3) CNAME 레코드 설정하기 (별칭 레코드)
@@ -86,7 +72,7 @@ SPF, DKIM 설정은 도메인에 해줘야 하는 설정이기 때문에 내 도
   * SPF 설정 방법: [SPF(TXT) 값은 어떻게 설정하나요?](http://cs.whois.co.kr/faq/?p=list\&service=1\&category=\&keyfield=subject\&keyword=SPF)
   * DKIM 설정 방법: [CNAME 레코드 설정하는 방법을 알려주세요.](http://cs.whois.co.kr/faq/?p=list\&service=1\&category=\&keyfield=content\&keyword=CNAME)
 * **구글 도메인**
-  * [리소스 레코드](https://support.google.com/domains/answer/3290350?hl=ko\&ref\_topic=9018335)
+  * [리소스 레코드](https://support.google.com/domains/answer/3290350?hl=ko\&ref_topic=9018335)
 
 _\*구글 도메인에서 도메인을 구입하고 이 도메인에 구글 워크스페이스를 함께 사용하는 경우에는 DNS 설정을 수정할 때 주의해야 할 점이 있습니다. 자세한 내용은_ [_여기_](../questions.md#google-domain-google-workspace)_를 참고하세요._
 

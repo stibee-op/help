@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 구독자 통계 확인하기
 
 ## 이 글에서는
@@ -32,7 +18,7 @@ layout:
 
 ### 주소록 정보 <a href="#h_9672f5d7b9" id="h_9672f5d7b9"></a>
 
-주소록의 기본 정보를 확인할 수 있습니다. 주소록 생성 시 입력한 정보들이 표시됩니다. 입력한 정보는 \[주소록 정보] 옆 \[수정하기] 버튼을 클릭하여 [수정](../creating-and-managing/modify-copy-delete.md#h\_01gf88jfx86w5ewkkk27bdp48j-1)할 수 있습니다.
+주소록의 기본 정보를 확인할 수 있습니다. 주소록 생성 시 입력한 정보들이 표시됩니다. 입력한 정보는 \[주소록 정보] 옆 \[수정하기] 버튼을 클릭하여 [수정](../creating-and-managing/modify-copy-delete.md#h_01gf88jfx86w5ewkkk27bdp48j-1)할 수 있습니다.
 
 ![](<../../.gitbook/assets/2 (11).png>)
 
@@ -91,7 +77,7 @@ layout:
 
 구독자의 기본 정보가 표시됩니다. [사용자 정의 필드](../adding-managing-subscriber/understanding-subscriber-info.md)에 등록한 구독자 정보, 주소록에 구독자가 추가된 날짜 등 구독자에 대한 기본적인 정보를 확인할 수 있습니다.&#x20;
 
-구독자 이메일 주소 옆에 있는 \[[수정하기](../creating-and-managing/modify-copy-delete.md)], \[[수신거부하기](../adding-managing-subscriber/manage-unsubscribe.md#h\_744c2fd03e)], \[[완전삭제하기](../adding-managing-subscriber/modify-subscriber-info.md#h\_01gfaz23xcpzghh2cbps07sm97)], \[[그룹설정하기](../classify-subscribers/how-to-use-groups.md)]를 활용해 정보를 수정하거나 구독 상태를 변경할 수 있습니다. 목적에 따라 특정 그룹으로 분류해서 관리하는 것도 가능합니다.
+구독자 이메일 주소 옆에 있는 \[[수정하기](../creating-and-managing/modify-copy-delete.md)], \[[수신거부하기](../adding-managing-subscriber/manage-unsubscribe.md#h_744c2fd03e)], \[[완전삭제하기](../adding-managing-subscriber/modify-subscriber-info.md#h_01gfaz23xcpzghh2cbps07sm97)], \[[그룹설정하기](../classify-subscribers/how-to-use-groups.md)]를 활용해 정보를 수정하거나 구독 상태를 변경할 수 있습니다. 목적에 따라 특정 그룹으로 분류해서 관리하는 것도 가능합니다.
 
 ![](<../../.gitbook/assets/8 (9).png>)
 
@@ -111,7 +97,7 @@ layout:
 * 발송 성공: 이메일이 발송 성공했습니다.
 * 오픈: 이메일을 구독자가 열어봤습니다.
 * 클릭: 이메일의 링크를 구독자가 클릭했습니다.
-* 수신거부: 구독자가 수신거부 링크를 통해 이메일 수신을 거부했습니다. [수신거부 이유 입력받기](../adding-managing-subscriber/manage-unsubscribe.md#h\_50529e632a)를 사용하는 경우 구독자가 입력한 수신거부 사유가 표시됩니다.
+* 수신거부: 구독자가 수신거부 링크를 통해 이메일 수신을 거부했습니다. [수신거부 이유 입력받기](../adding-managing-subscriber/manage-unsubscribe.md#h_50529e632a)를 사용하는 경우 구독자가 입력한 수신거부 사유가 표시됩니다.
 * 수신거부 취소: 구독자가 수신거부를 취소했습니다.&#x20;
 
 ![](<../../.gitbook/assets/10 (5).png>)

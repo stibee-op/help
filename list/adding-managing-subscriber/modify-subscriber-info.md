@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 구독자 정보 수정하기
 
 ## 이 글에서는
@@ -40,7 +26,7 @@ layout:
 
 \[파일로 추가하기] 기능을 사용하면 한 번에 여러 구독자 정보를 업데이트할 수 있습니다.
 
-1. \[주소록 → 구독자 목록]에서 정보를 수정하고 싶은 구독자를 검색합니다. [필터](search-subscriber.md#h\_01gfaq4cjqw7jtcp26af3cpf4y-1), [검색](search-subscriber.md#h\_01gfaq50zhgvhqcsnx5w13717d) 기능을 활용하면 손쉽게 목록을 조회할 수 있습니다.
+1. \[주소록 → 구독자 목록]에서 정보를 수정하고 싶은 구독자를 검색합니다. [필터](search-subscriber.md#h_01gfaq4cjqw7jtcp26af3cpf4y-1), [검색](search-subscriber.md#h_01gfaq50zhgvhqcsnx5w13717d) 기능을 활용하면 손쉽게 목록을 조회할 수 있습니다.
 2. 목록 오른쪽 끝에 있는 \[내보내기(∨) → 파일로 내보내기]를 클릭하여 구독자 목록을 CSV 파일로 내려받습니다.
 3. 내려받은 파일에서 구독자 정보를 수정하고 저장합니다.
 4. \[주소록 → 구독자 목록 → + 추가하기 → 파일로 추가하기]를 클릭하여 수정한 파일을 업로드합니다.&#x20;
@@ -182,4 +168,4 @@ layout:
 
 ### 구독자가 직접 변경하기
 
-구독 정보 변경 화면에서 \[광고성 정보 수신 동의] 항목의 \[변경하기]를 클릭해서 구독자가 자신의 광고성 정보 수신 동의 여부를 직접 수정할 수 있습니다. 구독자가 직접 정보를 변경하는 방법에 대한 자세한 내용은 [#h\_01gfaz1dqx7jfb1mr5w6myba1t](modify-subscriber-info.md#h\_01gfaz1dqx7jfb1mr5w6myba1t "mention")를 참고해 주세요.
+구독 정보 변경 화면에서 \[광고성 정보 수신 동의] 항목의 \[변경하기]를 클릭해서 구독자가 자신의 광고성 정보 수신 동의 여부를 직접 수정할 수 있습니다. 구독자가 직접 정보를 변경하는 방법에 대한 자세한 내용은 [#h\_01gfaz1dqx7jfb1mr5w6myba1t](modify-subscriber-info.md#h_01gfaz1dqx7jfb1mr5w6myba1t "mention")를 참고해 주세요.

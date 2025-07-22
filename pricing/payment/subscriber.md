@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 구독자 수 구간 변경하기
 
 💬 아래 내용은 **스탠다드, 프로, 엔터프라이즈** 요금제에 해당하는 도움말입니다.&#x20;

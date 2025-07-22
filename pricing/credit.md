@@ -1,17 +1,6 @@
 ---
 hidden: true
 noIndex: true
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # 크레딧 사용 방법

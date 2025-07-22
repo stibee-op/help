@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 편집기의 텍스트가 모두 볼드 스타일이 적용된 것처럼 보일 때
 
 ## 언제 필요한가요? <a href="#h_ea0d3fae83" id="h_ea0d3fae83"></a>

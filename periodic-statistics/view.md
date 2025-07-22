@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 통계 조회하기
 
 💬 이 내용은 **프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다.
@@ -26,11 +12,7 @@ layout:
 
 화면 위쪽의 \[통계] 버튼을 클릭하면, 통계 기능을 사용할 수 있습니다.&#x20;
 
-<div data-full-width="false">
-
-<figure><img src="../.gitbook/assets/통계 기능 사용하기_1.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/통계 기능 사용하기_1.gif" alt=""><figcaption></figcaption></figure></div>
 
 ## 통계 조건 설정하기 <a href="#id-01h5sb5zt1g27gat0xdw1m9mgg" id="id-01h5sb5zt1g27gat0xdw1m9mgg"></a>
 

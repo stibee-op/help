@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # A/B 테스트 따라하기
 
 ## 이 글에서는 <a href="#id-01h8bczp9mw94achp90e05dg9g" id="id-01h8bczp9mw94achp90e05dg9g"></a>
@@ -101,15 +87,7 @@ layout:
 6. 편집을 완료한 후, \[발송하기]를 클릭해 이메일을 발송합니다.
 7. 이메일이 발송된 후, 이메일 대시보드로 이동해 \[A/B 테스트 결과]에서 테스트 결과를 확인합니다.
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure></div>
 
 
 

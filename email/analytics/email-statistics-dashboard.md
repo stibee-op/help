@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 이메일 통계 대시보드
 
 ## 이 글에서는 <a href="#id-01h5vkyhvn2b52w03q06y683p4" id="id-01h5vkyhvn2b52w03q06y683p4"></a>

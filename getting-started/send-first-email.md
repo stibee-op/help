@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 첫 이메일 보내기
 
 ## 이 글에서는
@@ -34,15 +20,11 @@ layout:
 
 단계별 자세한 내용은 다음을 참고해 보세요.
 
-
-
 ### 주소록
 
 이메일을 보낼 주소록을 선택하는 단계입니다. [그룹](../list/classify-subscribers/how-to-use-groups.md)이나 [세그먼트](../list/classify-subscribers/how-to-use-segment.md)를 사용해 전체 구독자 중 일부에게만 이메일을 보낼 수도 있습니다.
 
 <figure><img src="../.gitbook/assets/주소록 선택.png" alt=""><figcaption></figcaption></figure>
-
-
 
 ### A/B 테스트
 
@@ -50,17 +32,11 @@ layout:
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ### 발송정보
 
-\[발송정보]에서는 보낼 이메일의 제목과 보내는 사람 정보(발신자 이메일 주소, 발신자 이름) 그리고 미리보기 텍스트를 설정합니다. 원하는 이메일의 제목과 발신자 이름을 입력하고 다음 단계로 넘어갑니다. '발송정보' 단계에 대한 자세한 내용은 [#undefined-4](send-first-email.md#undefined-4 "mention")를 참고해 주세요.
-
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+\[발송정보]에서는 보낼 이메일의 제목과 보내는 사람 정보(발신자 이메일 주소, 발신자 이름) 그리고 미리보기 텍스트를 설정합니다. 원하는 이메일의 제목과 발신자 이름을 입력하고 다음 단계로 넘어갑니다.
 
 정보를 모두 설정했다면, \[다음 → 템플릿] 단계로 이동하세요.
-
-
 
 ### 템플릿
 
@@ -74,8 +50,6 @@ layout:
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 원하는 템플릿을 선택한 뒤, \[다음 → 콘텐츠] 단계로 이동하세요.
-
-
 
 ### 콘텐츠
 

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 페이지 수정하기
 
 ## 이 글에서는 <a href="#h_01hprefm1zgqfpa2711zk9v2qn" id="h_01hprefm1zgqfpa2711zk9v2qn"></a>

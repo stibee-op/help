@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 페이지 로그인하기
 
 ## 이 글에서는
@@ -22,7 +8,7 @@ layout:
 
 ## 로그인하기
 
-구독자의 페이지 로그인은 이메일 인증 방식으로 진행됩니다. [구독 확인 이메일](../../list/gather-subscribers/form.md#confirm\_email)에서 설정한 정보가 페이지 로그인 인증 이메일에도 사용됩니다.
+구독자의 페이지 로그인은 이메일 인증 방식으로 진행됩니다. [구독 확인 이메일](../../list/gather-subscribers/form.md#confirm_email)에서 설정한 정보가 페이지 로그인 인증 이메일에도 사용됩니다.
 
 1. 화면 오른 위 \[로그인] 버튼을 클릭하거나, 또는 메인 화면의 \[구독하기] 버튼 아래에 있는 '이미 구독자이신가요?'를 클릭합니다.
 2. 이메일 주소를 입력할 수 있는 화면이 나타납니다. 입력창에 구독자로 추가된 이메일 주소를 입력하면, 로그인을 위한 인증 이메일이 발송됩니다.&#x20;

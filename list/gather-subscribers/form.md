@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 구독 받기
 
 ## 이 글에서는 <a href="#h_01hfna4p2h02gnxargrck6ft11" id="h_01hfna4p2h02gnxargrck6ft11"></a>
