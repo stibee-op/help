@@ -143,7 +143,7 @@
 ## 페이지 <a href="#page" id="page"></a>
 
 * [개요](page/overview.md)
-* [페이지 구성 살펴보기](page/layout.md)
+* [페이지 구성 요소 살펴보기](page/layout.md)
 * [페이지 만들고 관리하기](page/creating-and-managing/README.md)
   * [페이지 만들기](page/creating-and-managing/create.md)
   * [페이지 수정하기](page/creating-and-managing/modify.md)

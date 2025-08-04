@@ -8,13 +8,21 @@
 
 ## 페이지 이해하기 <a href="#h_8c34c4f750" id="h_8c34c4f750"></a>
 
-\[페이지]는 발송한 이메일을 한곳에 모아 구독자에게 보여주고, 구독 신청까지 받을 수 있는 내 뉴스레터만의 홈페이지입니다. 지금까지 발송한 이메일을 모아 구독자에게 제공하면 구독자를 모으는 데 도움이 됩니다. 유료 뉴스레터를 운영하고 있다면 페이지 기능을 활용해서 '유료 구독자 전용 콘텐츠'를 제공할 수도  있습니다. _페이지와_ [_아카이브_](https://help.stibee.com/hc/ko/articles/4756482526223)_의 차이는_ [_여기_](https://help.stibee.com/hc/ko/articles/4717285577871)_를 참고해 주세요._
+{% hint style="info" %}
+페이지가 궁금하다면 스티비 뉴스레터 페이지를 참고해 보세요.
 
-페이지가 궁금하다면 [스티비 뉴스레터 페이지](https://newsletter.stibee.com)를 참고해 보세요.
+* 스티비 뉴스레터: [https://newsletter.stibee.com](https://newsletter.stibee.com)
+{% endhint %}
 
-<figure><img src="../.gitbook/assets/페이지.png" alt=""><figcaption></figcaption></figure>
+\[페이지]는 발송한 이메일을 한곳에 모아 구독자에게 보여주고, 구독 신청까지 받을 수 있는 내 뉴스레터만의 홈페이지입니다. 지금까지 발송한 이메일을 모아 구독자에게 제공하면 구독자를 모으는 데 도움이 됩니다. 유료 뉴스레터를 운영하고 있다면 페이지 기능을 활용해서 '유료 구독자 전용 콘텐츠'를 제공할 수도  있습니다.
 
-페이지는 아래의 특징을 가집니다.
+_\* 페이지와_ [_아카이브_](https://help.stibee.com/hc/ko/articles/4756482526223)_의 차이는_ [_여기_](https://help.stibee.com/hc/ko/articles/4717285577871)_를 참고해 주세요._
+
+<figure><img src="../.gitbook/assets/페이지 개요2.png" alt=""><figcaption></figcaption></figure>
+
+
+
+## 페이지 기능 특징
 
 #### 간단하게 제작할 수 있어요
 
@@ -36,7 +44,7 @@
 
 따로 설정하지 않아도 내 페이지가 자동으로 검색 엔진(예: 네이버, 구글 등)의 검색 결과에 표시됩니다. 많은 사람에게 내 페이지가 노출되어 자연스럽게 구독자가 늘어나는 효과를 기대할 수 있어요.
 
-<figure><img src="../.gitbook/assets/5 (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/페이지 개요 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
