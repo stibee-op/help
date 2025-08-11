@@ -24,7 +24,7 @@
 
 💬 이 내용은 **스탠다드, 프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다.
 
-작성된 텍스트를 다듬어주는 AI 기능이 베타 테스트 중입니다. 다듬고 싶은 텍스트 영역을 선택한 뒤, \[AI로 글쓰기 개선하기] 아이콘을 누르면 AI가 내용을 다듬어 줍니다.
+작성한 텍스트를 다듬어주는 AI 기능이 베타 테스트 중입니다. 다듬고 싶은 텍스트 영역을 선택한 뒤, \[AI로 글쓰기 개선하기] 아이콘을 누르면 AI가 내용을 다듬어 줍니다.
 
 \[바로 적용하기]를 누르면 다듬어진 내용이 본문에 바로 적용됩니다. \[뒤에 추가하기]를 누르면 기존 내용 뒤에 추가되며, 기존 내용과 한눈에 비교해 볼 수 있어요. 다듬어진 내용이 마음에 들지 않는다면, \[다시 다듬기]를 눌러 새로 요청할 수 있습니다.
 
@@ -60,13 +60,17 @@
 >
 > 링크 단축 서비스를 사용해서 URL을 단축하는 경우, 해당 URL이 포함된 이메일은 스팸으로 분류될 확률이 높아집니다. 되도록 단축 URL 대신 원본 URL을 사용하는 것을 권장합니다.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/링크.png" alt=""><figcaption></figcaption></figure>
 
 ### 텍스트에 메일머지 사용하기 <a href="#h_01ggs5vmyyfnwtazmg7xhvstav" id="h_01ggs5vmyyfnwtazmg7xhvstav"></a>
 
 툴바의 \[메일머지{  }] 버튼을 클릭하면 '주소록 필드', '사용자 정의 필드' 값을 메일머지 형태로 추가할 수 있습니다. 주소록에 입력된 '회사/단체명, 주소, 연락처'를 텍스트 형태로 바로 불러올 수 있으며, 사용자 정의 필드에 입력된 구독자 정보(예: 이름, 별명, 구매 횟수 등)를 불러와 구독자별로 개인화된 이메일을 보낼 수도 있습니다.
 
 메일머지 기능에 관한 자세한 내용은 [personalized-merge.md](../personalized-merge.md "mention") 도움말을 참고해 주세요.
+
+<figure><img src="../../../.gitbook/assets/메일머지.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### 텍스트 편집 시 주의 사항 <a href="#h_01ggs5vmyyfnwtazmg7xhvstav" id="h_01ggs5vmyyfnwtazmg7xhvstav"></a>
 
@@ -82,6 +86,8 @@
 2. 문제가 발생한 텍스트를 삭제하고 복사한 텍스트를 '서식 없이 붙여넣기(ctrl+shift+v)'로 붙여 넣은 뒤 다시 편집합니다.&#x20;
 3. 문제가 발생한 텍스트 상자를 완전히 삭제하고 새롭게 추가한 뒤 다시 편집합니다. 이때도 텍스트를 붙여 넣는 경우, '서식 없이 붙여넣기(ctrl+shift+v)'를 사용합니다.
 
-위 절차로 처리했지만 계속해서 문제가 발생하는 경우, 화면 오른쪽 아래에 있는 물음표\[?]를 클릭하여 스티비 팀의 도움을 받아보세요.
+<figure><img src="../../../.gitbook/assets/스타일 제거.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
+
+
+위 절차로 처리했지만 계속해서 문제가 발생하는 경우, 화면 오른쪽 아래에 있는 물음표\[?]를 클릭하여 스티비 팀의 도움을 받아보세요.

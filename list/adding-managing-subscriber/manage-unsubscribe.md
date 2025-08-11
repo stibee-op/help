@@ -58,7 +58,7 @@
 2. \[구독 화면]에서 아래로 내려가면 \[수신거부 화면]이 나타납니다.
 3. \[수신거부 이유 입력받기] 버튼을 클릭해서 기능을 켜거나 끌 수 있습니다.
 
-구독자가 입력한 수신거부 사유는 구독자별 활동 기록 화면에서 확인할 수 있습니다. 또는 \[주소록 → 구독자 목록 → 내려받기]를 통해 내려받은 [구독자 목록](export-list.md)이나 [구독자별 통계](../check-subscriber-statistics/export.md) 파일에서 수신거부 사유를 확인할 수 있습니다.
+구독자가 입력한 수신거부 사유는 구독자별 활동 기록 화면에서 확인할 수 있습니다. 또는 \[주소록 → 구독자 목록 → 내보내기]를 통해 내려받은 [구독자 목록](export-list.md)이나 [구독자별 통계](../check-subscriber-statistics/export.md) 파일에서 수신거부 사유를 확인할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/2 (6).png" alt=""><figcaption></figcaption></figure>
 
