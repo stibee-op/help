@@ -36,6 +36,7 @@
     * [푸터](email/edit/using-edit-box/footer.md)
     * [공백](email/edit/using-edit-box/blank.md)
     * [상품 구매하기](email/edit/using-edit-box/purchase.md)
+  * [편집 상자 저장하기](email/edit/save-edit-box.md)
   * [전체 스타일 설정하기](email/edit/style.md)
   * [수신거부 링크 추가하기](email/edit/unsubscribe.md)
   * [개인화된 메시지 보내기](email/edit/personalized-merge.md)
