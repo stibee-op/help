@@ -27,7 +27,7 @@ layout:
 
 ***
 
-## 로그인 기기 목록 확인하기
+## 로그인 기기 목록 확인하기 <a href="#view-login-devices" id="view-login-devices"></a>
 
 최근 30일 동안 로그인한 기기 목록을 확인할 수 있으며, 알 수 없는 기기에 로그인되어 있다면 보안을 위해 로그아웃하는 것도 가능합니다.
 
@@ -40,7 +40,7 @@ layout:
 
 
 
-## 보안 설정 변경하기
+## 보안 설정 변경하기 <a href="#update" id="update"></a>
 
 💬 이 내용은 **엔터프라이즈 요금제**에 해당하는 도움말입니다.
 
@@ -48,7 +48,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/보안 설정 변경하기 (1).png" alt=""><figcaption></figcaption></figure>
 
-### 비밀번호 변경 안내 설정 <a href="#password-change-cycle" id="password-change-cycle"></a>
+### 비밀번호 변경 안내 설정하기 <a href="#password-change-cycle" id="password-change-cycle"></a>
 
 워크스페이스 사용자의 비밀번호 변경 안내 주기를 '사용 안 함, 90일, 180일' 중에서 선택할 수 있습니다. 설정된 변경 주기가 다가오면, 각 사용자는 로그인할 때 비밀번호 변경 안내를 확인하게 됩니다.
 
@@ -57,7 +57,7 @@ layout:
 
 설정이 완료되면 워크스페이스에 추가된 모든 사용자에게 일괄 적용됩니다.
 
-### 파일 내보내기 사유 입력 <a href="#set-download-reason" id="set-download-reason"></a>
+### 파일 내보내기 사유 입력하기 <a href="#set-download-reason" id="set-download-reason"></a>
 
 워크스페이스 소유자를 제외한 나머지 사용자가 주소록에서 구독자 목록이나 구독자별 통계를 내보낼 때, 파일을 다운로드하는 사유를 입력하도록 설정할 수 있습니다.
 
@@ -77,7 +77,7 @@ layout:
 2. 제일 오른쪽 더 보기\[···]를 누른 뒤, \[보안 설정 변경하기]를 선택합니다.
 3. 보안 설정 항목에서 \[구독자 이메일 주소 가리기 → 변경하기]를 누릅니다. 같은 방법으로 '구독자 정보 마스킹 기능'을 해제할 수 있습니다.
 
-### 특정 IP 주소에서만 접속 허용하기
+### 특정 IP 주소에서만 접속 허용하기 <a href="#allow-access-by-ip" id="allow-access-by-ip"></a>
 
 {% hint style="info" %}
 접속을 허용할 IP 주소는 워크스페이스 소유자만 추가할 수 있습니다.
