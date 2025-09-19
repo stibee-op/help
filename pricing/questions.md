@@ -36,6 +36,14 @@
 
 </details>
 
+<details>
+
+<summary>어떤 요금제를 사용해야 하는지 모르겠어요.</summary>
+
+내 상황에 맞는 요금제가 궁금하다면 [여기](https://stibee.channel.io/workflows/774338)에서 질문을 따라가 보세요. 지금 상황에 가장 알맞은 요금제를 확인할 수 있습니다.
+
+</details>
+
 ## 요금제 결제하기 <a href="#paid" id="paid"></a>
 
 <details>
