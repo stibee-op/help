@@ -30,7 +30,7 @@
 
 발송 성과 개선을 위해 기준에 따라 A/B 테스트를 진행하고 싶은 경우 이 단계에서 설정합니다. 테스트를 진행하지 않고 싶은 경우에는 \[아니오]를 선택하고 다음으로 넘어갑니다.  A/B 테스트에 대해 더 자세한 내용이 궁금한 경우에는 아래 링크를 참고하세요.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 발송정보
 
@@ -47,7 +47,7 @@
 
     **\*주의:** 이메일 편집 중 템플릿을 변경하는 경우, 앞서 작업한 내용이 모두 사라집니다.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 원하는 템플릿을 선택한 뒤, \[다음 → 콘텐츠] 단계로 이동하세요.
 
@@ -55,7 +55,7 @@
 
 \[콘텐츠] 단계에서는 에디터를 사용해 이메일을 편집할 수 있습니다. 오른쪽 편집 상자에서 원하는 상자를 클릭 후 드래그하여 왼쪽 편집 화면에 추가할 수 있습니다. 스티비에서는 텍스트, 이미지, 버튼 상자 등을 제공하고 있습니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -46,7 +46,7 @@ _\* 비밀번호 재설정 이메일, 웰컴 이메일과 같이 구독자별로
 
 한 가지 차이점은 \[일반 이메일]은 선택된 주소록에 등록된 전체 구독자에게 일괄 발송되지만, \[자동 이메일]은 선택된 주소록에 등록된 구독자 중 발송 조건에 따라 '각기 다른 사람'에게, '각기 다른 시점'에 발송됩니다. 자동 이메일에서 선택한 \[주소록]은 발송 조건에 따라 자동 이메일이 발송될 수 있는 일종의 '발송 대상 후보'입니다.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 발송 조건 설정하기 <a href="#h_01gh88k6hgnwr58y1m4k91qyvs" id="h_01gh88k6hgnwr58y1m4k91qyvs"></a>
 

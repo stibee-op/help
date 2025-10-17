@@ -32,7 +32,7 @@ A/B 테스트를 진행하고 싶다면 '예'를 눌러 설정을 진행해 주�
 [a-b-test.md](../a-b-test.md)
 {% endcontent-ref %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -72,7 +72,7 @@ A/B 테스트를 진행하고 싶다면 '예'를 눌러 설정을 진행해 주�
 
 _\* 미리보기 텍스트를 더 잘 활용하고 싶다면_ [_여기_](https://blog.stibee.com/150624-68fa20cb9978)_를 참고해 보세요._
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
