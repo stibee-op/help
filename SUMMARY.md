@@ -216,8 +216,10 @@
 
 ## 활용 팁 <a href="#tip" id="tip"></a>
 
-* [오픈율 개선하기](tip/improve-open-rates.md)
-* [이메일 스팸 표시 방지하기](tip/prevent-email-spam-marking.md)
+* [발송 성과 개선하기](tip/improve-sending-performance/README.md)
+  * [발송 성공률 높이기](tip/improve-sending-performance/improve-delivery-rate.md)
+  * [이메일 스팸 표시 방지하기](tip/improve-sending-performance/prevent-email-spam-marking.md)
+  * [오픈율 개선하기](tip/improve-sending-performance/improve-open-rates.md)
 * [자동 이메일 활용하기](tip/undefined.md)
 * [광고성 정보 수신 동의 여부 정기적으로 확인하기](tip/agree-to-receive-advertising-information.md)
 * [스티비의 발송 서버 예외 처리하기](tip/send-server-permit-list.md)
@@ -228,13 +230,10 @@
   * [카페24 회원에게 웰컴 이메일 보내기](tip/cafe24/welcome-email-cafe24-members.md)
   * [카페24 회원에게 기념일 축하 이메일 보내기](tip/cafe24/anniversary-email.md)
   * [카페24 회원에게 구매 유도 이메일 보내기](tip/cafe24/purchase-email.md)
-
-***
-
-* [Zapier로 구독자 연동하기](how-to-use-zapier/README.md)
-  * [구글 설문지로 새로운 구독자 연동하기](how-to-use-zapier/google-forms.md)
-  * [타입폼으로 새로운 구독자 연동하기](how-to-use-zapier/typeform.md)
-  * [구글 스프레드시트로 새로운 구독자 연동하기](how-to-use-zapier/spreadsheets.md)
+* [Zapier로 구독자 연동하기](tip/how-to-use-zapier/README.md)
+  * [구글 설문지로 새로운 구독자 연동하기](tip/how-to-use-zapier/google-forms.md)
+  * [타입폼으로 새로운 구독자 연동하기](tip/how-to-use-zapier/typeform.md)
+  * [구글 스프레드시트로 새로운 구독자 연동하기](tip/how-to-use-zapier/spreadsheets.md)
 
 ## 문제 해결하기 <a href="#trouble-shooting" id="trouble-shooting"></a>
 

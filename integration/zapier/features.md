@@ -35,12 +35,12 @@ _\* 지금은 스티비 앱에서 구독자 관리와 이메일 생성/발송과
 
 자세한 내용은 아래 도움말을 참고해 주세요.
 
-{% content-ref url="../../how-to-use-zapier/google-forms.md" %}
-[google-forms.md](../../how-to-use-zapier/google-forms.md)
+{% content-ref url="../../tip/how-to-use-zapier/google-forms.md" %}
+[google-forms.md](../../tip/how-to-use-zapier/google-forms.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../how-to-use-zapier/typeform.md" %}
-[typeform.md](../../how-to-use-zapier/typeform.md)
+{% content-ref url="../../tip/how-to-use-zapier/typeform.md" %}
+[typeform.md](../../tip/how-to-use-zapier/typeform.md)
 {% endcontent-ref %}
 
 ### 구글 스프레드시트와 연동하기
@@ -49,6 +49,6 @@ _\* 지금은 스티비 앱에서 구독자 관리와 이메일 생성/발송과
 
 자세한 내용은 아래 도움말을 참고해 주세요.
 
-{% content-ref url="../../how-to-use-zapier/spreadsheets.md" %}
-[spreadsheets.md](../../how-to-use-zapier/spreadsheets.md)
+{% content-ref url="../../tip/how-to-use-zapier/spreadsheets.md" %}
+[spreadsheets.md](../../tip/how-to-use-zapier/spreadsheets.md)
 {% endcontent-ref %}

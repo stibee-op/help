@@ -14,7 +14,7 @@
 
 Zap은 'Trigger'와 'Action'으로 구성됩니다. Trigger에서 설정한 이벤트 조건을 충족하면, Action 이벤트가 실행되는 구조입니다.
 
-_\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md](../integration/zapier/how-to-integration.md "mention") _도움말을 참고해 주세요._
+_\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md](../../integration/zapier/how-to-integration.md "mention") _도움말을 참고해 주세요._
 
 
 
@@ -23,7 +23,7 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
 1. Zapier에 접속한 뒤, \[+Create → Zaps]를 눌러 새로운 Zap을 생성합니다.
 2. \[Trigger → Typeform]을 선택합니다.
 
-<figure><img src="../.gitbook/assets/Zapier 타입폼 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Zapier 타입폼 1.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -32,7 +32,7 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
 5. \[Continue]를 눌러 \[Configure] 단계로 이동한 뒤, 연동할 타입폼을 선택합니다.
 6. \[Test Trigger]를 눌러 설정이 잘 이루어졌는지 확인합니다.
 
-<figure><img src="../.gitbook/assets/Zapier 타입폼 2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Zapier 타입폼 2 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -41,11 +41,11 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
 1. \[Trigger → Stibee]를 선택합니다.
 2. \[Action event → Add Subscriber]를 선택합니다.
 3. \[Account]를 눌러 스티비 API key를 입력합니다.   \
-   \* 자세한 방법은 [API 사용하기](../api-webhook/api.md#id-1-api-1) 도움말을 참고해 주세요.
+   \* 자세한 방법은 [API 사용하기](../../api-webhook/api.md#id-1-api-1) 도움말을 참고해 주세요.
 
-<figure><img src="../.gitbook/assets/Zapier 타입폼 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Zapier 타입폼 3.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Zapier 스티비 앱 연동하기5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Zapier 스티비 앱 연동하기5.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -58,14 +58,14 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
 * Marketing Allowed: 마케팅 정보 수신 동의 여부입니다.
 * Update Enabled: 이미 존재하는 구독자일 경우, 이메일 주소 외에 나머지 정보를 업데이트할지 여부입니다. 기본값은 'Fasle(=업데이트하지 않음)' 입니다.
 
-<figure><img src="../.gitbook/assets/Zapier 타입폼 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Zapier 타입폼 4.png" alt=""><figcaption></figcaption></figure>
 
 
 
 5. \[Continue]를 눌러 \[Test] 단계로 이동한 뒤, \[Test step]을 누릅니다.
 6. 문제가 없다면 \[Publish]를 눌러 Zap을 실행 상태로 만듭니다.
 
-<figure><img src="../.gitbook/assets/Zapier 타입폼 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Zapier 타입폼 5.png" alt=""><figcaption></figcaption></figure>
 
 
 

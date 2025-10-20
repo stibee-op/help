@@ -14,7 +14,7 @@
 
 Zap은 'Trigger'와 'Action'으로 구성됩니다. Trigger에서 설정한 이벤트 조건을 충족하면, Action 이벤트가 실행되는 구조입니다.
 
-_\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md](../integration/zapier/how-to-integration.md "mention") _도움말을 참고해 주세요._
+_\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md](../../integration/zapier/how-to-integration.md "mention") _도움말을 참고해 주세요._
 
 
 
@@ -25,9 +25,9 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
 3. \[Trigger event → New Form Response]를 선택합니다.
 4. 'Account'를 눌러 구글 설문지를 생성한 구글 계정으로 로그인한 뒤, 액세스 권한을 허용합니다.
 
-<figure><img src="../.gitbook/assets/Zapier 구글 폼.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Zapier 구글 폼.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Zapier 구글 폼2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Zapier 구글 폼2.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -37,7 +37,7 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
 7. \[Find new records]를 눌러 Test를 진행할 응답을 선택합니다.   \
    &#xNAN;_\* 연동한 구글 설문지에 최소 1개 이상의 응답이 존재해야 정상적으로 테스트가 진행됩니다._
 
-<figure><img src="../.gitbook/assets/Zapier 구글 폼3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Zapier 구글 폼3 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -46,11 +46,11 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
 1. \[Action]을 클릭해 Stibee 앱을 검색한 뒤 선택합니다.
 2. \[Action event → Add Subscriber]을 선택합니다.
 3. 'Account'를 눌러 스티비 API key를 입력합니다.   \
-   \* API key를 확인하는 자세한 방법은 [API 사용하기](../api-webhook/api.md#id-1-api-1) 도움말을 참고해 주세요.
+   \* API key를 확인하는 자세한 방법은 [API 사용하기](../../api-webhook/api.md#id-1-api-1) 도움말을 참고해 주세요.
 
-<figure><img src="../.gitbook/assets/Zapier 구글 폼4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Zapier 구글 폼4 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Zapier 스티비 앱 연동하기5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Zapier 스티비 앱 연동하기5.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -63,7 +63,7 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
 * Marketing Allowed: 마케팅 정보 수신 동의 여부입니다.
 * Update Enabled: 이미 존재하는 구독자일 경우, 이메일 주소 외에 나머지 정보를 업데이트할지 여부입니다. 기본값은 'Fasle(=업데이트하지 않음)' 입니다.
 
-<figure><img src="../.gitbook/assets/Zapier 구글 폼5 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Zapier 구글 폼5 (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -71,7 +71,7 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
    &#xNAN;_\* 연동한 구글 설문지에 최소 1개 이상의 응답이 존재해야 정상적으로 테스트가 진행됩니다._
 6. 문제가 없다면 \[Publish]를 눌러 Zap을 실행 상태로 만듭니다.
 
-<figure><img src="../.gitbook/assets/Zapier 타입폼 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Zapier 타입폼 5.png" alt=""><figcaption></figcaption></figure>
 
 
 
