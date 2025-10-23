@@ -218,7 +218,7 @@
 
 * [발송 성과 개선하기](tip/improve-sending-performance/README.md)
   * [발송 성공률 높이기](tip/improve-sending-performance/improve-delivery-rate.md)
-  * [이메일 스팸 표시 방지하기](tip/improve-sending-performance/prevent-email-spam-marking.md)
+  * [이메일 스팸 표시 방지하기](tip/prevent-email-spam-marking.md)
   * [오픈율 개선하기](tip/improve-sending-performance/improve-open-rates.md)
 * [자동 이메일 활용하기](tip/undefined.md)
 * [광고성 정보 수신 동의 여부 정기적으로 확인하기](tip/agree-to-receive-advertising-information.md)

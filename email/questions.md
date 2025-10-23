@@ -38,7 +38,7 @@ _\* G메일 자동 번역 기능은 메일 제일 상단에서 확인할 수 있
 
 스팸으로 표시되는 비율을 줄일 수 있는 다른 방법이 궁금하다면 아래 글도 참고해 보세요.
 
-[prevent-email-spam-marking.md](../tip/improve-sending-performance/prevent-email-spam-marking.md "mention")
+[prevent-email-spam-marking.md](../tip/prevent-email-spam-marking.md "mention")
 
 </details>
 
