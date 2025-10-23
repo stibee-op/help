@@ -94,7 +94,7 @@ gmail.com, naver.com, hanmail.net과 같이 공개된 도메인에는 SPF, DKIM,
 _\* 만약, 프로 요금제를 사용하고 있다면 \[_[_세그먼트_](../list/classify-subscribers/how-to-use-segment.md)_] 기능을 활용해 자동으로 분류되도록 설정할 수도 있어요._
 
 {% hint style="info" %}
-구독 확인 이메일을 사용하면 확인 절차를 거친 뒤 구독자를 최종 등록하므로, 유효하지 않은 이메일 주소의 유입을 막고, 발송 실패 가능성을 줄일 수 있습니다.
+[구독 확인 이메일](../list/gather-subscribers/form.md#confirm_email)을 사용하면 확인 절차를 거친 뒤 구독자를 최종 등록하므로, 유효하지 않은 이메일 주소의 유입을 막고, 발송 실패 가능성을 줄일 수 있습니다.
 {% endhint %}
 
 #### 수신거부 기능 사용하기

@@ -35,10 +35,10 @@ layout:
 [improve-delivery-rate.md](improve-delivery-rate.md)
 {% endcontent-ref %}
 
-{% content-ref url="improve-open-rates.md" %}
-[improve-open-rates.md](improve-open-rates.md)
-{% endcontent-ref %}
-
 {% content-ref url="../prevent-email-spam-marking.md" %}
 [prevent-email-spam-marking.md](../prevent-email-spam-marking.md)
+{% endcontent-ref %}
+
+{% content-ref url="improve-open-rates.md" %}
+[improve-open-rates.md](improve-open-rates.md)
 {% endcontent-ref %}
