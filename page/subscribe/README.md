@@ -4,16 +4,18 @@
 
 페이지 내 \[구독하기] 버튼을 눌러 구독 신청을 진행할 수 있습니다.&#x20;
 
-아래 도움말을 참고해 페이지를 참고해 구독 신청 받는 방법 또는 페이지를 통해 유입된 구독자를 파라미터로 분류하는 방법에 관해 알아보세요.
+***
 
-{% content-ref url="subscribe.md" %}
-[subscribe.md](subscribe.md)
-{% endcontent-ref %}
+## 페이지로 구독 신청 받기
 
-{% content-ref url="how-to-use-group-parameter.md" %}
-[how-to-use-group-parameter.md](how-to-use-group-parameter.md)
-{% endcontent-ref %}
+1. 페이지에 접속한 뒤 나타나는 \[구독하기] 버튼을 누릅니다. 또는 화면 오른쪽 위의 \[구독하기] 버튼을 누릅니다.
+2. 이메일 주소와 이름 등 정보를 입력한 뒤, \[구독하기] 버튼을 누르면 페이지와 연결된 \[주소록]에 구독자가 등록됩니다.
+3. 페이지와 연결된 주소록에 구독자 정보가 추가됩니다.
 
-{% content-ref url="how-to-use-custom-field-parameter.md" %}
-[how-to-use-custom-field-parameter.md](how-to-use-custom-field-parameter.md)
-{% endcontent-ref %}
+<div><figure><img src="../../.gitbook/assets/페이지 구독하기 (4).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/페이지 구독하기 (5) (1).png" alt=""><figcaption></figcaption></figure></div>
+
+
+
+## 발행된 이메일에서 구독 받기
+
+페이지에 발행된 이메일을 읽다 보면 구독 화면이 팝업 형태로 표시됩니다. 이 구독 화면 팝업을 통해 검색, 외부 링크 등을 통해 콘텐츠로 유입된 방문자가 구독 신청을 진행할 수 있습니다.
