@@ -204,6 +204,6 @@ _\* 그룹 기능은_ [_그룹 사용하기_](../classify-subscribers/how-to-use
 [form.md](../gather-subscribers/form.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../page/subscribe/" %}
-[subscribe](../../page/subscribe/)
+{% content-ref url="../../page/subscribe.md" %}
+[subscribe.md](../../page/subscribe.md)
 {% endcontent-ref %}
