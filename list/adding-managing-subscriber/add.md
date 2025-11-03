@@ -78,7 +78,7 @@ _\* 그룹 기능은_ [_그룹 사용하기_](../classify-subscribers/how-to-use
 파일로 구독자를 추가하는 방법은 '주소록 목록'에서 추가하는 방법과 '구독자 목록'에서 추가하는 방법 두 가지가 있습니다.
 
 {% hint style="info" %}
-파일 업로드가 되지 않는다면 [구독자 파일 업로드가 안 될 때](../../trouble-shooting/overview/subscriber-upload-issues.md) 도움말을 참고해서 문제를 해결해 보세요. 파일을 CSV 형태로 만들기 어렵다면 [샘플 파일](https://stibee.com/download/%EC%8A%A4%ED%8B%B0%EB%B9%84_%EC%A3%BC%EC%86%8C%EB%A1%9D_%EC%83%98%ED%94%8C.csv)을 내려받은 뒤 수정해서 사용해 주세요.
+파일 업로드가 되지 않는다면 [구독자 파일 업로드가 안 될 때](../../trouble-shooting/subscriber-upload-issues.md) 도움말을 참고해서 문제를 해결해 보세요. 파일을 CSV 형태로 만들기 어렵다면 [샘플 파일](https://stibee.com/download/%EC%8A%A4%ED%8B%B0%EB%B9%84_%EC%A3%BC%EC%86%8C%EB%A1%9D_%EC%83%98%ED%94%8C.csv)을 내려받은 뒤 수정해서 사용해 주세요.
 {% endhint %}
 
 ### 주소록 목록에서 파일로 추가하기 <a href="#h_01gftbtwx6ky33ch5gz5ne3n01" id="h_01gftbtwx6ky33ch5gz5ne3n01"></a>

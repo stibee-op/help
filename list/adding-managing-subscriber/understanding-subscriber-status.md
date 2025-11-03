@@ -39,6 +39,6 @@
 
 ### 자동삭제 <a href="#auto-deleted" id="auto-deleted"></a>
 
-이메일을 발송했을 때 [하드바운스](../../email/analytics/email-detailed-statistics.md#hard-bounce)로 발송에 실패해서 영구적으로 이메일을 수신할 수 없는 상태로 판단된 경우에는 자동삭제로 분류되며 앞으로 발송 대상에서도 제외됩니다.
+발송을 했을 때 여러가지 원인으로 [발송에 실패](https://help.stibee.com/email/analytics/email-detailed-statistics#bounce)하는 경우가 있습니다. 영구적인 이유(예. 잘못된 이메일 주소)로 발송 실패하면 '하드바운스'로 분류되고, 이 구독자는 주소록에서 '자동삭제' 상태로 변경되며 이후 발송 대상에서 제외합니다. 자동삭제 기능을 사용하면 이메일을 발송할수록 발송 성과가 개선됩니다.
 
-자동 삭제 기능을 사용하면 일반적으로 이메일을 발송할수록 발송 성과가 개선됩니다. 단, 원하는 경우에는 주소록에서 '자동삭제' 기능을 직접 비활성화할 수 있습니다. 자동삭제 기능을 비활성화하고 싶다면 [creating-and-managing](../creating-and-managing/ "mention") 도움말을 참고해 주세요.
+_\* 단, 원하는 경우에는 주소록에서 '자동삭제' 기능을 직접 비활성화할 수 있습니다. 자동삭제 기능을 비활성화하고 싶다면_ [_주소록 만들고 관리하기_](https://help.stibee.com/list/creating-and-managing) _도움말을 참고해 주세요._

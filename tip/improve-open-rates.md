@@ -23,7 +23,7 @@
 
 스티비에서는 오픈율을 개선할 수 있는 여러 기능을 제공하고 있습니다. 아래 내용에 따라 하나씩 테스트를 해보며 이메일 오픈율을 개선해 보세요.
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -35,7 +35,7 @@
 
 * 제목은 짧고 간결하게 작성하세요.
 * 이모티콘은 적당히 활용하되, 과도하게 쓰지 마세요.
-* 제목에 구독자의 이름 등 [개인화된 메시지](../../email/edit/personalized-merge.md)를 넣어 보내면 오픈 성과에 도움이 됩니다.
+* 제목에 구독자의 이름 등 [개인화된 메시지](../email/edit/personalized-merge.md)를 넣어 보내면 오픈 성과에 도움이 됩니다.
 * 제목을 짓기 어렵다면, [AI 추천](improve-open-rates.md#subject-line-ai)을 받아보아도 좋습니다.
 
 같은 내용을 동일한 구독자에게 발송하더라도 이메일 제목에 따라 오픈율은 달라질 수 있습니다. 팁을 참고해 여러 가지 안을 만들고 테스트해 보세요.
@@ -50,7 +50,7 @@
 * 발신자 이름
 * 발송 스케줄
 
-스티비에서는 이 요인을 기준으로 쉽게 테스트를 진행할 수 있도록 \[[A/B 테스트](../../email/a-b-test.md)] 기능을 제공하고 있습니다.&#x20;
+스티비에서는 이 요인을 기준으로 쉽게 테스트를 진행할 수 있도록 \[[A/B 테스트](../email/a-b-test.md)] 기능을 제공하고 있습니다.&#x20;
 
 #### 발신자 이름을 친근한 이름으로 설정하기
 
@@ -60,9 +60,13 @@
 
 구독자 특성에 따라 오픈율이 높은 시간대는 다릅니다. 여러 스케줄로 이메일을 보내보고 어느 시간에 발송한 이메일의 성과가 더 좋았는지 확인해 보세요.
 
-<figure><img src="../../.gitbook/assets/오픈율 개선하기.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/오픈율 개선하기.png" alt=""><figcaption></figcaption></figure>
 
 
+
+{% hint style="info" %}
+이메일 발송 주기에 따라 '장기간'의 기준은 다를 수 있습니다. 발송하시는 이메일의 성격과 발송 주기를 분석해 정하시는 것을 추천합니다.
+{% endhint %}
 
 ### 장기간 오픈하지 않는 구독자 관리하기
 
@@ -77,12 +81,12 @@
 3. \[조건 → 구독자 활동 → 오픈 안 함]을 선택해 조건을 설정하고 조회합니다.
 4. \[모든 페이지 선택]을 누른 뒤, \[상태 변경하기 → 수신거부로 변경하기]를 누릅니다. 이 단계에서 별도의 그룹으로 지정할 수도 있어요.
 
-_\* 만약, 프로 요금제를 사용하고 있다면 \[_[_세그먼트_](../../list/classify-subscribers/how-to-use-segment.md)_] 기능을 활용해 자동으로 분류되도록 설정할 수도 있어요._
+_\* 만약, 프로 요금제를 사용하고 있다면 \[_[_세그먼트_](../list/classify-subscribers/how-to-use-segment.md)_] 기능을 활용해 자동으로 분류되도록 설정할 수도 있어요._
 
 {% hint style="info" %}
-오랫동안 오픈 기록이 확인되지 않는 구독자들은 별도 주소록 \[[그룹](../../list/classify-subscribers/how-to-use-groups.md)]으로 분류하여 따로 이메일을 보내보세요. 안부를 묻거나, 오픈하지 않는 이유에 대해 피드백을 요청하여 뉴스레터를 개선해 볼 수 있습니다.&#x20;
+오랫동안 오픈 기록이 확인되지 않는 구독자들은 별도 주소록 \[[그룹](../list/classify-subscribers/how-to-use-groups.md)]으로 분류하여 따로 이메일을 보내보세요. 안부를 묻거나, 오픈하지 않는 이유에 대해 피드백을 요청하여 뉴스레터를 개선해 볼 수 있습니다.&#x20;
 
 따로 이메일을 보내도 반응이 없다면 내 이메일을 스팸 처리했거나, 이메일을 열어보지 못하는 상황일 확률이 높으므로 구독자 목록에서 정리해 주는 것이 좋습니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/오픈 안한 구독자 정제.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/오픈 안한 구독자 정제.png" alt=""><figcaption></figcaption></figure>

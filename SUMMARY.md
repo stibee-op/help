@@ -217,7 +217,7 @@
 * [발송 성과 개선하기](tip/improve-sending-performance/README.md)
   * [발송 성공률 높이기](tip/improve-sending-performance/improve-delivery-rate.md)
   * [이메일 스팸 표시 방지하기](tip/prevent-email-spam-marking.md)
-  * [오픈율 개선하기](tip/improve-sending-performance/improve-open-rates.md)
+  * [오픈율 개선하기](tip/improve-open-rates.md)
 * [자동 이메일 활용하기](tip/undefined.md)
 * [광고성 정보 수신 동의 여부 정기적으로 확인하기](tip/agree-to-receive-advertising-information.md)
 * [스티비의 발송 서버 예외 처리하기](tip/send-server-permit-list.md)
@@ -235,8 +235,12 @@
 
 ## 문제 해결하기 <a href="#trouble-shooting" id="trouble-shooting"></a>
 
-* [사용 중 문제가 생겼을 때](trouble-shooting/overview/README.md)
-  * [받아 본 이메일이 편집한 내용과 다르게 표시될 때](trouble-shooting/overview/email-content-mismatch.md)
-  * [구독자 파일 업로드가 안 될 때](trouble-shooting/overview/subscriber-upload-issues.md)
-  * [이메일을 보냈지만 받아보지 못했을 때](trouble-shooting/overview/email-not-received.md)
-  * [편집기의 텍스트가 모두 볼드 스타일이 적용된 것처럼 보일 때](trouble-shooting/overview/editor-text-bold-appearance.md)
+* [서비스를 원활하게 사용할 수 없을 때](trouble-shooting/service-not-available/README.md)
+  * [이메일을 편집할 수 없을 때](trouble-shooting/service-not-available/editor-not-responding.md)
+  * [발송(예약)을 진행했으나 처리되지 않을 때](trouble-shooting/service-not-available/send-not-processed.md)
+  * [화면 전환이 느리게 처리될 때](trouble-shooting/service-not-available/transition-slow.md)
+* [이메일을 보냈으나 도착하지 않을 때](trouble-shooting/email-not-received.md)
+* [편집한 내용과 다르게 표시될 때](trouble-shooting/email-content-mismatch.md)
+* [구독자 파일 업로드가 안 될 때](trouble-shooting/subscriber-upload-issues.md)
+* [텍스트가 굵게 표시될 때](trouble-shooting/editor-text-bold-appearance.md)
+* [서비스를 원활하게 사용할 수 없을 때](trouble-shooting/undefined.md)

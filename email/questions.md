@@ -104,7 +104,7 @@ _\*수신 동의를 받지 않은 행위란? 카페, 블로그, 커뮤니티 등
 
 그래도 문제가 계속 된다면 상자를 지웠다가 다시 추가한 뒤 '서식 없이 붙여넣기(ctrl+shift+v)'로 텍스트만 붙여넣고 스타일 편집은 에디터를 사용해 작업해보세요.
 
-그 외 다른 해결 방법이 궁금하다면 [email-content-mismatch.md](../trouble-shooting/overview/email-content-mismatch.md "mention") 도움말을 참고해 주세요.
+그 외 다른 해결 방법이 궁금하다면 [email-content-mismatch.md](../trouble-shooting/email-content-mismatch.md "mention") 도움말을 참고해 주세요.
 
 </details>
 

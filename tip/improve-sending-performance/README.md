@@ -39,6 +39,6 @@ layout:
 [prevent-email-spam-marking.md](../prevent-email-spam-marking.md)
 {% endcontent-ref %}
 
-{% content-ref url="improve-open-rates.md" %}
-[improve-open-rates.md](improve-open-rates.md)
+{% content-ref url="../improve-open-rates.md" %}
+[improve-open-rates.md](../improve-open-rates.md)
 {% endcontent-ref %}
