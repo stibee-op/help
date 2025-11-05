@@ -35,7 +35,7 @@
 
 자세한 설정 방법은 [SPF, DKIM 설정하기](https://help.stibee.com/email/managing-sender/spf-dkim#h_01h110pzv84f02jnvmgmn7dvjx), [DMARC 설정하기](https://help.stibee.com/email/managing-sender/dmarc#h_01hj5fn6r44fg750r172j5pwhn) 도움말을 참고해 주세요.
 
-### 발송 실패 구독자 정제하기
+### 발송 실패 구독자 정제하기 <a href="#clean-failed-subscribers" id="clean-failed-subscribers"></a>
 
 지속적으로 발송에 실패하는 구독자는 실제로 이메일을 받을 수 없는 경우가 많습니다. 이런 구독자에게 계속 이메일을 보내면 발신자 주소의 평판이 낮아질 수 있으므로, 정기적으로 구독자를 정리하는 것을 권장합니다.
 
