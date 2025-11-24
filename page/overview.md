@@ -60,8 +60,8 @@ _\* 페이지와_ [_아카이브_](https://help.stibee.com/hc/ko/articles/475648
 [creating-and-managing](creating-and-managing/)
 {% endcontent-ref %}
 
-{% content-ref url="subscribe.md" %}
-[subscribe.md](subscribe.md)
+{% content-ref url="subscribe/" %}
+[subscribe](subscribe/)
 {% endcontent-ref %}
 
 {% content-ref url="subscriber-guide/" %}

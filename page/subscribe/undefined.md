@@ -1,12 +1,8 @@
----
-hidden: true
----
-
-# 페이지로 구독 신청 받는 방법
+# 구독 받기
 
 ## 이 글에서는
 
-페이지 안 \[구독하기] 버튼을 눌러 구독 신청을 진행할 수 있습니다. 이 방법에 관해 알아봅니다.
+페이지 내 \[구독하기] 버튼을 눌러 구독 신청을 진행할 수 있습니다. 이 방법에 관해 알아봅니다.&#x20;
 
 ***
 
@@ -14,10 +10,9 @@ hidden: true
 
 1. 페이지에 접속한 뒤 나타나는 \[구독하기] 버튼을 누릅니다. 또는 화면 오른쪽 위의 \[구독하기] 버튼을 누릅니다.
 2. 이메일 주소와 이름 등 정보를 입력한 뒤, \[구독하기] 버튼을 누르면 페이지와 연결된 \[주소록]에 구독자가 등록됩니다.
+3. 페이지와 연결된 주소록에 구독자 정보가 추가됩니다.
 
 <div><figure><img src="../../.gitbook/assets/페이지 구독하기 (4).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/페이지 구독하기 (5) (1).png" alt=""><figcaption></figcaption></figure></div>
-
-페이지와 연결된 주소록에 구독자 정보가 추가됩니다.
 
 
 
@@ -25,4 +20,4 @@ hidden: true
 
 페이지에 발행된 이메일을 읽다 보면 구독 화면이 팝업 형태로 표시됩니다. 이 구독 화면 팝업을 통해 검색, 외부 링크 등을 통해 콘텐츠로 유입된 방문자가 구독 신청을 진행할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/페이지 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

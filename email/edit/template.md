@@ -45,9 +45,9 @@ HTML 코드로 만든 이메일 양식이 있다면 HTML 코드를 작성하여 
 
 템플릿 제목 옆 \[더 보기(...)] 버튼을 눌러 제목을 수정하거나 저장된 템플릿을 삭제할 수도 있습니다.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 ### 기본 템플릿 <a href="#stibee-template" id="stibee-template"></a>
 
