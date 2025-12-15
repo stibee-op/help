@@ -4,7 +4,7 @@
 
 고도몰 회원 정보와 스티비 주소록을 연동하는 방법에 관해 알아봅니다.
 
-_기본적인 이메일 생성과 발송에 대한 자세한 내용은_ [_첫 이메일 보내기_](../../getting-started/send-first-email.md) _도움말을 참고하세요. 다른 사용자의 스티비 활용법이 궁금하다면_ [_고객사례 갤러리_](https://gallery.stibee.com/)_와_ [_블로그_](https://blog.stibee.com/)_를 함께 확인해 보시는 것도 추천합니다._
+기본적인 이메일 생성과 발송에 대한 자세한 내용은 [첫 이메일 보내기](../../getting-started/send-first-email.md) 도움말을 참고하세요. 다른 사용자의 스티비 활용법이 궁금하다면 [고객사례 갤러리](https://gallery.stibee.com/)와 [블로그](https://blog.stibee.com/)를 함께 확인해 보시는 것도 추천합니다.
 
 ***
 
@@ -26,8 +26,8 @@ _기본적인 이메일 생성과 발송에 대한 자세한 내용은_ [_첫 �
 
 고도몰 연동 주소록은 일반 주소록과 기본적인 기능은 동일하지만, 고도몰 회원 정보를 불러올 수 있다는 점이 다릅니다. 대부분의 일반적인 기능은 주소록과 동일하기 때문에 기본 사용법은 아래 도움말을 참고해 주세요.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/mQ3AQKcxfXYxzAr3KgkI" %}
+[Broken link](/broken/pages/mQ3AQKcxfXYxzAr3KgkI)
 {% endcontent-ref %}
 
 
@@ -93,4 +93,16 @@ _\* 고도몰 연동 주소록에는 \[고도몰에서 불러오기]가 아닌 �
 
 ### 엔터프라이즈 요금제 <a href="#h_01hfn5byjgwcjq8q3cmy9wkznm" id="h_01hfn5byjgwcjq8q3cmy9wkznm"></a>
 
-채널톡 상담 또는 이메일([support@stibee.com](mailto:support@stibee.com))을 통해 별도로 문의해 주세요.
+고도몰 회원의 엔터프라이즈 요금제는 월 56,000원부터 시작합니다. 엔터프라이즈 요금제의 자세한 기능은 [여기](https://help.stibee.com/pricing/understanding/type#enterprise)서 확인할 수 있습니다.
+
+* 0-500명: 월 56,000원 (연 600,000원)
+* 501-1,000명: 월 62,000원 (연 660,000원)
+* 1,001-2,500명: 월 68,000원 (연 730,000원)
+* 2,501-5,000명: 월 84,000원 (연 900,000원)
+* 5,001-10,000명: 월 136,000원 (연 1,460,000원)
+* 10,001-25,000명: 월 250,000원 (연 2,700,000원)
+* 25,001-50,000명: 월 450,000원 (연 4,860,000원)
+* 50,001-100,000명 이상: 840,000원 (연 9,070,000원)
+* 100,001-150,000 이상: 별도 문의
+
+(부가세 포함)

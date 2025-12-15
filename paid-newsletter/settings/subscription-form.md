@@ -24,7 +24,9 @@
 
 ## 구독 폼 구독자 입력 항목 설정하기 <a href="#h_84a9e84670" id="h_84a9e84670"></a>
 
-구독 폼을 통해 유료 뉴스레터 구독을 신청할 때 구독자가 입력해야 하는 정보를 설정할 수 있습니다. 여기서 체크한 항목이 유료 구독 폼에 표시됩니다. 이메일 주소, 이름, 전화번호는 원활한 유료 뉴스레터 구독을 위해 필수 입력해야 하는 항목입니다. 이외에 추가로 입력 받고 싶은 정보가 있다면, \[주소록 → [사용자 정의 필드](../../list/adding-managing-subscriber/understanding-subscriber-info.md#h_01gw45zrwcjd1eg1cam4vhw25m)]에서 새로운 필드를 추가한 뒤 체크박스를 선택해 주시면 됩니다.
+구독 폼을 통해 유료 뉴스레터 구독을 신청할 때 구독자가 입력해야 하는 정보를 설정할 수 있습니다. 여기서 체크한 항목이 유료 구독 폼에 표시됩니다.
+
+이메일 주소, 이름, 전화번호는 원활한 유료 뉴스레터 구독을 위해 필수 입력해야 하는 항목입니다. 이외에 추가로 입력 받고 싶은 정보가 있다면, \[주소록 → [사용자 정의 필드](../../list/adding-managing-subscriber/understanding-subscriber-info.md#h_01gw45zrwcjd1eg1cam4vhw25m)]에서 새로운 필드를 추가한 뒤 체크박스를 선택해 주시면 됩니다.
 
 <figure><img src="../../.gitbook/assets/image (58) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -50,3 +52,7 @@
 이외에 '광고성 정보 수신 동의'를 받을 수 있습니다. 발송하는 이메일에 광고성 정보가 포함될 때 필요한 동의 항목입니다. 필요한 경우 사용해 주세요.
 
 <figure><img src="../../.gitbook/assets/image (62) (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+유료 구독 주소록은 발행인과 구독자 간 원활한 결제 처리를 위해, 별도의 이용약관(개인정보 수집 및 이용 동의) 수정 기능을 제공하지 않습니다. 추가로 안내할 내용이 있다면, \[구독 폼 → 수정하기 → 내용] 영역에 직접 기재해 주세요.
+{% endhint %}
