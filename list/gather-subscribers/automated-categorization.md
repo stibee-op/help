@@ -90,7 +90,7 @@
 
 {% code title="수정 전" overflow="wrap" %}
 ```
-https://stibee.com/api/v1.0/lists/OOOOOOOOOOOOOOO/TYW5AcyOVE51JOZtmxyaTL8zPkJ/public/subscribers
+https://stibee.com/api/v1.0/lists/TYW5AcyOVE51JOZtmxyaTL8zPkJ/public/subscribers
 ```
 {% endcode %}
 
@@ -98,7 +98,7 @@ https://stibee.com/api/v1.0/lists/OOOOOOOOOOOOOOO/TYW5AcyOVE51JOZtmxyaTL8zPkJ/pu
 
 {% code title="수정 후" overflow="wrap" %}
 ```
-https://stibee.com/api/v1.0/lists/OOOOOOOOOOOOOOO/TYW5AcyOVE51JOZtmxyaTL8zPkJ/public/subscribers?groupIds=12345
+https://stibee.com/api/v1.0/lists/TYW5AcyOVE51JOZtmxyaTL8zPkJ/public/subscribers?groupIds=12345
 ```
 {% endcode %}
 
@@ -153,7 +153,7 @@ field\_key는 \[주소록 → 사용자 정의 필드]의 '키' 값에서 확인
 
 {% code title="수정 전" overflow="wrap" %}
 ```
-https://stibee.com/api/v1.0/lists/OOOOOOOOOOOOOOO/TYW5AcyOVE51JOZtmxyaTL8zPkJ/public/subscribers
+https://stibee.com/api/v1.0/lists/TYW5AcyOVE51JOZtmxyaTL8zPkJ/public/subscribers
 ```
 {% endcode %}
 
@@ -161,6 +161,6 @@ https://stibee.com/api/v1.0/lists/OOOOOOOOOOOOOOO/TYW5AcyOVE51JOZtmxyaTL8zPkJ/pu
 
 {% code title="수정 후" overflow="wrap" %}
 ```
-https://stibee.com/api/v1.0/lists/OOOOOOOOOOOOOOO/TYW5AcyOVE51JOZtmxyaTL8zPkJ/public/subscribers?channel=랜딩페이지
+https://stibee.com/api/v1.0/lists/TYW5AcyOVE51JOZtmxyaTL8zPkJ/public/subscribers?channel=랜딩페이지
 ```
 {% endcode %}
