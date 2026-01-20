@@ -56,4 +56,4 @@ _하나의 이메일에 최대 5개의 태그를 설정할 수 있습니다._
 
 <figure><img src="../../.gitbook/assets/태그_8.gif" alt=""><figcaption></figcaption></figure>
 
-태그 기능을 사용하면 \[통계]에서 원하는 이메일을 조합해 기간별로 통계를 조회할 수 있습니다. 자세한 내용은 [통계](broken-reference) 도움말에서 확인해 보세요.
+태그 기능을 사용하면 \[통계]에서 원하는 이메일을 조합해 기간별로 통계를 조회할 수 있습니다. 자세한 내용은 [통계](/broken/pages/vaNRG77cquyOivdtj2va) 도움말에서 확인해 보세요.

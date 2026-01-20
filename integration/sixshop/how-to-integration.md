@@ -31,8 +31,8 @@ _기본적인 이메일 생성과 발송에 대한 자세한 내용은_ [_첫 �
 
 식스샵 연동 주소록은 일반 주소록과 기본적인 기능은 동일하지만, 식스샵 회원 정보를 불러올 수 있다는 점이 다릅니다. 대부분의 일반적인 기능은 주소록과 동일하기 때문에 기본 사용법은 아래 도움말을 참고해 주세요.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/mQ3AQKcxfXYxzAr3KgkI" %}
+[Broken link](/broken/pages/mQ3AQKcxfXYxzAr3KgkI)
 {% endcontent-ref %}
 
 

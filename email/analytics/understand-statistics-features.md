@@ -42,8 +42,8 @@
 
 기간을 기준으로 한 통계 지표가 궁금하다면 \[기간별 통계] 기능을 활용할 수 있습니다. 최근 30일간 발송한 이메일의 성과, 24개월 간의 구독자 증감 현황 등 기간을 기준으로 한 통계 지표를 확인할 수 있습니다. 기간별 통계 지표가 궁금하다면 아래 도움말을 참고해 주세요.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/vaNRG77cquyOivdtj2va" %}
+[Broken link](/broken/pages/vaNRG77cquyOivdtj2va)
 {% endcontent-ref %}
 
 

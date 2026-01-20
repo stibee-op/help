@@ -16,7 +16,7 @@
 
 ## 통계 조건 설정하기 <a href="#id-01h5sb5zt1g27gat0xdw1m9mgg" id="id-01h5sb5zt1g27gat0xdw1m9mgg"></a>
 
-기간과 [주소록](broken-reference), [태그](../email/manage/tag.md) 조건을 설정해 조건에 맞는 통계 데이터를 확인할 수 있습니다.
+기간과 [주소록](/broken/pages/mQ3AQKcxfXYxzAr3KgkI), [태그](../email/manage/tag.md) 조건을 설정해 조건에 맞는 통계 데이터를 확인할 수 있습니다.
 
 * 기간: 오늘을 기준으로 최대 24개월까지 선택할 수 있습니다.
 * 주소록: 여러 주소록을 중복으로 선택할 수 있습니다.
