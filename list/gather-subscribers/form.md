@@ -68,7 +68,7 @@
 
 ## 구독 폼 URL 확인하기 <a href="#h_01ggcbn8tqknhrf5wfxpwzn8gv" id="h_01ggcbn8tqknhrf5wfxpwzn8gv"></a>
 
-구독 폼 페이지로 연결되는 URL을 확인할 수 있습니다. URL은 자동으로 생성되며 수정할 수 없습니다.
+\[주소록 → 구독 화면]으로 이동한 뒤, \[구독 폼] 부분에서 구독 폼 페이지로 연결되는 URL을 확인할 수 있습니다. URL은 자동으로 생성되며 수정할 수 없습니다. \[URL 복사하기]를 클릭하면 URL이 자동으로 복사됩니다.
 
 ![](<../../.gitbook/assets/4 (10).png>)
 

@@ -16,8 +16,7 @@
 
 구독 폼 URL에 이름(name) 필드를 파라미터로 미리 입력했을 때와 입력하지 않았을 때를 비교해 보면,
 
-* 파라미터가 없는 구독 폼 URL
-  * https://page.stibee.com/subscriptions/187957
+* 파라미터가 없는 구독 폼 URL: https://page.stibee.com/subscriptions/187957
   * 이름 필드가 비어 있습니다.
 
 <figure><img src="../../.gitbook/assets/파라미터 이해하기_1 (1).png" alt=""><figcaption></figcaption></figure>
@@ -83,7 +82,7 @@
 
 
 
-### HTML 코드로 구독 폼을 사용하는 경우 <a href="#html" id="html"></a>
+### HTML 코드에서 구독 폼 그룹 파라미터 사용하기 <a href="#html" id="html"></a>
 
 **\*주의:** groupIds의 I는 영어 대문자 I(아이)입니다.
 
@@ -119,17 +118,22 @@ groupIds=12345
 
 구독자를 모집할 때, 구독자가 직접 입력하지 않은 정보도 사용자 정의 필드 파라미터로 자동 수집할 수 있습니다. 사용자 정의 필드의 키(key) 값을 파라미터로 사용하면, 구독 신청 시 해당 값이 자동으로 입력됩니다.
 
-#### field\_key 확인 방법
+예를 들어, 같은 구독 폼을 여러 SNS에 홍보하는 경우, URL마다 값을 입력해 유입 경로별 추적이 가능합니다.
 
-**\*주의:** field\_key의 I는 영어 대문자 I(아이)입니다.
+* 페이스북 그룹: https://page.stibee.com/subscriptions/3?route=facebook
+* 인스타그램 그룹: https://page.stibee.com/subscriptions/3?route=instagram
+
+사용자 정의 필드가 삭제되더라도 기존 URL은 계속 사용할 수 있지만, 사용자 정의 필드 자동 입력은 적용되지 않습니다. 사용자 정의 필드 관련한 자세한 내용은 [구독자 정보 이해하기](../adding-managing-subscriber/understanding-subscriber-info.md) 도움말을 참고해 주세요.&#x20;
+
+#### field\_key 확인 방법
 
 1. 주소록 목록에서 원하는 주소록을 선택합니다.
 2. \[사용자 정의 필드] 메뉴로 이동합니다.
 3. 각 필드에 설정된 키(key) 값을 확인합니다. 필요하다면 이 단계에서 사용자 정의 필드를 새로 생성할 수 있습니다.
 
-사용자 정의 필드가 삭제되더라도 기존 URL은 계속 사용할 수 있지만, 사용자 정의 필드 자동 입력은 적용되지 않습니다. 사용자 정의 필드 관련한 자세한 내용은 [구독자 정보 이해하기](../adding-managing-subscriber/understanding-subscriber-info.md) 도움말을 참고해 주세요.&#x20;
+**\*주의:** field\_key의 I는 영어 대문자 I(아이)입니다.
 
-### 스티비 구독 폼 URL에서 사용하기
+### 스티비 구독 폼 URL에서 자동으로 값 입력하기
 
 **\*주의:** field\_key의 I는 영어 대문자 I(아이)입니다.
 
@@ -147,7 +151,7 @@ groupIds=12345
 
 * https://page.stibee.com/subscriptions/3?route=stibee
 
-### HTML 내보내기로 구독 폼을 사용하는 경우
+### HTML 코드 구독 폼에서 자동으로 값 입력하기기
 
 **\*주의:** field\_key의 I는 영어 대문자 I(아이)입니다.
 
@@ -162,7 +166,7 @@ https://stibee.com/api/v1.0/lists/TYW5AcyOVE51JOZtmxyaTL8zPkJ/public/subscribers
 {% code title="수정 후" overflow="wrap" %}
 ```
 https://stibee.com/api/v1.0/lists/TYW5AcyOVE51JOZtmxyaTL8zPkJ/public/subscribers
-?channel=랜딩페이지
+?field_key=field_value
 ```
 {% endcode %}
 
