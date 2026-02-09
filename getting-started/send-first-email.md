@@ -10,7 +10,7 @@
 
 화면 왼쪽 위에 있는 메인 메뉴 중 \[이메일 → 새로 만들기 → 일반 이메일 만들기]를 클릭해 새로운 이메일을 만듭니다. 처음 회원가입 했을 때 자동으로 만들어진 샘플 이메일인 '스티비 이메일 에디터를 체험해 보세요'를 클릭해서 편집해도 됩니다.
 
-<figure><img src="../.gitbook/assets/이메일_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/첫 이메일 보내기.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -24,19 +24,31 @@
 
 이메일을 보낼 주소록을 선택하는 단계입니다. [그룹](../list/classify-subscribers/how-to-use-groups.md)이나 [세그먼트](../list/classify-subscribers/how-to-use-segment.md)를 사용해 전체 구독자 중 일부에게만 이메일을 보낼 수도 있습니다.
 
-<figure><img src="../.gitbook/assets/주소록 선택.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/첫 이메일 보내기2.png" alt=""><figcaption></figcaption></figure>
 
 ### A/B 테스트
 
-발송 성과 개선을 위해 기준에 따라 A/B 테스트를 진행하고 싶은 경우 이 단계에서 설정합니다. 테스트를 진행하지 않고 싶은 경우에는 \[아니오]를 선택하고 다음으로 넘어갑니다.  A/B 테스트에 대해 더 자세한 내용이 궁금한 경우에는 아래 링크를 참고하세요.
+발송 성과 개선을 위해 기준에 따라 A/B 테스트를 진행하고 싶은 경우 이 단계에서 설정합니다. 테스트를 진행하지 않고 싶은 경우에는 \[아니오]를 선택하고 다음으로 넘어갑니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+A/B 테스트에 대해 더 자세한 내용이 궁금한 경우에는 아래 링크를 참고하세요.
+
+{% content-ref url="../email/a-b-test.md" %}
+[a-b-test.md](../email/a-b-test.md)
+{% endcontent-ref %}
+
+<figure><img src="../.gitbook/assets/첫 이메일 보내기3.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### 발송정보
 
 \[발송정보]에서는 보낼 이메일의 제목과 보내는 사람 정보(발신자 이메일 주소, 발신자 이름) 그리고 미리보기 텍스트를 설정합니다. 원하는 이메일의 제목과 발신자 이름을 입력하고 다음 단계로 넘어갑니다.
 
 정보를 모두 설정했다면, \[다음 → 템플릿] 단계로 이동하세요.
+
+<figure><img src="../.gitbook/assets/첫 이메일 보내기4.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### 템플릿
 
@@ -47,23 +59,23 @@
 
     **\*주의:** 이메일 편집 중 템플릿을 변경하는 경우, 앞서 작업한 내용이 모두 사라집니다.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 원하는 템플릿을 선택한 뒤, \[다음 → 콘텐츠] 단계로 이동하세요.
+
+<figure><img src="../.gitbook/assets/첫 이메일 보내기5.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### 콘텐츠
 
-\[콘텐츠] 단계에서는 에디터를 사용해 이메일을 편집할 수 있습니다. 오른쪽 편집 상자에서 원하는 상자를 클릭 후 드래그하여 왼쪽 편집 화면에 추가할 수 있습니다. 스티비에서는 텍스트, 이미지, 버튼 상자 등을 제공하고 있습니다.&#x20;
-
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
+\[콘텐츠] 단계에서는 에디터를 사용해 이메일을 편집할 수 있습니다. 오른쪽 편집 상자에서 원하는 상자를 클릭 후 드래그하여 왼쪽 편집 화면에 추가할 수 있습니다. 스티비에서는 텍스트, 이미지, 버튼 상자 등을 제공하고 있습니다.
 
 콘텐츠 편집 방법에 대한 더 자세한 내용은 아래 도움말을 참고해 주세요.
 
 {% content-ref url="../email/undefined-1/" %}
 [undefined-1](../email/undefined-1/)
 {% endcontent-ref %}
+
+<figure><img src="../.gitbook/assets/첫 이메일 보내기6.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -75,27 +87,25 @@
 테스트 이메일은 발송 횟수 제한이 없습니다. 실제 발송 전에 충분히 테스트해 보세요.
 {% endhint %}
 
-콘텐츠 편집을 마무리했다면 이메일을 발송하기 전, \[테스트 발송하기]를 사용해 이메일 제목이나 콘텐츠가 의도한 대로 표현되는지, 링크 연결은 잘 되는지 등을 확인할 수 있습니다. 편집 화면 오른쪽 위에 있는 \[테스트 발송하기]를 클릭하여 테스트 메일을 받을 이메일 주소를 입력한 뒤, \[테스트 발송하기]를 클릭하면 입력한 이메일 주소로 테스트 메일이 발송됩니다.
+콘텐츠 편집을 마무리했다면 이메일을 발송하기 전, \[테스트 발송하기]를 사용해 이메일 제목이나 콘텐츠가 의도한 대로 표현되는지, 링크 연결은 잘 되는지 등을 확인할 수 있습니다.&#x20;
 
-<figure><img src="../.gitbook/assets/테스트 발송하기.gif" alt=""><figcaption></figcaption></figure>
+편집 화면 오른쪽 위에 있는 \[테스트 발송하기]를 클릭하여 테스트 메일을 받을 이메일 주소를 입력한 뒤, \[테스트 발송하기]를 클릭하면 입력한 이메일 주소로 테스트 메일이 발송됩니다.
+
+<figure><img src="../.gitbook/assets/첫 이메일 보내기7.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/첫 이메일 보내기8.png" alt=""><figcaption></figcaption></figure>
 
 
 
 ### 예약 발송하기
 
-\[예약하기]는 원하는 날짜와 시간을 설정하여 이메일 발송을 예약하는 기능입니다.&#x20;
-
-<figure><img src="../.gitbook/assets/예약하기.gif" alt=""><figcaption></figcaption></figure>
-
-예약된 이메일이 아직 발송되지 않았다면 언제든 예약을 취소하고 수정할 수 있습니다.&#x20;
+\[예약하기]는 원하는 날짜와 시간을 설정하여 이메일 발송을 예약하는 기능입니다. 예약된 이메일이 아직 발송되지 않았다면 언제든 예약을 취소하고 수정할 수 있습니다.&#x20;
 
 1. 화면 가장 위에 있는 메인 메뉴에서 \[이메일]을 클릭해 이메일 목록으로 이동합니다.
 2. \[예약 중] 상태의 이메일을 찾습니다.
 3. 오른쪽에 있는 \[더 보기(∨) → 예약 취소하기]를 클릭해 예약을 취소할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/예약취소.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/첫 이메일 보내기10.png" alt=""><figcaption></figcaption></figure>
 
 ### 발송하기
 
@@ -103,7 +113,7 @@
 
 **\*주의:** 발송된 이메일은 이메일의 특성상 내용 수정, 발송 취소, 회수가 불가능합니다. 마지막까지 전체 내용을 잘 입력했는지 꼼꼼히 확인해 주세요.
 
-<figure><img src="../.gitbook/assets/발송하기.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/첫 이메일 보내기9.png" alt=""><figcaption></figcaption></figure>
 
 
 

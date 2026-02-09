@@ -7,9 +7,7 @@
 요금제에 따라 사용할 수 있는 기능에 차이가 있습니다. 내게 맞는 요금제가 무엇인지 헷갈린다면, 각 요금제가 제공하는 기능을 살펴보세요.
 
 {% hint style="info" %}
-내 상황에 맞는 요금제가 궁금하다면 [여기](https://stibee.channel.io/workflows/774338)에서 질문을 따라가 보세요.
-
-지금 상황에 가장 알맞은 요금제를 확인할 수 있습니다.
+내 상황에 맞는 요금제가 궁금하다면 [여기](https://stibee.channel.io/workflows/774338)에서 질문을 따라가 보세요. 지금 상황에 가장 알맞은 요금제를 확인할 수 있습니다.
 {% endhint %}
 
 ***
@@ -19,6 +17,8 @@
 스티비 요금제는 [스타터](type.md#starter), [스탠다드](type.md#standard), [프로](type.md#pro), [엔터프라이즈](type.md#enterprise) 네 가지로 구성됩니다. 요금제별로 사용할 수 있는 기능과 사용료가 다릅니다.&#x20;
 
 요금제별 제공 기능과 사용료는 아래에서 확인할 수 있습니다.
+
+<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
 
 
 

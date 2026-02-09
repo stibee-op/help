@@ -14,7 +14,7 @@
 
 메일머지 기능을 활용해서 이메일을 보내는 경우, 실제 발송 시 각 구독자의 정보가 자동으로 치환되므로 동일한 내용의 이메일을 보내더라도 구독자 개개인에게 맞춘 느낌을 줄 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/개인화된 메시지 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -59,13 +59,17 @@ A 주소록에 dooly@stibee.com 구독자의 '회사명' 필드 값이 ‘스티
 
 #### 메일머지 입력 버튼 이용하기 <a href="#h_01gg72nht9e5hwjss9zkz6vwf7" id="h_01gg72nht9e5hwjss9zkz6vwf7"></a>
 
-이메일 제목 입력창과 편집기의 텍스트 상자를 사용하는 경우 툴바 윗부분에 메일머지 코드를 입력할 수 있는 버튼이 표시됩니다. 버튼을 클릭해 입력하고 싶은 \[사용자 정의 필드]를 선택하면 자동으로 메일머지 형식에 맞는 값이 입력됩니다.&#x20;
+이메일 제목 입력창과 편집기의 텍스트 상자를 사용하는 경우 툴바 윗부분에 메일머지 코드를 입력할 수 있는 버튼이 표시됩니다. 버튼을 클릭해 입력하고 싶은 \[사용자 정의 필드]를 선택하면 자동으로 메일머지 형식에 맞는 값이 입력됩니다.
 
-<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/개인화된 메시지2.png" alt=""><figcaption></figcaption></figure>
+
+
 
 이메일 본문에서도 같은 방법으로 메일머지 치환자를 버튼으로 간단하게 입력할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/개인화된 메시지3.png" alt=""><figcaption></figcaption></figure>
+
+
 
 #### 직접 입력하기 <a href="#h_01gg72npydwncy0b92apvnhd39" id="h_01gg72npydwncy0b92apvnhd39"></a>
 
@@ -99,7 +103,7 @@ $%name%$
 3. 이메일 주소 오른쪽에 표시되는 필드 정보에 원하는 값을 입력합니다.
 4. 테스트 메일을 보냅니다.
 
-<figure><img src="../../.gitbook/assets/메일머지_테스트 발송.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/개인화된 메시지4.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -109,7 +113,7 @@ $%name%$
 메일머지 기능은 기본적으로 '유료 요금제'에서만 제공되는 기능이지만, 기본 필드를 활용한 메일머지 기능은 무료인 스타터 요금제에서도 사용할 수 있습니다.
 {% endhint %}
 
-[사용자 정의 필드](../../list/adding-managing-subscriber/understanding-subscriber-info.md)에는 사용자가 직접 등록할 수 있는 '사용자 정의 필드' 외에 시스템에서 제공하는 몇 가지 '기본 필드'가 있습니다. 기본 필드에 메일머지를 적용해서 구독자마다 개인화된 이메일을 만드는 것이 가능합니다. 기본 필드 종류가 궁금하다면 [#undefined-6](../../list/adding-managing-subscriber/understanding-subscriber-info.md#undefined-6 "mention") 도움말을 참고해 주세요.
+사용자 정의 필드에는 사용자가 직접 등록할 수 있는 '사용자 정의 필드' 외에 시스템에서 제공하는 몇 가지 '기본 필드'가 있습니다. 기본 필드에 메일머지를 적용해서 구독자마다 개인화된 이메일을 만드는 것이 가능합니다. 기본 필드 종류가 궁금하다면 [사용할 수 있는 기본 필드 목록](../../list/adding-managing-subscriber/understanding-subscriber-info.md#h_01gg9m8qb1mjndpp2a89y41n8c) 도움말을 참고해 주세요.
 
 
 
@@ -152,7 +156,9 @@ $%name%$
 3. 목록에서 \[가장 최근에 발송한 이메일의 공유용 URL]을 선택하면 기본 메일 머지 필드가 입력됩니다.
 4. 또는 기본 메일머지 코드 $%permalink\_latest%$ 를 링크 입력 창에 직접 입력해도 됩니다.
 
-<figure><img src="../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/개인화된 메시지5 (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/개인화된 메시지6.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -165,7 +171,9 @@ $%name%$
 3. 입력창 오른쪽에 있는 \[ { } ]를 클릭하고 \[구독 정보 변경 화면 URL]을 선택합니다. 또는 $%preferences%$를 링크에 직접 입력해도 됩니다.
 4. 이메일을 발송하면 $%preferences%$가 자동으로 이메일이 발송된 주소록의 \[구독 정보 변경 화면] URL로 변환됩니다.
 
-<figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/개인화된 메시지5 (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/개인화된 메시지7.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -204,4 +212,4 @@ list\_name 라는 키(Key) 값은 기본 필드에 이미 존재하는 키 값�
 - 발송 후: 안녕하세요, 동희님!
 ```
 
-따라서 사용자 정의 필드를 설정할 때는 설정할 때는 기본 필드의 키 값과 중복되지 않는지 확인하는 것을 추천합니다. 기본 필드의 종류는 [#h\_01gg9m8qb1mjndpp2a89y41n8c](../../list/adding-managing-subscriber/understanding-subscriber-info.md#h_01gg9m8qb1mjndpp2a89y41n8c "mention") 에서 확인할 수 있습니다.
+따라서 사용자 정의 필드를 설정할 때는 설정할 때는 기본 필드의 키 값과 중복되지 않는지 확인하는 것을 추천합니다. 기본 필드 종류가 궁금하다면 [사용할 수 있는 기본 필드 목록](../../list/adding-managing-subscriber/understanding-subscriber-info.md#h_01gg9m8qb1mjndpp2a89y41n8c) 도움말을 참고해 주세요.
