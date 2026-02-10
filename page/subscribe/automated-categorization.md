@@ -12,15 +12,17 @@
 
 예를 들어, 페이지 URL에 이름(name) 필드를 파라미터로 미리 입력했을 때와 입력하지 않았을 때를 비교해 보면,
 
-* 파라미터가 적용되지 않은 페이지 URL에서 \[구독하기]를 눌렀을 때: https://helpstibee.stibee.com
-  * 이름 필드가 비어 있습니다.
+* 파라미터가 적용되지 않은 페이지 URL에서 \[구독하기]를 눌렀을 때
+  * https://helpstibee.stibee.com
+    * 이름 필드가 비어 있습니다.
 
 <figure><img src="../../.gitbook/assets/페이지 파라미터.png" alt=""><figcaption></figcaption></figure>
 
 
 
-* 파라미터가 적용된 페이지 URL에서 \[구독하기]를 눌렀을 때: https://helpstibee.stibee.com?name=스티비
-  * 이름 필드에 '스티비'가 자동 입력됩니다.
+* 파라미터가 적용된 페이지 URL에서 \[구독하기]를 눌렀을 때:
+  * https://helpstibee.stibee.co&#x6D;**?name=스티비**
+    * 이름 필드에 '스티비'가 자동 입력됩니다.
 
 <figure><img src="../../.gitbook/assets/페이지 파라미터2.png" alt=""><figcaption></figcaption></figure>
 

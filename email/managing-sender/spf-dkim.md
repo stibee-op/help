@@ -2,139 +2,146 @@
 
 ## 이 글에서는
 
-스티비와 같은 이메일 마케팅 서비스를 사용할 때 이메일이 스팸으로 표시되는 확률을 미리 방지하기 위해서는 발신자의 신뢰도를 확보할 수 있는 설정을 미리 해줘야 합니다. 이 설정을 SPF, DKIM 설정이라고 합니다.&#x20;
+이메일이 스팸으로 분류되는 확률을 낮추기 위해 필요한 SPF, DKIM 설정의 개념과 기본적인 설정 방법을 안내합니다.
+
+스티비와 같은 이메일 마케팅 서비스를 사용할 때, 발신자 신뢰도가 충분히 확보되지 않으면 이메일이 스팸으로 분류되거나 전송이 차단될 수 있습니다. 이를 위한 대표적인 방법이 바로 SPF, DKIM 설정입니다.
 
 ***
 
+{% hint style="info" %}
+이 도움말은 SPF, DKIM 설정에 대한 개념을 이해하고, 설정이 필요한 상황을 판단할 수 있도록 돕기 위한 목적으로 작성되었습니다. 설정이 정상적으로 완료되었는지 확인하고 싶다면 [스티비 실험실](https://lab.stibee.com/)에서 바로 조회할 수 있습니다.
+{% endhint %}
+
 ## 시작하기 전에 <a href="#h_01h9mgety1e8twf12twdq43z1x" id="h_01h9mgety1e8twf12twdq43z1x"></a>
 
-SPF, DKIM 설정은 발신자 주소의 '도메인(URL)'에 하는 설정입니다. 예를 들어, 사용하는 발신자 이메일 주소가 dooly@stibee.com이라면 예시 주소의 도메인에 해당하는 stibee.com에 추가하는 설정입니다. 따라서 본인이 구입해서 도메인을 가지고 있는 경우에만 설정이 가능하며 공개된 도메인(예: naver.com, gmail.com, kakao.com 등) 또는 본인이 가지고 있지 않은 도메인(예: stibee.com)에는 설정할 수 없습니다.
+SPF, DKIM 설정은 발신자 이메일 주소의 '도메인(URL)'에 적용하는 설정입니다. 예를 들어, 발신자 이메일 주소가 dooly@stibee.com이라면 stibee.com 도메인의 DNS 설정에 값을 추가해야 합니다.
 
-최근 [G메일](https://support.google.com/a/answer/81126?hl=ko\&ref=blog.stibee.com\&visit_id=638560892233199959-2361375663\&rd=1)과 [네이버 메일](https://notice.naver.com/notices/mail/15568)의 수신 정책이 강화되어 G메일 또는 네이버 메일을 사용하는 구독자에게 이메일을 보낼 때 메일 인증(SPF, DKIM)이 이루어지지 않은 발신자 이메일 주소로 발송하는 경우 전송 속도가 느려지거나, 차단되거나, 스팸으로 표시될 수 있습니다. 그러므로 장기적으로 이메일을 보낼 계획이라면 도메인을 구입하여 SPF, DKIM 설정한 뒤 발송하는 것을 권장합니다.&#x20;
+따라서, 직접 소유한 도메인이 있는 경우에만 설정할 수 있으며, 공개 도메인(예. gmail.com, naver.com, kakao.com)이나 본인이 소유하지 않은 도메인에는 설정할 수 없습니다.
 
-도메인을 구입해서 발신자 이메일 주소를 생성하는 방법은 아래 도움말을 참고하세요.\
-[나만의 발신자 주소를 만들고 싶어요](../../getting-started/preparing-for-start/custom-sender-address.md)
+최근 [G메일](https://support.google.com/a/answer/81126?hl=ko\&ref=blog.stibee.com\&visit_id=638560892233199959-2361375663\&rd=1), [네이버 메일](https://notice.naver.com/notices/mail/15568)의 수신 정책이 강화되면서 SPF, DKIM 설정이 되어 있지 않은 발신자 주소로 발송한 이메일은 전송 속도가 느려지거나, 차단되거나, 스팸으로 표시될 수 있습니다. 장기적으로 이메일을 보낼 계획이라면, 도메인을 구입한 뒤 SPF, DKIM 설정을 완료하고 발송하는 것을 권장합니다.
 
-\* _이 도움말은 SPF, DKIM 설정에 대한 개념을 설명하기 위한 목적으로 작성됐습니다. 설정이 잘 완료됐는지 조회하고 싶은 경우에는_ [_스티비 실험실_](https://lab.stibee.com/)_에서 바로 확인할 수 있습니다._
+도메인을 구입해서 발신자 이메일 주소를 생성하는 방법은 아래 도움말을 참고하세요.
+
+{% content-ref url="../../getting-started/preparing-for-start/custom-sender-address.md" %}
+[custom-sender-address.md](../../getting-started/preparing-for-start/custom-sender-address.md)
+{% endcontent-ref %}
 
 
 
 ## SPF, DKIM이 뭔가요? <a href="#understand" id="understand"></a>
 
-SPF(Sender Policy Framework)와 DKIM(Domainkeys Identified Mail)은 이메일 수신 서비스(예: 네이버, 구글, 다음, 기업 메일 등)에서 이메일 발신자가 신뢰할 만한 주소인지 '신뢰도'를 검증해 이메일 수신자에게 스팸 메일이 전달되는 것을 막기 위해 널리 사용되는 방법입니다.&#x20;
+이메일 수신 서비스(예. G메일, 네이버 메일, 기업메일 등)에서 이메일 발신자가 신뢰할 만한 주소인지 '신뢰도'를 검증해 이메일 수신자에게 스팸 메일이 전달되는 것을 막기 위해 널리 사용되는 방법입니다.
 
-구독자는 이메일을 받아보기 위해 구글, 네이버, 다음 또는 기업 메일 등에서 제공하는 이메일 서비스를 사용합니다. 이메일 서비스를 운영하는 업체들은 본인의 고객들에게 안전한 이메일만 전달이 될 수 있도록 저마다의 방식으로 발신자의 신뢰도를 검증합니다. 여기서 이메일 서비스의 신뢰도 검증을 통과하지 못한 발신자가 보내는 이메일은 수신을 차단하거나 스팸으로 분류합니다.&#x20;
+* SPF: Sender Policy Framework
+* DKIM: Domainkeys Identified Mail
 
-스티비와 같은 이메일 마케팅 서비스를 사용해 이메일을 보내면 내가 가지고 있는 발송 서버가 아닌 사용하는 서비스에서 가지고 있는 서버로 발송이 이루어집니다. 따라서 내가 가지고 있는 서버가 아닌 다른 곳에서 내 발신자 주소를 사용해 이메일을 보내고 있다면 수신 서비스 쪽에서는 이 이메일을 의심스럽다고 판단할 수 있는데요.
+<figure><img src="../../.gitbook/assets/SPF, DKIM.png" alt=""><figcaption></figcaption></figure>
 
-이 경우 이메일 수신 서비스에서는 이 발신자가 보내는 이메일의 신뢰도를 의심하여 차단하거나 스팸으로 분류할 가능성이 높아집니다. 따라서 이메일 수신 서비스에 "스티비 서버에서 보낸 이메일도 내가 보낸 것이 맞다."는 것을 알려 이메일이 스팸 메일로 분류되는 확률을 기술적으로 낮출 수 있습니다. 이 행동을 "스티비의 SPF, DKIM 레코드를 우리 도메인에 추가한다."고 표현합니다.&#x20;
+
+
+스티비를 통해 이메일을 발송하면, 내가 직접 운영하는 서버가 아니라 스티비의 발송 서버를 통해 이메일이 전송됩니다. 이 경우 수신 서비스 입장에서는 "이 도메인의 이메일을 다른 서버가 대신 보내고 있네?" 라고 판단할 수 있습니다. 이로 인해, 수신 서비스 입장에서는 이메일을 의심스럽다고 볼 수 있는데요.
+
+SPF, DKIM 설정은 수신 서비스에 "스티비 서버에서 보낸 이메일도 내가 보낸 게 맞다"는 것을 기술적으로 증명하는 역할을 합니다. 이를 통해 이메일이 스팸으로 분류될 확률을 낮출 수 있습니다.
+
+이 과정을 "스티비의 SPF, DKIM 레코드를 우리 도메인에 추가한다."고 표현합니다.
 
 
 
 ## SPF, DKIM 설정은 왜 해야 하나요? <a href="#h_01h110pvcg49rkdv0eawp70p8r" id="h_01h110pvcg49rkdv0eawp70p8r"></a>
 
-SPF와 DKIM 설정을 하게 되면 '의심스러운 발신자'를 이유로 이메일의 수신이 차단되거나 스팸으로 분류되는 확률을 낮출 수 있습니다. 스티비는 기본적으로 이 발신자 주소가 의심스러운 주소인지 여부를 확인하기 위해 이메일 인증을 통해 발신자 주소의 소유를 확인하고 있습니다. 따라서 SPF, DKIM 설정을 하지 않아도 서비스를 사용해 이메일 발송을 진행할 수 있습니다.
+SPF, DKIM 설정을 하지 않아도 스티비에서 이메일을 발송할 수는 있습니다. 다만, 설정을 완료하면 다음과 같은 효과를 기대할 수 있습니다.
 
-다만, SPF, DKIM 설정을 하고 발송하게 되면 스팸 메일로 분류되는 확률을 많이 줄일 수 있습니다. 이메일 마케팅이나 이메일 뉴스레터 발송을 지속하고 싶은 계획이 있다면 도메인을 구입해 SPF, DKIM 설정한 뒤에 이메일을 발송하는 것을 권장합니다.
+* 이메일이 '의심스러운 발신자'로 판단될 가능성이 낮아집니다.
+* 이메일이 스팸으로 분류되거나 차단될 확률을 줄일 수 있습니다.
+* G메일, 네이버 메일 등 주요 이메일 수신 서비스의 수신 정책을 충족할 수 있습니다.
 
-SPF, DKIM 설정은 하지 않아도 이메일을 발송할 수 있지만 구독자가 사용하는 이메일 수신 서비스의 수신 정책에 따라 SPF와 DKIM 레코드가 등록해야만 이메일을 받아볼 수 있는 경우가 있습니다. 이메일의 콘텐츠나 제목, 정당한 절차에 따라 수신 동의를 받은 구독자 DB에 발송하는 경우에도 스팸으로 분류되는 문제가 있다면 도메인에 SPF, DKIM 레코드를 발신자 도메인에 추가해 주는 것이 좋습니다.
+특히 정당한 절차로 수신 동의를 받은 구독자에게 이메일을 보내고 있음에도 지속적으로 스팸으로 분류되는 문제가 발생한다면, 발신자 도메인에 SPF, DKIM 설정을 추가하는 것이 좋습니다.
 
 <figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
 
-SPF, DKIM을 설정하지 않으면 구독자의 이메일 수신 서비스에서 이러한 경고 메시지가 표시되는 경우도 있습니다.
+_\* SPF, DKIM을 설정하지 않으면 구독자의 이메일 수신 서비스에서 이러한 경고 메시지가 표시될 수 있습니다._
+
+
 
 ## SPF, DKIM 설정하기 <a href="#h_01h110pzv84f02jnvmgmn7dvjx" id="h_01h110pzv84f02jnvmgmn7dvjx"></a>
 
 {% hint style="info" %}
-SPF, DKIM 설정은 도메인에 해야 하는 설정입니다. 따라서 도메인 설정을 직접 수정하실 수 없는 경우라면 내부의 도메인이나 서버 관리자에게 이 도움말 내용을 전달하여 설정을 요청하시면 됩니다. 아래 내용은 직접 설정하시는 경우에 참고하시면 좋습니다.
+SPF, DKIM 설정은 도메인의 DNS 설정에서 진행합니다. 도메인 설정을 직접 수정할 수 없는 경우에는 내부의 도메인 관리자나 서버 관리자에게 이 도움말을 전달해 설정을 요청해 주세요.
+
+아래 내용은 직접 설정을 진행하는 경우에 참고할 수 있는 가이드입니다.
 {% endhint %}
 
 ### 내 도메인 관리 서비스 확인하기 <a href="#h_01h110q57sh5vs16d6dc4p5n5x" id="h_01h110q57sh5vs16d6dc4p5n5x"></a>
 
-SPF, DKIM 설정은 도메인에 해줘야 하는 설정이기 때문에 내 도메인을 관리하는 서비스(네임서버가 등록된 곳)에서 설정해 주면 됩니다. 도메인의 네임 서버가 등록된 곳은 상황에 따라 다르지만 보통 처음 도메인을 구입한 곳에 등록되어 있을 확률이 높습니다. 자세한 내용은 도메인을 구입한 곳의 고객센터를 통해 문의해 보시면 안내 받아보실 수 있습니다.&#x20;
+SPF, DKIM 설정은 도메인을 관리하는 서비스(네임서버가 등록된 곳)에서 진행합니다. 대부분의 경우 도메인을 처음 구입한 업체에서 관리하고 있습니다.
 
-\
-[_후이즈 도메인 조회_](https://xn--c79as89aj0e29b77z.xn--3e0b707e/kor/whois/whois.jsp)_에서 직접 확인하는 것도 가능합니다. 검색창에 도메인을 입력하고 결과에 'name server' 부분에 입력된 링크가 내 도메인의 네임서버가 등록된 곳입니다._
+도메인 관리 서비스를 확인하기 어렵다면, [후이즈 조회 서비스](https://xn--c79as89aj0e29b77z.xn--3e0b707e/kor/whois/whois.jsp)를 통해 도메인을 검색한 뒤 'name server' 항목에 표시된 정보를 확인해 주세요.
 
 
 
 ### 발신자 이메일 주소 도메인의 DNS 관리 화면으로 이동하기 <a href="#h_01hq81x80tf4sr4nxya5z9bra0" id="h_01hq81x80tf4sr4nxya5z9bra0"></a>
 
-네임서버가 설치된 내 도메인 관리 서비스를 확인했다면 다음은 관리 서비스의 'DNS 관리' 화면으로 이동해 설정을 해주면 됩니다. 도메인 관리 서비스마다 경로가 다르지만 일반적으로 '도메인 관리' 또는 'DNS 관리' 등의 화면을 찾으시면 됩니다. 아래 서비스를 사용하고 있다면 링크된 각 도움말을 참고해 주세요. 아래 업체가 아닌 다른 업체에서 서비스를 사용하고 있다면 그 서비스의 고객센터로 문의하면 자세하게 안내받을 수 있습니다.
+도메인 관리 서비스를 확인했다면, 'DNS 관리' 또는 '도메인 관리' 화면으로 이동합니다.
 
-* **카페24**
-  * SPF 설정 방법: [카페24 도메인 DNS레코드 설정은 어떻게 하나요?](https://help.cafe24.com/cs/cs_faq_view.php?idx=3766) 4. SPF 관리
-  * DKIM 설정 방법: [카페24 도메인 DNS레코드 설정은 어떻게 하나요? ](https://help.cafe24.com/cs/cs_faq_view.php?idx=3766)3. 별칭(CNAME) 관리
-* **가비아**
-  * SPF 설정 방법: [DNS 레코드 설정하기](https://customer.gabia.com/manual#/domain/287/1201) 4) TXT 레코드 설정하기 (SPF 레코드)
-  * DKIM 설정 방법: [DNS 레코드 설정하기](https://customer.gabia.com/manual#/domain/287/1201) 3) CNAME 레코드 설정하기 (별칭 레코드)
-* **후이즈**
-  * SPF 설정 방법: [SPF(TXT) 값은 어떻게 설정하나요?](http://cs.whois.co.kr/faq/?p=list\&service=1\&category=\&keyfield=subject\&keyword=SPF)
-  * DKIM 설정 방법: [CNAME 레코드 설정하는 방법을 알려주세요.](http://cs.whois.co.kr/faq/?p=list\&service=1\&category=\&keyfield=content\&keyword=CNAME)
-* **구글 도메인**
-  * [리소스 레코드](https://support.google.com/domains/answer/3290350?hl=ko\&ref_topic=9018335)
+아래는 자주 사용되는 도메인 관리 서비스별 설정 안내입니다. 목록에 없는 서비스를 사용 중이라면, 각 서비스의 고객센터를 통해 안내받을 수 있습니다.
 
-_\*구글 도메인에서 도메인을 구입하고 이 도메인에 구글 워크스페이스를 함께 사용하는 경우에는 DNS 설정을 수정할 때 주의해야 할 점이 있습니다. 자세한 내용은_ [_여기_](../questions.md#google-domain-google-workspace)_를 참고하세요._
+* 카페24
+  * SPF: [TXT 레코드 설정 (SPF 관리)](https://help.cafe24.com/faq/domain/dns-management/connect-domain-to-external-hosting-mail/#-txt-%EA%B4%80%EB%A6%AC)
+  * DKIM: [CNAME 레코드 설정 (별칭 관리)](https://help.cafe24.com/faq/domain/dns-management/connect-domain-to-external-hosting-mail/#-%EB%B3%84%EC%B9%ADcname-%EA%B4%80%EB%A6%AC)
+* 후이즈:&#x20;
+  * SPF: [SPF(TXT) 값은 어떻게 설정하나요?](http://cs.whois.co.kr/faq/?p=list\&service=1\&category=\&keyfield=subject\&keyword=SPF)
+  * DKIM: [CNAME 레코드 설정하는 방법을 알려주세요.](http://cs.whois.co.kr/faq/?p=list\&service=1\&category=\&keyfield=content\&keyword=CNAME)&#x20;
+* 가비아: [DNS 레코드 설정하기](https://customer.gabia.com/manual#/domain/287/1201)
+* 구글 도메인: [리소스 레코드](https://support.google.com/domains/answer/3290350?hl=ko\&ref_topic=9018335)
+  * 구글 도메인에서 도메인을 구입하고 이 도메인에 구글 워크스페이스를 함께 사용하는 경우에는 DNS 설정을 수정할 때 주의해야 할 점이 있습니다. 자세한 내용은 [여기](../questions.md#google-domain-google-workspace)를 참고하세요.
 
 
 
-### 도메인의 SPF, DKIM 설정을 위한 값을 추가 <a href="#h_01h110r106ca5d9t7kcdg00hgm" id="h_01h110r106ca5d9t7kcdg00hgm"></a>
+### SPF, DKIM 설정을 위한 값을 추가 <a href="#h_01h110r106ca5d9t7kcdg00hgm" id="h_01h110r106ca5d9t7kcdg00hgm"></a>
 
-이제 발신자 주소의 '도메인'의 설정값에 스티비의 SPF, DKIM 값을 추가하면 됩니다. 아래 내용을 직접 설정하기 어렵다면, 도메인 관리자나 서버 관리자에게 문의하여 설정을 요청해 주세요.&#x20;
+이제 발신자 이메일 주소의 도메인 DNS 설정에 스티비의 SPF, DKIM 값을 추가합니다. 직접 설정이 어렵다면 도메인 관리자나 서버 관리자에게 설정을 요청해 주세요.
 
-#### **SPF**
+#### SPF 설정
 
-SPF 값은 도메인의 TXT 레코드에 스티비의 SPF 값을 추가하면 됩니다. 기존에 설정된 TXT 값이 존재하는지 또는 존재하지 않는지 여부에 따라 설정 방법이 달라집니다.
+SPF는 TXT 레코드에 값을 추가합니다.
 
+#### **도메인에 기존에 설정된 TXT 값이 없는 경우**
 
-
-**도메인에 기존에 설정된 TXT 값이 없는 경우**
-
-TXT 레코드에 아래의 값을 추가합니다.
-
-* 이름(호스트, 별칭): @ 또는 비워둠.
-* TTL(수명): 3600 또는 기본값으로 둠.
+* 이름(호스트, 별칭): @ 또는 비워둠
+* TTL(수명): 3600 또는 기본값
 * 값(응답, 대상): v=spf1 include:mail.stibee.com \~all
 
-***
+#### **도메인에 이미 설정한 TXT 레코드가 존재하는 경우**
 
-**도메인에 이미 설정한 TXT 레코드가 존재하는 경우**
+새 레코드를 추가하지 않고, 기존 값에 스티비 SPF 값을 함께 입력합니다. 예를 들어, 도메인에 이미 아래와 같은 형식의 값이 입력되어 있다고 한다면,
 
-이미 다른 도메인에 대해 설정한 TXT 레코드가 있다면 새로운 TXT 레코드를 생성하는 것이 아니라 기존에 설정한 값에 스티비의 SPF 값을 하나로 합쳐서 입력합니다. 예를 들어, 도메인에 이미 아래와 같은 형식의 값이 입력되어 있다고 한다면,&#x20;
+* v=spf1 include:sub.domain.com \~all
 
-{% code overflow="wrap" %}
-```
-v=spf1 include:sub.domain.com ~all
-```
-{% endcode %}
+기존 값에 include 문을 사용하여 스티비의 SPF 값을 하나로 합쳐 입력하면 됩니다.&#x20;
 
-새로운 TXT 값을 추가하는 것이 아니라 기존 값에 include 문을 사용하여 스티비의 SPF 값을 하나로 합쳐 입력하면 됩니다.&#x20;
-
-{% code overflow="wrap" %}
-```
-예. v=spf1 include:sub.domain.com include:mail.stibee.com ~all
-```
-{% endcode %}
+* 예. v=spf1 include:sub.domain.com **include:mail.stibee.com** \~all
 
 
 
 #### **DKIM**
 
-DKIM 값은 CNAME 레코드에 아래의 값을 추가하면 됩니다.&#x20;
+DKIM은 CNAME 레코드에 값을 추가합니다.
 
-* 이름(호스트, 별칭): stb.\_domainkey.yourdomain.com 또는 stb.\_domainkey
-* 값(응답, 대상): dkim.stibee.com
+* 이름(호스트): stb.\_domainkey.yourdomain.com 또는 stb.\_domainkey
+* 값: dkim.stibee.com
 
-'이름(호스트, 별칭)'의 'yourdomain.com'은 발신자 이메일 주소의 도메인으로 대체합니다. 예를 들어, 발신자 이메일 주소가 hello@stibee.com이라면, '이름(호스트, 별칭)'은 'stb.\_domainkey.stibee.com' 또는 'stb.\_domainkey'로 입력합니다. 'stb.\_domainkey'는 도메인과 상관없는 고정된 값입니다.
+이름(호스트, 별칭)의 yourdomain.com은 발신자 이메일 주소의 도메인으로 변경합니다. 예를 들어, 발신자 이메일 주소가 hello@stibee.com이라면, stb.\_domainkey.stibee.com 또는 stb.\_domainkey 입력합니다. stb.\_domainkey는 도메인과 상관없는 고정된 값입니다.
 
-_\* 이름이나 값의 입력 형식은 사용 중인 도메인 관리 서비스에 따라 달라질 수 있습니다. 이 경우는 사용하시는 서비스의 고객센터로 문의하시면 그에 맞는 형식을 안내받을 수 있습니다._&#x20;
+_\* 이름이나 값의 입력 형식은 사용 중인 도메인 관리 서비스에 따라 달라질 수 있습니다. 이 경우는 사용하는 서비스의 고객센터로 문의하시면 그에 맞는 형식을 안내받을 수 있습니다._
+
+
 
 #### **설정 확인하기**
 
-설정값이 정상적으로 추가됐는지 여부는 [스티비 실험실](https://lab.stibee.com/)에서 설정한 도메인을 검색창에 입력하면 간단하게 조회할 수 있습니다. 또는 주소록 대시보드 \[발신자 이메일 주소]에서도 확인할 수 있습니다. 서버 상황에 따라 설정이 완료되기까지 최대 48시간이 소요될 수 있습니다.&#x20;
+설정이 정상적으로 완료되었는지 여부는 [스티비 실험실](https://lab.stibee.com/)에서 도메인을 검색해 바로 확인할 수 있습니다. 또는 \[주소록 → 대시보드 → 발신자 이메일 주소]에서도 확인할 수 있습니다. 서버 상황에 따라 설정이 완료되기까지 최대 48시간이 소요될 수 있습니다.
 
-설정 여부가 바로 확인이 되지 않는다면 조금 기다린 후 다시 상태를 조회해 주세요. 만약, 48시간 이후에도 설정값이 조회되지 않는다면 이메일(support@stibee.com) 또는 채팅 문의(로그인 후 화면 오른쪽 아래 물음표 버튼)를 통해 문의해 주세요..
+DNS 설정 특성상 반영까지 최대 48시간이 소요될 수 있습니다. 즉시 확인되지 않는 경우, 잠시 후 다시 상태를 조회해 주세요.&#x20;
 
+만약, 48시간 이후에도 설정값이 조회되지 않는다면 이메일(support@stibee.com) 또는 채팅 문의(로그인 후 화면 오른쪽 아래 물음표 버튼)를 통해 문의해 주세요.
 
-
-SPF, DKIM 설정을 했지만 정상적으로 동작하지 않는 경우에는 [여기](../questions.md#spf-dkim)를 클릭해 '자주 묻는 질문'을 통해 문제를 해결해 보세요.
+<figure><img src="../../.gitbook/assets/스티비 실험실.png" alt=""><figcaption></figcaption></figure>
