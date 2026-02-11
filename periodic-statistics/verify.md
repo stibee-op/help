@@ -20,7 +20,7 @@
 
 발송 성공은 이메일이 구독자에게 잘 발송됐다는 의미입니다. 발송 성공률은 전체 발송 대상이 된 구독자 중 이메일 발송을 성공한 비율입니다.&#x20;
 
-_이메일을 발송하다 보면 이메일을 발송하다 보면 여러 가지 이유로 발송이 실패할 수 있습니다. 발송 실패에 대한 자세한 내용은_ [email-detailed-statistics.md](../email/analytics/email-detailed-statistics.md "mention")_를 참고해 주세요._
+_\* 이메일을 발송하다 보면 이메일을 발송하다 보면 여러 가지 이유로 발송이 실패할 수 있습니다. 발송 실패에 대한 자세한 내용은_ [email-detailed-statistics.md](../email/analytics/email-detailed-statistics.md "mention")_를 참고해 주세요._
 
 #### 오픈과 오픈율
 
@@ -32,7 +32,9 @@ _이메일을 발송하다 보면 이메일을 발송하다 보면 여러 가지
 
 #### 수신거부와 수신거부율
 
-수신거부는 구독자가 이메일 수신을 거부했다는 걸 의미합니다. 수신거부율은 발송에 성공한 구독자 중 수신거부한 구독자의 비율입니다. 수신 거부한 구독자는 주소록에 구독 상태가 수신거부로 분류되며, 구독자 목록에서 확인할 수 있습니다._수신거부 기능에 대한 자세한 내용은_ [manage-unsubscribe.md](../list/adding-managing-subscriber/manage-unsubscribe.md "mention")_를 참고해 주세요._
+수신거부는 구독자가 이메일 수신을 거부했다는 걸 의미합니다. 수신거부율은 발송에 성공한 구독자 중 수신거부한 구독자의 비율입니다. 수신 거부한 구독자는 주소록에 구독 상태가 수신거부로 분류되며, 구독자 목록에서 확인할 수 있습니다.
+
+_\* 수신거부 기능에 대한 자세한 내용은_ [manage-unsubscribe.md](../list/adding-managing-subscriber/manage-unsubscribe.md "mention")_를 참고해 주세요._
 
 
 
