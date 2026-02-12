@@ -14,7 +14,7 @@
 
 ### 요약
 
-<figure><img src="../.gitbook/assets/통계1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/통계 조회하기.png" alt=""><figcaption></figcaption></figure>
 
 #### 발송 성공과 발송 성공률
 

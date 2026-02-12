@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # 발송 성과 개선하기
 
 ## 언제 필요한가요? <a href="#id-01h6dt6efh2sbqyhqa8fdrwbmr" id="id-01h6dt6efh2sbqyhqa8fdrwbmr"></a>
