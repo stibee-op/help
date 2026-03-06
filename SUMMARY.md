@@ -176,7 +176,7 @@
     * [유료 구독 주소록에 구독자 직접 추가하기](paid-newsletter/managing-paid-subscribers/direct-addition.md)
     * [유료 구독 주소록에서 구독자 구독 유형 변경하기](paid-newsletter/managing-paid-subscribers/understand-type-change.md)
 * [유료 구독자 정기 결제 해지하기](paid-newsletter/managing-paid-subscribers/cancel-recurring-payment.md)
-* [유료 뉴스레터 구독 환불 처리하기](paid-newsletter/managing-paid-subscribers/refund.md)
+* [유료 뉴스레터 구독 결제 취소하기](paid-newsletter/managing-paid-subscribers/refund.md)
 * [정산](paid-newsletter/billing/README.md)
   * [유료 구독 정산하기](paid-newsletter/billing/process.md)
   * [유료 뉴스레터 결제 내역 확인하기](paid-newsletter/billing/check-payment-history.md)
