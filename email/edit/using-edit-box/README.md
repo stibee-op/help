@@ -30,9 +30,9 @@
 
 
 
-화살표 버튼 위 \[⁞⁞]버튼을 클릭한 상태로 직접 끌어서 이동할 수도 있습니다.&#x20;
+화살표 버튼 위 \[⁞⁞]버튼을 클릭한 상태로 직접 끌어서 이동할 수도 있습니다.
 
-<div><img src="https://help.stibee.com/hc/article_attachments/5775054888591" alt=""> <figure><img src="../../../.gitbook/assets/4 (1).gif" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/4 (1).gif" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -62,7 +62,7 @@
 
 2단 레이아웃 상태인 상자를 클릭하면 가운데에 양쪽 화살표 버튼\[⇄]이 표시됩니다. 버튼\[⇄]을 클릭하면 양쪽 상자의 위치가 변경됩니다.
 
-<div><img src="https://help.stibee.com/hc/article_attachments/5775097518607" alt=""> <figure><img src="../../../.gitbook/assets/8 (1).gif" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/8 (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### 상자 표시 설정 사용하기 <a href="#box-display-settings" id="box-display-settings"></a>
 

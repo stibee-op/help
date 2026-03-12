@@ -42,6 +42,8 @@
 
 ### 구독자 자동으로 추가하기
 
+💬이 내용은 **스탠다드, 프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다.
+
 #### **외부 솔루션 연동하기**
 
 {% content-ref url="../../integration/cafe24/" %}
@@ -59,8 +61,6 @@
 {% content-ref url="../../integration/donus/" %}
 [donus](../../integration/donus/)
 {% endcontent-ref %}
-
-
 
 #### **API 사용해서 직접 연동하기**
 

@@ -42,7 +42,7 @@
 
 \[페이지]는 내가 만든 이메일을 웹에 게시하여 홍보하고 구독자를 모을 수 있는 홈페이지를 만들 수 있는 기능입니다. 페이지를 사용하면 만든 이메일을 간단하게 웹상에 게시하고 게시한 콘텐츠를 활용해 구독자를 모아볼 수 있습니다.&#x20;
 
-* 참고: 스티비 뉴스레터 [https://newsletter.stibee.com](https://syoletter.stibee.com/)
+* 참고: [스티비 뉴스레터](https://newsletter.stibee.com)
 
 <figure><img src="../.gitbook/assets/페이지_1.png" alt=""><figcaption><p>https://syoletter.stibee.com</p></figcaption></figure>
 
@@ -50,7 +50,14 @@
 
 ### 통계
 
-\[통계]는 여러 이메일의 통계를 한 번에 조회하거나 기간별로 조회하고 싶을 때 사용하는 기능입니다. 각각 이메일 단위의 통계는 [이메일 대시보드](../email/analytics/email-statistics-dashboard.md)에서 확인이 가능하지만 여러 이메일의 성과를 한 번에 비교하거나 기간별로 여러 이메일의 성과를 보고 싶을 때 통계 기능을 사용할 수 있습니다. 통계 기능은 '프로' [요금제](/broken/pages/QY3fRMqziIySch1ZHToN)부터 사용할 수 있습니다.
+💬이 내용은 **프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다.
+
+여러 이메일의 통계를 한 번에 조회하거나 기간별로 조회하고 싶을 때 사용하는 기능으로, 프로 요금제부터 제공합니다.
+
+개별 이메일, 주소록(구독자) 단위 통계는 요금제와 관계 없이 확인할 수 있으며, 아래 경로에서 조회할 수 있습니다.
+
+* [개별 이메일](../email/analytics/email-statistics-dashboard.md): 이메일 → 대시보드 또는 상세 통계
+* [구독자](../list/check-subscriber-statistics/): 주소록 → 구독자 목록 → 대시보드
 
 <figure><img src="../.gitbook/assets/통계_1.png" alt=""><figcaption></figcaption></figure>
 
@@ -58,7 +65,7 @@
 
 ## 섹션 살펴보기
 
-'스티비 시작하기'에서는 스티비로 이메일을 보내기 위한 기본적인 내용부터 이메일을 문제 없이 보내기 위해 첫 발송 전에  미리 준비해야 하는 설정을 안내하고 있습니다. 준비된 단계별로 하나씩 살펴보는 것도 좋지만 원하는 내용이 있을 경우 아래 도움말을 클릭해 바로 넘어가서 확인해 보세요.
+이번 섹션에서는 스티비로 이메일을 보내기 위한 기본적인 내용부터 이메일을 문제 없이 보내기 위해 첫 발송 전에  미리 준비해야 하는 설정을 안내하고 있습니다. 준비된 단계별로 하나씩 살펴보셔도 좋고, 원하는 내용이 있을 경우 아래 도움말을 클릭해 바로 넘어가서 확인할 수도 있습니다.
 
 {% content-ref url="preparing-for-start/" %}
 [preparing-for-start](preparing-for-start/)

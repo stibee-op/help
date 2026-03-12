@@ -20,4 +20,4 @@
 
 페이지에 발행된 이메일을 읽다 보면 구독 화면이 팝업 형태로 표시됩니다. 이 구독 화면 팝업을 통해 검색, 외부 링크 등을 통해 콘텐츠로 유입된 방문자가 구독 신청을 진행할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
