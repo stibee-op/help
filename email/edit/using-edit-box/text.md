@@ -6,7 +6,7 @@
 
 ***
 
-## 텍스트 상자 추가하기 <a href="#h_01ggs5v0dz5yjgjzz23smyr7hn" id="h_01ggs5v0dz5yjgjzz23smyr7hn"></a>
+## 텍스트 상자 추가하기 <a href="#add-text-box" id="add-text-box"></a>
 
 화면 오른쪽 상자 선택 화면에서 \[텍스트] 상자를 본문에 끌어다 놓습니다. 혹은 추가된 편집 상자를 클릭해 \[구성 요소 → 텍스트]를 선택해도 됩니다.
 
@@ -16,7 +16,7 @@
 
 
 
-## 텍스트 편집하기 <a href="#h_01ggs5v4p98qms4bm3756bt51w" id="h_01ggs5v4p98qms4bm3756bt51w"></a>
+## 텍스트 편집하기 <a href="#edit-text" id="edit-text"></a>
 
 텍스트 상자를 클릭하면 폰트, 크기, 정렬, 색상, 메일머지 등을 설정할 수 있는 \[툴바]가 표시됩니다. 숫자 리스트나 점 리스트를 사용해 작성한 내용을 목록화할 수도 있습니다.
 
@@ -82,7 +82,7 @@
 
 
 
-### 텍스트 편집 시 주의 사항 <a href="#h_01ggs5vmyyfnwtazmg7xhvstav" id="h_01ggs5vmyyfnwtazmg7xhvstav"></a>
+### 텍스트 편집 시 주의 사항 <a href="#notice" id="notice"></a>
 
 텍스트 작업 도중 문제가 발생하면 아래 내용을 참고해서 조치해 보세요.
 
