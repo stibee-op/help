@@ -105,7 +105,10 @@
   * [워크스페이스 설정 변경하기](user-workspace/settings/modify.md)
   * [사용자 권한 설정하기](user-workspace/settings/user-permissions.md)
   * [워크스페이스 삭제하기](user-workspace/settings/delete.md)
-* [보안 기능 설정하기](user-workspace/security-settings.md)
+* [보안 기능 설정하기](user-workspace/security-settings/README.md)
+  * [로그인 기기 목록 확인하기](user-workspace/security-settings/login-devices.md)
+  * [보안 설정 변경하기](user-workspace/security-settings/change-security-settings.md)
+  * [감사 로그 조회하기](user-workspace/security-settings/track-audit-log.md)
 * [자주 묻는 질문](user-workspace/questions.md)
 
 ## 주소록 <a href="#list" id="list"></a>

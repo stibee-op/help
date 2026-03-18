@@ -42,6 +42,6 @@
 [settings](settings/)
 {% endcontent-ref %}
 
-{% content-ref url="security-settings.md" %}
-[security-settings.md](security-settings.md)
+{% content-ref url="security-settings/" %}
+[security-settings](security-settings/)
 {% endcontent-ref %}

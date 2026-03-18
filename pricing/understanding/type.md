@@ -158,8 +158,8 @@ _\* 부가세 포함_
 * [사용자 정의 필드](https://help.stibee.com/list/adding-managing-subscriber/understanding-subscriber-info) 무제한
 * [세그먼트](../../list/classify-subscribers/how-to-use-segment.md), [그룹 ](../../list/classify-subscribers/how-to-use-groups.md)무제한
 * [콘텐츠 과거 기록 보기](../../email/edit/undo.md) 무제한
-* [사용자 맞춤권한 관리](../../user-workspace/security-settings.md#custom-user-permissions)
-* [강화된 보안](../../user-workspace/security-settings.md)[ 설정](../../user-workspace/security-settings.md)
+* [사용자 맞춤권한 관리](../../user-workspace/security-settings/#custom-user-permissions)
+* [강화된 보안](../../user-workspace/security-settings/)[ 설정](../../user-workspace/security-settings/)
 * [주소록, 발신자 주소 API](https://developers.stibee.com/docs#description/%EA%B0%9C%EC%9A%94)
 * 전용 발송 서버
 *   1:1 온보딩 지원
