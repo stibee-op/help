@@ -11,7 +11,7 @@
 ## 자동 이메일 API 이해하기 <a href="#api" id="api"></a>
 
 {% hint style="info" %}
-자동 이메일 API는 개별 이메일 발송에 최적화되어 있으며 대량 발송에는 적합하지 않습니다. 대량 발송의 경우에는 '[이메일 API - 발송](https://developers.stibee.com/docs#tag/%EC%9D%B4%EB%A9%94%EC%9D%BC---%EB%B0%9C%EC%86%A1/POST/emails/{id}/send)'을 사용해 연동하거나 \[일반 이메일]을 사용해 직접 발송하는 것을 권장합니다.
+자동 이메일 API는 개별 이메일 발송에 최적화되어 있으며 대량 발송에는 적합하지 않습니다. 대량 발송의 경우에는 '[이메일 API - 발송](https://developers.stibee.com/%EC%8A%A4%ED%8B%B0%EB%B9%84-api/tag/%EC%9D%B4%EB%A9%94%EC%9D%BC/post/emails/id/send)'을 사용해 연동하거나 \[일반 이메일]을 사용해 직접 발송하는 것을 권장합니다.
 
 _\* 대량 발송이란? 한 번에 여러 명의 구독자에게 자동 이메일을 보내는 것을 의미합니다. 자동_ _이메일은 한 번에 한 명의 구독자에게 발송하는 것에 최적화되어 있습니다._
 {% endhint %}
