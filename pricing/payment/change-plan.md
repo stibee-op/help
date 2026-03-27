@@ -7,9 +7,9 @@
 요금제 종류나 구독자 수 구간을 변경하고 싶다면 아래 안내에 따라 진행해 주세요.
 
 {% hint style="info" %}
-내 상황에 맞는 요금제가 궁금하다면 [여기](https://stibee.channel.io/workflows/774338)에서 질문을 따라가 보세요.
+내 상황에 맞는 요금제가 궁금하다면 아래 블로그 글을 참고해 보세요.
 
-지금 상황에 가장 알맞은 요금제를 확인할 수 있습니다.
+[나에게 맞는 스티비 요금제 찾기](https://blog.stibee.com/stibee-pricing-guide/)
 {% endhint %}
 
 ***
