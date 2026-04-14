@@ -98,7 +98,7 @@
 
 입력하는 정보의 형식을 '날짜' 형식으로 지정할 수 있습니다. 2024년 11월 12일과 같이 연, 월, 일(YYYY.MM.DD)만 표시되도록 설정하거나, 2024년 11월 12일 오전 10:30과 같이 시간까지 표시하도록 설정할 수도 있습니다.
 
-**\*주의:** 날짜 형식으로 지정된 필드에는 정의된 형식에 맞게 정보가 입력되어야 합니다. 구독자를 파일로 추가할 때 형식에 맞지 않는다면 오류가 발생할 수 있습니다. 자세한 내용은 [#undefined-1](../questions.md#undefined-1 "mention") 도움말을 참고해 주세요.
+**\*주의:** 날짜 형식으로 지정된 필드에는 정의된 형식에 맞게 정보가 입력되어야 합니다. 구독자를 파일로 추가할 때 형식에 맞지 않는다면 오류가 발생할 수 있습니다. 자세한 내용은 [구독자 정보 형식 확인하기](https://help.stibee.com/trouble-shooting/subscriber-upload-issues#h_01hehqt3qngp7fbhy4zfm55196) 도움말을 참고해 주세요.
 
 ![](<../../.gitbook/assets/8 (4).png>)
 
@@ -140,8 +140,6 @@
 기본적으로 메일머지 기능은 유료 요금제에서 사용할 수 있으나, 기본 필드는 스타터 요금제에서도 사용할 수 있습니다.
 {% endhint %}
 
-
-
 #### 구독자 정보
 
 * $%email%$ : 이메일을 수신한 구독자 이메일 주소
@@ -182,7 +180,7 @@
 
 [스티비 뉴스레터 구독 폼 확인하기 →](https://page.stibee.com/subscriptions/3)
 
-[이메일 마케팅 리포트 2023 신청 페이지 확인하기 →](https://report.stibee.com/2023/)
+[스티비 2025 이메일 마케팅 리포트 →](https://blog.stibee.com/stibee-2025-email-marketing-report/)
 
 ![](<../../.gitbook/assets/11 (1).png>)
 
@@ -216,7 +214,7 @@
 1. \[주소록 → 구독자 목록]으로 이동합니다.
 2. \[광고성 정보 수신 동의] 필드 정보를 확인합니다.
 
-필드의 정보가 '동의'인 구독자는 광고성 정보 수신에 동의한 구독자입니다. 필드에 아무런 정보가 없는 구독자는 광고성 정보 수신에 동의하지 않은 구독자입니다. 구독자의 광고성 정보 수신 동의 여부를 변경하고 싶다면 [#undefined-4](modify-subscriber-info.md#undefined-4 "mention") 도움말을 참고해 주세요.
+필드의 정보가 '동의'인 구독자는 광고성 정보 수신에 동의한 구독자입니다. 필드에 아무런 정보가 없는 구독자는 광고성 정보 수신에 동의하지 않은 구독자입니다. 구독자의 광고성 정보 수신 동의 여부를 변경하고 싶다면 [광고성 정보 수신 동의 여부 변경하기](https://help.stibee.com/list/adding-managing-subscriber/modify-subscriber-info#change-ad-consent) 도움말을 참고해 주세요.
 
 <figure><img src="../../.gitbook/assets/9-1.gif" alt=""><figcaption></figcaption></figure>
 
@@ -231,4 +229,4 @@
 
 <figure><img src="../../.gitbook/assets/9-2.gif" alt=""><figcaption></figcaption></figure>
 
-광고성 정보 수신 동의 여부를 관리자가 수정하는 것도 가능합니다. 관련하여 자세한 내용은 [#undefined-5](modify-subscriber-info.md#undefined-5 "mention") 도움말을 참고해 주세요.
+광고성 정보 수신 동의 여부를 관리자가 수정하는 것도 가능합니다. 관련하여 자세한 내용은 [관리자가 변경하기](https://help.stibee.com/list/adding-managing-subscriber/modify-subscriber-info#admin-change-ad-consent) 도움말을 참고해 주세요.
