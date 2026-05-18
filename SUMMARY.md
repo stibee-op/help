@@ -81,7 +81,7 @@
   * [요금제 종류](pricing/understanding/type.md)
 * [결제하기](pricing/payment/README.md)
   * [요금제 결제하기](pricing/payment/change-plan.md)
-  * [구독자 수 구간 변경하기](pricing/payment/subscriber.md)
+  * [구독자 수 구간 높이기](pricing/payment/subscriber.md)
 * [요금제 연장하기](pricing/renewal.md)
 * [결제 주기 변경하기](pricing/change.md)
 * [결제 정보 확인, 수정하기](pricing/information/README.md)
