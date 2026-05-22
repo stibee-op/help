@@ -48,7 +48,7 @@ onclick, onload, onerror 등
 
 
 
-## HTML에서 메일머지 기능 사용하기
+## HTML에서 메일머지 기능 사용하기 <a href="#personalized-merge" id="personalized-merge"></a>
 
 HTML 코드에서도 메일머지 기능을 사용할 수 있습니다. \[[사용자 정의 필드](../../list/adding-managing-subscriber/understanding-subscriber-info.md)]의 Key값을 입력하면 구독자마다 개인화 된 메시지(예. 구독자 이름, 쿠폰 번호 등)를 발송할 수 있습니다. 태그는 $%key%$의 형식으로 입력하면 됩니다.
 
