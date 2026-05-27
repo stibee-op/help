@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 발신자 주소 추가하기
 
 ## 이 글에서는
@@ -18,34 +39,36 @@
 
 ## 발신자 이메일 주소 추가하기 <a href="#undefined" id="undefined"></a>
 
-{% hint style="info" %}
-[G메일](https://blog.stibee.com/gmail-sender-guidelines/)과 [네이버 메일](https://stibee.com/api/v1.0/emails/share/_pfqzBAjcLjjhSJc5HHpBUUN0W9Mdsc)의 정책에 따라, gmail.com, naver.com 도메인으로 만든 이메일은 발신자 이메일 주소로 설정할 수 없으며, 스티비에서 제공하는 도메인으로 자동 변경되어 저장됩니다.
+주소록마다 사용할 발신자 이메일 주소를 별도로 설정할 수 있습니다.
 
-* example@gmail.com → example-gmali.com@send.stibee.com
-* example@naver.com → example-naver.com@send.stibee.com
-{% endhint %}
+기본적으로는 워크스페이스 소유자의 이메일 주소가 기본 발신자 이메일 주소로 설정됩니다. 예를 들어, 소유자 이메일 주소가 user@example.com이라면 모든 주소록의 기본 발신자 이메일 주소가 user@example.com으로 설정됩니다.
 
-주소록마다 사용할 발신자 이메일 주소를 설정할 수 있습니다.
+_\*_ [_G메일_](https://blog.stibee.com/gmail-sender-guidelines/)_과_ [_네이버 메일_](https://stibee.com/api/v1.0/emails/share/_pfqzBAjcLjjhSJc5HHpBUUN0W9Mdsc)_의 정책에 따라, gmail.com, naver.com 도메인으로 만든 이메일은 발신자 이메일 주소로 설정할 수 없으며, 스티비에서 제공하는 도메인으로 자동 변경되어 저장됩니다._
 
-기본적으로는 워크스페이스 소유자의 이메일 주소가 기본 발신자 이메일 주소로 설정됩니다. 예를 들어, 소유자 이메일 주소가 user@example.com이라면, 모든 주소록의 기본 발신자 주소가 user@example.com으로 설정됩니다.
+* _example@gmail.com → example-gmali.com@send.stibee.com_
+* _example@naver.com → example-naver.com@send.stibee.com_
 
 <figure><img src="../../.gitbook/assets/발신자 추가하기.png" alt=""><figcaption></figcaption></figure>
 
+
+
+발신자 이메일 주소를 추가하는 방법은 다음과 같습니다.
+
+1. 발신자 이메일 주소를 추가할 주소록 이름을 클릭합니다.
+2. \[대시보드 → 수정하기]를 클릭합니다.
+3.  \[발신자 이메일 주소 → + 추가하기]를 클릭해 새로운 발신자 이메일 주소를 입력합니다.
+
+    \* 인증 이메일이 발송되며, 인증을 완료해야 발신자로 사용할 수 있습니다.
+4. \[기본값으로 지정하기]를 클릭하면 해당 주소가 기본 발신자 이메일로 설정되며, 이메일을 새로 만들 때 기본값으로 불러와집니다.
+5. \[저장하기]를 클릭합니다.
+
+{% hint style="warning" %}
+인증 이메일 수신이 필요하므로 실제로 메일을 주고받을 수 있는 주소만 등록할 수 있습니다. 회신을 받기 어려운 주소를 사용하는 경우, 이메일 본문에 "해당 발신자 이메일 주소로는 회신을 받지 않습니다."와 같은 안내 문구를 추가하는 것을 권장합니다.
+
+스티비에서는 '발신 전용 이메일 주소' 사용을 권장하지 않습니다. 자세한 내용은 [이 메일주소는 발신전용 주소입니다](https://blog.stibee.com/%EC%9D%B4-%EB%A9%94%EC%9D%BC%EC%A3%BC%EC%86%8C%EB%8A%94-%EB%B0%9C%EC%8B%A0%EC%A0%84%EC%9A%A9-%EC%A3%BC%EC%86%8C%EC%9E%85%EB%8B%88%EB%8B%A4-8f9806db7768) 아티클을 참고해 보세요.
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/발신자 추가하기2.png" alt=""><figcaption></figcaption></figure>
-
-발신자 이메일 주소를 추가하는 방법은 아래와 같습니다.
-
-1. 발신자 이메일 주소를 추가하고 싶은 주소록의 이름을 누릅니다.
-2. \[주소록 → 대시보드]로 이동합니다.
-3. \[수정하기]를 클릭해 '주소록 정보 수정 화면'으로 이동합니다.
-4. 발신자 이메일 주소의 \[+추가하기]를 눌러 새로운 발신자 이메일 주소를 입력합니다.
-   1. 입력한 이메일 주소로 인증 이메일이 발송되며, 인증을 완료해야 발신자로 사용할 수 있습니다.
-5. \[기본값으로 지정하기]를 클릭하면 주소록의 기본 발신자 이메일 주소로 설정되며, 이메일을 새로 만들 때 기본값으로 사용됩니다.
-6. \[저장하기]를 클릭해 추가한 정보를 저장합니다.
-
-> **\*주의:** 발신자 이메일 주소를 등록하려면 인증 이메일 수신 및 확인이 필요합니다. 따라서, 실제로 메일을 주고받을 수 있는 이메일 주소만 등록할 수 있습니다.
->
-> 회신을 받기 어려운 주소를 사용하는 경우, 이메일 하단에 "해당 발신자 이메일 주소로는 회신을 받지 않습니다." 와 같은 안내 문구를 추가하는 것을 권장드립니다. 스티비에서는 회신을 제한하는 것을 추천하지 않고 있어요. [여기](https://blog.stibee.com/ec-9d-b4-eb-a9-94-ec-9d-bc-ec-a3-bc-ec-86-8c-eb-8a-94-eb-b0-9c-ec-8b-a0-ec-a0-84-ec-9a-a9-ec-a3-bc-ec-86-8c-ec-9e-85-eb-8b-88-eb-8b-a4/)에서 자세한 내용을 살펴보세요.
 
 
 

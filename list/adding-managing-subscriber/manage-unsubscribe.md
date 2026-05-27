@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 수신거부 관리하기
 
 ## 이 글에서는 <a href="#h_01hgacv5bwpkqwdremqhm44cwv" id="h_01hgacv5bwpkqwdremqhm44cwv"></a>

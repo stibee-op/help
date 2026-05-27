@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 페이지 만들기
 
 ## 이 글에서는 <a href="#h_01hdk2svk832v1btbya3yy90z1" id="h_01hdk2svk832v1btbya3yy90z1"></a>

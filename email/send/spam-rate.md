@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 스팸 분류 비율 확인하기
 
 ## 이 글에서는 <a href="#h_01hj5kbgtqeb3k8khf3qsfas53" id="h_01hj5kbgtqeb3k8khf3qsfas53"></a>

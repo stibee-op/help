@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # A/B 테스트 따라하기
 
 ## 이 글에서는 <a href="#id-01h8bczp9mw94achp90e05dg9g" id="id-01h8bczp9mw94achp90e05dg9g"></a>

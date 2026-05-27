@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 자주 묻는 질문
 
 <details>
@@ -600,8 +621,6 @@ DMARC 레코드
 2. \[구독자 활동 → 발송 실패 → 이메일 직접 선택 → 최근 발송한 이메일] 선택
 3. \[조건 그룹 추가하기 → 구독자 정보 → 이메일 주소 → @daum.net / @hanmail.net / @kakao.com] 조건 설정
 4. \[조회하기]를 눌러 구독자 수 확인
-
-
 
 발송 실패한 이메일 주소 중 다수가 다음 메일과 카카오메일을 사용하고 있다면, 이는 최근 시행된 휴면 정책 변경의 영향을 받은 것으로 보입니다.
 

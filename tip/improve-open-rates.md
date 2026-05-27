@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 오픈율 개선하기
 
 ## 언제 필요한가요? <a href="#id-01h6dt6efh2sbqyhqa8fdrwbmr" id="id-01h6dt6efh2sbqyhqa8fdrwbmr"></a>

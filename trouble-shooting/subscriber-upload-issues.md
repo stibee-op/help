@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 구독자 파일 업로드가 안 될 때
 
 ## 언제 필요한가요? <a href="#h_01he4y5t97t3c2qjd5nbbww9qr" id="h_01he4y5t97t3c2qjd5nbbww9qr"></a>

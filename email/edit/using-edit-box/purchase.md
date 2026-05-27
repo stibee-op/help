@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 상품 구매하기
 
 ## 이 글에서는
@@ -11,8 +32,6 @@
 오른쪽의 상자 선택 화면에서 \[상품 구매하기] 상자를 본문에 끌어다 놓으면 상자가 추가됩니다. 카페24 연동 워크스페이스의 경우, 쇼핑몰의 상품 정보가 자동으로 연동됩니다. 일반 워크스페이스의 경우 상품 정보가 연동되지 않으므로 직접 편집해서 사용할 수 있습니다.
 
 자세한 방법은 아래를 참고해 주세요.
-
-
 
 ### 상품 정보 직접 입력하기
 

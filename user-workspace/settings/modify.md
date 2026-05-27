@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 워크스페이스 설정 변경하기
 
 ## 이 글에서는 <a href="#h_01hnhsz7qm3fcpzz6qh2eyxnpk" id="h_01hnhsz7qm3fcpzz6qh2eyxnpk"></a>

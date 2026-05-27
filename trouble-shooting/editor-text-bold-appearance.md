@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 텍스트가 굵게 표시될 때
 
 ## 언제 필요한가요? <a href="#h_ea0d3fae83" id="h_ea0d3fae83"></a>

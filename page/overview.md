@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 개요
 
 ## 이 글에서는 <a href="#h_01hesswj79ztnphmhwgs31j045" id="h_01hesswj79ztnphmhwgs31j045"></a>

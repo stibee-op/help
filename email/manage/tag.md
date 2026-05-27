@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # \[태그]로 이메일 분류하기
 
 ## 이 글에서는 <a href="#h_01hfnjgcbrmrpktq337axm8xn3" id="h_01hfnjgcbrmrpktq337axm8xn3"></a>

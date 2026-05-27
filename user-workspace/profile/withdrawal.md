@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 탈퇴하기
 
 ## 이 글에서는 <a href="#h_01hfe7gr55d2z50y7mjr1d198b" id="h_01hfe7gr55d2z50y7mjr1d198b"></a>
