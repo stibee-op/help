@@ -95,8 +95,8 @@
 
 * [개요](user-workspace/overview.md)
 * [내 정보 설정하기](user-workspace/profile/README.md)
-  * [비밀번호 변경하기](user-workspace/profile/password.md)
   * [로그인용 이메일 주소 변경하기](user-workspace/profile/change-login-email.md)
+  * [비밀번호 변경하기](user-workspace/profile/password.md)
   * [2단계 인증 설정하기](user-workspace/profile/two-factor-authentication.md)
   * [탈퇴하기](user-workspace/profile/withdrawal.md)
 * [워크스페이스 설정하기](user-workspace/settings/README.md)

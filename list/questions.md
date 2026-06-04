@@ -117,9 +117,9 @@ yyyyMMddHHmmss      (예: 202030809141520)
 
 스티비는 일반 주소록, 유료 구독 주소록, 연동 주소록 총 3가지 주소록을 제공하고 있습니다. 3가지 주소록은 기능에 차이가 있으므로 사용 목적에 따라 주소록 종류를 선택해서 사용해야 합니다.
 
-* [일반 주소록](/broken/pages/mQ3AQKcxfXYxzAr3KgkI): 구독자를 추가하고 관리할 수 있는 일반적인 기능을 제공하는 주소록입니다.
-* [유료 주소록](/broken/pages/beH3Qh55T5fOZa9yc0sp): 유료 뉴스레터를 운영할 때 유료 구독자를 관리할 수 있는 기능을 제공하는 주소록입니다.
-* [연동 주소록](/broken/pages/CTLOn2aFAhN3vYAKSwDk): 카페24, NHN커머스, 식스샵 등 외부 솔루션을 통해 만든 온라인 홈페이지가 있는 경우 연동해서 사용할 수 있는 주소록입니다. 연동된 온라인 홈페이지의 회원 정보를 자동으로 불러옵니다.
+* [일반 주소록](https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/list): 구독자를 추가하고 관리할 수 있는 일반적인 기능을 제공하는 주소록입니다.
+* [유료 주소록](https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/paid-newsletter): 유료 뉴스레터를 운영할 때 유료 구독자를 관리할 수 있는 기능을 제공하는 주소록입니다.
+* [연동 주소록](https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/integration): 카페24, NHN커머스, 식스샵 등 외부 솔루션을 통해 만든 온라인 홈페이지가 있는 경우 연동해서 사용할 수 있는 주소록입니다. 연동된 온라인 홈페이지의 회원 정보를 자동으로 불러옵니다.
 
 </details>
 

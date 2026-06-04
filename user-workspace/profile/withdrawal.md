@@ -36,7 +36,7 @@ layout:
 <figure><img src="../../.gitbook/assets/탈퇴하기 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-이메일 주소를 기준으로 \[탈퇴하기]를 진행할 경우, 탈퇴하는 이메일 주소가 소유자인 모든 워크스페이스가 삭제됩니다. 개별 워크스페이스를 삭제하고 싶다면 [워크스페이스 삭제하기](../settings/delete.md) 참고해 주세요.
+이메일 주소를 기준으로 \[탈퇴하기]를 진행할 경우, 탈퇴하는 이메일 주소가 소유자인 모든 워크스페이스가 삭제됩니다. 개별 워크스페이스를 삭제하고 싶다면 [워크스페이스 삭제하기](../settings/delete.md) 도움말을참고해 주세요.
 {% endhint %}
 
 
