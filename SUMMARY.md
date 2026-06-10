@@ -39,7 +39,7 @@
   * [편집 상자 저장하기](email/edit/save-edit-box.md)
   * [전체 스타일 설정하기](email/edit/style.md)
   * [수신거부 링크 추가하기](email/edit/unsubscribe.md)
-  * [개인화된 메시지 보내기](email/edit/personalized-merge.md)
+  * [메일머지로 개인화된 이메일 보내기](email/edit/personalized-merge.md)
   * [이전 편집 내용으로 되돌리기](email/edit/undo.md)
   * [HTML 코드로 편집하기](email/undefined-1/html.md)
 * [발송하기](email/undefined-2/README.md)
