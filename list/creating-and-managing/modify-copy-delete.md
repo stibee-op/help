@@ -27,7 +27,7 @@ layout:
 
 ***
 
-## 주소록 설정 수정하기 <a href="#h_01gf88jfx86w5ewkkk27bdp48j" id="h_01gf88jfx86w5ewkkk27bdp48j"></a>
+## 주소록 정보 수정하기 <a href="#h_01gf88jfx86w5ewkkk27bdp48j" id="h_01gf88jfx86w5ewkkk27bdp48j"></a>
 
 주소록 정보를 수정하는 방법은 새로운 주소록을 생성할 때 정보를 입력하는 것과 같습니다. 주소록 정보를 수정하는 자세한 방법은 [주소록 만들기](create.md) 도움말을 참고해 주세요.
 

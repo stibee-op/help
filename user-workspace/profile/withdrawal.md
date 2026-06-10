@@ -33,10 +33,8 @@ layout:
 * 소유한 워크스페이스가 유료 요금제를 사용 중인 경우
 * 유료 구독 주소록에 유료 구독자가 남아 있는 경우
 
-유료 요금제는 정기 결제를 해지해 스타터 요금제로 전환하고, 유료 구독자는 모두 무료 구독으로 변경한 뒤 탈퇴해 주세요.
+유료 요금제는 정기 결제를 해지해 스타터 요금제로 전환하고, 유료 구독자는 모두 무료 구독으로 변경한 뒤 삭제해 주세요. 자세한 내용은 [정기 결제 해지하기](https://help.stibee.com/pricing/terminate), [유료 구독 주소록에서 구독자 구독 유형 변경하기](https://help.stibee.com/paid-newsletter/getting-started/managing-paid-subscribers/understand-type-change) 도움말을 참고해 주세요.
 {% endhint %}
-
-
 
 ## 탈퇴 진행하기
 
