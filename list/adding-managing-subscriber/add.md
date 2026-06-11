@@ -29,7 +29,7 @@ layout:
 
 ## 구독자를 직접 추가하기 <a href="#h_01gfama1vb0pgg5a5gst8a7ys1" id="h_01gfama1vb0pgg5a5gst8a7ys1"></a>
 
-구독자를 직접 추가하는 방법은 '주소록 목록'에서 추가하는 방법과 '구독자 목록'에서 추가하는 방법 두 가지가 있습니다.
+구독자를 직접 추가하는 방법은 '주소록 목록'에서 추가하는 방법과 '구독자 목록'에서 추가하는 방법 두 가지가 있습니다.[구독자 목록에서 파일로 추가하기](https://app.gitbook.com/o/PMQzT4RqWInKQlGRNnQ4/s/eAMHRdY4ATDXfWZWQs3p/~/edit/~/changes/432/list/adding-managing-subscriber/add#h_01gftbv72ptg4apx4xskgnm4jk)
 
 ### 주소록 목록에서 추가하기 <a href="#h_01gftbsyt4jd50zgf3qdyfwdgb" id="h_01gftbsyt4jd50zgf3qdyfwdgb"></a>
 
