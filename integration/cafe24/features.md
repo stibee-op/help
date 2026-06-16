@@ -52,3 +52,16 @@
 {% content-ref url="../../tip/cafe24/anniversary-email.md" %}
 [anniversary-email.md](../../tip/cafe24/anniversary-email.md)
 {% endcontent-ref %}
+
+
+
+## 이메일에 \[상품 구매하기] 상자 추가하기 <a href="#undefined" id="undefined"></a>
+
+이메일을 만들 때 상자 목록에서 \[상품 구매하기] 상자를 추가하면 식스샵 쇼핑몰에 등록된 상품 정보(이미지, 이름, 가격 등)를 불러와 이메일에 추가하고, 상품 구매 페이지로 연결되는 버튼을 만들 수 있습니다.&#x20;
+
+1. 이메일 작성 단계에서 화면 오른쪽 \[상품 구매하기] 편집 상자를 추가합니다.
+2. \[상품 설정하기]를 클릭한 뒤 상품 정보를 불러옵니다. 이 단계에서 어떤 상품 정보를 본문에 표시할지 설정할 수 있습니다.
+
+상품 정보를 불러오면서 추가된 이미지와 텍스트는 다른 편집 상자처럼 편집할 수 있습니다.
+
+<figure><img src="../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>

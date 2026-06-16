@@ -29,20 +29,20 @@ layout:
 
 ## 스티비 이해하기
 
-회원가입을 마치고 로그인을 하면 메인 대시보드 화면이 표시됩니다. 대시보드 화면 위에 보이는 4가지 메뉴 버튼을 확인할 수 있습니다. 이 4가지 메뉴는 스티비에서 제공하는 주요 기능의 이름입니다. 어떤 작업을 하고 싶은지에 따라 여기서 필요한 메뉴를 선택해 작업을 진행하면 됩니다.&#x20;
+회원가입을 마치고 로그인을 하면 메인 대시보드 화면이 표시됩니다. 대시보드 화면 왼쪽에 보이는 4가지 메뉴 버튼을 확인할 수 있습니다. 이 4가지 메뉴는 스티비에서 제공하는 주요 기능의 이름입니다. 어떤 작업을 하고 싶은지에 따라 여기서 필요한 메뉴를 선택해 작업을 진행하면 됩니다.
 
-<figure><img src="../.gitbook/assets/메인화면_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/스티비 이해하기.png" alt=""><figcaption></figcaption></figure>
 
 
 
 ### 이메일
 
-\[이메일]에서는 뉴스레터, 마케팅 이메일, 트랜잭셔널 이메일 등 이메일 내용을 편집하고 발송할 수 있습니다. 이메일은 크게 두 가지 종류로 나뉩니다.&#x20;
+\[이메일]에서는 뉴스레터, 마케팅 이메일, 트랜잭셔널 이메일 등 이메일 내용을 편집하고 발송할 수 있습니다. 이메일은 크게 두 가지 종류로 나뉩니다.
 
 * [일반 이메일](https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/email): 한 번에 많은 사람에게 보내는 성격의 이메일은 \[일반 이메일]로 만들어서 보내면 됩니다. 예를 들어 뉴스레터, 광고, 업데이트 소식 등 한 번에 대량으로 발송하는 이메일들은 '일반 이메일'입니다.
 * [자동 이메일](../email/automation/): 특정 조건을 만족할 때마다 자동으로 설정된 이메일을 보내고 싶다면 \[자동 이메일]로 만들어서 보내면 됩니다. 예를 들어 구독자가 새롭게 주소록에 추가될 때마다 나가는 웰컴 이메일, 구독자가 이메일의 특정 링크를 클릭한 경우 자동으로 미리 설정된 이메일을 보내고 싶을 때는 '자동 이메일'을 사용해 만들면 됩니다.
 
-<figure><img src="../.gitbook/assets/이메일_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/이메일_1 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -55,7 +55,7 @@ layout:
 * [연동 주소록](https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/integration): 카페24, NHN커머스, 식스샵 등 솔루션을 통해 만든 온라인 홈페이지가 있는 경우 사용할 수 있는 주소록입니다. 자동으로 연동된 온라인 홈페이지의 회원 정보를 불러옵니다.\
   &#xNAN;_\* 연동 주소록은 스티비와 연동한 외부 솔루션이 있는 경우에만 목록에 표시됩니다._
 
-<figure><img src="../.gitbook/assets/주소록_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/주소록_1 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -80,7 +80,7 @@ layout:
 * [개별 이메일](../email/analytics/email-statistics-dashboard.md): 이메일 → 대시보드 또는 상세 통계
 * [구독자](../list/check-subscriber-statistics/): 주소록 → 구독자 목록 → 대시보드
 
-<figure><img src="../.gitbook/assets/통계_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/통계_1 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
