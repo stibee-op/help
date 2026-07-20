@@ -17,7 +17,7 @@
     _\* 아임웹 연동 주소록은 워크스페이스당 최대 7개까지 만들 수 있습니다._
 
 {% hint style="warning" %}
-**\*주의:** 연동 전에 아임웹 사이트 관리자 페이지에서 \[설정 → 약관 → 마케팅 활용동의 및 광고 수신동의, 개인정보제3자제공동의] 항목이 선택되어 있어야 합니다. 선택되어 있지 않으면 최초 연동 이후에 스티비에서 아임웹 회원의 구독자 상태를 업데이트할 수 없습니다.
+**\*주의:** 연동 전에 아임웹 사이트 관리자 페이지에서 \[설정 → 약관 → 마케팅활용동의 및 광고수신동의, 개인정보제3자제공동의] 항목이 선택되어 있어야 합니다. 선택되어 있지 않으면 최초 연동 이후에 스티비에서 아임웹 회원의 구독자 상태를 업데이트할 수 없습니다.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/약관.png" alt=""><figcaption></figcaption></figure>
@@ -50,7 +50,13 @@
 
 <figure><img src="../../.gitbook/assets/아임웹 연동하기3.png" alt=""><figcaption></figcaption></figure>
 
-스티비를 처음 사용한다면 여러 가지 궁금한 점이 생길 수 있어요. [첫 이메일 보내기](../../getting-started/send-first-email.md) 도움말에서 기본 사용법을 확인해 보세요.
+
+
+스티비를 처음 사용한다면 여러 가지 궁금한 점이 생길 수 있어요. 아래도움말에서 기본 사용법을 확인해 보세요.
+
+{% content-ref url="../../getting-started/send-first-email.md" %}
+[send-first-email.md](../../getting-started/send-first-email.md)
+{% endcontent-ref %}
 
 
 
