@@ -52,7 +52,7 @@
 
 
 
-스티비를 처음 사용한다면 여러 가지 궁금한 점이 생길 수 있어요. 아래도움말에서 기본 사용법을 확인해 보세요.
+스티비를 처음 사용한다면 여러 가지 궁금한 점이 생길 수 있어요. 아래 도움말에서 기본 사용법을 확인해 보세요.
 
 {% content-ref url="../../getting-started/send-first-email.md" %}
 [send-first-email.md](../../getting-started/send-first-email.md)
