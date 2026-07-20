@@ -40,14 +40,14 @@
 
 아래 도움말을 참고해 아임웹과 스티비를 연동해 보세요. 언제든지 연동을 해제할 수도 있습니다.
 
-{% content-ref url="../cafe24/how-to-integration.md" %}
-[how-to-integration.md](../cafe24/how-to-integration.md)
+{% content-ref url="how-to-integration.md" %}
+[how-to-integration.md](how-to-integration.md)
 {% endcontent-ref %}
 
-{% content-ref url="../cafe24/features.md" %}
-[features.md](../cafe24/features.md)
+{% content-ref url="features.md" %}
+[features.md](features.md)
 {% endcontent-ref %}
 
-{% content-ref url="../cafe24/disconnect.md" %}
-[disconnect.md](../cafe24/disconnect.md)
+{% content-ref url="disconnect.md" %}
+[disconnect.md](disconnect.md)
 {% endcontent-ref %}
