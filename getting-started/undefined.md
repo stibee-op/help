@@ -53,7 +53,7 @@ layout:
 * [일반 주소록](https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/list): 구독자를 추가하고 관리할 수 있는 일반적인 기능을 제공하는 주소록입니다.&#x20;
 * [유료 주소록](https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/paid-newsletter): 유료 뉴스레터를 운영할 때 유료 구독자를 관리할 수 있는 기능을 제공하는 주소록입니다.
 * [연동 주소록](https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/integration): 카페24, NHN커머스, 식스샵 등 솔루션을 통해 만든 온라인 홈페이지가 있는 경우 사용할 수 있는 주소록입니다. 자동으로 연동된 온라인 홈페이지의 회원 정보를 불러옵니다.\
-  &#xNAN;_\* 연동 주소록은 스티비와 연동한 외부 솔루션이 있는 경우에만 목록에 표시됩니다._
+  _\* 연동 주소록은 스티비와 연동한 외부 솔루션이 있는 경우에만 목록에 표시됩니다._
 
 <figure><img src="../.gitbook/assets/주소록_1 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -65,7 +65,7 @@ layout:
 
 * 참고: [스티비 뉴스레터](https://newsletter.stibee.com)
 
-<figure><img src="../.gitbook/assets/페이지_1.png" alt=""><figcaption><p>https://syoletter.stibee.com</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/페이지_1.png" alt=""><figcaption></figcaption></figure>
 
 
 

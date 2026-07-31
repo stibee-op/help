@@ -122,7 +122,7 @@
 
 <summary>유료 뉴스레터 구독 취소는 어떻게 하나요?</summary>
 
-유료 구독을 취소하는 방법은 관리자가 처리하는 방법과 구독자가 스스로 진행하는 방법으로 나뉩니다. 자세한 방법은 [terminate.md](../pricing/terminate.md "mention") 도움말을 참고해 주세요.
+유료 구독을 취소하는 방법은 관리자가 처리하는 방법과 구독자가 스스로 진행하는 방법으로 나뉩니다. 자세한 방법은 [유료 뉴스레터 구독 결제 취소하기](managing-paid-subscribers/refund.md) 도움말을 참고해 주세요.
 
 </details>
 

@@ -20,7 +20,7 @@
 
 발송 성공은 이메일이 구독자에게 잘 발송됐다는 의미입니다. 발송 성공률은 전체 발송 대상이 된 구독자 중 이메일 발송을 성공한 비율입니다.&#x20;
 
-_\* 이메일을 발송하다 보면 이메일을 발송하다 보면 여러 가지 이유로 발송이 실패할 수 있습니다. 발송 실패에 대한 자세한 내용은_ [email-detailed-statistics.md](../email/analytics/email-detailed-statistics.md "mention")_를 참고해 주세요._
+_\* 이메일을 이메일을 발송하다 보면 여러 가지 이유로 발송이 실패할 수 있습니다. 발송 실패에 대한 자세한 내용은_ [email-detailed-statistics.md](../email/analytics/email-detailed-statistics.md "mention")_를 참고해 주세요._
 
 #### 오픈과 오픈율
 

@@ -60,13 +60,13 @@ layout:
 
 1. 본문에 적힌 텍스트 전체를 드래그합니다.
 2. 검정색 툴바에 있는 \[포맷초기화]를 클릭합니다. (T자에 \ 빗금이 있는 아이콘입니다.)   \
-   &#xNAN;_\* 포맷 초기화는 텍스트의 스타일이 모두 초기화됩니다._
+   _\* 포맷 초기화는 텍스트의 스타일이 모두 초기화됩니다._
 
-만약, 문제가 계속된다면 정확한 확인을 위해 [채팅 상담](../getting-started/undefined-4.md#help-center)으로 문의 부탁드립니다.
+만약, 문제가 계속된다면 정확한 확인을 위해 [채팅 상담](../getting-started/undefined-4.md#help-center)으로 문의해 주세요.
 
 ### 폰트 다시 설치하기
 
-다른 이메일도 모두 굵게 표시되거나, 다른 사람의 환경에서는 정상이라면 현재 사용하고 계신 환경의 문제일 확률이 높습니다. 아래 방법으로 폰트 재설치를 권장드립니다.
+다른 이메일도 모두 굵게 표시되거나, 다른 사람의 환경에서는 정상이라면 현재 사용하고 계신 환경의 문제일 확률이 높습니다. 아래 방법으로 폰트 재설치를 권장합니다.
 
 {% hint style="info" %}
 다음 가이드 내용은 '크롬 브라우저'를 기준으로 작성이 되었기 때문에 다른 브라우저에서는 확인이 어려울 수 있습니다.
@@ -83,8 +83,12 @@ layout:
 
 간혹 폰트를 삭제해도 문제가 계속되는 경우가 있습니다. 이 경우 문제의 원인이 된 폰트와 같은 계열의 폰트를 모두 삭제한 뒤에 다시 재설치하는 방법이 있습니다.&#x20;
 
-예를 들어, Noto Sans CJK KR Black 폰트가 문제라면 이 폰트와 같은 계열의 모든 Noto Sans 폰트를 삭제 후 재설치하는 것이 좋습니다. 폰트는 [폰트 다운로드 받기](https://github.com/googlefonts/noto-cjk/raw/main/Sans/Variable/TTF/NotoSansCJKkr-VF.ttf) 링크에서 다운로드 할 수 있습니다.
+예를 들어, Noto Sans CJK KR Black 폰트가 문제라면 이 폰트와 같은 계열의 모든 Noto Sans 폰트를 삭제 후 재설치하는 것이 좋습니다.
+
+* [Noto Sans 폰트 다운로드](https://github.com/googlefonts/noto-cjk/raw/main/Sans/Variable/TTF/NotoSansCJKkr-VF.ttf)
+* [Pretendard 폰트 다운로드](https://github.com/orioncactus/pretendard/releases/tag/v1.3.9)
 
 
 
 문제가 계속되는 경우에는 1:1 채팅 상담을 통해 문의해 주세요. 문의 남기실 때는 문제가 발생한 이메일의 제목을 함께 알려주시면 더욱 빠른 확인이 가능합니다.
+

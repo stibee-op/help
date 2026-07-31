@@ -40,7 +40,7 @@ layout:
 
 이메일 수신 서비스는 이메일을 보내는 사람과 출처가 믿을만하다면 안전한 이메일일 확률이 높다고 판단합니다. 반대로 신뢰할 수 없는 사람과 출처에서 발송되는 이메일은 스팸 메일일 가능성이 높다고 판단합니다.
 
-**SFP, DKIM, DMARC 설정이 이루어져 있지 않을 때**
+**SPF, DKIM, DMARC 설정이 이루어져 있지 않을 때**
 
 발신자 주소의 도메인에 필요한 설정(SPF, DKIM, DMARC)이 이루어져 있지 않다면, 이메일 수신 서비스에서는 '신뢰할 수 없는 발신자'로 판단할 수 있습니다.
 
@@ -103,7 +103,7 @@ gmail.com, naver.com, hanmail.net과 같이 공개된 도메인에는 SPF, DKIM,
 {% hint style="info" %}
 [G메일](https://support.google.com/a/answer/81126?hl=ko)과 [네이버 메일](https://notice.naver.com/notices/mail/15568)의 정책에 따라, 외부 서비스에서는 gmail.com, naver.com 도메인을 사용해 이메일을 보낼 수 없습니다. 이 도메인으로 만든 이메일 주소를 발신자로 설정하면, 이메일을 계속 보낼 수 있도록 send.stibee.com 도메인으로 자동 변경되어 저장됩니다. 자동 변경 과정에서 별도의 비용이 발생하지는 않습니다.
 
-* 예. example@gmail.com → example-gmail.com@send.stibee.com
+* 예. example@gmail.com → example-gm@send.stibee.com
 
 다만 send.stibee.com 도메인은 개별 도메인을 준비하기 전까지 사용할 수 있는 대안입니다. 장기적으로 이메일을 보낼 계획이라면, 직접 소유한 도메인으로 발신자 주소를 만드는 것을 권장합니다.
 {% endhint %}

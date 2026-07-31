@@ -40,10 +40,10 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
 
 
 5. \[Continue]를 눌러 \[Configure] 단계로 이동한 뒤, 연동할 구글폼을 선택합니다.   \
-   &#xNAN;_\* 구글 설문지와 Zapier 스티비 앱을 연동하기 위해서는 구글 설문지가 게시된 상태여야 합니다._
+   _\* 구글 설문지와 Zapier 스티비 앱을 연동하기 위해서는 구글 설문지가 게시된 상태여야 합니다._
 6. \[Test Trigger]를 눌러 설정이 잘 이루어졌는지 확인합니다.
 7. \[Find new records]를 눌러 Test를 진행할 응답을 선택합니다.   \
-   &#xNAN;_\* 연동한 구글 설문지에 최소 1개 이상의 응답이 존재해야 정상적으로 테스트가 진행됩니다._
+   _\* 연동한 구글 설문지에 최소 1개 이상의 응답이 존재해야 정상적으로 테스트가 진행됩니다._
 
 <figure><img src="../../.gitbook/assets/Zapier 구글 폼3 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -76,7 +76,7 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
 
 
 5. \[Continue]를 눌러 \[Test] 단계로 이동한 뒤, \[Test step]을 누릅니다.   \
-   &#xNAN;_\* 연동한 구글 설문지에 최소 1개 이상의 응답이 존재해야 정상적으로 테스트가 진행됩니다._
+   _\* 연동한 구글 설문지에 최소 1개 이상의 응답이 존재해야 정상적으로 테스트가 진행됩니다._
 6. 문제가 없다면 \[Publish]를 눌러 Zap을 실행 상태로 만듭니다.
 
 <figure><img src="../../.gitbook/assets/Zapier 타입폼 5.png" alt=""><figcaption></figcaption></figure>
@@ -85,4 +85,4 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
 
 ### 테스트 해보기
 
-타입폼에 임의로 응답을 제출해 보세요. 스티비 주소록에 응답한 정보가 잘 연동됐다면 Zap 설정이 무사히 완료된 것입니다.
+구글 설문지에 임의로 응답을 제출해 보세요. 스티비 주소록에 응답한 정보가 잘 연동됐다면 Zap 설정이 무사히 완료된 것입니다.

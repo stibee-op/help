@@ -63,8 +63,8 @@ layout:
 
 현재 G메일과 네이버 메일의 정책에 따라, 외부 서비스에서는 gmail.com, naver.com 도메인을 사용해 이메일을 보낼 수 없습니다. 이 도메인으로 만든 이메일 주소를 발신자로 설정하면, 이메일을 계속 보낼 수 있도록 send.stibee.com 도메인으로 자동 변경되어 저장됩니다. 자동 변경 과정에서 별도의 비용이 발생하지는 않습니다.
 
-* example@gmail.com → example-gmail.com@send.stibee.com
-* example@naver.com → example-naver.com@send.stibee.com
+* example@gmail.com → example-gm@send.stibee.com
+* example@naver.com → example-nv@send.stibee.com
 
 다만 send.stibee.com 도메인은 개별 도메인을 준비하기 전까지 사용할 수 있는 대안입니다. 장기적으로 이메일을 보낼 계획이라면, 직접 소유한 도메인으로 발신자 주소를 만드는 것을 권장합니다. 자세한 내용은 [나만의 발신자 주소 만들기](https://help.stibee.com/getting-started/preparing-for-start/custom-sender-address) 도움말을 참고해 주세요.
 

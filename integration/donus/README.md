@@ -23,6 +23,7 @@
 [how-to-integration.md](how-to-integration.md)
 {% endcontent-ref %}
 
-{% content-ref url="../sixshop/disconnect.md" %}
-[disconnect.md](../sixshop/disconnect.md)
+{% content-ref url="disconnect.md" %}
+[disconnect.md](disconnect.md)
 {% endcontent-ref %}
+
