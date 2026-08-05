@@ -46,7 +46,7 @@ Zap은 'Trigger'와 'Action'으로 구성됩니다. Trigger에서 설정한 이�
 
 
 4. Action에서 'Stibee'를 검색한 뒤, 원하는 'Action Event'를 설정합니다.   \
-   &#xNAN;_\* 각 이벤트의 자세한 내용은_ [_주요 기능 살펴보기_](features.md) _도움말을 참고해 주세요._
+   _\* 각 이벤트의 자세한 내용은_ [_주요 기능 살펴보기_](features.md) _도움말을 참고해 주세요._
 
 <figure><img src="../../.gitbook/assets/Zapier 스티비 앱 연동하기4.png" alt=""><figcaption></figcaption></figure>
 

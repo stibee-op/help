@@ -42,7 +42,7 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
 5. \[Continue]를 눌러 \[Configure] 단계로 이동한 뒤, 연동할 스프레드시트를 선택합니다.
 6. \[Test Trigger]를 눌러 설정이 잘 이루어졌는지 확인합니다.
 7. \[Find new records]를 눌러 Test를 진행할 응답을 선택합니다.   \
-   &#xNAN;_\* 연동한 스프레드시트에 최소 1개 이상의 응답이 존재해야 정상적으로 테스트가 진행됩니다._
+   _\* 연동한 스프레드시트에 최소 1개 이상의 응답이 존재해야 정상적으로 테스트가 진행됩니다._
 
 <figure><img src="../../.gitbook/assets/Zapier 스프레드시트 3.png" alt=""><figcaption></figcaption></figure>
 
@@ -75,7 +75,7 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
 
 
 5. \[Continue]를 눌러 \[Test] 단계로 이동한 뒤, \[Test step]을 누릅니다.   \
-   &#xNAN;_\* 연동한 스프레드시트에 최소 1개 이상의 응답이 존재해야 정상적으로 테스트가 진행됩니다._
+   _\* 연동한 스프레드시트에 최소 1개 이상의 응답이 존재해야 정상적으로 테스트가 진행됩니다._
 6. 문제가 없다면 \[Publish]를 눌러 Zap을 실행 상태로 만듭니다.
 
 <figure><img src="../../.gitbook/assets/Zapier 스프레드시트 6.png" alt=""><figcaption></figcaption></figure>
