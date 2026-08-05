@@ -226,7 +226,7 @@
   * [발송 성공률 높이기](tip/improve-sending-performance/improve-delivery-rate.md)
   * [이메일 스팸 표시 방지하기](tip/prevent-email-spam-marking.md)
   * [오픈율 개선하기](tip/improve-open-rates.md)
-* [휴면 회원 구독자 관리하기](<tip/undefined (1).md>)
+  * [휴면 회원 구독자 관리하기](tip/improve-sending-performance/manage-inactive-subscribers.md)
 * [자동 이메일 활용하기](tip/undefined.md)
 * [광고성 정보 수신 동의 여부 정기적으로 확인하기](tip/agree-to-receive-advertising-information.md)
 * [스티비의 발송 서버 예외 처리하기](tip/send-server-permit-list.md)

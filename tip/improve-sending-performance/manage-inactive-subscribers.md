@@ -12,12 +12,12 @@
 자동 삭제 기능을 사용하고 있다면, 하드바운스로 처리된 구독자는 자동 삭제되어 다음 발송 대상에서 제외됩니다. 휴면 회원을 계속 관리하고 싶을 때만 아래 방법을 사용해 주세요.
 
 {% hint style="info" %}
-하드바운스의 기본 동작은 [이메일 상세 통계](../email/analytics/email-detailed-statistics.md#hard-bounce) 도움말에서 확인할 수 있습니다.
+하드바운스의 기본 동작은 [이메일 상세 통계](../../email/analytics/email-detailed-statistics.md#hard-bounce) 도움말에서 확인할 수 있습니다.
 {% endhint %}
 
 
 
-### 휴면 회원 구독자 확인하기
+### 휴면 회원 구독자 확인하기 <a href="#check" id="check"></a>
 
 발송 실패 사유별로 구독자를 확인할 수 있습니다.
 
@@ -25,11 +25,11 @@
 2. \[상세 통계(∨) → 발송 실패]를 클릭합니다.
 3. 실패 사유가 '하드바운스(휴면 회원)'인 구독자를 확인합니다.
 
-<figure><img src="../.gitbook/assets/하드바운스 휴면 회원.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/하드바운스 휴면 회원.png" alt=""><figcaption></figcaption></figure>
 
 
 
-### 하드바운스 처리된 구독자 내보내기
+### 하드바운스 처리된 구독자 내보내기 <a href="#export" id="export"></a>
 
 1. \[상세 통계(∨) → 발송 실패]에서 \[파일로 내보내기]를 클릭합니다.
 2. 로그인한 이메일 주소로 파일을 내려받을 수 있는 링크가 발송됩니다.
@@ -37,14 +37,14 @@
 
 _\* 상세 통계 파일은 생성일로부터 최대 24시간 동안 내려받을 수 있습니다._
 
-<figure><img src="../.gitbook/assets/하드바운스 휴면 회원2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/하드바운스 휴면 회원2.png" alt=""><figcaption></figcaption></figure>
 
 
 
-### 휴면 회원 구독자에게 리마인드 이메일 보내기
+### 휴면 회원 구독자에게 리마인드 이메일 보내기 <a href="#reminder" id="reminder"></a>
 
 {% hint style="warning" %}
-자동 삭제 상태인 구독자는 구독자 수 계산에서 제외되지만, 새 주소록에 올리면 '구독 중' 상태가 되어 구독자 수에 다시 포함됩니다. 정확한 계산 기준은 [요금제 이해하기](../pricing/understanding/features.md#subscriber-count) 도움말에서 확인할 수 있습니다.
+자동 삭제 상태인 구독자는 구독자 수 계산에서 제외되지만, 새 주소록에 올리면 '구독 중' 상태가 되어 구독자 수에 다시 포함됩니다. 정확한 계산 기준은 [요금제 이해하기](../../pricing/understanding/features.md#subscriber-count) 도움말에서 확인할 수 있습니다.
 {% endhint %}
 
 휴면 회원은 구독자가 이메일 서비스에 다시 로그인하면 수신 가능한 상태로 돌아올 수 있습니다. 스티비에서는 계정이 다시 활성화됐는지 알 수 없기 때문에, 명단을 따로 모아 두고 주기적으로 리마인드 이메일을 보내 확인합니다.
@@ -52,12 +52,12 @@ _\* 상세 통계 파일은 생성일로부터 최대 24시간 동안 내려받�
 1. \[주소록 → 새로 만들기]를 눌러 휴면 회원 구독자를 모아 둘 주소록을 새로 만듭니다.
 2. 이때, \[자동삭제 기능을 사용하시겠습니까? → 아니요]로 [설정](https://help.stibee.com/list/creating-and-managing/create#auto-deletion)합니다. '예'로 두면 첫 발송에서 구독자가 자동 삭제되어 다음 주기에 다시 보낼 수 없습니다.
 3. 내보낸 파일에서 '하드바운스(휴면 회원)'인 구독자만 남긴 뒤, 1번에서 만든 주소록에 파일로 올립니다.
-   1. 자세한 방법은 [구독자 파일로 추가하기](../list/adding-managing-subscriber/add.md#undefined-2) 도움말을 참고해 주세요.
+   1. 자세한 방법은 [구독자 파일로 추가하기](../../list/adding-managing-subscriber/add.md#undefined-2) 도움말을 참고해 주세요.
 4. 3개월에서 6개월 주기로 이 주소록에 리마인드 이메일을 보냅니다. 구독자가 그동안 다시 로그인했다면 이메일이 발송 성공합니다.
 5. 리마인드 이메일에는 오랫동안 이메일을 받지 못한 상황을 알리고, 계속 받고 싶다면 어떻게 하면 되는지 안내합니다. 자주 쓰는 다른 이메일 주소로 구독할 수 있도록 \[구독 폼] 주소를 함께 넣으면 좋습니다
 6. 발송한 뒤 \[상세 통계 → 발송 성공]에서 이메일이 도착한 구독자를 확인합니다. 이 구독자는 계정이 다시 활성화된 상태이므로, 원래 주소록으로 옮기고 휴면 회원 관리 주소록에서는 삭제합니다.
 7. 계속 발송 실패하는 구독자는 주소록에 그대로 두고 다음 주기에 다시 확인합니다. 몇 번까지 시도할지 미리 정해 두고, 기준을 넘으면 주소록에서 삭제합니다.
 
-<figure><img src="../.gitbook/assets/하드바운스 휴면 회원3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/하드바운스 휴면 회원3.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/하드바운스 휴면 회원4 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/하드바운스 휴면 회원4 (2).png" alt=""><figcaption></figcaption></figure>
