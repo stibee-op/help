@@ -25,7 +25,7 @@ Zap은 'Trigger'와 'Action'으로 구성됩니다. Trigger에서 설정한 이�
 
 
 
-1. Zapier에 접속한 뒤, \[+Create -> Zaps]를 눌러 새로운 Zap을 생성합니다.
+1. Zapier에 접속한 뒤, \[+Create → Zaps]를 눌러 새로운 Zap을 생성합니다.
 
 <figure><img src="../../.gitbook/assets/Zapier 스티비 앱 사용하기1.png" alt=""><figcaption></figcaption></figure>
 

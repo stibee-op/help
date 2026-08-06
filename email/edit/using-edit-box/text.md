@@ -77,7 +77,7 @@ layout:
 * 애플고딕 → 노토산스 → 나눔고딕 → 맑은고딕 순으로 표시합니다.
 * 애플고딕이 없다면 노토산스를, 노토산스가 없다면 나눔고딕으로 표시하는 방식입니다.
 
-특수한 폰트를 사용하고 싶다면 이미지로 만들어 추가하는 방법을 추천합니다. 자세한 내용은 [여기](https://blog.stibee.com/nyuseureteo-dijaineul-dowajuneun-saeroun-ponteu-sayongbeob/)를 참고해 주세요.
+특수한 폰트를 사용하고 싶다면 이미지로 만들어 추가하는 방법을 추천합니다. 자세한 내용은 [뉴스레터 디자인을 도와주는 새로운 폰트 사용법](https://blog.stibee.com/nyuseureteo-dijaineul-dowajuneun-saeroun-ponteu-sayongbeob/) 아티클을 참고해 주세요.
 {% endhint %}
 
 ### 텍스트에 링크 추가하고 삭제하기 <a href="#links" id="links"></a>

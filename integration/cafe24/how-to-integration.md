@@ -122,7 +122,7 @@ layout:
 
 ### 스탠다드 요금제 <a href="#h_01hfe134n0sbajnpf8x6417agx" id="h_01hfe134n0sbajnpf8x6417agx"></a>
 
-카페24 회원의 스탠다드 요금제는 월 7,900원부터 시작합니다. 스탠다드 요금제의 자세한 기능은 [여기](../../pricing/understanding/type.md#h_54b391955e)서 확인할 수 있습니다.
+카페24 회원의 스탠다드 요금제는 월 7,900원부터 시작합니다. 스탠다드 요금제의 자세한 기능은 [여기](https://help.stibee.com/pricing/understanding/type#h_54b391955e)서 확인할 수 있습니다.
 
 * 0-500명: 월 7,900원 (연 85,000원)
 * 501-1,000명: 월 14,000원 (연 150,000원)
@@ -140,7 +140,7 @@ layout:
 
 ### 프로 요금제 <a href="#h_01hfe5fvsydaxm3b3da3y7jfbm" id="h_01hfe5fvsydaxm3b3da3y7jfbm"></a>
 
-카페24 회원의 프로 요금제는 월 28,000원부터 시작합니다. 프로 요금제의 자세한 기능은 [여기](../../pricing/understanding/type.md#h_01h9mm24t1nf8tp4vh7bdhv62y)서 확인할 수 있습니다.
+카페24 회원의 프로 요금제는 월 28,000원부터 시작합니다. 프로 요금제의 자세한 기능은 [여기](https://help.stibee.com/pricing/understanding/type#h_01h9mm24t1nf8tp4vh7bdhv62y)서 확인할 수 있습니다.
 
 * 0-500명: 월 28,000원 (연 300,000원)
 * 501-1,000명: 월 34,000원 (연 360,000원)
@@ -158,7 +158,7 @@ layout:
 
 ### 엔터프라이즈 요금제 <a href="#h_01hfn5byjgwcjq8q3cmy9wkznm" id="h_01hfn5byjgwcjq8q3cmy9wkznm"></a>
 
-카페24 회원의 엔터프라이즈 요금제는 월 56,000원부터 시작합니다. 엔터프라이즈 요금제의 자세한 기능은 [여기](https://help.stibee.com/pricing/understanding/type#enterprise)서 확인할 수 있습니다.
+카페24 회원의 엔터프라이즈 요금제는 월 56,000원부터 시작합니다. 엔터프라이즈 요금제의 자세한 기능은 [여기](https://help.stibee.com/pricing/understanding/type#h_01gjhq9teyhe3tqdkf4n4h5fv5)서 확인할 수 있습니다.
 
 * 0-500명: 월 56,000원 (연 600,000원)
 * 501-1,000명: 월 62,000원 (연 660,000원)

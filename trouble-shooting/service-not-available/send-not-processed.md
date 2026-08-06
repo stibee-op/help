@@ -17,7 +17,7 @@
 * 윈도우: Ctrl + Shift + N
 * 맥: ⌘ + Shift + N
 
-시크릿 모드에서 정상적으로 동작한다면 확장 프로그램 또는 캐시 문제입니다. [시크릿 모드에서는 정상적으로 동작한다면](https://www.help.stibee.com/trouble-shooting/overview#works-in-incognito-mode) 도움말을 참고해 이후 조치를 진행해 주세요.
+시크릿 모드에서 정상적으로 동작한다면 확장 프로그램 또는 캐시 문제입니다. [시크릿 모드에서는 정상적으로 동작한다면](https://help.stibee.com/trouble-shooting/overview#works-in-incognito-mode) 도움말을 참고해 이후 조치를 진행해 주세요.
 
 
 

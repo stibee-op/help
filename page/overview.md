@@ -37,7 +37,7 @@ layout:
 
 \[페이지]는 발송한 이메일을 한곳에 모아 구독자에게 보여주고, 구독 신청까지 받을 수 있는 내 뉴스레터만의 홈페이지입니다. 지금까지 발송한 이메일을 모아 구독자에게 제공하면 구독자를 모으는 데 도움이 됩니다. 유료 뉴스레터를 운영하고 있다면 페이지 기능을 활용해서 '유료 구독자 전용 콘텐츠'를 제공할 수도  있습니다.
 
-_\* 페이지와_ [_아카이브_](https://help.stibee.com/hc/ko/articles/4756482526223)_의 차이는_ [_여기_](https://help.stibee.com/hc/ko/articles/4717285577871)_를 참고해 주세요._
+_\* 페이지와 아카이브의 차이는_ [_여기_](../email/share/archive.md#difference)_를 참고해 주세요._
 
 <figure><img src="../.gitbook/assets/페이지 개요2.png" alt=""><figcaption></figcaption></figure>
 

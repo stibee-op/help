@@ -40,7 +40,7 @@ layout:
 
 유료 구독자의 결제 내역은 \[[유료 구독 주소록 → 결제 내역](../billing/check-payment-history.md)]에서 확인할 수 있습니다.
 
-## 결제 취소절차 <a href="#h_12fc7e2f5e" id="h_12fc7e2f5e"></a>
+## 결제 취소 절차 <a href="#h_12fc7e2f5e" id="h_12fc7e2f5e"></a>
 
 다음과 같은 결제 취소 절차가 진행됩니다.
 

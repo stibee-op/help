@@ -31,8 +31,8 @@ layout:
 
 이 도움말 섹션에서는 구독 폼을 생성하고 설정하는 방법을 중심으로, 구독자를 모으는 기본 흐름을 단계별로 안내합니다.
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="form.md" %}
+[form.md](form.md)
 {% endcontent-ref %}
 
 {% content-ref url="automated-categorization.md" %}

@@ -77,7 +77,7 @@
 
 * [개요](pricing/overview.md)
 * [요금제 이해하기](pricing/understanding/README.md)
-  * [요금제 이해하기](pricing/understanding/features.md)
+  * [요금제 특징](pricing/understanding/features.md)
   * [요금제 종류](pricing/understanding/type.md)
 * [결제하기](pricing/payment/README.md)
   * [요금제 결제하기](pricing/payment/change-plan.md)

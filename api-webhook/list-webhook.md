@@ -133,7 +133,7 @@ eventOccurredBy와 같이 '이벤트를 발생시킨 주체'에 대한 정보를
 {
     "id":"4617",
     "action":"SUBSCRIBED",
-    "eventOccuredBy":"SUBSCRIBER",
+    "eventOccurredBy":"SUBSCRIBER",
     "subscribers": [
         {"email":"gildong@stibee.com", "name":"길동"}
     ]
@@ -147,9 +147,9 @@ eventOccurredBy와 같이 '이벤트를 발생시킨 주체'에 대한 정보를
 {
     "id":"4617",
     "action":"UNSUBSCRIBED",
-    "eventOccuredBy":"SUBSCRIBER",
+    "eventOccurredBy":"SUBSCRIBER",
     "subscribers": [
-        {"email":"gildong@stibee.com", "$unsubscribe_reason": "수신거부 사유"}
+        {"email":"gildong@stibee.com", "$unsubscribe_reason": "수신거부 사유"} 
     ]
 }
 ```
@@ -161,7 +161,7 @@ eventOccurredBy와 같이 '이벤트를 발생시킨 주체'에 대한 정보를
 {
     "id":"4617",
     "action":"SUBSCRIBED",
-    "eventOccuredBy":"MANUAL",
+    "eventOccurredBy":"MANUAL",
     "subscribers": [
         {"email":"gildong@stibee.com", "name":"길동"}
         {"email":"dooly@stibee.com", "name":"둘리"}

@@ -9,6 +9,8 @@
 
 로그인 과정에서 하얀 화면이 오래 표시되거나, 화면 전환 속도가 평소보다 느릴 때 참고하세요.
 
+
+
 ### 주소록 정리하기 <a href="#manage-lists" id="manage-lists"></a>
 
 혹시 주소록을 여러 개 사용하고 계신가요? 주소록이 여러 개일 경우, 서비스 구조상 화면 전환 속도가 느려질 수 있습니다.
@@ -31,7 +33,7 @@
 * 윈도우: Ctrl + Shift + N
 * 맥: ⌘ + Shift + N
 
-시크릿 모드에서 정상적으로 동작한다면 확장 프로그램 또는 캐시 문제입니다. [시크릿 모드에서는 정상적으로 동작한다면](https://www.help.stibee.com/trouble-shooting/overview#works-in-incognito-mode) 도움말을 참고해 이후 조치를 진행해 주세요.
+시크릿 모드에서 정상적으로 동작한다면 확장 프로그램 또는 캐시 문제입니다. [시크릿 모드에서는 정상적으로 동작한다면](https://help.stibee.com/trouble-shooting/overview#works-in-incognito-mode) 도움말을 참고해 이후 조치를 진행해 주세요.
 
 
 
