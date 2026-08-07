@@ -38,12 +38,12 @@ _\* 스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일
 
 ### **기능**
 
-* [사용자](https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/user-workspace) 수 1명 (소유자 포함)
+* [사용자](/broken/pages/jdF8uhefggm9aSTyTmcu) 수 1명 (소유자 포함)
 * 드래그앤드롭 에디터
 * 반응형 템플릿
 * [통계 대시보드](https://help.stibee.com/email/analytics/email-statistics-dashboard)
 * [A/B 테스트](../../email/a-b-test.md) (제목, 발신자 이름, 발송 시간)
-* [구독 페이지](https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/page)
+* [구독 페이지](/broken/pages/lr3Db5Tz1V8ChLhjwPVa)
 * [사용자 정의 필드](https://help.stibee.com/list/adding-managing-subscriber/understanding-subscriber-info) 30개
 * [세그먼트](../../list/classify-subscribers/how-to-use-segment.md) 1개
 * [그룹](../../list/classify-subscribers/how-to-use-groups.md) 30개
@@ -62,7 +62,7 @@ _\* 스타터 요금제를 사용하여 이메일을 발송할 경우, 이메일
 ### **기능** <a href="#h_54b391955e" id="h_54b391955e"></a>
 
 * 스타터의 모든 기능
-* [사용자](https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/user-workspace) 수 3명 (소유자 포함)
+* [사용자](/broken/pages/jdF8uhefggm9aSTyTmcu) 수 3명 (소유자 포함)
 * [세그먼트 ](../../list/classify-subscribers/how-to-use-segment.md)5개
 * [자동 이메일](../../email/automation/understand.md)
 * 스폰서 배너 제거
