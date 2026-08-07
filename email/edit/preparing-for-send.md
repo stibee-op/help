@@ -31,7 +31,7 @@ layout:
 
 ## 주소록
 
-이메일을 보낼 [주소록](/broken/pages/mQ3AQKcxfXYxzAr3KgkI)을 선택하는 단계입니다. 여기서 선택한 주소록에 추가된 구독자에게 이메일이 발송됩니다. 이메일을 보내고 싶은 구독자를 주소록에 추가한 뒤, 이메일을 보내고 싶은 구독자가 추가된 주소록을 선택해서 보내면 됩니다.
+이메일을 보낼 [주소록](https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/list)을 선택하는 단계입니다. 여기서 선택한 주소록에 추가된 구독자에게 이메일이 발송됩니다. 이메일을 보내고 싶은 구독자를 주소록에 추가한 뒤, 이메일을 보내고 싶은 구독자가 추가된 주소록을 선택해서 보내면 됩니다.
 
 주소록 전체가 아닌 일부 구독자에게만 이메일을 보내고 싶다면, 해당 구독자를 [그룹](../../list/classify-subscribers/how-to-use-groups.md)이나 [세그먼트](../../list/classify-subscribers/how-to-use-segment.md)로 분류한 뒤 발송해 주세요.
 

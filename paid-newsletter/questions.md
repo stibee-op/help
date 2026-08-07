@@ -10,7 +10,7 @@
 
 <summary>유료 뉴스레터를 시작하고 싶어요</summary>
 
-[유료 구독 주소록](/broken/pages/beH3Qh55T5fOZa9yc0sp)을 사용하면 구독자에게 유료 구독료를 받으면서 유료 뉴스레터를 발행할 수 있습니다. 유료 뉴스레터의 운영 방식은 크게 정기 발행 방식과 시즌제 발행 방식으로 구분할 수 있습니다.
+[유료 구독 주소록](https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/paid-newsletter)을 사용하면 구독자에게 유료 구독료를 받으면서 유료 뉴스레터를 발행할 수 있습니다. 유료 뉴스레터의 운영 방식은 크게 정기 발행 방식과 시즌제 발행 방식으로 구분할 수 있습니다.
 
 #### 정기 발행 방식
 
@@ -30,7 +30,7 @@
 
 
 
-각 운영 방식에 대한 자세한 내용과 주소록 설정 방법이 궁금하다면 [유료 구독 주소록](/broken/pages/beH3Qh55T5fOZa9yc0sp) 도움말을 확인해 보세요.
+각 운영 방식에 대한 자세한 내용과 주소록 설정 방법이 궁금하다면 [유료 구독 주소록](https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/paid-newsletter) 도움말을 확인해 보세요.
 
 </details>
 

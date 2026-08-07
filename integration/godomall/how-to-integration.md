@@ -47,8 +47,8 @@ layout:
 
 고도몰 연동 주소록은 일반 주소록과 기본적인 기능은 동일하지만, 고도몰 회원 정보를 불러올 수 있다는 점이 다릅니다. 대부분의 일반적인 기능은 주소록과 동일하기 때문에 기본 사용법은 아래 도움말을 참고해 주세요.
 
-{% content-ref url="/broken/pages/mQ3AQKcxfXYxzAr3KgkI" %}
-[Broken link](/broken/pages/mQ3AQKcxfXYxzAr3KgkI)
+{% content-ref url="https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/list" %}
+[주소록](https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/list)
 {% endcontent-ref %}
 
 

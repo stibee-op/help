@@ -45,14 +45,14 @@ layout:
 
 이번 도움말 섹션에서는 일반 주소록을 기준으로 설명합니다.  유료 뉴스레터를 운영할 수 있는 유료 주소록 사용법이 궁금하다면 아래 도움말을 클릭해서 확인해 보세요.
 
-{% content-ref url="/broken/pages/beH3Qh55T5fOZa9yc0sp" %}
-[Broken link](/broken/pages/beH3Qh55T5fOZa9yc0sp)
+{% content-ref url="https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/paid-newsletter" %}
+[유료 구독 주소록](https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/paid-newsletter)
 {% endcontent-ref %}
 
 외부 서비스와 연동해서 사용할 수 있는 연동 주소록 사용법이 궁금하다면 아래 도움말을 클릭해서 확인해 보세요.
 
-{% content-ref url="/broken/pages/CTLOn2aFAhN3vYAKSwDk" %}
-[Broken link](/broken/pages/CTLOn2aFAhN3vYAKSwDk)
+{% content-ref url="https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/integration" %}
+[외부 서비스 연동](https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/integration)
 {% endcontent-ref %}
 
 

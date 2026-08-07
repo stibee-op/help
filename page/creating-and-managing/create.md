@@ -48,7 +48,7 @@ layout:
 
 ### 주소록 연결하기 <a href="#h_75b8dc5d2c" id="h_75b8dc5d2c"></a>
 
-페이지는 [주소록](/broken/pages/mQ3AQKcxfXYxzAr3KgkI)과 연결됩니다. 하나의 페이지에 하나의 주소록을 연동할 수 있으며, 페이지와 연결된 주소록에 발송한 이메일만 페이지에 발행할 수 있습니다. 페이지에 연결할 주소록을 선택해 주세요.
+페이지는 [주소록](https://app.gitbook.com/s/eAMHRdY4ATDXfWZWQs3p/list)과 연결됩니다. 하나의 페이지에 하나의 주소록을 연동할 수 있으며, 페이지와 연결된 주소록에 발송한 이메일만 페이지에 발행할 수 있습니다. 페이지에 연결할 주소록을 선택해 주세요.
 
 <figure><img src="../../.gitbook/assets/페이지 만들기2.png" alt=""><figcaption></figcaption></figure>
 
