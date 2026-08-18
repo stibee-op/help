@@ -40,11 +40,7 @@ layout:
 
 ### 구독 중 <a href="#subscribe" id="subscribe"></a>
 
-이메일 수신할 수 있는 구독 상태를 의미합니다.&#x20;
-
-음 주소록에 구독자를 추가하거나 \[구독 폼]을 통해 구독 신청한 경우 일반적으로 '구독 중' 상태로 추가됩니다. 이메일을 발송하는 경우 '구독 중' 상태인 구독자에게만 이메일이 발송됩니다.
-
-
+이메일 수신할 수 있는 구독 상태를 의미합니다. 주소록에 구독자를 추가하거나 \[구독 폼]을 통해 구독 신청한 경우 일반적으로 '구독 중' 상태로 추가됩니다. 이메일을 발송하는 경우 '구독 중' 상태인 구독자에게만 이메일이 발송됩니다.
 
 ### 수신거부 <a href="#unsubscribe" id="unsubscribe"></a>
 
@@ -56,10 +52,10 @@ layout:
 단, 주소록의 설정을 변경하면 예외적으로 수신거부 상태의 구독자에게 이메일을 발송할 수 있습니다. [send-email-unsubscribed-subscriber.md](../../email/send/send-email-unsubscribed-subscriber.md "mention") 도움말을 참고해 주세요.
 {% endhint %}
 
-
-
 ### 자동삭제 <a href="#auto-deleted" id="auto-deleted"></a>
 
-발송을 했을 때 여러가지 원인으로 [발송에 실패](https://help.stibee.com/email/analytics/email-detailed-statistics#bounce)하는 경우가 있습니다. 영구적인 이유(예. 잘못된 이메일 주소)로 발송 실패하면 '하드바운스'로 분류되고, 이 구독자는 주소록에서 '자동삭제' 상태로 변경되며 이후 발송 대상에서 제외합니다. 자동삭제 기능을 사용하면 이메일을 발송할수록 발송 성과가 개선됩니다.
+발송을 했을 때 여러가지 원인으로 [발송에 실패](https://help.stibee.com/email/analytics/email-detailed-statistics#bounce)하는 경우가 있습니다.&#x20;
+
+영구적인 이유(예: 잘못된 이메일 주소, 휴면 상태인 이메일 계정)로 발송 실패하면 '하드바운스'로 분류되고, 이 구독자는 주소록에서 '자동삭제' 상태로 변경되며 이후 발송 대상에서 제외합니다. 자동삭제 기능을 사용하면 이메일을 발송할수록 발송 성과가 개선됩니다.
 
 _\* 단, 원하는 경우에는 주소록에서 '자동삭제' 기능을 직접 비활성화할 수 있습니다. 자동삭제 기능을 비활성화하고 싶다면_ [_주소록 만들고 관리하기_](https://help.stibee.com/list/creating-and-managing) _도움말을 참고해 주세요._

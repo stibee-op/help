@@ -21,6 +21,20 @@ layout:
 
 # 자주 묻는 질문
 
+## 주소록 만들기
+
+<details>
+
+<summary>주소록은 최대 몇 개까지 만들 수 있나요?</summary>
+
+한 워크스페이스에서 만들 수 있는 주소록은 최대 300개입니다. 300개를 모두 사용하면 새 주소록을 만들 수 없습니다. 필요하지 않은 주소록을 삭제하면 삭제한 개수만큼 다시 만들 수 있습니다.
+
+**\*주의:** 주소록을 삭제하면 등록된 구독자도 함께 삭제되고 복구할 수 없습니다.
+
+주소록을 계속해서 생성하는 대신 [그룹](classify-subscribers/how-to-use-groups.md)이나 [세그먼트](classify-subscribers/how-to-use-segment.md)로 구독자를 분류해 보세요.
+
+</details>
+
 ## 구독자 추가하기
 
 <details>
@@ -41,7 +55,7 @@ _\* 수신거부, 자동삭제, 다른 주소록에 중복 등록된 구독자�
 
 \[워크스페이스 이름 → 업그레이드 하기 → 구독자 수 구간 높이기]를 누른 뒤 표시되는 다음 화면에서 원하시는 구독자 구간을 선택해서 결제할 수 있습니다.
 
-자세한 내용은 [요금제 결제하기](https://docs.channel.io/helpdesk-test/ko/articles/%EC%9A%94%EA%B8%88%EC%A0%9C-%EA%B2%B0%EC%A0%9C%ED%95%98%EA%B8%B0-9c9ed00f) 도움말을 참고해 주세요.
+자세한 내용은 [요금제 결제하기](../pricing/payment/) 도움말을 참고해 주세요.
 
 </details>
 
@@ -151,7 +165,7 @@ yyyyMMddHHmmss      (예: 20230809141520)
 
 <details>
 
-<summary>수신거부, 자동삭제 된 명단을 어디서 확인할 수 있나요?</summary>
+<summary>수신거부, 자동삭제된 명단을 어디서 확인할 수 있나요?</summary>
 
 확인하고자 하는 주소록을 선택한 뒤 \[구독자 목록 → 구독 중 필터]를 클릭하면 '구독 중, 수신거부, 자동삭제' 등 구독 상태별로 체크하여 확인할 수 있습니다.&#x20;
 
@@ -183,6 +197,8 @@ yyyyMMddHHmmss      (예: 20230809141520)
 자세한 내용은 [구독자가 직접 변경하기](adding-managing-subscriber/modify-subscriber-info.md#h_01gfaz1dqx7jfb1mr5w6myba1t) 도움말을 참고해 주세요
 
 </details>
+
+
 
 ## 사용자 정의 필드
 
