@@ -124,7 +124,9 @@ A/B 테스트에 대해 더 자세한 내용이 궁금한 경우에는 아래 �
 
 \[예약하기]는 원하는 날짜와 시간에 이메일이 발송되도록 예약하는 기능입니다. 편집 화면 오른쪽 위 \[예약하기]를 클릭하고 발송할 날짜와 시간을 선택하면, 이메일 상태가 '예약 중'으로 바뀌고 예약한 시간에 발송됩니다.
 
-예약한 이메일은 발송 전까지 언제든지 취소하거나 수정할 수 있습니다.
+#### 예약 취소하기
+
+예약한 이메일은 발송 전까지 언제든지 취소할 수 있습니다.
 
 1. 화면 가장 위 메인 메뉴에서 \[이메일]을 클릭해 이메일 목록으로 이동합니다.
 2. \[예약 중] 상태의 이메일을 찾습니다.
@@ -144,4 +146,4 @@ A/B 테스트에 대해 더 자세한 내용이 궁금한 경우에는 아래 �
 [understand-sending-functionality.md](../email/send/understand-sending-functionality.md)
 {% endcontent-ref %}
 
-이메일을 발송했다면 [이메일 대시보드](../email/analytics/email-statistics-dashboard.md)에서 발송 통계를 확인할 수 있습니다. 만약에 발송한 이메일을 받아보지 못했다면 [이메일을 보냈으나 도착하지 않을 때](https://help.stibee.com/trouble-shooting/email-not-received) 도움말을 참고해 보세요.
+이메일을 발송했다면 [이메일 대시보드](../email/analytics/email-statistics-dashboard.md)에서 발송 통계를 확인할 수 있습니다. 만약에 발송한 이메일을 받아보지 못했다면 [이메일을 보냈으나 도착하지 않을 때](../trouble-shooting/email-not-received.md) 도움말을 참고해 보세요.

@@ -61,7 +61,7 @@ layout:
 \* _https://stibee.com/lists/**nnnnnn**/dashboard 에서 'nnnnnn'이 list\_id 값입니다._
 
 * 스티비 구독 폼 기본 형식: https://page.stibee.com/subscriptions/{list\_id}
-  * <스요레터>, [https://page.stibee.com/subscriptions/3](https://page.stibee.com/subscriptions/3)
+  * <스티비 뉴스레터>, [https://page.stibee.com/subscriptions/3](https://page.stibee.com/subscriptions/3)
   * <비레터>, [https://page.stibee.com/subscriptions/62723](https://page.stibee.com/subscriptions/62723)
 
 

@@ -72,7 +72,7 @@
 
 * 모든 주소록에 등록된 구독자 수를 합해서 계산합니다.
 * 단 여러 주소록에 중복으로 등록된 구독자는 자동으로 1명으로 계산됩니다.
-* [구독 상태](../list/adding-managing-subscriber/understanding-subscriber-status.md)가 수신거부, 자동삭제 상태인 경우에는 자동으로 계산에서 제외됩니다.
+* [구독 상태](../list/adding-managing-subscriber/understanding-subscriber-status.md)가 수신거부, 자동 삭제 상태인 경우에는 자동으로 계산에서 제외됩니다.
 
 </details>
 

@@ -170,8 +170,6 @@ groupIds=12345
 
 ### HTML 코드 구독 폼에서 자동으로 값 입력하기
 
-**\*주의:** field\_key의 I는 영어 대문자 I(아이)입니다.
-
 구독 폼 HTML 코드 뒤에 ?field\_key={field\_value} 값을 추가하면 됩니다.
 
 {% code title="수정 전" overflow="wrap" %}

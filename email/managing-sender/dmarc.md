@@ -178,15 +178,15 @@ DMARC 설정은 여러 가지 추가 정책을 수행할 수 있는 여러 태�
 
 _\* 각 태그 값은 세미콜론(;)을 구분자로 사용합니다. 여러 태그를 설정하는 경우 세미콜론으로 각 태그를 구분해서 사용하면 됩니다._
 
-| 태그                                          | 설정 값                                                                                                     |
-| ------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [v](/broken/pages/lb36R72YFq4Jg1MJUzts)     | V=DMARC1, 필수 설정 값입니다.                                                                                    |
-| [p](/broken/pages/lb36R72YFq4Jg1MJUzts)     | p=none 또는 p=quarantine 또는 p=reject, 필수 설정 값입니다.                                                          |
-| [pct](/broken/pages/lb36R72YFq4Jg1MJUzts)   | <p>pct=’1부터 100 사이의 정수’<br>작성 예시) pct=50 (보내는 이메일의 50%에만 DMARC 정책을 적용하라.), 선택 설정 값입니다.</p>               |
-| [rua](/broken/pages/lb36R72YFq4Jg1MJUzts)   | <p>rua=mailto:’DMARC 활동 보고서를 받아볼 이메일 주소’<br>작성 예시) rua=mailto:dmarc-reports@example.com, 선택 설정 값입니다.</p> |
-| [sp](/broken/pages/lb36R72YFq4Jg1MJUzts)    | p=none 또는 p=quarantine 또는 p=reject, 선택 설정 값입니다.                                                          |
-| [adkim](/broken/pages/lb36R72YFq4Jg1MJUzts) | adkim=r 또는 adkim=s, 선택 설정 값입니다.                                                                          |
-| [aspf](/broken/pages/lb36R72YFq4Jg1MJUzts)  | aspf=r 또는 aspf=s, 선택 설정 값입니다.                                                                            |
+| 태그    | 설정 값                                                                                                     |
+| ----- | -------------------------------------------------------------------------------------------------------- |
+| v     | V=DMARC1, 필수 설정 값입니다.                                                                                    |
+| p     | p=none 또는 p=quarantine 또는 p=reject, 필수 설정 값입니다.                                                          |
+| pct   | <p>pct=’1부터 100 사이의 정수’<br>작성 예시) pct=50 (보내는 이메일의 50%에만 DMARC 정책을 적용하라.), 선택 설정 값입니다.</p>               |
+| rua   | <p>rua=mailto:’DMARC 활동 보고서를 받아볼 이메일 주소’<br>작성 예시) rua=mailto:dmarc-reports@example.com, 선택 설정 값입니다.</p> |
+| sp    | p=none 또는 p=quarantine 또는 p=reject, 선택 설정 값입니다.                                                          |
+| adkim | adkim=r 또는 adkim=s, 선택 설정 값입니다.                                                                          |
+| aspf  | aspf=r 또는 aspf=s, 선택 설정 값입니다.                                                                            |
 
 ### **V=DMARC1** <a href="#h_01hkxsq091481navbc79d5txpf" id="h_01hkxsq091481navbc79d5txpf"></a>
 

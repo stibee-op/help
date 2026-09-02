@@ -1,6 +1,6 @@
 # 연동하기
 
-💬 이 내용은 **스탠다드, 프로, 엔터프라이즈** 요금제에 해당하는 도움말입니다.
+💬 이 내용은 **스탠다드, 프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다.
 
 ## 이 글에서는
 
@@ -39,7 +39,7 @@ Zap은 'Trigger'와 'Action'으로 구성됩니다. Trigger에서 설정한 이�
 
 3. 'Trigger' 이벤트를 설정합니다.
 
-**\* 주의:** 현재 Zapier 스티비 앱은 Action 이벤트만 지원합니다. 따라서, Trigger에서는 스티비 앱 사용이 불가합니다.
+**\*주의:** 현재 Zapier 스티비 앱은 Action 이벤트만 지원합니다. 따라서, Trigger에서는 스티비 앱 사용이 불가합니다.
 
 <figure><img src="../../.gitbook/assets/Zapier 스티비 앱 연동하기3.png" alt=""><figcaption></figcaption></figure>
 

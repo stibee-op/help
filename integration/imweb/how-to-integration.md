@@ -24,7 +24,7 @@
 
 
 
-## 워크스페이스 연동하기
+## 워크스페이스 연동하기 <a href="#connect-workspace" id="connect-workspace"></a>
 
 아임웹 연동 주소록을 사용하려면 아임웹에서 [스티비 앱을 설치하여](https://imweb.me/appstore/app?app=ga20260617a661d10f47a1f\&utm_source=help.stibee.com\&utm_medium=referral\&utm_campaign=imweb_integration) 연동을 진행해야 합니다. 연동을 진행하면 아임웹 회원 정보와 스티비 연동 주소록이 실시간으로 연동됩니다. 앱을 삭제하거나 연동 주소록을 삭제하지 않는 이상 연동은 해제되지 않습니다.
 
@@ -98,7 +98,7 @@
 
 
 
-## 구독자 추가하기
+## 구독자 추가하기 <a href="#add-subscribers" id="add-subscribers"></a>
 
 아임웹과 스티비를 연동하면 아임웹 연동 주소록이 생성되고, 아임웹 사이트의 회원 정보와 스티비 주소록이 실시간으로 연동됩니다. 아임웹 연동 주소록에 쇼핑몰 회원이 아닌 외부에서 수집한 구독자 정보를 추가하고 싶다면 주소록에서 직접 추가하면 됩니다. 또는 구독 폼을 활용해 구독자를 새롭게 모집할 수도 있습니다.
 

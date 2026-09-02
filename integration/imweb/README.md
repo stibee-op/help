@@ -21,7 +21,7 @@
 
 
 
-#### 구독자 상태 이해하기
+#### 구독자 상태 이해하기 <a href="#subscriber-status" id="subscriber-status"></a>
 
 아임웹 연동 주소록에서 구독자 상태는 아래 기준에 따라 처리됩니다.
 

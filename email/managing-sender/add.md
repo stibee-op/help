@@ -35,7 +35,7 @@ layout:
 
 
 
-## 발신자 이메일 주소 추가하기 <a href="#undefined" id="undefined"></a>
+## 발신자 이메일 주소 추가하기 <a href="#add-sender-address" id="add-sender-address"></a>
 
 주소록마다 사용할 발신자 이메일 주소를 설정할 수 있습니다. 기본적으로는 워크스페이스 소유자의 이메일 주소가 기본 발신자 이메일 주소로 설정됩니다. 예를 들어, 소유자 이메일 주소가 user@example.com이라면 모든 주소록의 기본 발신자 이메일 주소가 user@example.com으로 설정됩니다.
 
@@ -70,7 +70,7 @@ layout:
 
 
 
-## 발신자 이름 설정하기 <a href="#undefined" id="undefined"></a>
+## 발신자 이름 설정하기 <a href="#set-sender-name" id="set-sender-name"></a>
 
 발신자 이름은 인증 과정 없이 간단하게 설정할 수 있습니다. 주소록에 입력한 발신자 이름은 기본값으로 입력되며, 개별 이메일마다 별도로변경할 수 있습니다.
 

@@ -65,7 +65,7 @@ _\* 주소록 웹훅은 주소록 API와 함께 사용하면 내 서비스의 �
 * 구독자 정보 변경: 구독자의 정보(이름 등)가 변경됐습니다.
 * 수신거부: 구독자가 수신거부 상태로 변경됐습니다.
 * 수신거부 취소: 구독자의 수신거부가 취소됐습니다.
-* 자동삭제: 구독자가 자동삭제 상태로 변경됐습니다.
+* 자동 삭제: 구독자가 자동 삭제 상태로 변경됐습니다.
 * 완전삭제: 구독자가 완전 삭제됐습니다.
 
 모든 이벤트는 관리자 또는 API를 통해 발생하거나 구독자에 의해 발생했을 수 있습니다. 이에 대한 정보는 별도의 String으로 전달됩니다.
@@ -92,10 +92,10 @@ _웹훅 요청이 실패하는 경우 자동으로 웹훅 요청에 대하여 3�
 * "UPDATED": 구독자 정보 변경
 * “UNSUBSCRIBED”: 수신거부
 * “RESUBSCRIBED”: 수신거부 취소
-* “DELETED”: 자동삭제
+* “DELETED”: 자동 삭제
 * “PURGED”: 완전삭제
 
-### eventOccurredBy <a href="#eventoccuredby" id="eventoccuredby"></a>
+### eventOccurredBy <a href="#eventoccurredby" id="eventoccurredby"></a>
 
 이벤트를 발생시킨 주체입니다.
 
@@ -163,8 +163,8 @@ eventOccurredBy와 같이 '이벤트를 발생시킨 주체'에 대한 정보를
     "action":"SUBSCRIBED",
     "eventOccurredBy":"MANUAL",
     "subscribers": [
-        {"email":"gildong@stibee.com", "name":"길동"}
-        {"email":"dooly@stibee.com", "name":"둘리"}
+        {"email":"gildong@stibee.com", "name":"길동"},
+        {"email":"dooly@stibee.com", "name":"둘리"},
         {"email":"doner@stibee.com", "name":"도우너"}
     ]
 }
@@ -178,7 +178,7 @@ eventOccurredBy와 같이 '이벤트를 발생시킨 주체'에 대한 정보를
 {
     "id":"4617",
     "action":"UPDATED",
-    "eventOccuredBy":"SUBSCRIBER",
+    "eventOccurredBy":"SUBSCRIBER",
     "subscribers": [
         {"email":"gildong@stibee.com", "old_email":"gildong@naver.com"}
     ]
@@ -193,7 +193,7 @@ eventOccurredBy와 같이 '이벤트를 발생시킨 주체'에 대한 정보를
 {
     "id":"4617",
     "action":"UPDATED",
-    "eventOccuredBy":"MANUAL",
+    "eventOccurredBy":"MANUAL",
     "subscribers": [
         {"email":"gildong@stibee.com", "old_email":"gildong@naver.com"}
     ]

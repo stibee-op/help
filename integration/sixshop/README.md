@@ -23,6 +23,10 @@
 [how-to-integration.md](how-to-integration.md)
 {% endcontent-ref %}
 
+{% content-ref url="features.md" %}
+[features.md](features.md)
+{% endcontent-ref %}
+
 {% content-ref url="disconnect.md" %}
 [disconnect.md](disconnect.md)
 {% endcontent-ref %}

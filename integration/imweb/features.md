@@ -32,6 +32,8 @@
 
 #### 메일머지로 개인화된 이메일 보내기
 
+💬 이 내용은 **스탠다드, 프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다.
+
 사용자 정의 필드에 저장된 정보를 이메일 본문에 메일머지로 활용할 수 있습니다. 예를 들어, 회원 이름을 넣어 "$%member\_name%$님, 안녕하세요!" 같은 개인화된 인사말을 작성할 수 있습니다.
 
 \[사용자 정의 필드]의 자세한 내용은 [개인화된 메시지 보내기](../../email/edit/personalized-merge.md) 도움말을 참고해 주세요.
@@ -41,6 +43,8 @@
 
 
 ## 자동 이메일 발송하기 <a href="#automation" id="automation"></a>
+
+💬 이 내용은 **스탠다드, 프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다.
 
 아임웹 연동 주소록의 사용자 정의 필드를 활용하면 스티비의 자동 이메일 기능으로 쇼핑몰 회원에게 다양한 이메일을 자동으로 보낼 수 있습니다.
 
@@ -55,8 +59,6 @@
 {% content-ref url="../../getting-started/welcome-email.md" %}
 [welcome-email.md](../../getting-started/welcome-email.md)
 {% endcontent-ref %}
-
-
 
 #### 기념일 축하 이메일 <a href="#anniversary-email" id="anniversary-email"></a>
 

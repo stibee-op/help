@@ -21,7 +21,7 @@ layout:
 
 # 유료 구독 주소록 만들기
 
-**💬** 이 내용은 **스탠다드, 프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다.
+💬 이 내용은 **스탠다드, 프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다.
 
 ## 이 글에서는
 
@@ -42,7 +42,7 @@ layout:
 주소록 생성 단계에서 입력하는 주소록 이름은 결제 안내 이메일, 구독 폼, 구독 확인 이메일, 구독 정보 변경 화면 등에서 뉴스레터를 대표하는 이름으로 사용됩니다. 따라서, 어떤 뉴스레터인지 쉽게 알 수 있도록 구독자에게 의미가 잘 전달될 수 있는 이름을 설정해 주세요.
 
 {% hint style="info" %}
-결제 정보가 삭제되는 것을 방지하기 위해 유료 구독 주소록에서는 일반 주소록에서 제공하는 [자동삭제](../../list/adding-managing-subscriber/understanding-subscriber-status.md#auto-deleted) 기능을 지원하지 않습니다.
+결제 정보가 삭제되는 것을 방지하기 위해 유료 구독 주소록에서는 일반 주소록에서 제공하는 [자동 삭제](../../list/adding-managing-subscriber/understanding-subscriber-status.md#auto-deleted) 기능을 지원하지 않습니다.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/유료 주소록 만들기.png" alt=""><figcaption></figcaption></figure>

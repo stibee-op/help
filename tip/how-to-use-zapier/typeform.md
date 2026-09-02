@@ -1,6 +1,6 @@
 # 타입폼으로 새로운 구독자 연동하기
 
-💬 이 내용은 **스탠다드, 프로, 엔터프라이즈** 요금제에 해당하는 도움말입니다.
+💬 이 내용은 **스탠다드, 프로, 엔터프라이즈 요금제**에 해당하는 도움말입니다.
 
 ## 언제 필요한가요?
 
@@ -46,7 +46,7 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
 
 ### Action event 설정하기
 
-1. \[Trigger → Stibee]를 선택합니다.
+1. \[Action]을 클릭해 Stibee 앱을 검색한 뒤 선택합니다.
 2. \[Action event → Add Subscriber]를 선택합니다.
 3. \[Account]를 눌러 스티비 API key를 입력합니다.   \
    \* 자세한 방법은 [API 사용하기](../../api-webhook/api.md#id-1-api-1) 도움말을 참고해 주세요.
@@ -64,7 +64,7 @@ _\* Zapier와 스티비를 연동하는 기본 방법은_ [how-to-integration.md
 * Status: 구독 상태입니다. Subscribed는 구독 중 상태를 의미합니다.
 * Custom Fields: 이메일 주소 외에 추가할 구독자 정보가 있다면 \[+]를 눌러 연동할 응답을 선택해 주세요.
 * Marketing Allowed: 마케팅 정보 수신 동의 여부입니다.
-* Update Enabled: 이미 존재하는 구독자일 경우, 이메일 주소 외에 나머지 정보를 업데이트할지 여부입니다. 기본값은 'Fasle(=업데이트하지 않음)' 입니다.
+* Update Enabled: 이미 존재하는 구독자일 경우, 이메일 주소 외에 나머지 정보를 업데이트할지 여부입니다. 기본값은 'False(=업데이트하지 않음)'입니다.
 
 <figure><img src="../../.gitbook/assets/Zapier 타입폼 4.png" alt=""><figcaption></figcaption></figure>
 
