@@ -67,6 +67,6 @@ DNS 설정 화면으로 이동했다면 다음은 스티비의 SPF, DKIM 값과 
 
 자세한 설정 방법은 아래 도움말을 확인해 보세요.
 
-{% content-ref url="../../email/send/spam-rate.md" %}
-[spam-rate.md](../../email/send/spam-rate.md)
+{% content-ref url="../../tip/spam-rate.md" %}
+[spam-rate.md](../../tip/spam-rate.md)
 {% endcontent-ref %}

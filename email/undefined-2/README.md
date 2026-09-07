@@ -43,6 +43,6 @@ layout:
 [understand-sending-functionality.md](../send/understand-sending-functionality.md)
 {% endcontent-ref %}
 
-{% content-ref url="../send/spam-rate.md" %}
-[spam-rate.md](../send/spam-rate.md)
+{% content-ref url="../../tip/spam-rate.md" %}
+[spam-rate.md](../../tip/spam-rate.md)
 {% endcontent-ref %}

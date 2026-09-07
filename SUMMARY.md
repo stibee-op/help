@@ -47,7 +47,6 @@
   * [발송 기능 이해하기](email/send/understand-sending-functionality.md)
   * [이메일 다시 보내기](email/send/resend-email.md)
   * [수신 거부 구독자에게 이메일 보내기](email/send/send-email-unsubscribed-subscriber.md)
-  * [스팸 분류 비율 확인하기](email/send/spam-rate.md)
 * [관리하기](email/undefined-3/README.md)
   * [이메일 수정, 복사, 삭제하기](email/manage/modify-copy-delete.md)
   * [이메일 검색하기](email/manage/search.md)
@@ -222,6 +221,7 @@
 
 ## 활용 팁 <a href="#tip" id="tip"></a>
 
+* [스팸 분류 비율 확인하기](tip/spam-rate.md)
 * [발송 성과 개선하기](tip/improve-sending-performance/README.md)
   * [발송 성공률 높이기](tip/improve-sending-performance/improve-delivery-rate.md)
   * [이메일 스팸 표시 방지하기](tip/prevent-email-spam-marking.md)
