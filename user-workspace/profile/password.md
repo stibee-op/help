@@ -17,11 +17,13 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 비밀번호 변경하기
 
-## 이글에서는
+## 이 글에서는
 
 스티비 로그인 시 사용하는 비밀번호를 변경하는 방법에 관해 알아봅니다.
 

@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 수신 거부 링크 추가하기
@@ -87,8 +89,8 @@ layout:
 
 ### HTML 코드에서 추가하기
 
-HTML 코드를 사용해 이메일을 편집할 때도 $%unsubscribe%$ 치환자를 넣을 수 있습니다. 자세한 사용 방법은 [HTML에서 수신거부 기능 사용하기](../undefined-1/html.md#unsubscribe) 도움말을 참고해 주세요.
+HTML 코드를 사용해 이메일을 편집할 때도 $%unsubscribe%$ 치환자를 넣을 수 있습니다. 자세한 사용 방법은 [HTML에서 수신 거부 기능 사용하기](../undefined-1/html.md#unsubscribe) 도움말을 참고해 주세요.
 
 
 
-주소록에서는 수신 거부 상태의 구독자 명단을 확인할 수 있습니다. 또한, 수신 거부하는 구독자로부터 수신 거부 이유도 입력 받을 수 있습니다. 자세한 내용은 [수신거부 관리하기](../../list/adding-managing-subscriber/manage-unsubscribe.md) 도움말에서 확인해 보세요.
+주소록에서는 수신 거부 상태의 구독자 명단을 확인할 수 있습니다. 또한, 수신 거부하는 구독자로부터 수신 거부 이유도 입력받을 수 있습니다. 자세한 내용은 [수신거부 관리하기](../../list/adding-managing-subscriber/manage-unsubscribe.md) 도움말에서 확인해 보세요.

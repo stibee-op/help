@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 편집하기
@@ -27,7 +29,7 @@ layout:
 
 ***
 
-아래 링크를 클릭해 궁금한 내용을 바로 확인해 보거나 아래에 있는 '다음' 버튼을 클릭해 단계별로 섹션 내용을 확인해 보세요.
+아래 링크를 클릭해 궁금한 내용을 바로 확인해 보거나 아래에 있는 \[다음] 버튼을 클릭해 단계별로 섹션 내용을 확인해 보세요.
 
 {% content-ref url="../edit/preparing-for-send.md" %}
 [preparing-for-send.md](../edit/preparing-for-send.md)
@@ -39,6 +41,10 @@ layout:
 
 {% content-ref url="../edit/using-edit-box/" %}
 [using-edit-box](../edit/using-edit-box/)
+{% endcontent-ref %}
+
+{% content-ref url="../edit/save-edit-box.md" %}
+[save-edit-box.md](../edit/save-edit-box.md)
 {% endcontent-ref %}
 
 {% content-ref url="../edit/style.md" %}
@@ -60,4 +66,3 @@ layout:
 {% content-ref url="html.md" %}
 [html.md](html.md)
 {% endcontent-ref %}
-

@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 도움이 필요할 때
@@ -28,6 +30,10 @@ layout:
 ***
 
 ## 스티비 웨비나 <a href="#webinar" id="webinar"></a>
+
+{% hint style="info" %}
+현재 스티비 웨비나는 잠시 정비 중입니다. 더 좋은 내용으로 준비해 곧 다시 찾아올게요.
+{% endhint %}
 
 스티비에서는 격주 수요일마다 1시간씩 스티비 사용법 관련 웨비나를 진행하고 있습니다.
 
@@ -42,7 +48,7 @@ layout:
 
 ## 고객센터 <a href="#help-center" id="help-center"></a>
 
-도움말이나 웨비나를 통해 문제를 해결하지 못하셨다면, 고객 지원팀에 직접 문의해 주세요. 스티비는 아래 두 가지 경로를 공식 문의 채널로 운영하고 있습니다.
+도움말이나 웨비나를 통해 문제를 해결하지 못했다면 고객 지원팀에 직접 문의해 주세요. 스티비는 아래 두 가지 경로를 공식 문의 채널로 운영하고 있습니다.
 
 #### 문의 경로
 
@@ -59,22 +65,22 @@ _\* 답변을 위해 스티비 팀에서 이메일, 주소록 등의 내용을 �
 
 <스티비 뉴스레터>에서는 매주 수요일 오후 2시에 이메일 마케팅에 대한 다양한 인사이트를 담아 전달합니다. 스티비 뉴스레터를 구독 신청하고 소식을 받아보세요.
 
-* [스티비 뉴스레터 보러 가기](http://newsletter.stibee.com/)
+* [스티비 뉴스레터](http://newsletter.stibee.com/)
 
 ### 블로그 <a href="#blog" id="blog"></a>
 
 블로그에서도 이메일 마케팅과 관련한 다양한 이야기와 스티비 사용 팁을 수시로 소개하고 있습니다.
 
-* [스티비 블로그 보러 가기](https://blog.stibee.com)
+* [스티비 블로그](https://blog.stibee.com)
 
 ### 고객사례 갤러리 <a href="#gallery" id="gallery"></a>
 
 고객 사례 갤러리에서는 분야별로 스티비를 사용해 만들어진 대표적인 뉴스레터 사례를 확인할 수 있습니다. 디자인 참고가 필요하다면 고객 사례 갤러리를 확인해 보세요.
 
-* [스티비 고객사례 갤러리 보러 가기](https://gallery.stibee.com)
+* [스티비 고객사례 갤러리](https://gallery.stibee.com)
 
 ### 유튜브  <a href="#youtube" id="youtube"></a>
 
 유튜브 채널에서는 지난 웨비나를 비롯해 스티비 사용법, 이메일 마케팅에 대한 다양한 내용을 영상 형식으로 소개하고 있습니다.
 
-* [스티비 유튜브 보러 가기](https://www.youtube.com/@stibeemail)
+* [스티비 유튜브](https://www.youtube.com/@stibeemail)

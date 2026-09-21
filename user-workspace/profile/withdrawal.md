@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 탈퇴하기
@@ -48,7 +50,7 @@ layout:
 
 ## 탈퇴 시 주의사항 <a href="#h_01hfx35jw1vww04whrp5zk32vx" id="h_01hfx35jw1vww04whrp5zk32vx"></a>
 
-* 이메일, 주소록 등의 데이터는 [개인정보처리방침](https://policy.stibee.com/privacy)에 따라 처리되며, 복구할 수 없는 방식으로 파기합니다. 탈퇴 전 중요한 데이터를 백업했는지 꼭 살펴봐 주세요.
+* 이메일, 주소록 등 데이터는 [개인정보처리방침](https://policy.stibee.com/privacy)에 따라 처리되며, 복구할 수 없는 방식으로 파기합니다. 탈퇴 전 중요한 데이터를 백업했는지 꼭 살펴봐 주세요.
 * 동일한 이메일 주소로는 1년 이내에 재가입할 수 없습니다.
 *   유료 뉴스레터를 운영하는 도중에 탈퇴하면 정산이 원활하게 처리되지 않습니다. 정산이 모두 완료된 뒤 탈퇴를 진행해 주세요.
 

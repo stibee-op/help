@@ -17,13 +17,15 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 구분선
 
 ## 이 글에서는
 
-에디터에서 구분선 추가하는 방법과 스타일을 설정하는 방법에 관해 설명합니다.
+에디터에서 구분선을 추가하는 방법과 스타일을 설정하는 방법에 관해 설명합니다.
 
 ***
 

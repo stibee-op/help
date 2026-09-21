@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 도메인 설정하기
@@ -63,7 +65,7 @@ DNS 설정 화면으로 이동했다면 다음은 스티비의 SPF, DKIM 값과 
 
 ## 스팸 비율 모니터링하기
 
-[구글 포스트마스터 툴(Postmaster Tools)](https://support.google.com/a/answer/9981691?hl=ko\&ref=help.stibee.com) 사용하면 G메일로 보낸 이메일이 얼마나 스팸으로 분류되는지 비율을 확인할 수 있습니다. G메일에서는 G메일로 발송되는 이메일의 스팸 비율이 0.1% 미만으로 유지할 것을 권장하고 있고 0.3%를 넘으면 안 된다고 안내하고 있습니다. 포스트마스터 툴도 마찬가지로 DNS 설정에서 TXT 레코드를 추가하는 방식으로 설정할 수 있습니다.&#x20;
+[구글 포스트마스터 툴(Postmaster Tools)](https://support.google.com/a/answer/9981691?hl=ko\&ref=help.stibee.com)을 사용하면 G메일로 보낸 이메일이 얼마나 스팸으로 분류되는지 비율을 확인할 수 있습니다. G메일에서는 G메일로 발송되는 이메일의 스팸 비율이 0.1% 미만으로 유지할 것을 권장하고 있고 0.3%를 넘으면 안 된다고 안내하고 있습니다. 포스트마스터 툴도 마찬가지로 DNS 설정에서 TXT 레코드를 추가하는 방식으로 설정할 수 있습니다.&#x20;
 
 자세한 설정 방법은 아래 도움말을 확인해 보세요.
 

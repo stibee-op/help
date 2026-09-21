@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 메일머지로 개인화된 이메일 보내기
@@ -111,7 +113,7 @@ $%name%$
 {% code overflow="wrap" %}
 ```html
 <div>
-    안녕하세요. </br>
+    안녕하세요. <br />
     $%name%$님. 구독을 신청해 주셔서 감사합니다.
 </div>
 ```

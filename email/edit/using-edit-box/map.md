@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 지도
@@ -35,6 +37,6 @@ layout:
 
 지도 상자의 대체 텍스트 버튼(Alt)을 클릭하면 지도 상자에 대체 텍스트를 지정할 수 있습니다.
 
-**\*주의:** 현재 외국주소에는 지도 기능을 지원하지 않습니다. 지도를 캡처해 이미지로 추가한 뒤, 링크를 거는 방식을 활용해 주세요.
+**\*주의:** 현재 외국 주소에는 지도 기능을 지원하지 않습니다. 지도를 캡처해 이미지로 추가한 뒤, 링크를 거는 방식을 활용해 주세요.
 
 <figure><img src="../../../.gitbook/assets/지도 상자_1.png" alt=""><figcaption></figcaption></figure>

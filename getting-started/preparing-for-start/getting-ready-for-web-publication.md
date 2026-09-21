@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 콘텐츠 웹 발행 준비하기
@@ -33,13 +35,9 @@ layout:
 
 지금까지 발송한 이메일을 잘 모아서 제공해 주기만 해도 예비 구독자는 앞으로 어떤 이메일을 받아볼지 살펴보고 구독을 신청할 수 있기 때문에 구독자를 모으는 데 도움을 받을 수 있습니다. 본격적으로 이메일을 보내기에 앞서 콘텐츠를 웹에 발행하기 위해 페이지를 설정한 뒤 보내보세요.
 
-페이지 기능이 궁금하다면 스티비 뉴스레터 페이지를 참고해 보세요.
+페이지 기능이 궁금하다면 스티비 뉴스레터 페이지를 참고해 주세요.
 
 * [스티비 뉴스레터](https://newsletter.stibee.com/)
-
-{% hint style="info" %}
-
-{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

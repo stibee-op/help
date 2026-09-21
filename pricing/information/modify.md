@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 결제 정보 수정하기
@@ -27,13 +29,15 @@ layout:
 
 ***
 
-<figure><img src="../../.gitbook/assets/결제 정보 수정하기 (1).png" alt=""><figcaption></figcaption></figure>
-
-### 결제 정보 확인하기
+## 결제 정보 확인하기
 
 결제 정보는 \[워크스페이스 이름 → 요금제 및 결제 → 결제 정보]에서 확인할 수 있습니다.&#x20;
 
-### 결제 카드 추가하기
+<figure><img src="../../.gitbook/assets/결제 정보 수정하기 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## 결제 카드 추가하기
 
 새로운 결제 카드를 추가하려면 다음과 같이 진행해 주세요.
 
@@ -50,6 +54,8 @@ layout:
 
 새로운 카드를 등록한 뒤, \[기본 결제 카드로 설정]을 선택하면 다음 정기 결제부터 변경된 카드로 결제가 진행됩니다.
 
-### 결제 카드 삭제하기
+
+
+## 결제 카드 삭제하기
 
 카드 목록에서 휴지통 모양의 \[삭제하기] 버튼을 눌러 카드 정보를 삭제할 수 있습니다.&#x20;
