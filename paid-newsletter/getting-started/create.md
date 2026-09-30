@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 유료 구독 주소록 만들기
@@ -33,6 +35,10 @@ layout:
 
 ## 유료 구독 주소록 만들기 <a href="#h_582189de2a" id="h_582189de2a"></a>
 
+{% hint style="warning" %}
+\[유료 구독 주소록은 사전에 승인된 워크스페이스에서만 생성할 수 있습니다. 자세한 내용은 [여기](../overview.md#undefined-2)를 참고해 주세요.
+{% endhint %}
+
 주소록 목록에서 \[새로 만들기] 버튼을 눌러 유료 구독 주소록을 생성할 수 있습니다.
 
 1. 주소록 목록에서 \[+ 새로 만들기 → 유료 구독 주소록]을 선택합니다.
@@ -41,9 +47,7 @@ layout:
 
 주소록 생성 단계에서 입력하는 주소록 이름은 결제 안내 이메일, 구독 폼, 구독 확인 이메일, 구독 정보 변경 화면 등에서 뉴스레터를 대표하는 이름으로 사용됩니다. 따라서, 어떤 뉴스레터인지 쉽게 알 수 있도록 구독자에게 의미가 잘 전달될 수 있는 이름을 설정해 주세요.
 
-{% hint style="info" %}
-결제 정보가 삭제되는 것을 방지하기 위해 유료 구독 주소록에서는 일반 주소록에서 제공하는 [자동 삭제](../../list/adding-managing-subscriber/understanding-subscriber-status.md#auto-deleted) 기능을 지원하지 않습니다.
-{% endhint %}
+_\* 결제 정보가 삭제되는 것을 방지하기 위해 유료 구독 주소록에서는 일반 주소록에서 제공하는_ [_자동 삭제_](../../list/adding-managing-subscriber/understanding-subscriber-status.md#auto-deleted) _기능을 지원하지 않습니다._
 
 <figure><img src="../../.gitbook/assets/유료 주소록 만들기.png" alt=""><figcaption></figcaption></figure>
 

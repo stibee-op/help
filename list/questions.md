@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 자주 묻는 질문
@@ -29,9 +31,9 @@ layout:
 
 한 워크스페이스에서 만들 수 있는 주소록은 최대 300개입니다. 300개를 모두 사용하면 새 주소록을 만들 수 없습니다. 필요하지 않은 주소록을 삭제하면 삭제한 개수만큼 다시 만들 수 있습니다.
 
-**\*주의:** 주소록을 삭제하면 등록된 구독자도 함께 삭제되고 복구할 수 없습니다.
-
 주소록을 계속해서 생성하는 대신 [그룹](classify-subscribers/how-to-use-groups.md)이나 [세그먼트](classify-subscribers/how-to-use-segment.md)로 구독자를 분류해 보세요.
+
+**\*주의:** 주소록을 삭제하면 등록된 구독자도 함께 삭제되고 복구할 수 없습니다.
 
 </details>
 

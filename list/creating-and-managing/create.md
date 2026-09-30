@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 주소록 만들기
@@ -27,14 +29,14 @@ layout:
 
 ***
 
-주소록은 구독자의 이메일 주소와 정보가 저장되는 곳입니다. 이메일을 보내려면 먼저 수신자를 주소록에 구독자로 추가해야 합니다. 추가한 구독자는 [세그먼트](https://help.stibee.com/list/classify-subscribers/how-to-use-segment)나 [그룹](https://help.stibee.com/list/classify-subscribers/how-to-use-groups)으로 분류해 목적에 맞는 이메일을 보낼 수 있습니다.
+주소록은 구독자의 이메일 주소와 정보가 저장되는 곳입니다.
 
-
+이메일을 보내려면 받아 볼 대상을주소록에 구독자로 추가해야 합니다. 추가한 구독자는 [세그먼트](https://help.stibee.com/list/classify-subscribers/how-to-use-segment)나 [그룹](https://help.stibee.com/list/classify-subscribers/how-to-use-groups)으로 분류해 목적에 맞는 이메일을 보낼 수 있습니다.
 
 ## 주소록 만들기
 
 {% hint style="info" %}
-한 워크스페이스에서 만들 수 있는 주소록은 최대 300개입니다.
+워크스페이스에서 만들 수 있는 주소록은 최대 300개입니다.
 {% endhint %}
 
 1. 화면 왼쪽의 \[주소록]을 클릭합니다.
@@ -91,13 +93,13 @@ layout:
 
 **\*주의:** \[예]를 선택하면 수신거부 상태인 구독자도 전체 구독자 수에 포함됩니다. 사용하는 구간에 따라 추가 요금이 발생할 수 있습니다.
 
+<figure><img src="../../.gitbook/assets/주소록 만들기_수신거부.png" alt=""><figcaption></figcaption></figure>
+
 자세한 내용은 아래 도움말을 참고해 보세요.
 
 {% content-ref url="../../email/send/send-email-unsubscribed-subscriber.md" %}
 [send-email-unsubscribed-subscriber.md](../../email/send/send-email-unsubscribed-subscriber.md)
 {% endcontent-ref %}
-
-<figure><img src="../../.gitbook/assets/주소록 만들기_수신거부.png" alt=""><figcaption></figcaption></figure>
 
 
 
