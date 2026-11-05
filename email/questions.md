@@ -17,9 +17,13 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 자주 묻는 질문
+
+## 이메일 편집, 발송, 관리 <a href="#editor" id="editor"></a>
 
 <details>
 
