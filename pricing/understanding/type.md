@@ -16,7 +16,7 @@
 
 ## 요금제 종류
 
-스티비 요금제는 [스타터](type.md#starter), [스탠다드](type.md#standard), [프로](type.md#pro), [엔터프라이즈](type.md#enterprise) 네 가지로 구성됩니다. 요금제별로 사용할 수 있는 기능과 사용료가 다릅니다.&#x20;
+스티비 요금제는 [스타터](type.md#starter), [스탠다드](type.md#standard), [프로](type.md#pro), [엔터프라이즈](type.md#enterprise) 네 가지로 구성됩니다. 요금제별로 사용할 수 있는 기능과 사용료가 다릅니다.
 
 요금제별 제공 기능과 사용료는 아래에서 확인할 수 있습니다.
 
@@ -160,8 +160,8 @@ _\* 부가세 포함_
 * [사용자 정의 필드](https://help.stibee.com/list/adding-managing-subscriber/understanding-subscriber-info) 무제한
 * [세그먼트](../../list/classify-subscribers/how-to-use-segment.md), [그룹 ](../../list/classify-subscribers/how-to-use-groups.md)무제한
 * [콘텐츠 과거 기록 보기](../../email/edit/undo.md) 무제한
-* [사용자 맞춤권한 관리](../../user-workspace/security-settings/#custom-user-permissions)
-* [강화된 보안](../../user-workspace/security-settings/)[ 설정](../../user-workspace/security-settings/)
+* [사용자 맞춤 권한 관리](../../user-workspace/settings/user-permissions.md#custom-permissions)
+* [강화된 보안 설정](../../user-workspace/security-settings/change-security-settings.md)
 * [주소록, 발신자 주소 API](https://developers.stibee.com/docs#description/%EA%B0%9C%EC%9A%94)
 * 전용 발송 서버
 *   1:1 온보딩 지원
