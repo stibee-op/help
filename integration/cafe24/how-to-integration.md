@@ -17,15 +17,19 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 연동하기
 
 ## 이 글에서는 <a href="#h_01hdztkhpa968hgzyf365p4r1g" id="h_01hdztkhpa968hgzyf365p4r1g"></a>
 
-카페24 쇼핑몰 회원을 스티비 주소록에 추가하는 방법에 관해 살펴봅니다. 실시간 연동을 통해 카페24 회원 정보를 스티비에서 손쉽게 확인하고, 자동화된 이메일 마케팅을 진행할 수 있습니다.&#x20;
+카페24 쇼핑몰 회원을 스티비 주소록에 추가하는 방법에 관해 살펴봅니다. 실시간 연동을 통해 카페24 회원 정보를 스티비에서 손쉽게 확인하고, 자동화된 이메일 마케팅을 진행할 수 있습니다.
 
+{% hint style="info" %}
 기본적인 이메일 생성과 발송에 대한 자세한 내용은 [첫 이메일 보내기](../../getting-started/send-first-email.md) 도움말을 참고해 주세요. 다른 사용자의 스티비 활용법이 궁금하다면 [고객 사례 갤러리](https://gallery.stibee.com/)와 [블로그](https://blog.stibee.com/)를 함께 확인해 보시는 것도 추천합니다.
+{% endhint %}
 
 ***
 
@@ -66,9 +70,9 @@ layout:
 2.  스티비 홈페이지에 로그인한 뒤, 연동할 워크스페이스를 선택해 주세요. 이 단계에서 워크스페이스를 새로 만들 수도 있습니다.
 
     **\*주의:** 로그인한 이메일 주소가 '소유자', '관리자'로 등록된 워크스페이스만 연동할 수 있습니다.
-3.  스티비와 카페24 연동이 처음이라면 '웰컴 이메일'을 바로 만들어볼 수 있는 화면이 표시됩니다. \[웰컴 이메일 만들기]를 클릭해 이메일을 만들어보세요.&#x20;
+3.  스티비와 카페24 연동이 처음이라면 '웰컴 이메일'을 바로 만들어볼 수 있는 화면이 표시됩니다. \[웰컴 이메일 만들기]를 클릭해 이메일을 만들어보세요.
 
-    _웰컴 이메일에 대한 자세한 내용이 궁금하다면 '_[_카페24 회원에게 웰컴 이메일 보내기_](../../tip/cafe24/welcome-email-cafe24-members.md)_' 도움말을 참고해 보세요._
+    _\* 웰컴 이메일에 대한 자세한 내용이 궁금하다면 '_[_카페24 회원에게 웰컴 이메일 보내기_](../../tip/cafe24/welcome-email-cafe24-members.md)_' 도움말을 참고해 보세요._
 4. 카페24 회원 정보 불러오기가 완료되면 \[주소록]에서 '카페24 연동 주소록'을 확인할 수 있습니다.
 
 <div><figure><img src="../../.gitbook/assets/카페24 연동하기_스티비 앱 설치.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/카페24 연동하기_스티비 앱 설치하기 (2).png" alt=""><figcaption></figcaption></figure></div>
@@ -85,7 +89,7 @@ layout:
 2. 주소록 이름을 입력하고, 연동할 멀티쇼핑몰을 선택합니다.
 3.  스티비와 카페24 연동이 처음이라면 '웰컴 이메일'을 바로 만들어볼 수 있는 화면이 표시됩니다. \[웰컴 이메일 만들기]를 클릭해 이메일을 만들어보세요.&#x20;
 
-    _웰컴 이메일에 대한 자세한 내용이 궁금하다면 '_[_카페24 회원에게 웰컴 이메일 보내기_](../../tip/cafe24/welcome-email-cafe24-members.md)_' 도움말을 참고해 보세요._
+    _\* 웰컴 이메일에 대한 자세한 내용이 궁금하다면 '_[_카페24 회원에게 웰컴 이메일 보내기_](../../tip/cafe24/welcome-email-cafe24-members.md)_' 도움말을 참고해 보세요._
 4. 연동된 멀티쇼핑몰 주소록을 확인할 수 있습니다. 멀티쇼핑몰의 회원 정보도 실시간으로 연동됩니다.
 
 <div><figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/spaces_eAMHRdY4ATDXfWZWQs3p_uploads_4M9mClII5QZSdaeYxH4q_image.webp" alt=""><figcaption></figcaption></figure></div>
@@ -100,17 +104,13 @@ layout:
 카페24 회원은 스티비 주소록에서 삭제할 수 없습니다. 관리자가 직접 추가한 구독자, 파일이나 구독 폼을 통해 추가된 구독자만 스티비 주소록에서 삭제할 수 있습니다.
 {% endhint %}
 
-
-
 ### 관리자가 직접 추가하기 <a href="#h_01hrpawxwbpnqjcqpaswxmtfaj" id="h_01hrpawxwbpnqjcqpaswxmtfaj"></a>
 
 외부에서 수집한 구독자 정보를 카페24 연동 주소록에 직접 추가할 수 있습니다. \[주소록 → 추가하기 → '직접 추가하기' 또는 '파일로 추가하기']를 클릭해 진행할 수 있습니다. 자세한 방법은 [구독자 추가하기](../../list/adding-managing-subscriber/add.md) 도움말을 참고해 주세요.
 
-
-
 ### 구독 신청 받아서 추가하기 <a href="#h_01hrp0xmysmb540ck84j42daan" id="h_01hrp0xmysmb540ck84j42daan"></a>
 
-구독 신청을 받을 수 있는 입력 폼을 스티비에서는 \[구독 폼]이라고 표현합니다. 주소록과 연결된 \[구독 폼]을 통해 구독자를 모을 수 있습니다. \[주소록 → 구독 화면 → 구독 폼]에서 관련 기능을 확인하실 수 있습니다. 자세한 방법은 [구독 폼](../../list/gather-subscribers/form.md) 도움말을 참고해 주세요.
+구독 신청을 받을 수 있는 입력 폼을 스티비에서는 \[구독 폼]이라고 표현합니다. 주소록과 연결된 \[구독 폼]을 통해 구독자를 모을 수 있습니다. \[주소록 → 구독 화면 → 구독 폼]에서 관련 기능을 확인할 수 있습니다. 자세한 방법은 [구독 폼](../../list/gather-subscribers/form.md) 도움말을 참고해 주세요.
 
 
 
