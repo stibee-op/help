@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 이메일 자동화하기
@@ -25,7 +27,7 @@ layout:
 
 ## 이 글에서는 <a href="#h_01h9t7h2chmq2fvwjbd17rxkjg" id="h_01h9t7h2chmq2fvwjbd17rxkjg"></a>
 
-\[자동 이메일]을 사용해 자동화 이메일 마케팅 시나리오를 만드는 방법에 대해서 알아봅니다.
+자동 이메일을 사용해 자동화 이메일 마케팅 시나리오를 만드는 방법에 대해서 알아봅니다.
 
 ***
 
